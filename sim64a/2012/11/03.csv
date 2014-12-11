@@ -1,0 +1,264 @@
+2012-11-03T03:33:35.846265+00:00,sim64a[3533]:,connect,5,187.9.140.98,Duggloko
+2012-11-03T09:21:56.939302+00:00,sim64a[3533]:,connect,6,81.173.155.118,trian
+2012-11-03T09:25:19.799797+00:00,sim64a[3533]:,chat,6,81.173.155.118,trian,15,,Hi There! Anybody here?
+2012-11-03T09:50:31.646345+00:00,sim64a[3533]:,connect,7,178.4.237.90,Client#7
+2012-11-03T09:50:31.815346+00:00,sim64a[3533]:,disconnect,2,177.33.88.79,Client#2
+2012-11-03T09:50:31.815371+00:00,sim64a[3533]:,disconnect,3,69.138.176.94,Fifty
+2012-11-03T09:50:31.815395+00:00,sim64a[3533]:,disconnect,4,177.33.88.79,Client#2
+2012-11-03T09:50:31.815417+00:00,sim64a[3533]:,disconnect,5,187.9.140.98,Duggloko
+2012-11-03T09:58:50.617908+00:00,sim64a[3533]:,connect,2,177.33.89.164,Client#2
+2012-11-03T10:09:16.228428+00:00,sim64a[3533]:,disconnect,6,81.173.155.118,trian
+2012-11-03T10:11:01.982167+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Client#2
+2012-11-03T10:11:10.822221+00:00,sim64a[3533]:,connect,2,177.33.89.164,Client#2
+2012-11-03T10:13:43.594541+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Client#2
+2012-11-03T10:13:52.036311+00:00,sim64a[3533]:,connect,2,177.33.89.164,Client#2
+2012-11-03T10:17:57.165180+00:00,sim64a[3533]:,disconnect,7,178.4.237.90,Client#7
+2012-11-03T10:19:20.846882+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Client#2
+2012-11-03T10:19:28.642178+00:00,sim64a[3533]:,connect,2,177.33.89.164,Client#2
+2012-11-03T10:24:50.879071+00:00,sim64a[3533]:,connect,3,177.33.89.164,Client#2
+2012-11-03T12:42:46.919962+00:00,sim64a[3533]:,connect,4,189.73.32.7,gabriel kerber
+2012-11-03T12:43:37.089342+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Client#2
+2012-11-03T12:43:37.089376+00:00,sim64a[3533]:,disconnect,3,177.33.89.164,Client#2
+2012-11-03T12:43:37.089431+00:00,sim64a[3533]:,disconnect,4,189.73.32.7,gabriel kerber
+2012-11-03T12:52:21.258448+00:00,sim64a[3533]:,connect,2,81.173.155.118,trian
+2012-11-03T13:30:27.061871+00:00,sim64a[3533]:,disconnect,2,81.173.155.118,trian
+2012-11-03T13:30:30.885100+00:00,sim64a[3533]:,connect,3,81.173.155.118,trian
+2012-11-03T13:46:47.021184+00:00,sim64a[3533]:,connect,2,177.33.89.164,Client#2
+2012-11-03T13:47:55.911636+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Client#2
+2012-11-03T13:50:17.400341+00:00,sim64a[3533]:,connect,2,177.33.89.164,Apodiense
+2012-11-03T13:50:51.969333+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Apodiense
+2012-11-03T14:19:04.835659+00:00,sim64a[3533]:,connect,2,177.33.89.164,Apodiense
+2012-11-03T14:20:49.604704+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Apodiense
+2012-11-03T14:20:57.915851+00:00,sim64a[3533]:,connect,2,177.33.89.164,Apodiense
+2012-11-03T14:23:03.721544+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Apodiense
+2012-11-03T14:23:13.447991+00:00,sim64a[3533]:,connect,2,177.33.89.164,Apodiense
+2012-11-03T14:47:30.763079+00:00,sim64a[3533]:,connect,4,217.43.84.93,Client#4
+2012-11-03T14:48:26.574195+00:00,sim64a[3533]:,disconnect,4,217.43.84.93,Client#4
+2012-11-03T14:53:01.480886+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,"dan, but there is no passenger planes xD"
+2012-11-03T14:53:53.431681+00:00,sim64a[3533]:,connect,4,86.100.129.184,Smile
+2012-11-03T14:55:04.709115+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,hello
+2012-11-03T14:55:04.997678+00:00,sim64a[3533]:,disconnect,3,81.173.155.118,trian
+2012-11-03T14:55:21.271748+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,hey :)
+2012-11-03T14:55:34.695506+00:00,sim64a[3533]:,connect,3,81.173.155.118,trian
+2012-11-03T14:56:30.928240+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,why there is so little factorys?
+2012-11-03T14:57:10.039909+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,"still growing, i bad planned this map :(, after cities grow a bit will be more factories"
+2012-11-03T14:57:14.253795+00:00,sim64a[3533]:,chat,3,81.173.155.118,trian,15,,That's the challenge of this map! ;-)
+2012-11-03T14:57:45.319508+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,:)
+2012-11-03T14:58:03.695515+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,"Apodience you are the host ? "
+2012-11-03T14:59:19.519283+00:00,sim64a[3533]:,chat,3,81.173.155.118,trian,15,,"And: Yay, a public station! I'll make a public harbour, when I'm not broke anymore."
+2012-11-03T15:00:12.286622+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,well since there is so liitle factorys i think you dong get angry if i connect to any of existing suply line to try and make so cash
+2012-11-03T15:01:14.872412+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,no im not the host :o
+2012-11-03T15:01:37.858029+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,because if i star at passage transport i think iwill bancrupt
+2012-11-03T15:02:07.723792+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,oh and sorry if i write with mistakes :D
+2012-11-03T15:02:38.336081+00:00,sim64a[3533]:,chat,3,81.173.155.118,trian,11,Trian's Transport,"Passenger Transport start is possible, if you start small."
+2012-11-03T15:03:05.558093+00:00,sim64a[3533]:,chat,3,81.173.155.118,trian,11,Trian's Transport,Don't try Trash right now though!
+2012-11-03T15:03:09.662564+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,im making some public airports to connect cities
+2012-11-03T15:03:25.032585+00:00,sim64a[3533]:,chat,3,81.173.155.118,trian,11,Trian's Transport,"I almost went bankrupt, doing that."
+2012-11-03T15:03:30.047664+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,i know that but mostly i bancrupt ;D
+2012-11-03T15:04:20.799762+00:00,sim64a[3533]:,chat,3,81.173.155.118,trian,11,Trian's Transport,I'll wait for a proper trash truck...
+2012-11-03T15:04:32.669135+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,"i end my pass transport at recife and little italy "
+2012-11-03T15:04:43.862879+00:00,sim64a[3533]:,chat,3,81.173.155.118,trian,11,Trian's Transport,Cool! @Apodiense
+2012-11-03T15:08:12.115138+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,"i don't like the pass transport but it's cool :d, it's hard to control the pass lines at big cities"
+2012-11-03T15:08:21.859341+00:00,sim64a[3533]:,connect,5,187.49.129.127,mk
+2012-11-03T15:08:27.655754+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,i take just 3 cities :d
+2012-11-03T15:12:27.107052+00:00,sim64a[3533]:,disconnect,5,187.49.129.127,mk
+2012-11-03T15:12:31.294752+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,i think i will try passage trans but i dont know where to start any ideas ?
+2012-11-03T15:15:45.074610+00:00,sim64a[3533]:,connect,5,69.138.176.94,Fifty
+2012-11-03T15:17:51.445922+00:00,sim64a[3533]:,disconnect,5,69.138.176.94,Fifty
+2012-11-03T15:18:02.398073+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,try connect recife parati and little italy
+2012-11-03T15:18:36.404663+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,those big cites will give you money ^^
+2012-11-03T15:18:47.604632+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Apodiense
+2012-11-03T15:22:53.751739+00:00,sim64a[3533]:,connect,2,89.107.166.205,Client#2
+2012-11-03T15:24:26.720952+00:00,sim64a[3533]:,disconnect,2,89.107.166.205,Client#2
+2012-11-03T15:36:07.543486+00:00,sim64a[3533]:,chat,3,81.173.155.118,trian,11,Trian's Transport,Finally: Factories!
+2012-11-03T15:36:26.225299+00:00,sim64a[3533]:,chat,3,81.173.155.118,trian,11,Trian's Transport,Leave one for me! ;-)
+2012-11-03T15:36:30.275689+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,yes and i am taking them :D
+2012-11-03T15:37:24.757297+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,ok i will leave one pump for hou :D
+2012-11-03T15:47:19.910810+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,finaly i go to +   :D
+2012-11-03T16:32:16.115360+00:00,sim64a[3533]:,connect,2,80.132.171.215,Client#3
+2012-11-03T16:34:42.284864+00:00,sim64a[3533]:,disconnect,2,80.132.171.215,Client#3
+2012-11-03T16:34:59.444068+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,:D
+2012-11-03T16:47:13.687420+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,Anyone here ?
+2012-11-03T16:47:46.236127+00:00,sim64a[3533]:,chat,3,81.173.155.118,trian,11,Trian's Transport,Think so...
+2012-11-03T16:48:15.480021+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,How does public air port works ?
+2012-11-03T16:50:30.689561+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,or in other way does it is worth to have airport or make public airport for pasage trans?
+2012-11-03T16:50:39.610767+00:00,sim64a[3533]:,chat,3,81.173.155.118,trian,11,Trian's Transport,"Errr, do you want to make a public airport or use one?"
+2012-11-03T16:51:43.992940+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,i want to transport pasangers to little italy via air
+2012-11-03T16:56:53.727653+00:00,sim64a[3533]:,chat,3,81.173.155.118,trian,11,Trian's Transport,"Sorry, I'm to broke right now, to try and look, how a public airport is different from a non-public airport."
+2012-11-03T16:57:57.833732+00:00,sim64a[3533]:,chat,3,81.173.155.118,trian,11,Trian's Transport,Little Italy Airport seems usable to me...
+2012-11-03T17:02:44.294806+00:00,sim64a[3533]:,chat,3,81.173.155.118,trian,11,Trian's Transport,Maybe you need to build your own runway and connect it to the airport?
+2012-11-03T17:03:33.205717+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,i want to use existing infrastructure
+2012-11-03T17:15:00.790318+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,now i know why i cant use airport :D there is no planes :D not even  cepelins :D
+2012-11-03T17:15:45.580704+00:00,sim64a[3533]:,chat,3,81.173.155.118,trian,11,Trian's Transport,:-D Coming soon!
+2012-11-03T17:15:59.787714+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,I know :D
+2012-11-03T17:16:18.066498+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,in 1930 there will be :D
+2012-11-03T18:01:29.756326+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,My passaganger transport network in covering half easter continental :D
+2012-11-03T18:24:27.811572+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,Nice :D 1 new factory but we need to travell half map to suply it :D
+2012-11-03T18:32:44.636892+00:00,sim64a[3533]:,connect,2,14.199.52.69,ApophisLee
+2012-11-03T18:33:09.083223+00:00,sim64a[3533]:,disconnect,2,14.199.52.69,ApophisLee
+2012-11-03T18:33:20.377428+00:00,sim64a[3533]:,connect,2,14.199.52.69,ApophisLee
+2012-11-03T18:38:34.327346+00:00,sim64a[3533]:,connect,5,86.65.151.159,neuro
+2012-11-03T18:40:07.176635+00:00,sim64a[3533]:,disconnect,2,14.199.52.69,ApophisLee
+2012-11-03T18:40:29.464948+00:00,sim64a[3533]:,connect,2,14.199.52.69,ApophisLee
+2012-11-03T18:42:30.591820+00:00,sim64a[3533]:,disconnect,3,81.173.155.118,trian
+2012-11-03T18:43:54.732007+00:00,sim64a[3533]:,connect,3,81.173.155.118,trian
+2012-11-03T18:44:26.497423+00:00,sim64a[3533]:,disconnect,5,86.65.151.159,neuro
+2012-11-03T18:45:49.700396+00:00,sim64a[3533]:,disconnect,2,14.199.52.69,ApophisLee
+2012-11-03T18:46:00.107984+00:00,sim64a[3533]:,connect,2,14.199.52.69,ApophisLee
+2012-11-03T18:49:49.919601+00:00,sim64a[3533]:,disconnect,3,81.173.155.118,trian
+2012-11-03T18:52:56.741949+00:00,sim64a[3533]:,connect,3,81.173.155.118,trian
+2012-11-03T19:04:53.630704+00:00,sim64a[3533]:,disconnect,2,14.199.52.69,ApophisLee
+2012-11-03T19:05:05.331648+00:00,sim64a[3533]:,connect,2,14.199.52.69,ApophisLee
+2012-11-03T19:07:05.661713+00:00,sim64a[3533]:,disconnect,2,14.199.52.69,ApophisLee
+2012-11-03T19:07:17.432573+00:00,sim64a[3533]:,connect,2,14.199.52.69,ApophisLee
+2012-11-03T19:19:41.401598+00:00,sim64a[3533]:,disconnect,2,14.199.52.69,ApophisLee
+2012-11-03T19:19:56.180312+00:00,sim64a[3533]:,connect,2,14.199.52.69,ApophisLee
+2012-11-03T19:20:24.069108+00:00,sim64a[3533]:,disconnect,2,14.199.52.69,ApophisLee
+2012-11-03T19:20:35.051749+00:00,sim64a[3533]:,connect,2,14.199.52.69,ApophisLee
+2012-11-03T19:21:33.461137+00:00,sim64a[3533]:,disconnect,2,14.199.52.69,ApophisLee
+2012-11-03T19:21:43.761760+00:00,sim64a[3533]:,connect,2,14.199.52.69,ApophisLee
+2012-11-03T19:24:38.809061+00:00,sim64a[3533]:,disconnect,2,14.199.52.69,ApophisLee
+2012-11-03T19:24:49.824293+00:00,sim64a[3533]:,connect,2,14.199.52.69,ApophisLee
+2012-11-03T19:35:01.654706+00:00,sim64a[3533]:,connect,5,177.33.89.164,Apodiense
+2012-11-03T19:35:47.934050+00:00,sim64a[3533]:,chat,5,177.33.89.164,Apodiense,15,,"nice, new factories :)"
+2012-11-03T19:35:58.002683+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,:D
+2012-11-03T19:36:19.215019+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,Trains not factorys
+2012-11-03T19:36:26.261175+00:00,sim64a[3533]:,chat,5,177.33.89.164,Apodiense,2,FedEx,"smile, you getting rich, improve your lines :)"
+2012-11-03T19:36:49.085296+00:00,sim64a[3533]:,chat,5,177.33.89.164,Apodiense,2,FedEx,i know .-.
+2012-11-03T19:37:49.540047+00:00,sim64a[3533]:,disconnect,5,177.33.89.164,Apodiense
+2012-11-03T19:37:50.177537+00:00,sim64a[3533]:,disconnect,2,14.199.52.69,ApophisLee
+2012-11-03T19:37:53.535923+00:00,sim64a[3533]:,disconnect,3,81.173.155.118,trian
+2012-11-03T19:37:59.883423+00:00,sim64a[3533]:,connect,2,177.33.89.164,Apodiense
+2012-11-03T19:38:06.653142+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T19:38:11.029214+00:00,sim64a[3533]:,connect,5,81.173.155.118,trian
+2012-11-03T19:38:53.161523+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Apodiense
+2012-11-03T19:38:53.636913+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T19:39:02.186164+00:00,sim64a[3533]:,connect,2,177.33.89.164,Apodiense
+2012-11-03T19:39:11.229823+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T19:39:30.767511+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,15,,i can't create udnerground stations..
+2012-11-03T19:39:52.570563+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,i already try a lot of times but i can't
+2012-11-03T19:40:36.159186+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Apodiense
+2012-11-03T19:40:46.040564+00:00,sim64a[3533]:,connect,2,177.33.89.164,Apodiense
+2012-11-03T19:41:04.470833+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,what is going with this constant loads?
+2012-11-03T19:41:28.183318+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,"idk, i think this version got some network bugs"
+2012-11-03T19:41:51.128446+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,i get timeout every time i try to build something
+2012-11-03T19:42:05.408114+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,and can't build underground stations
+2012-11-03T19:42:29.889907+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T19:42:41.613799+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T19:43:40.662747+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T19:43:40.823443+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Apodiense
+2012-11-03T19:43:50.009325+00:00,sim64a[3533]:,connect,2,177.33.89.164,Apodiense
+2012-11-03T19:43:56.429000+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T19:45:43.835031+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Apodiense
+2012-11-03T19:45:54.343715+00:00,sim64a[3533]:,connect,2,177.33.89.164,Apodiense
+2012-11-03T19:46:06.321781+00:00,sim64a[3533]:,chat,5,81.173.155.118,trian,11,Trian's Transport,And it takes me forever to open a bus schedule...
+2012-11-03T19:46:11.769743+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,:\
+2012-11-03T19:46:17.083910+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,cantdo anything with those constand world loads
+2012-11-03T19:46:50.053079+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,simple stations or ground edit make me timeout
+2012-11-03T19:48:19.623905+00:00,sim64a[3533]:,chat,5,81.173.155.118,trian,11,Trian's Transport,"There's your airplane, Smile. Now good luck buying it! ;-)"
+2012-11-03T19:48:54.119879+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,:D
+2012-11-03T19:49:32.232941+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T19:49:44.064223+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T19:49:52.390988+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T19:50:06.852601+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T19:50:37.858969+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,finally a plane
+2012-11-03T19:50:47.777393+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,:D
+2012-11-03T19:50:49.968879+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,"rockport & little italy connected "
+2012-11-03T19:54:19.703909+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T19:54:48.084233+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T19:55:29.037472+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,wait im going connect
+2012-11-03T19:56:05.853453+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Apodiense
+2012-11-03T19:56:15.861424+00:00,sim64a[3533]:,connect,2,177.33.89.164,Apodiense
+2012-11-03T19:56:49.896915+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,dan
+2012-11-03T19:57:15.267091+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T19:57:27.354944+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T19:58:39.108679+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,"sry guys, did a mistake :d"
+2012-11-03T19:59:12.279564+00:00,sim64a[3533]:,chat,5,81.173.155.118,trian,11,Trian's Transport,What do you mean?
+2012-11-03T19:59:35.763759+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,build double public airports at little italy :
+2012-11-03T19:59:48.083469+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,i disconnected the secondary airport
+2012-11-03T20:00:46.923016+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Apodiense
+2012-11-03T20:00:47.080219+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T20:00:58.098500+00:00,sim64a[3533]:,connect,2,177.33.89.164,Apodiense
+2012-11-03T20:01:08.510193+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T20:01:16.055043+00:00,sim64a[3533]:,connect,6,81.173.155.118,trian
+2012-11-03T20:01:16.146516+00:00,sim64a[3533]:,disconnect,5,81.173.155.118,trian
+2012-11-03T20:01:26.221983+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T20:01:39.101750+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T20:02:18.956621+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T20:02:30.714964+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T20:02:35.323667+00:00,sim64a[3533]:,chat,6,81.173.155.118,trian,15,,I messed up a little at Garcia Public Harbor. Station building faces backwards...
+2012-11-03T20:04:16.485306+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T20:04:17.282300+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Apodiense
+2012-11-03T20:04:28.003602+00:00,sim64a[3533]:,connect,2,177.33.89.164,Apodiense
+2012-11-03T20:04:36.187058+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T20:05:27.917413+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Apodiense
+2012-11-03T20:05:37.789257+00:00,sim64a[3533]:,connect,2,177.33.89.164,Apodiense
+2012-11-03T20:05:59.438452+00:00,sim64a[3533]:,disconnect,6,81.173.155.118,trian
+2012-11-03T20:06:10.859032+00:00,sim64a[3533]:,connect,5,81.173.155.118,trian
+2012-11-03T20:06:42.702548+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,ha ^^
+2012-11-03T20:09:28.626821+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T20:09:41.368481+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T20:14:55.058153+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T20:15:07.389412+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T20:16:24.120902+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T20:16:34.904950+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T20:17:19.743346+00:00,sim64a[3533]:,chat,5,81.173.155.118,trian,11,Trian's Transport,Could you make some more public stops?
+2012-11-03T20:17:41.551199+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T20:17:49.421818+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,at?
+2012-11-03T20:17:55.485678+00:00,sim64a[3533]:,chat,5,81.173.155.118,trian,11,Trian's Transport,"A public harbor on the Eastern Continent, for example?"
+2012-11-03T20:18:03.633156+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T20:19:15.124969+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T20:25:03.771260+00:00,sim64a[3533]:,connect,3,14.199.52.69,ApophisLee
+2012-11-03T20:25:45.252747+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,I think liitle italy have too much passangers waiting :D
+2012-11-03T20:26:00.778521+00:00,sim64a[3533]:,chat,5,81.173.155.118,trian,11,Trian's Transport,@Apodiense: A public stop to connect Rockport and Blumenau would also be cool.
+2012-11-03T20:26:13.429918+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,And is little no more :D
+2012-11-03T20:26:53.662793+00:00,sim64a[3533]:,chat,5,81.173.155.118,trian,11,Trian's Transport,Rockport? Blumenau? Somewhere in between?
+2012-11-03T20:27:24.444218+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,a bus terminus
+2012-11-03T20:28:08.661765+00:00,sim64a[3533]:,disconnect,3,14.199.52.69,ApophisLee
+2012-11-03T20:29:14.099637+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Apodiense
+2012-11-03T20:29:25.694420+00:00,sim64a[3533]:,connect,2,177.33.89.164,Apodiense
+2012-11-03T20:30:30.782729+00:00,sim64a[3533]:,chat,5,81.173.155.118,trian,11,Trian's Transport,@Smile: Those are A.Co's Passengers!
+2012-11-03T20:31:09.034811+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,Aco what ?
+2012-11-03T20:31:49.736069+00:00,sim64a[3533]:,chat,5,81.173.155.118,trian,11,Trian's Transport,The 14th Player.
+2012-11-03T20:33:04.701537+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,jsut connect
+2012-11-03T20:33:12.914939+00:00,sim64a[3533]:,chat,5,81.173.155.118,trian,11,Trian's Transport,Color: Kind of purple...
+2012-11-03T20:33:45.551958+00:00,sim64a[3533]:,chat,5,81.173.155.118,trian,11,Trian's Transport,Bus Terminal near Rockport under construction
+2012-11-03T20:34:02.580698+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,"smile, use signs to control your airport"
+2012-11-03T20:34:39.775033+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,what sign ?
+2012-11-03T20:35:02.382750+00:00,sim64a[3533]:,chat,2,177.33.89.164,Apodiense,2,FedEx,"trians, explain him, im out brb"
+2012-11-03T20:35:33.469648+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Apodiense
+2012-11-03T20:36:02.903023+00:00,sim64a[3533]:,disconnect,5,81.173.155.118,trian
+2012-11-03T20:36:25.868370+00:00,sim64a[3533]:,connect,2,81.173.155.118,trian
+2012-11-03T20:42:30.477795+00:00,sim64a[3533]:,chat,2,81.173.155.118,trian,11,Trian's Transport,Rockport is connected. Bus and Mail Service
+2012-11-03T20:45:46.157299+00:00,sim64a[3533]:,chat,2,81.173.155.118,trian,11,Trian's Transport,"Allright, I'll be Erklärbär."
+2012-11-03T20:46:34.406707+00:00,sim64a[3533]:,chat,2,81.173.155.118,trian,11,Trian's Transport,@Smile: I think he's talking about Recife Airport.
+2012-11-03T20:47:04.559352+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,what about it
+2012-11-03T20:47:08.576932+00:00,sim64a[3533]:,chat,2,81.173.155.118,trian,11,Trian's Transport,It's possible to force the planes to use one runway for landing and one for starting.
+2012-11-03T20:47:30.149236+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,they already do that
+2012-11-03T20:48:14.952748+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,btw could fedex remove those dirty rods near airport ?
+2012-11-03T21:07:40.351723+00:00,sim64a[3533]:,connect,3,46.113.47.84,rafcioPL
+2012-11-03T21:15:20.889611+00:00,sim64a[3533]:,chat,3,46.113.47.84,rafcioPL,15,,siema
+2012-11-03T21:16:50.000181+00:00,sim64a[3533]:,chat,3,46.113.47.84,rafcioPL,15,,siema
+2012-11-03T21:17:35.300542+00:00,sim64a[3533]:,chat,3,46.113.47.84,rafcioPL,15,,siemka
+2012-11-03T21:17:47.359737+00:00,sim64a[3533]:,disconnect,3,46.113.47.84,rafcioPL
+2012-11-03T21:17:49.661423+00:00,sim64a[3533]:,chat,2,81.173.155.118,trian,11,Trian's Transport,???
+2012-11-03T21:18:15.893837+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,i too dont understand him :D
+2012-11-03T21:21:34.999112+00:00,sim64a[3533]:,connect,3,46.113.47.84,rafcioPL
+2012-11-03T21:22:01.725786+00:00,sim64a[3533]:,chat,3,46.113.47.84,rafcioPL,15,,"siema "
+2012-11-03T21:22:36.487028+00:00,sim64a[3533]:,chat,3,46.113.47.84,rafcioPL,15,,potrzebuje has³a
+2012-11-03T21:23:22.406035+00:00,sim64a[3533]:,chat,2,81.173.155.118,trian,11,Trian's Transport,"rafcio, I don't understand you!"
+2012-11-03T21:23:42.239773+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,me too
+2012-11-03T21:23:42.412584+00:00,sim64a[3533]:,chat,3,46.113.47.84,rafcioPL,15,,"a from poland "
+2012-11-03T21:24:07.339805+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,:D
+2012-11-03T21:24:32.435938+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,try to speek english
+2012-11-03T21:24:50.570075+00:00,sim64a[3533]:,disconnect,3,46.113.47.84,rafcioPL
+2012-11-03T21:28:07.140711+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,"those plane make big pasangers suck :D now all passangers want to go to Recifer and fly to Italy :D "
+2012-11-03T21:29:44.201430+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,and i have to laungth train to speed them jorney
+2012-11-03T21:30:45.371016+00:00,sim64a[3533]:,chat,2,81.173.155.118,trian,11,Trian's Transport,Can you make a public stop? ( => more passengers! ;-) )
+2012-11-03T21:31:07.351506+00:00,sim64a[3533]:,chat,4,86.100.129.184,Smile,5,Freight Forwarder VM,where ?
+2012-11-03T21:32:53.284386+00:00,sim64a[3533]:,chat,2,81.173.155.118,trian,11,Trian's Transport,Recife? João Pessoa? Parati?
+2012-11-03T21:35:44.808758+00:00,sim64a[3533]:,disconnect,4,86.100.129.184,Smile
+2012-11-03T21:56:44.508957+00:00,sim64a[3533]:,connect,3,81.173.146.151,Client#3
+2012-11-03T22:11:26.239221+00:00,sim64a[3533]:,disconnect,2,81.173.155.118,trian
+2012-11-03T23:30:34.437880+00:00,sim64a[3533]:,connect,2,177.33.89.164,Apodiense
+2012-11-03T23:34:54.008210+00:00,sim64a[3533]:,disconnect,2,177.33.89.164,Apodiense

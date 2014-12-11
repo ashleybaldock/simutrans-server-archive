@@ -1,0 +1,220 @@
+2012-11-06T00:50:41.654074+00:00,sim64a[18441]:,connect,2,177.60.4.25,Rodrigo Silva
+2012-11-06T00:57:19.567988+00:00,sim64a[18441]:,connect,3,177.60.4.25,Rodrigo Silva
+2012-11-06T00:58:19.457045+00:00,sim64a[18441]:,disconnect,2,177.60.4.25,Rodrigo Silva
+2012-11-06T00:58:19.457294+00:00,sim64a[18441]:,disconnect,3,177.60.4.25,Rodrigo Silva
+2012-11-06T00:58:40.702666+00:00,sim64a[18441]:,connect,2,177.60.4.25,Rodrigo Silva
+2012-11-06T01:00:23.993813+00:00,sim64a[18441]:,connect,3,177.60.4.25,Rodrigo Silva
+2012-11-06T01:02:25.732300+00:00,sim64a[18441]:,connect,4,177.60.4.25,Rodrigo Silva
+2012-11-06T01:04:07.561383+00:00,sim64a[18441]:,connect,5,177.60.4.25,Spectator
+2012-11-06T01:09:11.671919+00:00,sim64a[18441]:,connect,6,177.60.4.25,Spectator
+2012-11-06T01:10:41.522494+00:00,sim64a[18441]:,disconnect,2,177.60.4.25,Rodrigo Silva
+2012-11-06T01:10:41.522762+00:00,sim64a[18441]:,disconnect,3,177.60.4.25,Rodrigo Silva
+2012-11-06T01:10:41.523020+00:00,sim64a[18441]:,disconnect,4,177.60.4.25,Rodrigo Silva
+2012-11-06T01:10:41.523303+00:00,sim64a[18441]:,disconnect,5,177.60.4.25,Spectator
+2012-11-06T01:10:41.523514+00:00,sim64a[18441]:,disconnect,6,177.60.4.25,Spectator
+2012-11-06T01:11:23.203328+00:00,sim64a[18441]:,connect,2,177.60.4.25,Spectator
+2012-11-06T01:13:09.455725+00:00,sim64a[18441]:,connect,3,177.60.4.25,Spectator
+2012-11-06T01:16:10.152460+00:00,sim64a[18441]:,disconnect,2,177.60.4.25,Spectator
+2012-11-06T01:16:10.152504+00:00,sim64a[18441]:,disconnect,3,177.60.4.25,Spectator
+2012-11-06T01:16:27.442665+00:00,sim64a[18441]:,connect,4,177.60.4.25,Please let me play!
+2012-11-06T01:24:49.920457+00:00,sim64a[18441]:,connect,2,177.60.4.25,Please let me play!
+2012-11-06T09:14:07.878951+00:00,sim64a[18441]:,connect,3,86.100.129.184,Smile
+2012-11-06T09:15:08.343704+00:00,sim64a[18441]:,chat,3,86.100.129.184,Smile,5,Freight Forwarder VM,Hi :)
+2012-11-06T09:48:12.320121+00:00,sim64a[18441]:,connect,5,14.199.52.69,ApophisLee
+2012-11-06T09:48:12.412349+00:00,sim64a[18441]:,disconnect,2,177.60.4.25,Please let me play!
+2012-11-06T09:48:12.412383+00:00,sim64a[18441]:,disconnect,4,177.60.4.25,Please let me play!
+2012-11-06T09:49:59.611502+00:00,sim64a[18441]:,disconnect,5,14.199.52.69,ApophisLee
+2012-11-06T09:53:24.406510+00:00,sim64a[18441]:,connect,2,14.199.52.69,ApophisLee
+2012-11-06T10:14:37.259722+00:00,sim64a[18441]:,disconnect,2,14.199.52.69,ApophisLee
+2012-11-06T10:47:24.590834+00:00,sim64a[18441]:,chat,3,86.100.129.184,Smile,5,Freight Forwarder VM,anyone here ?
+2012-11-06T11:17:48.600533+00:00,sim64a[18441]:,connect,2,86.100.129.184,Client#2
+2012-11-06T11:18:11.968843+00:00,sim64a[18441]:,disconnect,2,86.100.129.184,Client#2
+2012-11-06T11:18:48.956841+00:00,sim64a[18441]:,connect,2,86.100.129.184,Client#2
+2012-11-06T11:18:57.529009+00:00,sim64a[18441]:,chat,2,86.100.129.184,Client#2,15,,b
+2012-11-06T11:19:13.440632+00:00,sim64a[18441]:,chat,2,86.100.129.184,Client#2,15,,wtf ?
+2012-11-06T11:19:18.243486+00:00,sim64a[18441]:,disconnect,2,86.100.129.184,Client#2
+2012-11-06T11:19:39.249763+00:00,sim64a[18441]:,connect,2,86.100.129.184,Client#2
+2012-11-06T11:20:00.750603+00:00,sim64a[18441]:,chat,2,86.100.129.184,Client#2,5,Freight Forwarder VM,wtf ?
+2012-11-06T11:20:11.294425+00:00,sim64a[18441]:,chat,2,86.100.129.184,Client#2,5,Freight Forwarder VM,anyone here ?
+2012-11-06T11:20:58.222093+00:00,sim64a[18441]:,chat,2,86.100.129.184,Client#2,5,Freight Forwarder VM,Why server dont show my nick ?
+2012-11-06T11:21:09.035198+00:00,sim64a[18441]:,chat,2,86.100.129.184,Client#2,5,Freight Forwarder VM,but shows client2
+2012-11-06T11:24:21.220191+00:00,sim64a[18441]:,disconnect,3,86.100.129.184,Smile
+2012-11-06T11:24:47.805904+00:00,sim64a[18441]:,disconnect,2,86.100.129.184,Client#2
+2012-11-06T11:24:53.046786+00:00,sim64a[18441]:,connect,3,86.100.129.184,Smile
+2012-11-06T11:48:27.421436+00:00,sim64a[18441]:,connect,2,177.162.99.153,RSB
+2012-11-06T11:49:19.836414+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,RSB
+2012-11-06T11:49:46.748507+00:00,sim64a[18441]:,connect,2,177.162.99.153,RSB
+2012-11-06T11:50:57.077153+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,RSB
+2012-11-06T11:51:20.127585+00:00,sim64a[18441]:,connect,2,177.162.99.153,RSB
+2012-11-06T11:58:19.859057+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,RSB
+2012-11-06T11:58:46.818590+00:00,sim64a[18441]:,connect,2,177.162.99.153,RSB
+2012-11-06T11:59:00.827387+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,RSB
+2012-11-06T11:59:36.934628+00:00,sim64a[18441]:,connect,2,177.162.99.153,RSB
+2012-11-06T11:59:55.462625+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,RSB
+2012-11-06T12:00:43.508674+00:00,sim64a[18441]:,connect,2,177.162.99.153,Why does it crash so much?!
+2012-11-06T12:01:08.439770+00:00,sim64a[18441]:,chat,3,86.100.129.184,Smile,5,Freight Forwarder VM,:D
+2012-11-06T12:01:17.826657+00:00,sim64a[18441]:,chat,3,86.100.129.184,Smile,5,Freight Forwarder VM,nice nick :D
+2012-11-06T12:03:50.036507+00:00,sim64a[18441]:,chat,2,177.162.99.153,Why does it crash so much?!,12,Viacao Rodrigus Ltda,LOL
+2012-11-06T12:04:07.274111+00:00,sim64a[18441]:,chat,2,177.162.99.153,Why does it crash so much?!,12,Viacao Rodrigus Ltda,It always happens AFTER I log in with my player...
+2012-11-06T12:04:15.070170+00:00,sim64a[18441]:,chat,3,86.100.129.184,Smile,5,Freight Forwarder VM,no
+2012-11-06T12:04:42.985009+00:00,sim64a[18441]:,chat,2,177.162.99.153,Why does it crash so much?!,12,Viacao Rodrigus Ltda,Lucky you :D
+2012-11-06T12:05:09.167967+00:00,sim64a[18441]:,chat,3,86.100.129.184,Smile,5,Freight Forwarder VM,well when anyone log in here i get map stoped and reloaded
+2012-11-06T12:05:46.042534+00:00,sim64a[18441]:,chat,2,177.162.99.153,Why does it crash so much?!,12,Viacao Rodrigus Ltda,I usually don't have enough time for such a chance...
+2012-11-06T12:06:01.563267+00:00,sim64a[18441]:,chat,2,177.162.99.153,Why does it crash so much?!,12,Viacao Rodrigus Ltda,It crashes before it happens...
+2012-11-06T12:06:34.135676+00:00,sim64a[18441]:,chat,3,86.100.129.184,Smile,5,Freight Forwarder VM,i think thats because it can reload or smth
+2012-11-06T12:07:34.232781+00:00,sim64a[18441]:,chat,2,177.162.99.153,Why does it crash so much?!,12,Viacao Rodrigus Ltda,Let's see... This time we're chatting is longer than my average stay before a crash - and my lines are overcrowded!
+2012-11-06T12:09:30.984915+00:00,sim64a[18441]:,chat,3,86.100.129.184,Smile,5,Freight Forwarder VM,thats maybe because you need to launch aditional trains or bus but you can due to crash
+2012-11-06T12:10:39.842518+00:00,sim64a[18441]:,chat,2,177.162.99.153,Why does it crash so much?!,12,Viacao Rodrigus Ltda,It's what I'm finally doing: it usually crashes before I can launch new buses.
+2012-11-06T12:11:25.603149+00:00,sim64a[18441]:,chat,2,177.162.99.153,Why does it crash so much?!,12,Viacao Rodrigus Ltda,"Nice, because this time the Public Service has installed integrated terminuses. I have craved for them :D"
+2012-11-06T12:11:28.944641+00:00,sim64a[18441]:,chat,3,86.100.129.184,Smile,5,Freight Forwarder VM,some of my pasangers lines have ernormuos owercrowding :D
+2012-11-06T12:14:50.519738+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Why does it crash so much?!
+2012-11-06T12:15:21.517320+00:00,sim64a[18441]:,connect,2,177.162.99.153,Why does it crash so much?!
+2012-11-06T12:15:59.776708+00:00,sim64a[18441]:,chat,2,177.162.99.153,Why does it crash so much?!,12,Viacao Rodrigus Ltda,I'm back :D
+2012-11-06T12:17:24.733403+00:00,sim64a[18441]:,chat,3,86.100.129.184,Smile,5,Freight Forwarder VM,crash ?
+2012-11-06T12:17:57.862650+00:00,sim64a[18441]:,chat,2,177.162.99.153,Why does it crash so much?!,12,Viacao Rodrigus Ltda,Yes. Again...
+2012-11-06T12:27:42.130387+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Why does it crash so much?!
+2012-11-06T12:28:07.563790+00:00,sim64a[18441]:,connect,2,177.162.99.153,Why does it crash so much?!
+2012-11-06T12:45:30.334207+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Why does it crash so much?!
+2012-11-06T12:47:12.921386+00:00,sim64a[18441]:,connect,2,177.162.99.153,Why does it crash so much?!
+2012-11-06T12:48:44.253766+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Why does it crash so much?!
+2012-11-06T12:49:31.055636+00:00,sim64a[18441]:,connect,2,177.162.99.153,Why does it crash so much?!
+2012-11-06T12:49:57.664777+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Why does it crash so much?!
+2012-11-06T12:51:35.504383+00:00,sim64a[18441]:,connect,2,177.162.99.153,Crash'd 8-laid :D
+2012-11-06T12:51:50.641618+00:00,sim64a[18441]:,chat,3,86.100.129.184,Smile,5,Freight Forwarder VM,:D
+2012-11-06T12:52:48.034968+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Crash'd 8-laid :D
+2012-11-06T12:53:33.837111+00:00,sim64a[18441]:,connect,2,177.162.99.153,Crash'd 8-laid :D
+2012-11-06T12:57:20.846722+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Crash'd 8-laid :D
+2012-11-06T12:57:39.887530+00:00,sim64a[18441]:,connect,2,177.162.99.153,Crash'd 8-laid :D
+2012-11-06T12:58:39.657984+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Crash'd 8-laid :D
+2012-11-06T12:59:20.253388+00:00,sim64a[18441]:,connect,2,177.162.99.153,Aftercrash #10
+2012-11-06T12:59:37.819440+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Aftercrash #10
+2012-11-06T13:01:00.166711+00:00,sim64a[18441]:,connect,2,177.162.99.153,Aftercrash #11
+2012-11-06T13:04:31.493095+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Aftercrash #11
+2012-11-06T13:05:14.687103+00:00,sim64a[18441]:,connect,2,177.162.99.153,Aftercrash #11
+2012-11-06T13:06:06.656612+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Aftercrash #11
+2012-11-06T13:06:29.861785+00:00,sim64a[18441]:,connect,2,177.162.99.153,Aftercrash #13
+2012-11-06T13:10:03.722488+00:00,sim64a[18441]:,disconnect,3,86.100.129.184,Smile
+2012-11-06T13:10:18.683880+00:00,sim64a[18441]:,connect,3,86.100.129.184,Smile
+2012-11-06T13:10:41.300491+00:00,sim64a[18441]:,connect,4,177.162.99.153,Aftercrash #14
+2012-11-06T13:10:41.434086+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Aftercrash #13
+2012-11-06T13:11:32.150730+00:00,sim64a[18441]:,disconnect,4,177.162.99.153,Aftercrash #14
+2012-11-06T13:11:59.925375+00:00,sim64a[18441]:,connect,2,177.162.99.153,Aftercrash #15
+2012-11-06T13:23:42.020230+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Aftercrash #15
+2012-11-06T13:24:19.325852+00:00,sim64a[18441]:,connect,2,177.162.99.153,Aftercrash #16
+2012-11-06T13:24:28.630097+00:00,sim64a[18441]:,chat,3,86.100.129.184,Smile,5,Freight Forwarder VM,:D
+2012-11-06T13:25:13.952133+00:00,sim64a[18441]:,chat,2,177.162.99.153,Aftercrash #16,15,,"As people say here, ""I'm Brazilian, and I never quit!"", :D"
+2012-11-06T13:26:16.353640+00:00,sim64a[18441]:,chat,3,86.100.129.184,Smile,5,Freight Forwarder VM,its long way :D this servers is hosted in uk and that maybe problem :D
+2012-11-06T13:27:35.568375+00:00,sim64a[18441]:,chat,2,177.162.99.153,Aftercrash #16,12,Viacao Rodrigus Ltda,Broadband is over the air - it should be faster than the dark blue buses I own here :D
+2012-11-06T13:28:14.272152+00:00,sim64a[18441]:,chat,3,86.100.129.184,Smile,5,Freight Forwarder VM,:D
+2012-11-06T13:28:59.973063+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Aftercrash #16
+2012-11-06T13:29:41.003775+00:00,sim64a[18441]:,connect,2,177.162.99.153,Aftercrash #17
+2012-11-06T13:29:54.772825+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Aftercrash #17
+2012-11-06T13:30:28.287519+00:00,sim64a[18441]:,connect,2,177.162.99.153,Aftercrash #18
+2012-11-06T13:31:57.498041+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Aftercrash #18
+2012-11-06T13:32:29.593120+00:00,sim64a[18441]:,connect,2,177.162.99.153,Aftercrash #19
+2012-11-06T13:32:56.162502+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Aftercrash #19
+2012-11-06T13:33:34.714686+00:00,sim64a[18441]:,connect,2,177.162.99.153,Aftercrash #20
+2012-11-06T13:33:55.244231+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Aftercrash #20
+2012-11-06T13:34:33.427745+00:00,sim64a[18441]:,connect,2,177.162.99.153,Aftercrash #21
+2012-11-06T13:34:55.316231+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Aftercrash #21
+2012-11-06T13:35:34.424512+00:00,sim64a[18441]:,connect,2,177.162.99.153,Aftercrash #22
+2012-11-06T13:35:47.635066+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Aftercrash #22
+2012-11-06T13:36:12.963014+00:00,sim64a[18441]:,connect,2,177.162.99.153,Aftercrash #23
+2012-11-06T13:36:52.773968+00:00,sim64a[18441]:,disconnect,2,177.162.99.153,Aftercrash #23
+2012-11-06T15:37:34.382453+00:00,sim64a[18441]:,connect,2,189.121.100.201,Apodiense
+2012-11-06T15:41:08.747440+00:00,sim64a[18441]:,connect,4,14.199.52.69,ApophisLee
+2012-11-06T15:41:08.802503+00:00,sim64a[18441]:,disconnect,3,86.100.129.184,Smile
+2012-11-06T15:45:13.756337+00:00,sim64a[18441]:,disconnect,4,14.199.52.69,ApophisLee
+2012-11-06T15:49:48.479308+00:00,sim64a[18441]:,disconnect,2,189.121.100.201,Apodiense
+2012-11-06T15:50:05.267731+00:00,sim64a[18441]:,connect,2,189.121.100.201,Apodiense
+2012-11-06T16:05:17.120984+00:00,sim64a[18441]:,disconnect,2,189.121.100.201,Apodiense
+2012-11-06T16:05:27.031881+00:00,sim64a[18441]:,connect,3,189.121.100.201,Apodiense
+2012-11-06T16:10:17.843765+00:00,sim64a[18441]:,connect,2,189.121.100.201,Apodiense
+2012-11-06T18:11:50.778187+00:00,sim64a[18441]:,connect,4,189.121.100.201,Apodiense
+2012-11-06T18:18:39.830453+00:00,sim64a[18441]:,disconnect,2,189.121.100.201,Apodiense
+2012-11-06T18:18:39.830737+00:00,sim64a[18441]:,disconnect,3,189.121.100.201,Apodiense
+2012-11-06T18:18:39.830981+00:00,sim64a[18441]:,disconnect,4,189.121.100.201,Apodiense
+2012-11-06T18:18:54.775789+00:00,sim64a[18441]:,connect,2,189.121.100.201,Apodiense
+2012-11-06T18:58:10.588522+00:00,sim64a[18441]:,disconnect,2,189.121.100.201,Apodiense
+2012-11-06T18:58:27.185886+00:00,sim64a[18441]:,connect,3,177.214.109.150,Rodrigus
+2012-11-06T19:01:35.089925+00:00,sim64a[18441]:,connect,2,177.214.109.150,Rodrigus 2
+2012-11-06T19:09:32.695997+00:00,sim64a[18441]:,connect,4,89.155.122.64,Client#5
+2012-11-06T19:09:32.747015+00:00,sim64a[18441]:,disconnect,3,177.214.109.150,Rodrigus
+2012-11-06T19:09:42.822513+00:00,sim64a[18441]:,disconnect,2,177.214.109.150,Rodrigus 2
+2012-11-06T19:10:41.528927+00:00,sim64a[18441]:,connect,2,177.214.109.150,Rodrigus 3
+2012-11-06T19:13:19.262832+00:00,sim64a[18441]:,connect,3,177.214.109.150,Rodrigus 4
+2012-11-06T19:24:38.970514+00:00,sim64a[18441]:,connect,5,81.173.159.219,trian
+2012-11-06T19:24:39.063213+00:00,sim64a[18441]:,disconnect,2,177.214.109.150,Rodrigus 3
+2012-11-06T19:24:39.063331+00:00,sim64a[18441]:,disconnect,4,89.155.122.64,Client#5
+2012-11-06T19:27:59.380398+00:00,sim64a[18441]:,disconnect,3,177.214.109.150,Rodrigus 4
+2012-11-06T19:28:32.848960+00:00,sim64a[18441]:,connect,2,177.214.109.150,Rodrigus 5
+2012-11-06T19:29:29.220290+00:00,sim64a[18441]:,disconnect,2,177.214.109.150,Rodrigus 5
+2012-11-06T19:29:55.566125+00:00,sim64a[18441]:,connect,2,177.214.109.150,Rodrigus 6
+2012-11-06T19:30:18.733244+00:00,sim64a[18441]:,disconnect,2,177.214.109.150,Rodrigus 6
+2012-11-06T19:30:47.184249+00:00,sim64a[18441]:,connect,2,177.214.109.150,Rodrigus 7
+2012-11-06T19:31:22.794861+00:00,sim64a[18441]:,disconnect,2,177.214.109.150,Rodrigus 7
+2012-11-06T19:31:58.417312+00:00,sim64a[18441]:,connect,2,177.214.109.150,Rodrigus 8
+2012-11-06T19:33:26.949450+00:00,sim64a[18441]:,disconnect,2,177.214.109.150,Rodrigus 8
+2012-11-06T19:33:49.421532+00:00,sim64a[18441]:,connect,2,177.214.109.150,Rodrigus 9
+2012-11-06T19:34:18.469749+00:00,sim64a[18441]:,disconnect,2,177.214.109.150,Rodrigus 9
+2012-11-06T19:34:48.726520+00:00,sim64a[18441]:,connect,2,177.214.109.150,Rodrigus 10
+2012-11-06T19:35:49.893744+00:00,sim64a[18441]:,disconnect,2,177.214.109.150,Rodrigus 10
+2012-11-06T19:36:14.400178+00:00,sim64a[18441]:,connect,2,177.214.109.150,Rodrigus 11
+2012-11-06T19:36:28.808826+00:00,sim64a[18441]:,disconnect,2,177.214.109.150,Rodrigus 11
+2012-11-06T19:39:59.942661+00:00,sim64a[18441]:,connect,2,177.168.126.215,Express Mangaratiba
+2012-11-06T19:40:40.550853+00:00,sim64a[18441]:,disconnect,2,177.168.126.215,Express Mangaratiba
+2012-11-06T19:41:31.713560+00:00,sim64a[18441]:,connect,2,177.168.126.215,won't it stop crashin'?
+2012-11-06T19:41:51.306853+00:00,sim64a[18441]:,chat,5,81.173.159.219,trian,11,Trian's Transport,:-)
+2012-11-06T19:42:31.645712+00:00,sim64a[18441]:,disconnect,2,177.168.126.215,won't it stop crashin'?
+2012-11-06T19:42:59.981399+00:00,sim64a[18441]:,connect,2,177.168.126.215,won't it stop crashin'?
+2012-11-06T19:43:37.748461+00:00,sim64a[18441]:,disconnect,2,177.168.126.215,won't it stop crashin'?
+2012-11-06T20:13:07.436352+00:00,sim64a[18441]:,connect,2,81.173.159.219,trian
+2012-11-06T20:17:16.892488+00:00,sim64a[18441]:,connect,3,89.73.165.27,Client#3
+2012-11-06T20:17:16.944434+00:00,sim64a[18441]:,disconnect,5,81.173.159.219,trian
+2012-11-06T20:17:51.023210+00:00,sim64a[18441]:,disconnect,3,89.73.165.27,Client#3
+2012-11-06T20:25:19.283566+00:00,sim64a[18441]:,connect,3,189.121.100.201,Apodiense
+2012-11-06T20:27:27.334287+00:00,sim64a[18441]:,disconnect,2,81.173.159.219,trian
+2012-11-06T20:27:40.816537+00:00,sim64a[18441]:,connect,2,81.173.159.219,trian
+2012-11-06T20:31:02.786769+00:00,sim64a[18441]:,disconnect,3,189.121.100.201,Apodiense
+2012-11-06T20:31:15.507858+00:00,sim64a[18441]:,connect,3,189.121.100.201,Apodiense
+2012-11-06T20:52:39.015572+00:00,sim64a[18441]:,chat,2,81.173.159.219,trian,11,Trian's Transport,"Hey Apodiense, are you online?"
+2012-11-06T20:52:53.887498+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,yes
+2012-11-06T20:54:10.900362+00:00,sim64a[18441]:,chat,2,81.173.159.219,trian,11,Trian's Transport,"Do you mind if I remodel Mariana, Brooklinand so on a little bit?"
+2012-11-06T20:55:57.964106+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,where is mariana
+2012-11-06T20:56:25.459879+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,remodel?
+2012-11-06T20:56:35.469714+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,what u wanna remodel?
+2012-11-06T20:56:45.750582+00:00,sim64a[18441]:,chat,2,81.173.159.219,trian,11,Trian's Transport,"198,263"
+2012-11-06T20:57:04.826215+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,"yes, what u wanna remodel on this city?"
+2012-11-06T20:57:51.301114+00:00,sim64a[18441]:,chat,2,81.173.159.219,trian,11,Trian's Transport,"The streets. Like what I just did to Garcia, Volta Redonda, and Ourinhos."
+2012-11-06T20:58:10.870031+00:00,sim64a[18441]:,chat,2,81.173.159.219,trian,11,Trian's Transport,"Those are your Stations in Mariana, right?"
+2012-11-06T20:58:31.623387+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,"ye, but its part of the line :\"
+2012-11-06T20:59:00.767772+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,"i dont like that idea, but you can remodel anything you want :)"
+2012-11-06T20:59:13.792155+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,thos bus stops inst mine
+2012-11-06T20:59:21.805356+00:00,sim64a[18441]:,chat,2,81.173.159.219,trian,11,Trian's Transport,"Well, I wouldn't destroy your stations, can't do that anyways."
+2012-11-06T20:59:46.751053+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,"only the power line and the rail down hills, "
+2012-11-06T20:59:58.073840+00:00,sim64a[18441]:,chat,2,81.173.159.219,trian,11,Trian's Transport,inst=isnt?
+2012-11-06T21:00:12.166708+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,you saying about buses stops?
+2012-11-06T21:00:20.422970+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,or the power line?
+2012-11-06T21:00:35.647627+00:00,sim64a[18441]:,chat,2,81.173.159.219,trian,11,Trian's Transport,yes.
+2012-11-06T21:00:45.360935+00:00,sim64a[18441]:,chat,2,81.173.159.219,trian,11,Trian's Transport,errr...
+2012-11-06T21:00:48.266565+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,xD
+2012-11-06T21:00:52.471998+00:00,sim64a[18441]:,chat,2,81.173.159.219,trian,11,Trian's Transport,again:
+2012-11-06T21:01:31.489679+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,i need left :\
+2012-11-06T21:01:40.746187+00:00,sim64a[18441]:,chat,2,81.173.159.219,trian,11,Trian's Transport,Are the Bus stations in Mariana yours? (Prefeitura de Mariana for example)
+2012-11-06T21:02:18.825350+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,"ah, no, is not mine"
+2012-11-06T21:02:36.534400+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,viacao rodrigus ltda stops ^^
+2012-11-06T21:03:01.301507+00:00,sim64a[18441]:,chat,2,81.173.159.219,trian,11,Trian's Transport,Oh. Wrong blue company then. Sorry!
+2012-11-06T21:03:10.887831+00:00,sim64a[18441]:,chat,3,189.121.100.201,Apodiense,2,FedEx,"im out sorry, back later, np ^^"
+2012-11-06T21:03:17.842358+00:00,sim64a[18441]:,disconnect,3,189.121.100.201,Apodiense
+2012-11-06T21:03:22.468418+00:00,sim64a[18441]:,chat,2,81.173.159.219,trian,11,Trian's Transport,bye
+2012-11-06T21:44:50.703053+00:00,sim64a[18441]:,connect,3,94.222.253.65,bexer
+2012-11-06T21:49:17.994000+00:00,sim64a[18441]:,disconnect,2,81.173.159.219,trian
+2012-11-06T21:49:17.994394+00:00,sim64a[18441]:,disconnect,3,94.222.253.65,bexer
+2012-11-06T22:34:21.891290+00:00,sim64a[18441]:,connect,2,92.24.190.54,ACM
+2012-11-06T22:45:20.421077+00:00,sim64a[18441]:,disconnect,2,92.24.190.54,ACM
+2012-11-06T23:09:06.920118+00:00,sim64a[18441]:,connect,2,189.121.100.201,Apodiense
+2012-11-06T23:10:47.436309+00:00,sim64a[18441]:,disconnect,2,189.121.100.201,Apodiense
+2012-11-06T23:10:59.277968+00:00,sim64a[18441]:,connect,3,189.121.100.201,Apodiense
+2012-11-06T23:17:59.016482+00:00,sim64a[18441]:,connect,2,189.121.100.201,Apodiense
+2012-11-06T23:25:36.047322+00:00,sim64a[18441]:,connect,4,189.121.100.201,Apodiense
+2012-11-06T23:46:52.907927+00:00,sim64a[18441]:,connect,5,189.121.100.201,Apodiense

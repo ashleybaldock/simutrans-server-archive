@@ -1,0 +1,334 @@
+2012-12-05T00:19:39.209185+00:00,sim128b[1487]:,connect,3,91.16.85.186,Jaridan
+2012-12-05T00:19:39.379303+00:00,sim128b[1487]:,disconnect,5,91.16.85.186,Jaridan
+2012-12-05T00:37:43.855756+00:00,sim128b[1487]:,disconnect,2,71.200.128.99,Benjad
+2012-12-05T00:37:54.888010+00:00,sim128b[1487]:,chat,3,91.16.85.186,Jaridan,7,Drunken Train Transport,D:
+2012-12-05T00:42:27.285112+00:00,sim128b[1487]:,connect,2,98.141.195.201,Fifty
+2012-12-05T00:43:11.205350+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,4,RF&P,hello
+2012-12-05T00:43:40.074863+00:00,sim128b[1487]:,chat,3,91.16.85.186,Jaridan,7,Drunken Train Transport,yo (afk 5min)
+2012-12-05T00:44:03.049654+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,4,RF&P,"hi, thanks for letting me supply the power plant"
+2012-12-05T00:45:20.370834+00:00,sim128b[1487]:,disconnect,2,98.141.195.201,Fifty
+2012-12-05T01:08:41.967282+00:00,sim128b[1487]:,chat,3,91.16.85.186,Jaridan,7,Drunken Train Transport,np ;)
+2012-12-05T01:55:57.271226+00:00,sim128b[1487]:,connect,2,91.16.85.186,Jaridan
+2012-12-05T02:00:07.037113+00:00,sim128b[1487]:,connect,4,91.16.85.186,Jaridan
+2012-12-05T02:02:06.105462+00:00,sim128b[1487]:,connect,5,71.200.128.99,Benjad
+2012-12-05T02:03:27.912834+00:00,sim128b[1487]:,connect,6,88.165.36.112,Client#3
+2012-12-05T02:03:28.081386+00:00,sim128b[1487]:,disconnect,2,91.16.85.186,Jaridan
+2012-12-05T02:03:28.081561+00:00,sim128b[1487]:,disconnect,3,91.16.85.186,Jaridan
+2012-12-05T02:03:28.081809+00:00,sim128b[1487]:,disconnect,4,91.16.85.186,Jaridan
+2012-12-05T02:08:32.080056+00:00,sim128b[1487]:,disconnect,6,88.165.36.112,Client#3
+2012-12-05T02:12:10.706938+00:00,sim128b[1487]:,connect,2,91.16.85.186,Jaridan
+2012-12-05T02:12:32.707567+00:00,sim128b[1487]:,chat,5,71.200.128.99,Benjad,15,,Evening
+2012-12-05T02:12:49.525687+00:00,sim128b[1487]:,chat,2,91.16.85.186,Jaridan,15,,well more like morning xD 3am here (im about to head to bed
+2012-12-05T02:13:12.169316+00:00,sim128b[1487]:,chat,5,71.200.128.99,Benjad,15,,lol
+2012-12-05T02:20:29.423750+00:00,sim128b[1487]:,chat,2,91.16.85.186,Jaridan,7,Drunken Train Transport,"yay, 10million spend in new vehicle, 1mil down the hatch ofr upgrading tracks+ electrification + 40k more maintenance :D"
+2012-12-05T02:22:08.573663+00:00,sim128b[1487]:,chat,2,91.16.85.186,Jaridan,7,Drunken Train Transport,"ok, i wish you fun ;)"
+2012-12-05T02:22:12.791471+00:00,sim128b[1487]:,chat,2,91.16.85.186,Jaridan,7,Drunken Train Transport,off to bed gn8
+2012-12-05T02:22:29.243842+00:00,sim128b[1487]:,chat,5,71.200.128.99,Benjad,15,,gnite
+2012-12-05T02:22:35.231758+00:00,sim128b[1487]:,disconnect,2,91.16.85.186,Jaridan
+2012-12-05T02:36:48.203979+00:00,sim128b[1487]:,connect,2,71.200.128.99,Benjad
+2012-12-05T03:19:55.483898+00:00,sim128b[1487]:,connect,3,71.200.128.99,Benjad
+2012-12-05T03:45:03.970326+00:00,sim128b[1487]:,connect,4,98.141.195.201,Fifty
+2012-12-05T03:58:21.313861+00:00,sim128b[1487]:,connect,6,71.200.128.99,Benjad
+2012-12-05T03:58:21.405283+00:00,sim128b[1487]:,disconnect,2,71.200.128.99,Benjad
+2012-12-05T03:58:21.405317+00:00,sim128b[1487]:,disconnect,3,71.200.128.99,Benjad
+2012-12-05T03:58:21.405338+00:00,sim128b[1487]:,disconnect,5,71.200.128.99,Benjad
+2012-12-05T04:03:06.199356+00:00,sim128b[1487]:,disconnect,6,71.200.128.99,Benjad
+2012-12-05T04:03:19.017379+00:00,sim128b[1487]:,connect,2,71.200.128.99,Benjad
+2012-12-05T04:04:19.903794+00:00,sim128b[1487]:,disconnect,4,98.141.195.201,Fifty
+2012-12-05T04:04:54.843728+00:00,sim128b[1487]:,connect,3,98.141.195.201,Fifty
+2012-12-05T04:06:20.728706+00:00,sim128b[1487]:,disconnect,3,98.141.195.201,Fifty
+2012-12-05T04:06:39.122671+00:00,sim128b[1487]:,connect,3,98.141.195.201,Fifty
+2012-12-05T04:10:15.872553+00:00,sim128b[1487]:,connect,5,98.141.195.201,Fifty
+2012-12-05T04:10:15.925707+00:00,sim128b[1487]:,disconnect,2,71.200.128.99,Benjad
+2012-12-05T04:10:15.926836+00:00,sim128b[1487]:,disconnect,3,98.141.195.201,Fifty
+2012-12-05T04:10:24.431047+00:00,sim128b[1487]:,connect,2,71.200.128.99,Benjad
+2012-12-05T04:16:23.677540+00:00,sim128b[1487]:,disconnect,2,71.200.128.99,Benjad
+2012-12-05T04:22:28.902181+00:00,sim128b[1487]:,connect,2,98.141.195.201,Fifty
+2012-12-05T09:10:28.106170+00:00,sim128b[1487]:,disconnect,2,98.141.195.201,Fifty
+2012-12-05T09:10:28.106468+00:00,sim128b[1487]:,disconnect,5,98.141.195.201,Fifty
+2012-12-05T09:10:34.161744+00:00,sim128b[1487]:,connect,3,91.16.103.234,Jaridan
+2012-12-05T09:22:01.198782+00:00,sim128b[1487]:,disconnect,3,91.16.103.234,Jaridan
+2012-12-05T09:22:07.704558+00:00,sim128b[1487]:,connect,2,91.16.103.234,Jaridan
+2012-12-05T09:36:12.012324+00:00,sim128b[1487]:,connect,3,91.16.103.234,Jaridan
+2012-12-05T10:13:32.726629+00:00,sim128b[1487]:,disconnect,2,91.16.103.234,Jaridan
+2012-12-05T10:13:32.726946+00:00,sim128b[1487]:,disconnect,3,91.16.103.234,Jaridan
+2012-12-05T10:13:38.971861+00:00,sim128b[1487]:,connect,4,91.16.103.234,Jaridan
+2012-12-05T11:27:28.866075+00:00,sim128b[1487]:,connect,2,111.161.8.10,Wouc
+2012-12-05T11:27:41.384009+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,hi
+2012-12-05T11:29:09.595158+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,you can use the message centre to chat
+2012-12-05T11:29:43.561188+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,15,,"Hi, Jaridan"
+2012-12-05T11:30:52.190403+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,you gonna play on this server?
+2012-12-05T11:32:25.919210+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,15,,"I am new to online playing, though I was playing offline."
+2012-12-05T11:32:51.892810+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"ok :D , i'm ""fairly"" new to online play aswell"
+2012-12-05T11:32:54.647998+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,15,,"Yes, I wanna play here :)"
+2012-12-05T11:33:16.079040+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,see that account? player 8?
+2012-12-05T11:33:27.612118+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"click on the green button and insert a password "
+2012-12-05T11:33:47.559225+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,i mean: go options -> players
+2012-12-05T11:33:48.148706+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,15,,"Oh, I am trying."
+2012-12-05T11:34:52.342106+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Take player 8 now :) What's your company's name?
+2012-12-05T11:34:55.364209+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,":D no it's pw saved so it's your company, you can change the name on the rectangle aswell"
+2012-12-05T11:35:10.800715+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,you always see company name behind client connected name
+2012-12-05T11:35:15.150265+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,+ color
+2012-12-05T11:35:22.283904+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,so i am drunken train transport :P
+2012-12-05T11:35:55.362860+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"if you go to the message centre, click options and then activate the 3rd box next to chat"
+2012-12-05T11:36:30.170176+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"chat messages will pop up, makes it easier to not miss chat messages (sometimes some get swallowed up if a few are written in a short amount of time"
+2012-12-05T11:36:49.257821+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,did you play the 128 pak offline?
+2012-12-05T11:37:14.969424+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"(if i'm bombarding you or something , just say it^^)"
+2012-12-05T11:42:05.613704+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Nice, so you are a train tycoon now :D "
+2012-12-05T11:42:42.961822+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,i like trains the most :P
+2012-12-05T11:42:51.881028+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Trying to learn more about the new world.
+2012-12-05T11:43:03.589245+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,new world?^^
+2012-12-05T11:43:23.925910+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Yep, this world."
+2012-12-05T11:43:35.782760+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,^^
+2012-12-05T11:43:44.155839+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,2 important things:
+2012-12-05T11:44:03.270360+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"1) this is online play, meaning the game goe on , even if you are offline"
+2012-12-05T11:44:27.645826+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"so you shouldmake sure, that your operational profit is positive, before  going off"
+2012-12-05T11:45:17.008635+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Can we save the chat log locally? And, can we pause locally, then sync with serve later?"
+2012-12-05T11:45:42.875383+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,thats my 2 nd point
+2012-12-05T11:45:46.118311+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,you can save
+2012-12-05T11:45:51.206352+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,and test offline
+2012-12-05T11:45:56.885535+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,chat log cant be saved
+2012-12-05T11:46:33.236829+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"but whatever you do can't be synced , since you are playing on this server, just think of it as a mmorpg for example"
+2012-12-05T11:47:44.304954+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"but testing stuff offline helps me sometimes alot, to easier predict how many trains i need, how long the train needs for the trip "
+2012-12-05T11:47:45.336789+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Thanks for your points. Let's enjoy.
+2012-12-05T11:48:29.136339+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"right now, there's not much industry, but it will increase soon"
+2012-12-05T11:48:55.701255+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"as you may know , industry increase every y^x, default y is 5000"
+2012-12-05T11:49:08.472871+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Can you control Public Service to change the map?
+2012-12-05T11:49:47.623672+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"change in what regard? nope, public player is locked with a pw only the admin knows "
+2012-12-05T11:50:00.205887+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"(same goes for ""spectater"" account"
+2012-12-05T11:50:17.864916+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,but ofc we can make roads canals public
+2012-12-05T11:50:44.502914+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,we can't remove public stations though
+2012-12-05T11:51:21.678052+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Yes, I have been playing with pak128. //delayed answer to your question :)"
+2012-12-05T11:53:24.543649+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,best thing right now would be if some industry pops :P but will likely take another 3-5 ingame years
+2012-12-05T11:56:52.610115+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Joridan, did you find that you can get almost all the passengers/cargos, if you can provide a line for each pair of stops in your network coverage."
+2012-12-05T11:57:44.989692+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"can you explain  what you mean exactly? "
+2012-12-05T11:58:56.139833+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"So, you are waiting for new factories :)"
+2012-12-05T11:59:28.327215+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Is the admin a human or an AI ?
+2012-12-05T12:00:02.946110+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"the admin i a human obviously xD though he's not doing anything besides setting up the server "
+2012-12-05T12:01:30.019025+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Dosent he run a trans company?
+2012-12-05T12:01:35.230368+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,?
+2012-12-05T12:02:07.582155+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,nope
+2012-12-05T12:02:27.978956+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Does not *  I mean. :P
+2012-12-05T12:03:14.295674+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"oh about factories, yes i am witing for new, but i'm also working on my pax system"
+2012-12-05T12:03:21.178155+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,(pax = passenger)
+2012-12-05T12:06:07.330677+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"To be exact, I had made a network of airports, covering the whole world, serving at least two lines for every pair of airport, and getting almost all the cargos. "
+2012-12-05T12:08:05.792448+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"i c, erm, i find it possible, to get and transport all passengers, without creating backlogs"
+2012-12-05T12:08:34.702247+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,"ofc not right now, since the trains etc. aren't good enough yet "
+2012-12-05T12:08:48.502798+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,Drunken Train Transport,(well i could but would not be profitable to do so)
+2012-12-05T12:08:58.591884+00:00,sim128b[1487]:,disconnect,4,91.16.103.234,Jaridan
+2012-12-05T12:09:14.534335+00:00,sim128b[1487]:,connect,3,91.16.103.234,Jaridan
+2012-12-05T12:09:30.980669+00:00,sim128b[1487]:,disconnect,3,91.16.103.234,Jaridan
+2012-12-05T12:09:43.164686+00:00,sim128b[1487]:,connect,3,91.16.103.234,Jaridan
+2012-12-05T12:11:26.610464+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Joridan, I mean, in that way, you can get all, leaving nearly nothing to your competitors. :)"
+2012-12-05T12:11:44.341328+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,Drunken Train Transport,"y, i know^^"
+2012-12-05T12:11:51.678772+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Of course, I was playing only with AIs."
+2012-12-05T12:12:11.295721+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,Drunken Train Transport,"well, tbh, i never did it on a world wide basis"
+2012-12-05T12:12:27.957147+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,Drunken Train Transport,but for the cities i was paxing it is possible
+2012-12-05T12:12:54.206724+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Yes :)
+2012-12-05T12:12:57.302434+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,Drunken Train Transport,"oh, btw, you can't build undergound stations in this build (due to a bug, fixed in a nightly already)"
+2012-12-05T12:13:12.266732+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,Drunken Train Transport,"you can build underground railways, roads etc. though"
+2012-12-05T12:15:14.611359+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"But, maybe I cannot implement it here in this world, because you may be dislike my way in which I have to remove lots of urban houses to build the airports."
+2012-12-05T12:15:47.954827+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,Drunken Train Transport,:P you shouldnt worry about something like that
+2012-12-05T12:16:02.706594+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,Drunken Train Transport,"ofc you shouldnt paax cities, that are already being paxed by others"
+2012-12-05T12:16:19.178805+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,Drunken Train Transport,well you could ... but wouldn't be nice
+2012-12-05T12:17:50.771295+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,":D yes, not nice."
+2012-12-05T12:18:52.561908+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Thanks for the info about no subway stations.
+2012-12-05T12:19:09.553703+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,no problem ;)
+2012-12-05T12:19:32.447794+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Are you a developer of Simutrans ?
+2012-12-05T12:19:37.436679+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,nope
+2012-12-05T12:20:31.232073+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,But you are so familiar with it :)
+2012-12-05T12:20:32.544184+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,but you pick up how sme stuff works
+2012-12-05T12:20:38.753300+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,*some things
+2012-12-05T12:20:46.285195+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,well
+2012-12-05T12:21:05.373067+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,OK. :)
+2012-12-05T12:21:23.624659+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"see? you know it now aswell, and u aren't a developer either :P"
+2012-12-05T12:22:12.352794+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"ok, idk, cities are too small , sry, but i guess you'll  have to wait till some industry spawns"
+2012-12-05T12:22:28.734637+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,i was trying to get a company running with pax (offlne) but didnt quite work
+2012-12-05T12:28:45.292833+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,You are building new power lines. :) see it.
+2012-12-05T12:28:58.537142+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"well they are not really ""powerlines"""
+2012-12-05T12:29:51.575369+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Why?
+2012-12-05T12:29:54.549130+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"powerlines, doubletracks prevent a city from growing into that direction ( unless 1 or more houses are already on the other side, aswell, as a road going through the powerline, in that case city can/will still expand int hat direction)"
+2012-12-05T12:30:44.131589+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"i just placed em to prevent growth of the city in that direction , you can see the same thing in south west/bottom left of the map @ pelha,"
+2012-12-05T12:30:49.166241+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,*pelham
+2012-12-05T12:31:46.823444+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,I see. :)
+2012-12-05T12:33:32.378529+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"another , maybe useful, piece of information:"
+2012-12-05T12:34:14.203307+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"you can use train electrification for tram lines aswell, you don't necessarily have to use tram electrification, which has a higher maintenance"
+2012-12-05T12:35:07.861892+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,:) Thanks
+2012-12-05T12:35:46.231384+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,learned that in my first online game aswell xD
+2012-12-05T12:36:05.729675+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Good :)
+2012-12-05T12:36:28.207460+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"aswell: did you know that your headquarter, which you can build, also creates pax & mail?"
+2012-12-05T12:36:52.484907+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Oh, didnt know!"
+2012-12-05T12:36:58.950657+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,:)
+2012-12-05T12:37:13.201049+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"and something i learned (idk, this or last game)"
+2012-12-05T12:37:46.870837+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"to get full oax&mail out of a tourist attraction, you have to fully cover it, unlike factories "
+2012-12-05T12:39:43.651781+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Ohh, I never knew it! :)"
+2012-12-05T12:40:15.059206+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Is this a bug?
+2012-12-05T12:40:20.398961+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,hm?
+2012-12-05T12:40:23.858390+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,what?
+2012-12-05T12:41:14.993823+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Full covering v.s. single tile touching
+2012-12-05T12:41:25.597019+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,dont think its a bug
+2012-12-05T12:41:36.545436+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"because its easier to code, to use the same concept"
+2012-12-05T12:41:46.499957+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,but it makes sense
+2012-12-05T12:42:13.167877+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,think about how much maintenance it would take you for a factory which is 3 x 3 tiles
+2012-12-05T12:42:33.191706+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"well its not necessarily that much more, but it hinders station building greatly"
+2012-12-05T12:43:38.614262+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"if you want, you could take over this oil line from the oil yard to my refinery (343,308)"
+2012-12-05T12:44:13.015146+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Yes, interesting about the sense. "
+2012-12-05T12:44:33.042301+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"the idea is, for you to have something to start with :P"
+2012-12-05T12:44:55.388888+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,i'm making more than enough ;) (which doesnt mean i wont do any more fright lol )
+2012-12-05T12:45:01.998448+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Thanks, I will not take over your line :D"
+2012-12-05T12:45:30.466071+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,ok
+2012-12-05T12:46:14.868423+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"the city closest to 5k right now is cedar (33,155)"
+2012-12-05T12:46:35.436590+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"aswell as radcliff (165,14)"
+2012-12-05T12:47:43.205008+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Thanks for your hint :)
+2012-12-05T12:53:53.734097+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"well, i'm not sure if they'll spawn exactly as they hit 5k"
+2012-12-05T12:54:11.825503+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,it shouls though
+2012-12-05T12:57:39.069619+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,":) Yes, the factories dont come as what the Simutrans manual promised."
+2012-12-05T12:58:41.277852+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"depends, could also be starting vale of the city +x^y"
+2012-12-05T12:59:14.756875+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"In fact, I d like try to make some airlines, instead of industry ones."
+2012-12-05T12:59:40.340215+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"i'll  ask fifty(RF&P) once he's on, i think he knows "
+2012-12-05T12:59:50.140967+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"There is no airline yet in this world, right?"
+2012-12-05T13:00:18.524564+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,what do you mean by airline? no planes or that no one created an airline yet?
+2012-12-05T13:02:09.940806+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,there we go :D
+2012-12-05T13:02:29.125350+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Yes, no air routines."
+2012-12-05T13:03:38.997715+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"that's because not much is paxed yet, i guess"
+2012-12-05T13:04:00.970347+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"i'll deliver my pax by train anyway, though we should surely create a public interchange"
+2012-12-05T13:04:53.364257+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"well, rf&p and i plan to connect our systems @ purcellvill (250,81)"
+2012-12-05T13:05:20.028893+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"if you have cities u pax later , we could add an airport, so you can conect via planes"
+2012-12-05T13:05:32.715723+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Sure, we will make interchanges. :)"
+2012-12-05T13:05:41.511425+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,If I can survive :D
+2012-12-05T13:05:56.266706+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,why can't you survive?
+2012-12-05T13:06:37.925586+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"anyway, as you saw, industry spawned, if you want you could go ahead and deliver"
+2012-12-05T13:07:01.574137+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Wow, (250, 81) will be a great exchange."
+2012-12-05T13:07:12.462359+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,^^
+2012-12-05T13:08:07.739609+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"I mean, survive with only costly aircrafts. I love trains too, but aircrafts this time."
+2012-12-05T13:08:32.876509+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"well 1 at a time, and set wait to load to 100%"
+2012-12-05T13:08:49.239812+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"you should have some fright though, for some solid income"
+2012-12-05T13:08:54.576771+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,(imo=
+2012-12-05T13:09:00.933331+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,*(imo)
+2012-12-05T13:11:26.847348+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"I hope so, but it will be hard to wait, the maintenance costs dont wait."
+2012-12-05T13:12:04.650010+00:00,sim128b[1487]:,disconnect,3,91.16.103.234,Jaridan
+2012-12-05T13:12:16.443550+00:00,sim128b[1487]:,connect,3,91.16.103.234,Jaridan
+2012-12-05T13:12:45.883618+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"like i said, you should get some fright going , for some solid income"
+2012-12-05T13:13:02.594836+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"you wanna deliver the fuel to the , newly ,founded gas station?"
+2012-12-05T13:13:35.107080+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Where is it?
+2012-12-05T13:14:02.514564+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"The one your told me? "
+2012-12-05T13:14:07.425961+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"you can always, easily, check for new industry under city growth"
+2012-12-05T13:14:13.010703+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,that was an oil yard
+2012-12-05T13:14:25.053280+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"(324,266)"
+2012-12-05T13:15:11.090442+00:00,sim128b[1487]:,disconnect,3,91.16.103.234,Jaridan
+2012-12-05T13:15:24.439516+00:00,sim128b[1487]:,connect,3,91.16.103.234,Jaridan
+2012-12-05T13:15:38.101032+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Thanks. :) I forgot the rolling msg.
+2012-12-05T13:31:05.534930+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,so... you gonna deliver fuel to the fas station?
+2012-12-05T13:31:29.050822+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,*gas
+2012-12-05T13:31:56.530089+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"mmm, not yet, Please deliver it :)"
+2012-12-05T13:34:28.474489+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,I cannot build any tunnel ... strange.
+2012-12-05T13:34:35.122181+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,?
+2012-12-05T13:34:54.566975+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,where you trying to build a tunnel?
+2012-12-05T13:35:03.019312+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,*where are
+2012-12-05T13:35:22.658420+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"(254,265) for example"
+2012-12-05T13:35:45.494697+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,well
+2012-12-05T13:36:10.173003+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,well you need a roadtile to build a tunnel
+2012-12-05T13:36:32.870560+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,Oh... Thanks.
+2012-12-05T13:37:14.832534+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,you know how to build underground i presume? ( i mean that you can build tunnels that are not straight)
+2012-12-05T13:37:36.634921+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Yes, Ctrl+Click ?"
+2012-12-05T13:37:41.488041+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,y
+2012-12-05T13:37:50.144408+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,:)
+2012-12-05T13:40:25.165999+00:00,sim128b[1487]:,disconnect,2,111.161.8.10,Wouc
+2012-12-05T13:45:32.273163+00:00,sim128b[1487]:,connect,2,111.161.8.10,Wouc
+2012-12-05T13:51:57.018220+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Jaridan, I cannot build anything even after a new login :S "
+2012-12-05T13:52:21.185960+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,what do you mean?
+2012-12-05T13:52:37.572855+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,you DID build something
+2012-12-05T13:53:24.802104+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"i can see in your finances, that you did something"
+2012-12-05T13:53:47.273321+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Oh, here my construction comes, it was a heavy delayed from the server, I think."
+2012-12-05T13:53:54.881436+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,xD
+2012-12-05T13:54:07.208779+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,open the options menu>display
+2012-12-05T13:54:22.992734+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,opened ...
+2012-12-05T13:54:28.795427+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"what's it sy about fps, simloops ?"
+2012-12-05T13:54:33.182333+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,*say
+2012-12-05T13:54:41.488172+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,(@bottom)
+2012-12-05T13:55:11.623243+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,21 fps
+2012-12-05T13:55:32.950243+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,& simloops?
+2012-12-05T13:55:48.152448+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"simloops: 2.1 "
+2012-12-05T13:56:00.488699+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,where are you from?
+2012-12-05T13:56:13.577469+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,the server is located in the UK
+2012-12-05T13:56:15.199517+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,I am in China.
+2012-12-05T13:56:39.445827+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,^^
+2012-12-05T13:56:42.632938+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,:)
+2012-12-05T13:57:13.861498+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"OK, I will wait for the server response. :) Thanks."
+2012-12-05T13:58:21.663793+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"^^ , if you want you could check your ping by pinging the server: b.128.simutrans.entropy.me.uk"
+2012-12-05T13:59:36.557589+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,OK :) Let's enjoy.
+2012-12-05T13:59:55.804099+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,;)
+2012-12-05T14:00:23.838739+00:00,sim128b[1487]:,disconnect,3,91.16.103.234,Jaridan
+2012-12-05T14:00:33.838209+00:00,sim128b[1487]:,connect,3,91.16.103.234,Jaridan
+2012-12-05T14:03:00.447067+00:00,sim128b[1487]:,connect,4,178.201.227.14,Client#1
+2012-12-05T14:03:18.249839+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,hi
+2012-12-05T14:04:11.372679+00:00,sim128b[1487]:,disconnect,4,178.201.227.14,Client#1
+2012-12-05T14:05:28.818494+00:00,sim128b[1487]:,disconnect,2,111.161.8.10,Wouc
+2012-12-05T14:07:40.517602+00:00,sim128b[1487]:,connect,2,111.161.8.10,Wouc
+2012-12-05T14:07:54.765676+00:00,sim128b[1487]:,disconnect,2,111.161.8.10,Wouc
+2012-12-05T14:10:15.252300+00:00,sim128b[1487]:,connect,2,111.161.8.10,Wouc
+2012-12-05T14:13:28.579181+00:00,sim128b[1487]:,disconnect,2,111.161.8.10,Wouc
+2012-12-05T14:13:58.106086+00:00,sim128b[1487]:,connect,2,111.161.8.10,Wouc
+2012-12-05T14:14:39.424533+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,11,player 10,"(dont worry, bankrupt accounts free up after 2 years or so)"
+2012-12-05T14:19:59.751710+00:00,sim128b[1487]:,disconnect,2,111.161.8.10,Wouc
+2012-12-05T14:20:24.219789+00:00,sim128b[1487]:,connect,2,111.161.8.10,Wouc
+2012-12-05T14:21:23.026725+00:00,sim128b[1487]:,disconnect,2,111.161.8.10,Wouc
+2012-12-05T14:21:48.019420+00:00,sim128b[1487]:,connect,2,111.161.8.10,Wouc
+2012-12-05T14:31:10.639661+00:00,sim128b[1487]:,connect,4,85.53.207.178,Client#6
+2012-12-05T14:36:59.487546+00:00,sim128b[1487]:,disconnect,4,85.53.207.178,Client#6
+2012-12-05T15:01:17.123126+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,"Jaridan, the delay is too heavy, even for resale of the wrongly bought airplanes."
+2012-12-05T15:03:05.869004+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,9,Wouc,And I cannot adjust the line in realtime.
+2012-12-05T15:12:27.005756+00:00,sim128b[1487]:,disconnect,2,111.161.8.10,Wouc
+2012-12-05T15:15:38.814174+00:00,sim128b[1487]:,connect,2,111.161.8.10,Wouc
+2012-12-05T15:24:46.141567+00:00,sim128b[1487]:,disconnect,2,111.161.8.10,Wouc
+2012-12-05T15:25:08.712422+00:00,sim128b[1487]:,connect,2,111.161.8.10,Wouc
+2012-12-05T16:06:30.308928+00:00,sim128b[1487]:,connect,4,91.16.103.234,Jaridan
+2012-12-05T16:06:30.428065+00:00,sim128b[1487]:,disconnect,3,91.16.103.234,Jaridan
+2012-12-05T16:06:51.347090+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,15,,":/ "
+2012-12-05T16:12:08.095091+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,German Drunken Train Transport,"btw, i don't think transporting pax like this will be cost effective, the maintenance is just too high i think"
+2012-12-05T16:12:52.840477+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,10,Wouc,:) I am testing it.
+2012-12-05T16:13:40.640815+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,10,Wouc,filling some blank tiles.
+2012-12-05T16:14:02.621403+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,German Drunken Train Transport,"it ""could"" work, but the cities would have to be big enough i guess"
+2012-12-05T16:15:55.893788+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,10,Wouc,"Yes, OR the station coverage radius should be big enough."
+2012-12-05T16:16:39.556046+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,German Drunken Train Transport,"well, as you know, you can cover a whole city with 1 station"
+2012-12-05T16:16:43.143294+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,German Drunken Train Transport,no fun though
+2012-12-05T16:17:02.535422+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,10,Wouc,Yes.
+2012-12-05T16:19:08.846880+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,10,Wouc,"But, the more airports on the line, the more passengers waiting there."
+2012-12-05T16:19:30.240890+00:00,sim128b[1487]:,chat,4,91.16.103.234,Jaridan,7,German Drunken Train Transport,but the higher the maintenance cost aswell  (obviously :P)
+2012-12-05T16:19:51.957425+00:00,sim128b[1487]:,disconnect,4,91.16.103.234,Jaridan
+2012-12-05T16:20:09.175684+00:00,sim128b[1487]:,connect,3,91.16.103.234,Jaridan
+2012-12-05T16:20:23.778943+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,15,,"roughly 3 months, till you'r outta money"
+2012-12-05T16:21:32.946869+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,10,Wouc,"Sure, maintenance higher. But, in this way, I really got a global network :)"
+2012-12-05T16:22:37.087552+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,"? if you collect pax via trm/busses, send em to an airport right out of the city, and from there have planes fly to an airport where planes from other cities connect aswell"
+2012-12-05T16:22:52.506344+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,aint that global aswell? transporting pax to a hub
+2012-12-05T16:23:13.255722+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,10,Wouc,"Initially, a multi-airport line, when get net wealth enough, pair the airports with the shortest lines."
+2012-12-05T16:25:58.170667+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,10,Wouc,"Yes, the normal way uses the airports as hubs. But, my goal is a point-to-point trans sys."
+2012-12-05T16:28:04.525955+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,10,Wouc,Die out soon :P
+2012-12-05T16:31:29.155597+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,10,Wouc,"Anyway, I was coming online to test and find out whether the air-network can absorb most pax/cargo from well tuned stations of human players. "
+2012-12-05T16:33:09.777726+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,10,Wouc,"So, it will be a looong runing before the result, since we can not fast forward the online gaming."
+2012-12-05T16:34:50.386402+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,10,Wouc,"Maybe I should save this map with your great rail-network, and test more offline. "
+2012-12-05T16:39:04.034694+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,10,Wouc,"OK, I am dead now."
+2012-12-05T16:40:44.887947+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,10,Wouc,"Well, Thank you Jaridan for your nice tips. And you have built a great railway network."
+2012-12-05T16:43:17.487416+00:00,sim128b[1487]:,chat,2,111.161.8.10,Wouc,10,Wouc,Keep enjoying the game. See you ...
+2012-12-05T16:44:23.620424+00:00,sim128b[1487]:,disconnect,2,111.161.8.10,Wouc
+2012-12-05T16:44:59.285013+00:00,sim128b[1487]:,connect,2,111.161.8.10,Wouc
+2012-12-05T16:46:28.651543+00:00,sim128b[1487]:,disconnect,2,111.161.8.10,Wouc
+2012-12-05T16:54:29.481285+00:00,sim128b[1487]:,chat,3,91.16.103.234,Jaridan,7,German Drunken Train Transport,cya
+2012-12-05T19:05:11.019049+00:00,sim128b[1487]:,connect,2,91.16.103.234,Jaridan
+2012-12-05T21:02:18.022361+00:00,sim128b[1487]:,disconnect,2,91.16.103.234,Jaridan
+2012-12-05T21:02:18.022612+00:00,sim128b[1487]:,disconnect,3,91.16.103.234,Jaridan
+2012-12-05T21:02:28.610310+00:00,sim128b[1487]:,connect,4,98.141.195.201,Fifty
+2012-12-05T21:15:40.458700+00:00,sim128b[1487]:,connect,2,98.141.195.201,Fifty
+2012-12-05T21:36:56.593120+00:00,sim128b[1487]:,connect,3,134.2.166.8,Jaridan
+2012-12-05T21:50:00.424871+00:00,sim128b[1487]:,connect,5,71.200.128.99,Benjad
+2012-12-05T21:50:00.554087+00:00,sim128b[1487]:,disconnect,2,98.141.195.201,Fifty
+2012-12-05T21:50:00.554141+00:00,sim128b[1487]:,disconnect,4,98.141.195.201,Fifty
+2012-12-05T21:50:19.643302+00:00,sim128b[1487]:,chat,3,134.2.166.8,Jaridan,7,German Drunken Train Transport,you here fifty?
+2012-12-05T21:53:52.232560+00:00,sim128b[1487]:,disconnect,3,134.2.166.8,Jaridan
+2012-12-05T21:54:03.756568+00:00,sim128b[1487]:,connect,2,134.2.166.8,Jaridan
+2012-12-05T21:59:02.336786+00:00,sim128b[1487]:,connect,3,71.200.128.99,Client#3
+2012-12-05T22:07:06.461931+00:00,sim128b[1487]:,disconnect,5,71.200.128.99,Benjad
+2012-12-05T22:18:44.223114+00:00,sim128b[1487]:,disconnect,3,71.200.128.99,Client#3
+2012-12-05T22:50:21.376176+00:00,sim128b[1487]:,connect,3,188.6.192.97,HDomos
+2012-12-05T22:54:25.420852+00:00,sim128b[1487]:,disconnect,2,134.2.166.8,Jaridan
+2012-12-05T22:54:25.421083+00:00,sim128b[1487]:,disconnect,3,188.6.192.97,HDomos

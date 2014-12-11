@@ -1,0 +1,161 @@
+2013-01-25T01:21:01.117920+00:00,sim128b[1836]:,onnect,2,71.200.128.99,Benjad
+2013-01-25T02:38:15.853921+00:00,sim128b[1836]:,isconnect,2,71.200.128.99,Benjad
+2013-01-25T02:38:22.346496+00:00,sim128b[1836]:,onnect,3,69.138.176.94,Fifty
+2013-01-25T03:02:07.313700+00:00,sim128b[1836]:,isconnect,3,69.138.176.94,Fifty
+2013-01-25T03:31:30.272007+00:00,sim128b[1836]:,onnect,2,69.138.176.94,Fifty
+2013-01-25T05:26:09.981410+00:00,sim128b[1836]:,onnect,3,220.245.52.25,Client#55
+2013-01-25T05:41:27.405488+00:00,sim128b[1836]:,onnect,4,220.245.52.25,Client#55
+2013-01-25T05:45:22.227585+00:00,sim128b[1836]:,isconnect,2,69.138.176.94,Fifty
+2013-01-25T05:45:22.227623+00:00,sim128b[1836]:,isconnect,3,220.245.52.25,Client#55
+2013-01-25T05:45:22.227654+00:00,sim128b[1836]:,isconnect,4,220.245.52.25,Client#55
+2013-01-25T05:46:19.343578+00:00,sim128b[1836]:,onnect,5,220.245.52.25,Client#55
+2013-01-25T05:53:33.253841+00:00,sim128b[1836]:,isconnect,5,220.245.52.25,Client#55
+2013-01-25T05:53:52.637853+00:00,sim128b[1836]:,onnect,2,220.245.52.25,Client#55
+2013-01-25T05:55:00.004820+00:00,sim128b[1836]:,isconnect,2,220.245.52.25,Client#55
+2013-01-25T05:55:39.775037+00:00,sim128b[1836]:,onnect,2,220.245.52.25,Client#55
+2013-01-25T05:57:46.035665+00:00,sim128b[1836]:,onnect,3,220.245.52.25,Client#55
+2013-01-25T05:59:22.490489+00:00,sim128b[1836]:,isconnect,2,220.245.52.25,Client#55
+2013-01-25T05:59:22.490528+00:00,sim128b[1836]:,isconnect,3,220.245.52.25,Client#55
+2013-01-25T06:00:00.940384+00:00,sim128b[1836]:,onnect,4,220.245.52.25,Client#55
+2013-01-25T06:03:14.525563+00:00,sim128b[1836]:,isconnect,4,220.245.52.25,Client#55
+2013-01-25T06:03:36.028230+00:00,sim128b[1836]:,onnect,2,220.245.52.25,Client#55
+2013-01-25T06:06:04.708345+00:00,sim128b[1836]:,onnect,3,220.245.52.25,Client#55
+2013-01-25T06:09:06.484596+00:00,sim128b[1836]:,onnect,4,220.245.52.25,Client#55
+2013-01-25T06:16:41.510803+00:00,sim128b[1836]:,isconnect,2,220.245.52.25,Client#55
+2013-01-25T06:16:41.510834+00:00,sim128b[1836]:,isconnect,3,220.245.52.25,Client#55
+2013-01-25T06:16:41.510858+00:00,sim128b[1836]:,isconnect,4,220.245.52.25,Client#55
+2013-01-25T06:17:24.887341+00:00,sim128b[1836]:,onnect,5,220.245.52.25,Client#55
+2013-01-25T06:20:06.973773+00:00,sim128b[1836]:,isconnect,5,220.245.52.25,Client#55
+2013-01-25T06:23:20.949597+00:00,sim128b[1836]:,onnect,2,220.245.52.25,Client#55
+2013-01-25T06:26:06.184689+00:00,sim128b[1836]:,onnect,3,220.245.52.25,Client#55
+2013-01-25T06:36:43.233624+00:00,sim128b[1836]:,onnect,4,220.245.52.25,Client#55
+2013-01-25T06:39:33.236788+00:00,sim128b[1836]:,isconnect,2,220.245.52.25,Client#55
+2013-01-25T06:39:33.236907+00:00,sim128b[1836]:,isconnect,3,220.245.52.25,Client#55
+2013-01-25T06:39:33.237008+00:00,sim128b[1836]:,isconnect,4,220.245.52.25,Client#55
+2013-01-25T06:40:05.915549+00:00,sim128b[1836]:,onnect,5,220.245.52.25,Client#55
+2013-01-25T06:40:56.867535+00:00,sim128b[1836]:,isconnect,5,220.245.52.25,Client#55
+2013-01-25T06:41:25.409697+00:00,sim128b[1836]:,onnect,2,220.245.52.25,Client#55
+2013-01-25T06:45:51.969798+00:00,sim128b[1836]:,onnect,3,220.245.52.25,Client#55
+2013-01-25T06:47:18.367475+00:00,sim128b[1836]:,onnect,4,220.245.52.25,Client#55
+2013-01-25T06:52:39.444558+00:00,sim128b[1836]:,onnect,5,220.245.52.25,Client#55
+2013-01-25T07:25:56.332010+00:00,sim128b[1836]:,isconnect,2,220.245.52.25,Client#55
+2013-01-25T07:25:56.332036+00:00,sim128b[1836]:,isconnect,3,220.245.52.25,Client#55
+2013-01-25T07:25:56.332060+00:00,sim128b[1836]:,isconnect,4,220.245.52.25,Client#55
+2013-01-25T07:25:56.332088+00:00,sim128b[1836]:,isconnect,5,220.245.52.25,Client#55
+2013-01-25T07:54:31.680751+00:00,sim128b[1836]:,onnect,2,220.245.52.25,Client#55
+2013-01-25T08:05:54.207236+00:00,sim128b[1836]:,isconnect,2,220.245.52.25,Client#55
+2013-01-25T08:14:28.541670+00:00,sim128b[1836]:,onnect,2,220.245.52.25,Client#55
+2013-01-25T08:17:41.833400+00:00,sim128b[1836]:,hat,2,220.245.52.25,Client#55,13,BigBear Industries,"RF&P - check signs @ (148,206)"
+2013-01-25T08:18:14.280972+00:00,sim128b[1836]:,hat,2,220.245.52.25,Client#55,13,BigBear Industries,"Planet Express - u can remove sign @ (157,182) - i will supply plastic"
+2013-01-25T08:21:24.508340+00:00,sim128b[1836]:,isconnect,2,220.245.52.25,Client#55
+2013-01-25T08:21:46.995358+00:00,sim128b[1836]:,onnect,2,220.245.52.25,Client#55
+2013-01-25T08:22:55.517943+00:00,sim128b[1836]:,onnect,3,220.245.52.25,Client#55
+2013-01-25T08:28:48.354839+00:00,sim128b[1836]:,onnect,4,220.245.52.25,Client#55
+2013-01-25T08:31:37.497856+00:00,sim128b[1836]:,onnect,5,220.245.52.25,Client#55
+2013-01-25T08:36:05.042646+00:00,sim128b[1836]:,onnect,6,220.245.52.25,Client#55
+2013-01-25T08:37:34.571899+00:00,sim128b[1836]:,isconnect,2,220.245.52.25,Client#55
+2013-01-25T08:37:34.572040+00:00,sim128b[1836]:,isconnect,3,220.245.52.25,Client#55
+2013-01-25T08:37:34.573276+00:00,sim128b[1836]:,isconnect,4,220.245.52.25,Client#55
+2013-01-25T08:37:34.573347+00:00,sim128b[1836]:,isconnect,5,220.245.52.25,Client#55
+2013-01-25T08:37:34.573425+00:00,sim128b[1836]:,isconnect,6,220.245.52.25,Client#55
+2013-01-25T08:37:52.250230+00:00,sim128b[1836]:,onnect,2,220.245.52.25,Client#55
+2013-01-25T08:44:10.137874+00:00,sim128b[1836]:,isconnect,2,220.245.52.25,Client#55
+2013-01-25T08:44:47.475853+00:00,sim128b[1836]:,onnect,2,220.245.52.25,Client#55
+2013-01-25T08:45:45.283732+00:00,sim128b[1836]:,onnect,3,220.245.52.25,Client#55
+2013-01-25T08:56:01.639128+00:00,sim128b[1836]:,isconnect,2,220.245.52.25,Client#55
+2013-01-25T08:56:01.639164+00:00,sim128b[1836]:,isconnect,3,220.245.52.25,Client#55
+2013-01-25T08:56:15.409731+00:00,sim128b[1836]:,onnect,4,220.245.52.25,Client#55
+2013-01-25T09:18:45.477784+00:00,sim128b[1836]:,onnect,2,220.245.52.25,Client#55
+2013-01-25T09:41:03.646843+00:00,sim128b[1836]:,onnect,3,62.238.177.205,Client#6
+2013-01-25T09:41:03.817805+00:00,sim128b[1836]:,isconnect,4,220.245.52.25,Client#55
+2013-01-25T09:42:49.554907+00:00,sim128b[1836]:,onnect,4,62.238.177.205,Client#7
+2013-01-25T09:45:35.321072+00:00,sim128b[1836]:,isconnect,2,220.245.52.25,Client#55
+2013-01-25T09:46:12.232871+00:00,sim128b[1836]:,onnect,2,220.245.52.25,Client#55
+2013-01-25T09:46:18.878811+00:00,sim128b[1836]:,isconnect,4,62.238.177.205,Client#7
+2013-01-25T09:48:28.640835+00:00,sim128b[1836]:,isconnect,2,220.245.52.25,Client#55
+2013-01-25T09:48:58.636391+00:00,sim128b[1836]:,onnect,2,220.245.52.25,Client#55
+2013-01-25T10:01:04.122653+00:00,sim128b[1836]:,isconnect,3,62.238.177.205,Client#6
+2013-01-25T12:36:53.242032+00:00,sim128b[1836]:,onnect,3,220.245.52.25,Client#55
+2013-01-25T13:04:47.195146+00:00,sim128b[1836]:,onnect,4,62.238.177.205,Client#6
+2013-01-25T13:04:47.367177+00:00,sim128b[1836]:,isconnect,2,220.245.52.25,Client#55
+2013-01-25T13:17:51.360976+00:00,sim128b[1836]:,isconnect,3,220.245.52.25,Client#55
+2013-01-25T13:30:54.561616+00:00,sim128b[1836]:,isconnect,4,62.238.177.205,Client#6
+2013-01-25T13:32:41.540200+00:00,sim128b[1836]:,onnect,2,62.238.177.205,Client#6
+2013-01-25T14:29:58.147681+00:00,sim128b[1836]:,isconnect,2,62.238.177.205,Client#6
+2013-01-25T14:30:11.797978+00:00,sim128b[1836]:,onnect,2,62.238.177.205,Client#6
+2013-01-25T14:39:27.027908+00:00,sim128b[1836]:,isconnect,2,62.238.177.205,Client#6
+2013-01-25T14:39:35.234779+00:00,sim128b[1836]:,onnect,3,62.238.177.205,Client#6
+2013-01-25T14:41:36.293609+00:00,sim128b[1836]:,isconnect,3,62.238.177.205,Client#6
+2013-01-25T14:41:45.051785+00:00,sim128b[1836]:,onnect,2,62.238.177.205,Client#6
+2013-01-25T14:53:29.489787+00:00,sim128b[1836]:,isconnect,2,62.238.177.205,Client#6
+2013-01-25T14:53:38.933066+00:00,sim128b[1836]:,onnect,3,62.238.177.205,Client#6
+2013-01-25T14:59:11.399437+00:00,sim128b[1836]:,onnect,2,62.238.177.205,Client#6
+2013-01-25T15:02:51.398506+00:00,sim128b[1836]:,onnect,4,62.238.177.205,Client#6
+2013-01-25T16:36:45.090824+00:00,sim128b[1836]:,onnect,5,62.238.177.205,Client#6
+2013-01-25T16:39:16.220465+00:00,sim128b[1836]:,isconnect,2,62.238.177.205,Client#6
+2013-01-25T16:39:16.220501+00:00,sim128b[1836]:,isconnect,3,62.238.177.205,Client#6
+2013-01-25T16:39:16.220523+00:00,sim128b[1836]:,isconnect,4,62.238.177.205,Client#6
+2013-01-25T16:39:16.220543+00:00,sim128b[1836]:,isconnect,5,62.238.177.205,Client#6
+2013-01-25T17:25:59.333490+00:00,sim128b[1836]:,onnect,2,62.238.177.205,Client#6
+2013-01-25T17:50:00.494147+00:00,sim128b[1836]:,onnect,3,62.238.177.205,Client#6
+2013-01-25T18:42:27.835608+00:00,sim128b[1836]:,onnect,4,69.138.176.94,Fifty
+2013-01-25T19:16:49.143091+00:00,sim128b[1836]:,onnect,5,69.138.176.94,Fifty
+2013-01-25T21:13:29.960958+00:00,sim128b[1836]:,onnect,6,71.200.128.99,Benjad
+2013-01-25T21:13:30.051719+00:00,sim128b[1836]:,isconnect,2,62.238.177.205,Client#6
+2013-01-25T21:13:30.051860+00:00,sim128b[1836]:,isconnect,3,62.238.177.205,Client#6
+2013-01-25T21:13:30.051973+00:00,sim128b[1836]:,isconnect,4,69.138.176.94,Fifty
+2013-01-25T21:27:53.300656+00:00,sim128b[1836]:,onnect,2,62.238.177.205,Client#6
+2013-01-25T21:32:35.473898+00:00,sim128b[1836]:,hat,6,71.200.128.99,Benjad,6,Planet Express,"Just checking in on things.  @Fifty... you are a masteful builder.  I can't even imagine the things you are doing right now.   "
+2013-01-25T21:33:14.346489+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,thanks :) what makes you say that?
+2013-01-25T21:34:19.815138+00:00,sim128b[1836]:,hat,6,71.200.128.99,Benjad,6,Planet Express,"When I look at all these industries, I just say, no way I can string a line out to them.  You are connecting them with ease."
+2013-01-25T21:36:04.398462+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,"for me that's what makes this game so mentally stimulating- figuring out a way to make all of these crazy connections "
+2013-01-25T21:36:54.794491+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,"obviously, i do a lot of pre-planning too :)"
+2013-01-25T21:37:13.816443+00:00,sim128b[1836]:,hat,6,71.200.128.99,Benjad,6,Planet Express,I can tell by having so many different cars on each train
+2013-01-25T21:39:01.064327+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,"oh, i've put transformers on some powerplants in the northwest, but i figure you'll eventually take them"
+2013-01-25T21:39:38.590334+00:00,sim128b[1836]:,hat,6,71.200.128.99,Benjad,6,Planet Express,"Just let me know.  Since you are running the industries, you will need them"
+2013-01-25T21:40:05.303141+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,I figure you can run power in the northwest and I can do southeast for the most part
+2013-01-25T21:40:25.553506+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,"of c, also depends on big bear"
+2013-01-25T21:40:52.480930+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,"if he's the player I think he is, he likes to string powerlines wildly across the map"
+2013-01-25T21:40:58.297545+00:00,sim128b[1836]:,hat,6,71.200.128.99,Benjad,6,Planet Express,"true.  There is also a coal mine line of yours I'm trying to figure out how it works, but I can't find it at teh moment."
+2013-01-25T21:41:15.950938+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,(though he's a good player
+2013-01-25T21:41:19.034467+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,where?
+2013-01-25T21:41:41.997309+00:00,sim128b[1836]:,hat,6,71.200.128.99,Benjad,6,Planet Express,its a steel mill with one line leading into 3 platforms.. with a 2 way platform choose signal
+2013-01-25T21:42:31.063980+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,? coords?
+2013-01-25T21:42:44.351351+00:00,sim128b[1836]:,hat,6,71.200.128.99,Benjad,6,Planet Express,im trying to find it...
+2013-01-25T21:44:46.792225+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,"are you talking about @204,101"
+2013-01-25T21:47:01.220669+00:00,sim128b[1836]:,hat,6,71.200.128.99,Benjad,6,Planet Express,"Nope, oh well, I can't seem to find it... might have been somewhere else.. it was a crazy little design, that from what I know should have locked up"
+2013-01-25T21:47:26.991694+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,"well, i've done a lot of building today, it might be gone"
+2013-01-25T21:47:50.387514+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,but I don't think there are many choose signals on this network
+2013-01-25T21:48:10.704545+00:00,sim128b[1836]:,hat,6,71.200.128.99,Benjad,6,Planet Express,"it was single track into a steel mill, that had 3 platforms... so trains leaving the mill hit the choose signal again, and it should have jammed not being able reserve all teh way to next station"
+2013-01-25T21:48:37.464328+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,"ah, that was on the bankrupt green player's line"
+2013-01-25T21:48:43.736499+00:00,sim128b[1836]:,hat,6,71.200.128.99,Benjad,6,Planet Express,quite possible.  I was wondering how it worked... if it did.
+2013-01-25T21:48:52.637180+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,and it was a fluke that it worked
+2013-01-25T21:49:02.600772+00:00,sim128b[1836]:,hat,6,71.200.128.99,Benjad,6,Planet Express,Haaa// thats prob why
+2013-01-25T21:49:33.389070+00:00,sim128b[1836]:,hat,6,71.200.128.99,Benjad,6,Planet Express,"Yeah, it looked like everything could work ... but it could also jam REAL easily!"
+2013-01-25T21:50:31.585099+00:00,sim128b[1836]:,hat,5,69.138.176.94,Fifty,12,RF&P,"the reason why it worked was because there were only 2 trains, so it did not lock up trying to reserve a route back"
+2013-01-25T21:51:12.337262+00:00,sim128b[1836]:,hat,6,71.200.128.99,Benjad,6,Planet Express,bc there were enough platforms...   it was weird to see
+2013-01-25T21:53:14.189663+00:00,sim128b[1836]:,isconnect,6,71.200.128.99,Benjad
+2013-01-25T21:59:38.187989+00:00,sim128b[1836]:,isconnect,2,62.238.177.205,Client#6
+2013-01-25T21:59:47.401072+00:00,sim128b[1836]:,onnect,2,62.238.177.205,Client#6
+2013-01-25T22:00:08.141720+00:00,sim128b[1836]:,isconnect,2,62.238.177.205,Client#6
+2013-01-25T22:00:08.768115+00:00,sim128b[1836]:,isconnect,5,69.138.176.94,Fifty
+2013-01-25T22:00:18.015300+00:00,sim128b[1836]:,onnect,2,62.238.177.205,Client#6
+2013-01-25T22:00:28.284851+00:00,sim128b[1836]:,onnect,3,69.138.176.94,Fifty
+2013-01-25T22:00:41.615651+00:00,sim128b[1836]:,isconnect,2,62.238.177.205,Client#6
+2013-01-25T22:00:52.372725+00:00,sim128b[1836]:,onnect,2,62.238.177.205,Client#6
+2013-01-25T22:00:58.621852+00:00,sim128b[1836]:,onnect,4,69.138.176.94,Fifty
+2013-01-25T22:00:58.674132+00:00,sim128b[1836]:,isconnect,3,69.138.176.94,Fifty
+2013-01-25T22:01:00.311719+00:00,sim128b[1836]:,hat,2,62.238.177.205,Client#6,15,,Whats happening?
+2013-01-25T22:01:17.228133+00:00,sim128b[1836]:,isconnect,2,62.238.177.205,Client#6
+2013-01-25T22:01:27.654166+00:00,sim128b[1836]:,onnect,2,69.138.176.94,Fifty
+2013-01-25T22:01:47.011729+00:00,sim128b[1836]:,hat,2,69.138.176.94,Fifty,15,,"dunno, desyncs"
+2013-01-25T22:01:59.254037+00:00,sim128b[1836]:,onnect,3,62.238.177.205,Client#6
+2013-01-25T22:02:11.817888+00:00,sim128b[1836]:,onnect,5,69.138.176.94,Fifty
+2013-01-25T22:02:11.989696+00:00,sim128b[1836]:,isconnect,2,69.138.176.94,Fifty
+2013-01-25T22:02:11.989761+00:00,sim128b[1836]:,isconnect,4,69.138.176.94,Fifty
+2013-01-25T22:02:26.065948+00:00,sim128b[1836]:,isconnect,3,62.238.177.205,Client#6
+2013-01-25T22:03:44.622012+00:00,sim128b[1836]:,onnect,2,69.138.176.94,Fifty
+2013-01-25T23:15:21.478994+00:00,sim128b[1836]:,onnect,3,95.103.196.250,Client#5
+2013-01-25T23:15:41.725154+00:00,sim128b[1836]:,isconnect,2,69.138.176.94,Fifty
+2013-01-25T23:15:41.725176+00:00,sim128b[1836]:,isconnect,3,95.103.196.250,Client#5
+2013-01-25T23:15:41.725198+00:00,sim128b[1836]:,isconnect,5,69.138.176.94,Fifty

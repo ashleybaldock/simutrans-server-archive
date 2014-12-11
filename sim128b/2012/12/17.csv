@@ -1,0 +1,56 @@
+2012-12-17T00:56:22.315047+00:00,sim128b[12837]:,connect,2,88.165.36.112,Client#2
+2012-12-17T01:57:28.485223+00:00,sim128b[12837]:,disconnect,2,88.165.36.112,Client#2
+2012-12-17T01:57:28.485253+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-17T01:57:37.232658+00:00,sim128b[12837]:,connect,4,69.138.176.94,Fifty
+2012-12-17T02:26:05.922272+00:00,sim128b[12837]:,connect,2,71.200.128.99,benjad
+2012-12-17T02:36:07.973316+00:00,sim128b[12837]:,disconnect,2,71.200.128.99,benjad
+2012-12-17T02:36:23.217907+00:00,sim128b[12837]:,connect,2,71.200.128.99,benjad
+2012-12-17T02:42:23.837334+00:00,sim128b[12837]:,disconnect,2,71.200.128.99,benjad
+2012-12-17T02:42:41.164479+00:00,sim128b[12837]:,connect,2,71.200.128.99,benjad
+2012-12-17T02:46:38.616118+00:00,sim128b[12837]:,disconnect,4,69.138.176.94,Fifty
+2012-12-17T08:05:51.369169+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-17T08:29:34.782176+00:00,sim128b[12837]:,disconnect,2,71.200.128.99,benjad
+2012-12-17T08:29:34.782199+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-17T10:11:50.983302+00:00,sim128b[12837]:,connect,2,88.165.36.112,Client#2
+2012-12-17T10:20:36.747399+00:00,sim128b[12837]:,connect,3,91.16.84.131,Jaridan
+2012-12-17T10:21:21.377679+00:00,sim128b[12837]:,chat,3,91.16.84.131,Jaridan,7,"German Drunken Train Transport we live @ (-3) ",hi playtosor
+2012-12-17T10:21:40.939890+00:00,sim128b[12837]:,chat,2,88.165.36.112,Client#2,14,playtosor,hello Jaridan
+2012-12-17T10:29:05.660223+00:00,sim128b[12837]:,chat,3,91.16.84.131,Jaridan,7,"German Drunken Train Transport we live @ (-3) ",yo mate i need your help
+2012-12-17T10:29:15.850783+00:00,sim128b[12837]:,chat,2,88.165.36.112,Client#2,14,playtosor,tell me
+2012-12-17T10:29:32.168928+00:00,sim128b[12837]:,chat,3,91.16.84.131,Jaridan,7,"German Drunken Train Transport we live @ (-3) ","could you  move it one tile to the east @409,331"
+2012-12-17T10:29:50.805690+00:00,sim128b[12837]:,chat,3,91.16.84.131,Jaridan,7,"German Drunken Train Transport we live @ (-3) ",otherwise my staation would cover your glass mill and coal and sandwould be rerouted there aswell
+2012-12-17T10:30:11.081603+00:00,sim128b[12837]:,chat,2,88.165.36.112,Client#2,14,playtosor,"btw @172,476 needs PAX, i can fly some if you can't do it yourself"
+2012-12-17T10:30:59.790914+00:00,sim128b[12837]:,chat,2,88.165.36.112,Client#2,14,playtosor,liek this is ok ?
+2012-12-17T10:31:05.574607+00:00,sim128b[12837]:,chat,3,91.16.84.131,Jaridan,7,"German Drunken Train Transport we live @ (-3) ","y, thx"
+2012-12-17T10:33:31.425729+00:00,sim128b[12837]:,chat,3,91.16.84.131,Jaridan,7,"German Drunken Train Transport we live @ (-3) ",done
+2012-12-17T10:34:15.739749+00:00,sim128b[12837]:,chat,2,88.165.36.112,Client#2,14,playtosor,thanks
+2012-12-17T10:39:02.821535+00:00,sim128b[12837]:,chat,2,88.165.36.112,Client#2,14,playtosor,"@277,321 what happened there ?"
+2012-12-17T10:39:14.352400+00:00,sim128b[12837]:,chat,3,91.16.84.131,Jaridan,7,"German Drunken Train Transport we live @ (-3) ",hehe^^
+2012-12-17T10:39:47.952221+00:00,sim128b[12837]:,chat,2,88.165.36.112,Client#2,14,playtosor,lol I see :D
+2012-12-17T10:40:12.566998+00:00,sim128b[12837]:,chat,3,91.16.84.131,Jaridan,7,"German Drunken Train Transport we live @ (-3) ","nothing that major, it was @ the beginning of the game , and some accounts that were in the red all the time we bringing the iron to some steel fac"
+2012-12-17T10:41:06.198230+00:00,sim128b[12837]:,chat,3,91.16.84.131,Jaridan,7,"German Drunken Train Transport we live @ (-3) ","then after they got bankrupted fifty started to deliver the iron ore , it is to , aswell, that 1 guy had a few pretty huge lines , where fifties mainline there is now"
+2012-12-17T10:41:54.814446+00:00,sim128b[12837]:,chat,3,91.16.84.131,Jaridan,7,"German Drunken Train Transport we live @ (-3) ","while fifty was building his main line the other guy came back and built tracks to block fifty here @383,307"
+2012-12-17T10:42:39.457699+00:00,sim128b[12837]:,chat,3,91.16.84.131,Jaridan,7,"German Drunken Train Transport we live @ (-3) ","he started to make a station @ the iron ore mine aswell, not responding and later just writing in signs, to finally reply"
+2012-12-17T10:42:50.452827+00:00,sim128b[12837]:,chat,2,88.165.36.112,Client#2,14,playtosor,oh I see
+2012-12-17T10:42:58.846735+00:00,sim128b[12837]:,chat,3,91.16.84.131,Jaridan,7,"German Drunken Train Transport we live @ (-3) ",saying he owned all of that before etc.
+2012-12-17T10:43:26.236174+00:00,sim128b[12837]:,chat,3,91.16.84.131,Jaridan,7,"German Drunken Train Transport we live @ (-3) ","well he was pretty unsociable, unresponsive :P and went bankrupt again and wasn't seen ever since xxD"
+2012-12-17T10:43:47.897998+00:00,sim128b[12837]:,chat,2,88.165.36.112,Client#2,14,playtosor,lol good ridance :)
+2012-12-17T10:44:06.201622+00:00,sim128b[12837]:,chat,3,91.16.84.131,Jaridan,7,"German Drunken Train Transport we live @ (-3) ",i thought it was worthy of keeping a sign in memory :D
+2012-12-17T10:44:21.903175+00:00,sim128b[12837]:,chat,2,88.165.36.112,Client#2,14,playtosor,hehe
+2012-12-17T10:46:02.758347+00:00,sim128b[12837]:,disconnect,2,88.165.36.112,Client#2
+2012-12-17T10:46:18.358249+00:00,sim128b[12837]:,connect,2,91.16.84.131,Jaridan
+2012-12-17T10:46:29.082221+00:00,sim128b[12837]:,connect,4,88.165.36.112,Client#2
+2012-12-17T10:46:29.193451+00:00,sim128b[12837]:,disconnect,3,91.16.84.131,Jaridan
+2012-12-17T10:47:47.853242+00:00,sim128b[12837]:,disconnect,4,88.165.36.112,Client#2
+2012-12-17T10:48:04.136298+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-17T11:06:06.068657+00:00,sim128b[12837]:,disconnect,2,91.16.84.131,Jaridan
+2012-12-17T11:06:21.506433+00:00,sim128b[12837]:,connect,2,91.16.84.131,Jaridan
+2012-12-17T11:06:29.722690+00:00,sim128b[12837]:,disconnect,2,91.16.84.131,Jaridan
+2012-12-17T11:09:30.205567+00:00,sim128b[12837]:,connect,2,91.16.84.131,Jaridan
+2012-12-17T11:13:45.499510+00:00,sim128b[12837]:,disconnect,2,91.16.84.131,Jaridan
+2012-12-17T11:14:07.848481+00:00,sim128b[12837]:,connect,2,91.16.84.131,Jaridan
+2012-12-17T11:15:02.667839+00:00,sim128b[12837]:,disconnect,2,91.16.84.131,Jaridan
+2012-12-17T23:09:10.785819+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-17T23:09:21.968580+00:00,sim128b[12837]:,connect,2,91.16.72.8,Jaridan
+2012-12-17T23:44:44.091561+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-17T23:46:14.353999+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,hi there :)

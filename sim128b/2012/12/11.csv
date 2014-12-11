@@ -1,0 +1,160 @@
+2012-12-11T01:12:13.875604+00:00,sim128b[1432]:,connect,2,69.140.220.127,Client#2
+2012-12-11T01:17:02.764659+00:00,sim128b[1432]:,disconnect,2,69.140.220.127,Client#2
+2012-12-11T01:17:02.764772+00:00,sim128b[1432]:,disconnect,4,91.16.106.151,Client#3
+2012-12-11T01:53:53.670121+00:00,sim128b[1432]:,connect,2,91.16.106.151,Client#3
+2012-12-11T02:25:36.402769+00:00,sim128b[1432]:,connect,3,110.137.144.187,Client#2
+2012-12-11T02:29:16.329618+00:00,sim128b[1432]:,disconnect,3,110.137.144.187,Client#2
+2012-12-11T02:36:52.338672+00:00,sim128b[1432]:,disconnect,2,91.16.106.151,Client#3
+2012-12-11T02:36:59.093238+00:00,sim128b[1432]:,connect,3,71.200.128.99,benjad
+2012-12-11T02:49:55.665443+00:00,sim128b[1432]:,connect,2,98.141.195.201,Fifty
+2012-12-11T02:58:24.429990+00:00,sim128b[1432]:,connect,4,71.200.128.99,benjad
+2012-12-11T02:58:24.483772+00:00,sim128b[1432]:,disconnect,2,98.141.195.201,Fifty
+2012-12-11T02:58:24.483953+00:00,sim128b[1432]:,disconnect,3,71.200.128.99,benjad
+2012-12-11T02:59:34.222288+00:00,sim128b[1432]:,connect,2,98.141.195.201,Fifty
+2012-12-11T03:05:37.134389+00:00,sim128b[1432]:,chat,4,71.200.128.99,benjad,9,Planet Express,"@Jaridan... I have to update pax line.  Could you electrify to/from capitola, and make the platform longer.  "
+2012-12-11T03:11:22.350593+00:00,sim128b[1432]:,disconnect,4,71.200.128.99,benjad
+2012-12-11T03:12:35.114501+00:00,sim128b[1432]:,connect,3,98.141.195.201,Fifty
+2012-12-11T03:20:24.809645+00:00,sim128b[1432]:,connect,4,98.141.195.201,Fifty
+2012-12-11T03:33:29.857532+00:00,sim128b[1432]:,connect,5,98.141.195.201,Fifty
+2012-12-11T12:34:13.464986+00:00,sim128b[1432]:,connect,6,174.89.66.141,Astrain1
+2012-12-11T12:38:52.247325+00:00,sim128b[1432]:,connect,7,91.16.73.191,Client#3
+2012-12-11T13:19:28.966222+00:00,sim128b[1432]:,connect,8,174.89.66.141,Astrain1
+2012-12-11T19:55:30.492495+00:00,sim128b[1432]:,disconnect,2,98.141.195.201,Fifty
+2012-12-11T19:55:30.492547+00:00,sim128b[1432]:,disconnect,3,98.141.195.201,Fifty
+2012-12-11T19:55:30.492870+00:00,sim128b[1432]:,disconnect,4,98.141.195.201,Fifty
+2012-12-11T19:55:30.492908+00:00,sim128b[1432]:,disconnect,5,98.141.195.201,Fifty
+2012-12-11T19:55:30.493050+00:00,sim128b[1432]:,disconnect,6,174.89.66.141,Astrain1
+2012-12-11T19:55:30.494166+00:00,sim128b[1432]:,disconnect,7,91.16.73.191,Client#3
+2012-12-11T19:55:30.494191+00:00,sim128b[1432]:,disconnect,8,174.89.66.141,Astrain1
+2012-12-11T19:55:39.709374+00:00,sim128b[1432]:,connect,9,91.16.73.191,Client#3
+2012-12-11T19:57:52.506210+00:00,sim128b[1432]:,chat,9,91.16.73.191,Client#3,7,German Drunken Train Transport,"once you are here and i am, i will delete the tracks, since you have enough money now to self sustain them"
+2012-12-11T20:12:53.652836+00:00,sim128b[1432]:,connect,2,187.75.10.141,1k2
+2012-12-11T20:20:19.699915+00:00,sim128b[1432]:,disconnect,2,187.75.10.141,1k2
+2012-12-11T20:21:47.042600+00:00,sim128b[1432]:,connect,2,187.75.10.141,1k2
+2012-12-11T20:22:00.011489+00:00,sim128b[1432]:,disconnect,9,91.16.73.191,Client#3
+2012-12-11T20:24:15.007878+00:00,sim128b[1432]:,disconnect,2,187.75.10.141,1k2
+2012-12-11T20:25:18.531065+00:00,sim128b[1432]:,connect,3,187.75.10.141,1k2
+2012-12-11T20:26:54.505624+00:00,sim128b[1432]:,disconnect,3,187.75.10.141,1k2
+2012-12-11T20:27:59.571244+00:00,sim128b[1432]:,connect,2,187.75.10.141,1k2
+2012-12-11T20:32:48.591978+00:00,sim128b[1432]:,connect,3,187.75.10.141,1k2
+2012-12-11T20:36:48.999331+00:00,sim128b[1432]:,disconnect,2,187.75.10.141,1k2
+2012-12-11T20:36:48.999459+00:00,sim128b[1432]:,disconnect,3,187.75.10.141,1k2
+2012-12-11T20:38:21.552344+00:00,sim128b[1432]:,connect,2,187.75.10.141,1k2
+2012-12-11T20:40:20.136167+00:00,sim128b[1432]:,connect,3,187.75.10.141,1k2
+2012-12-11T20:44:16.881975+00:00,sim128b[1432]:,disconnect,2,187.75.10.141,1k2
+2012-12-11T20:44:16.882151+00:00,sim128b[1432]:,disconnect,3,187.75.10.141,1k2
+2012-12-11T20:45:05.562723+00:00,sim128b[1432]:,connect,4,187.75.10.141,1k2
+2012-12-11T20:47:01.656403+00:00,sim128b[1432]:,disconnect,4,187.75.10.141,1k2
+2012-12-11T20:48:02.405664+00:00,sim128b[1432]:,connect,2,187.75.10.141,1k2
+2012-12-11T21:00:47.871105+00:00,sim128b[1432]:,connect,3,187.75.10.141,1k2
+2012-12-11T21:03:05.488309+00:00,sim128b[1432]:,connect,4,187.75.10.141,1k2
+2012-12-11T21:03:36.775518+00:00,sim128b[1432]:,disconnect,2,187.75.10.141,1k2
+2012-12-11T21:03:36.776632+00:00,sim128b[1432]:,disconnect,3,187.75.10.141,1k2
+2012-12-11T21:03:36.776903+00:00,sim128b[1432]:,disconnect,4,187.75.10.141,1k2
+2012-12-11T21:04:05.421658+00:00,sim128b[1432]:,connect,2,187.75.10.141,1k2
+2012-12-11T21:04:57.002164+00:00,sim128b[1432]:,disconnect,2,187.75.10.141,1k2
+2012-12-11T21:05:19.132803+00:00,sim128b[1432]:,connect,3,187.75.10.141,1k2
+2012-12-11T21:06:19.062895+00:00,sim128b[1432]:,connect,2,187.75.10.141,1k2
+2012-12-11T21:07:10.074314+00:00,sim128b[1432]:,connect,4,98.141.195.201,Fifty
+2012-12-11T21:07:10.166240+00:00,sim128b[1432]:,disconnect,3,187.75.10.141,1k2
+2012-12-11T21:10:42.961278+00:00,sim128b[1432]:,disconnect,2,187.75.10.141,1k2
+2012-12-11T21:11:25.024452+00:00,sim128b[1432]:,connect,2,187.75.10.141,1k2
+2012-12-11T21:21:12.636727+00:00,sim128b[1432]:,connect,3,187.75.10.141,1k2
+2012-12-11T21:24:18.450298+00:00,sim128b[1432]:,connect,5,187.75.10.141,1k2
+2012-12-11T21:28:23.066975+00:00,sim128b[1432]:,disconnect,2,187.75.10.141,1k2
+2012-12-11T21:28:23.066997+00:00,sim128b[1432]:,disconnect,3,187.75.10.141,1k2
+2012-12-11T21:28:23.067020+00:00,sim128b[1432]:,disconnect,4,98.141.195.201,Fifty
+2012-12-11T21:28:23.067041+00:00,sim128b[1432]:,disconnect,5,187.75.10.141,1k2
+2012-12-11T21:28:45.009859+00:00,sim128b[1432]:,connect,6,187.75.10.141,1k2
+2012-12-11T21:30:22.638374+00:00,sim128b[1432]:,disconnect,6,187.75.10.141,1k2
+2012-12-11T21:30:39.314323+00:00,sim128b[1432]:,connect,2,187.75.10.141,1k2
+2012-12-11T21:39:53.595670+00:00,sim128b[1432]:,connect,3,187.75.10.141,1k2
+2012-12-11T21:45:49.049066+00:00,sim128b[1432]:,connect,4,187.75.10.141,1k2
+2012-12-11T21:52:28.759848+00:00,sim128b[1432]:,disconnect,2,187.75.10.141,1k2
+2012-12-11T21:52:28.759995+00:00,sim128b[1432]:,disconnect,3,187.75.10.141,1k2
+2012-12-11T21:52:28.760147+00:00,sim128b[1432]:,disconnect,4,187.75.10.141,1k2
+2012-12-11T21:52:50.197303+00:00,sim128b[1432]:,connect,5,187.75.10.141,1k2
+2012-12-11T22:03:05.244834+00:00,sim128b[1432]:,disconnect,5,187.75.10.141,1k2
+2012-12-11T22:03:42.865584+00:00,sim128b[1432]:,connect,2,187.75.10.141,1k2
+2012-12-11T22:07:14.581701+00:00,sim128b[1432]:,disconnect,2,187.75.10.141,1k2
+2012-12-11T22:07:34.110207+00:00,sim128b[1432]:,connect,3,187.75.10.141,1k2
+2012-12-11T22:09:23.027901+00:00,sim128b[1432]:,connect,2,187.75.10.141,1k2
+2012-12-11T22:11:08.312647+00:00,sim128b[1432]:,connect,4,187.75.10.141,1k2
+2012-12-11T22:50:58.980106+00:00,sim128b[1432]:,connect,5,91.16.73.191,Client#3
+2012-12-11T22:50:59.151654+00:00,sim128b[1432]:,disconnect,2,187.75.10.141,1k2
+2012-12-11T22:50:59.151681+00:00,sim128b[1432]:,disconnect,3,187.75.10.141,1k2
+2012-12-11T22:51:07.582161+00:00,sim128b[1432]:,namechange,5,91.16.73.191,Client#3,Jaridan
+2012-12-11T22:53:26.348704+00:00,sim128b[1432]:,disconnect,4,187.75.10.141,1k2
+2012-12-11T23:04:31.159486+00:00,sim128b[1432]:,connect,2,71.200.128.99,benjad
+2012-12-11T23:04:41.392422+00:00,sim128b[1432]:,chat,5,91.16.73.191,Jaridan,7,German Drunken Train Transport,nice :D
+2012-12-11T23:04:59.227551+00:00,sim128b[1432]:,chat,5,91.16.73.191,Jaridan,7,German Drunken Train Transport,"see chat, mate"
+2012-12-11T23:05:46.410646+00:00,sim128b[1432]:,chat,2,71.200.128.99,benjad,9,Planet Express,"Got it, hope to run into you soon.  "
+2012-12-11T23:06:05.931788+00:00,sim128b[1432]:,chat,2,71.200.128.99,benjad,9,Planet Express,will get factories moving.
+2012-12-11T23:06:19.414343+00:00,sim128b[1432]:,chat,5,91.16.73.191,Jaridan,7,German Drunken Train Transport,"well .. i'm here, so wanna just do it right now?"
+2012-12-11T23:06:35.250399+00:00,sim128b[1432]:,chat,2,71.200.128.99,benjad,9,Planet Express,absolutely!
+2012-12-11T23:06:59.634758+00:00,sim128b[1432]:,chat,2,71.200.128.99,benjad,9,Planet Express,traffic is halted
+2012-12-11T23:07:35.579290+00:00,sim128b[1432]:,chat,5,91.16.73.191,Jaridan,7,German Drunken Train Transport,"see (168,344)"
+2012-12-11T23:08:11.433091+00:00,sim128b[1432]:,chat,2,71.200.128.99,benjad,9,Planet Express,that line istotally extra
+2012-12-11T23:09:02.795397+00:00,sim128b[1432]:,disconnect,2,71.200.128.99,benjad
+2012-12-11T23:09:02.795419+00:00,sim128b[1432]:,disconnect,5,91.16.73.191,Jaridan
+2012-12-11T23:09:20.887942+00:00,sim128b[1432]:,connect,2,91.16.73.191,Jaridan
+2012-12-11T23:09:28.309831+00:00,sim128b[1432]:,connect,3,71.200.128.99,benjad
+2012-12-11T23:09:52.973080+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,next is the connection o ann arbor (ends are public)
+2012-12-11T23:10:01.646550+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,15,,awesome!   tks!
+2012-12-11T23:10:37.939746+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,i made ann arbor 8 tiles
+2012-12-11T23:10:42.647038+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,dat long enough?
+2012-12-11T23:10:48.476390+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,plenty!  Thanks!
+2012-12-11T23:13:39.566783+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,man my income dropped so much cause im running too much xD but will get better once more pax is in the loop again
+2012-12-11T23:14:00.387076+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,and 6 months to go till 350 train :D
+2012-12-11T23:14:15.489794+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,"hrm.. should I go to 280, or just wait till 350?"
+2012-12-11T23:14:24.394084+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,speed is king for pax
+2012-12-11T23:14:29.949735+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,OH!
+2012-12-11T23:14:33.688345+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,benjad
+2012-12-11T23:14:40.563627+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,"if you ""pax"" factories"
+2012-12-11T23:14:47.630951+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,dont make the busses wait....
+2012-12-11T23:14:51.461658+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,"so, shoot right for 350... yup, got that... that is next on my list"
+2012-12-11T23:15:27.718608+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,"because then it takes forever before they run, paxing factories is (normally) never profitable for the bus itself"
+2012-12-11T23:15:47.280561+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,good deal... so what do you think.. 270 or 350 upgrade next?
+2012-12-11T23:15:51.270175+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,but since it boostes the output of factories there is plenty of profit in that
+2012-12-11T23:16:06.679851+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,"I tried the shinkasen's... they are way expensive, but make BANK!"
+2012-12-11T23:16:36.659175+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,"depends on what you want, but the 350 allows a nice head 6 cars tail head 6 cars tail combination, this is 8 tiles long"
+2012-12-11T23:16:48.628404+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,carries x pax + 256 mail
+2012-12-11T23:16:52.312493+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,which is neat
+2012-12-11T23:16:54.984413+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,imo
+2012-12-11T23:17:48.744813+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,"+ if you want to run underground mass pax this train is cool aswell, cause you can make a heaad 10 car tail head 10car tail combination that runs exactly 280 and carreis 1 or 1,2k pax"
+2012-12-11T23:18:03.490499+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,"(not likely that it will happen, just sayin)"
+2012-12-11T23:18:04.233636+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,wow.. loll
+2012-12-11T23:19:28.283852+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,which 350 comes out in 6 monhts?
+2012-12-11T23:19:46.225905+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,"if you want to see it you should download the last savegame from this server, atrain and i had some awesome paxing and my underground was nice around our public coal interchange :D"
+2012-12-11T23:19:54.326904+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,there is only 1^^
+2012-12-11T23:19:58.450865+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,you cant miss it
+2012-12-11T23:20:06.150097+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,2038 is the 400kmp train btw
+2012-12-11T23:20:26.608607+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,its supposed to come in august 2011
+2012-12-11T23:20:51.632155+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,"yup, bb thunder, aug 2011"
+2012-12-11T23:21:23.004134+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,"800k for each engine, 83k per car"
+2012-12-11T23:21:40.834836+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,you really care about its cost?
+2012-12-11T23:23:30.512170+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,"as long as I can net wealth it.   Ok, so I'm going to upgrade infrastructure, but not do the trainsets till aug.  Yup that will be worthwhile"
+2012-12-11T23:24:07.480750+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,you could always go safe and test it offline first^^
+2012-12-11T23:24:50.543594+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,"I did with the shinkasen...  made me rich.   hrm... that is an idea.   "
+2012-12-11T23:25:00.716522+00:00,sim128b[1432]:,disconnect,3,71.200.128.99,benjad
+2012-12-11T23:25:15.592462+00:00,sim128b[1432]:,connect,3,71.200.128.99,benjad
+2012-12-11T23:25:43.463279+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,15,,"saved it, bumping ahead to aug to test it out,  I love having rwo monitors"
+2012-12-11T23:27:15.811547+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,rwo monitors?
+2012-12-11T23:27:59.504241+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,"yup, so have another game open running hte offline version, trying the 'august' scenarion"
+2012-12-11T23:28:05.705136+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,"btw how do you save? when i save, my account is always blocked offline, so i always close all simutrans applications, reconnect and then make a clean save"
+2012-12-11T23:28:14.880859+00:00,sim128b[1432]:,disconnect,2,91.16.73.191,Jaridan
+2012-12-11T23:28:51.471466+00:00,sim128b[1432]:,connect,2,91.16.73.191,Jaridan
+2012-12-11T23:29:04.458603+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,15,,"no, i meant to ask: what does rwo stand for?"
+2012-12-11T23:29:11.439424+00:00,sim128b[1432]:,disconnect,2,91.16.73.191,Jaridan
+2012-12-11T23:29:29.027412+00:00,sim128b[1432]:,connect,2,91.16.73.191,Jaridan
+2012-12-11T23:31:45.259763+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,"rwo = two.    Yup, saving games sometimes are still password locked, sometimes not."
+2012-12-11T23:33:27.567572+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,"the track and cantenary is not bad at all, so I will be waiting until aug.   It looks good from here"
+2012-12-11T23:38:45.740470+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,15,,"and i learned a new english word ,yay :D"
+2012-12-11T23:38:54.766830+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,three times as much with 432 pax each... sold.  will do it in aug
+2012-12-11T23:39:11.471886+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,which one?
+2012-12-11T23:39:15.987855+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,i'll get my pax up to profitable again (catenary)
+2012-12-11T23:39:36.204912+00:00,sim128b[1432]:,chat,2,91.16.73.191,Jaridan,7,German Drunken Train Transport,"well more profitable, but still both loops running :D will make 3mil/month lulz"
+2012-12-11T23:39:54.867879+00:00,sim128b[1432]:,chat,3,71.200.128.99,benjad,9,Planet Express,"lolll.  Have fun, I'm off to class,  Will be back much later.  nice!"
+2012-12-11T23:39:56.396592+00:00,sim128b[1432]:,disconnect,3,71.200.128.99,benjad
+2012-12-11T23:49:16.075705+00:00,sim128b[1432]:,disconnect,2,91.16.73.191,Jaridan
+2012-12-11T23:49:26.948434+00:00,sim128b[1432]:,connect,2,91.16.73.191,Jaridan

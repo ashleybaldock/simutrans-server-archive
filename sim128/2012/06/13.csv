@@ -1,0 +1,90 @@
+2012-06-13T07:30:47.849075+00:00,sim128[20107]:,connect,5,85.216.238.158,Client#11
+2012-06-13T07:35:39.019090+00:00,sim128[20107]:,disconnect,5,85.216.238.158,Client#11
+2012-06-13T07:35:58.026098+00:00,sim128[20107]:,connect,5,85.216.238.158,Client#11
+2012-06-13T07:37:49.574809+00:00,sim128[20107]:,connect,6,85.216.238.158,Client#11
+2012-06-13T07:44:09.575244+00:00,sim128[20107]:,connect,7,85.216.238.158,Client#11
+2012-06-13T07:45:42.427062+00:00,sim128[20107]:,disconnect,5,85.216.238.158,Client#11
+2012-06-13T07:45:42.427313+00:00,sim128[20107]:,disconnect,6,85.216.238.158,Client#11
+2012-06-13T07:45:42.427569+00:00,sim128[20107]:,disconnect,7,85.216.238.158,Client#11
+2012-06-13T07:46:04.870022+00:00,sim128[20107]:,connect,5,85.216.238.158,Client#11
+2012-06-13T07:48:11.082274+00:00,sim128[20107]:,disconnect,5,85.216.238.158,Client#11
+2012-06-13T10:33:31.999586+00:00,sim128[20107]:,connect,5,77.242.81.206,Client#7
+2012-06-13T12:27:17.243363+00:00,sim128[20107]:,connect,6,87.151.255.200,.
+2012-06-13T12:48:01.262032+00:00,sim128[20107]:,connect,7,220.245.52.25,Client#57
+2012-06-13T12:48:01.399964+00:00,sim128[20107]:,disconnect,5,77.242.81.206,Client#7
+2012-06-13T12:50:43.399054+00:00,sim128[20107]:,chat,7,220.245.52.25,Client#57,10,Alliance,thanks player 7 for lowering land - u can remove ur sign now
+2012-06-13T12:51:02.972656+00:00,sim128[20107]:,chat,7,220.245.52.25,Client#57,10,Alliance,"you can have factory @ 102,253 - u need the power more than i do"
+2012-06-13T12:51:30.611282+00:00,sim128[20107]:,chat,7,220.245.52.25,Client#57,10,Alliance,"sorry (102,235)"
+2012-06-13T12:52:10.993023+00:00,sim128[20107]:,disconnect,7,220.245.52.25,Client#57
+2012-06-13T12:52:29.648983+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#57
+2012-06-13T12:53:44.660561+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#57
+2012-06-13T12:54:01.590939+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#57
+2012-06-13T12:55:09.864564+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,"thanks alliance for the power plant @101,235"
+2012-06-13T12:55:49.013044+00:00,sim128[20107]:,connect,7,112.208.53.2,marvin
+2012-06-13T12:55:49.944270+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#57
+2012-06-13T12:56:07.280728+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#57
+2012-06-13T12:56:31.045530+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,no probs :) besides that steel mill of yours needs lots of power
+2012-06-13T12:56:58.391531+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,i like your freight network :) very nice
+2012-06-13T12:57:49.201142+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,thanks :) I like your tram network too :)
+2012-06-13T12:58:08.939893+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,yeah but it's a pain :( i tried making it better and they couldnt find route :(
+2012-06-13T12:58:44.711068+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,hmm
+2012-06-13T12:59:18.975885+00:00,sim128[20107]:,disconnect,7,112.208.53.2,marvin
+2012-06-13T13:00:04.894309+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#57
+2012-06-13T13:00:29.085365+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#57
+2012-06-13T13:01:07.113954+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,i might do single player to sort out that problem! btw nice buses above cities! id never thought of that
+2012-06-13T13:01:15.694755+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,"can I power the food factory @371,315? If yes I must remove much houses"
+2012-06-13T13:01:49.192626+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,yeah I made a first experiment with bruges
+2012-06-13T13:01:53.852447+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,your planes don't make much profit there since it's mainly my stuff
+2012-06-13T13:02:38.135484+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,hmm o
+2012-06-13T13:02:42.366856+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,k
+2012-06-13T13:02:49.196318+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,im surprised u still have planes there tbh
+2012-06-13T13:03:15.071870+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,I deliver fish to there
+2012-06-13T13:03:40.352709+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,ah ok
+2012-06-13T13:05:24.082859+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,"the factories @325,146 are very pointless^^ they do not have a supplier"
+2012-06-13T13:05:43.266935+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,i know! someone built a lot - and it caust havoc on my tram system
+2012-06-13T13:05:58.525538+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,"366,306 is what made my tram system explode lol"
+2012-06-13T13:06:41.108682+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,:D
+2012-06-13T13:09:36.680822+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,"I made an experimental levitation train @41,70. Well this train is very nice :)"
+2012-06-13T13:09:40.121463+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,have fun :) im coming back tomoz to fix my tram problem - gonna take hours
+2012-06-13T13:10:16.762806+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,"oh yes i saw!! profitable? btw could u straighten @ 45,178"
+2012-06-13T13:11:17.735743+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,"well its very profitable, my train makes just 1000 profit but better than nothing :)"
+2012-06-13T13:12:12.687332+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,i might build one next map restart - i havent used maglev/monorail since hajo days lol
+2012-06-13T13:12:38.588717+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,lol :D
+2012-06-13T13:13:09.319057+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,thx 4 that! im building freeways while i avoid my trams :P
+2012-06-13T13:13:34.557100+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,np problem :)
+2012-06-13T13:13:55.056583+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#57
+2012-06-13T13:15:38.644296+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#57
+2012-06-13T13:16:42.532223+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#57
+2012-06-13T13:17:06.150933+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#57
+2012-06-13T13:18:08.008541+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,"oh thx @ 65,179 - i was going to go over it :P"
+2012-06-13T13:18:49.099342+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,"well this is a better solution, so your trucks/busses get more speed :)"
+2012-06-13T13:19:14.440747+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,did u want me to connect the freeway to your road or not?
+2012-06-13T13:19:18.721469+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#57
+2012-06-13T13:19:36.295969+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#57
+2012-06-13T13:20:15.085002+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,"hmm at the moment I dont need it, thanks :)"
+2012-06-13T13:20:46.151306+00:00,sim128[20107]:,connect,7,91.35.35.217,Client#11
+2012-06-13T13:22:05.680116+00:00,sim128[20107]:,disconnect,7,91.35.35.217,Client#11
+2012-06-13T13:22:06.957747+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#57
+2012-06-13T13:22:23.103282+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#57
+2012-06-13T13:24:40.974957+00:00,sim128[20107]:,chat,5,220.245.52.25,Client#57,10,Alliance,happy building:) im off cya
+2012-06-13T13:24:54.153876+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#57
+2012-06-13T13:26:06.008326+00:00,sim128[20107]:,chat,6,87.151.255.200,.,8,.,bye bye
+2012-06-13T19:03:49.466641+00:00,sim128[20107]:,connect,5,109.213.158.151,PITEX
+2012-06-13T19:06:29.883396+00:00,sim128[20107]:,connect,7,82.158.116.97,Client#8
+2012-06-13T19:06:29.980575+00:00,sim128[20107]:,disconnect,6,87.151.255.200,.
+2012-06-13T19:08:33.291765+00:00,sim128[20107]:,disconnect,5,109.213.158.151,PITEX
+2012-06-13T20:19:53.404464+00:00,sim128[20107]:,connect,5,98.251.79.180,Client#5
+2012-06-13T20:54:00.040141+00:00,sim128[20107]:,connect,6,87.151.255.200,.
+2012-06-13T21:18:30.810068+00:00,sim128[20107]:,disconnect,5,98.251.79.180,Client#5
+2012-06-13T21:18:30.810301+00:00,sim128[20107]:,disconnect,6,87.151.255.200,.
+2012-06-13T21:18:30.810501+00:00,sim128[20107]:,disconnect,7,82.158.116.97,Client#8
+2012-06-13T21:42:52.403362+00:00,sim128[20107]:,connect,5,109.213.158.151,PITEX
+2012-06-13T21:46:55.442354+00:00,sim128[20107]:,connect,6,98.251.79.180,Client#5
+2012-06-13T21:47:55.784801+00:00,sim128[20107]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,alliance??
+2012-06-13T21:54:55.413825+00:00,sim128[20107]:,disconnect,5,109.213.158.151,PITEX
+2012-06-13T22:12:01.404982+00:00,sim128[20107]:,connect,5,189.18.190.195,Eric Costa Marques
+2012-06-13T22:12:42.506374+00:00,sim128[20107]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,"hi, speak englisH?"
+2012-06-13T22:13:20.935189+00:00,sim128[20107]:,disconnect,5,189.18.190.195,Eric Costa Marques
+2012-06-13T22:48:03.332129+00:00,sim128[20107]:,connect,5,201.1.37.179,Client#7
+2012-06-13T22:51:40.098729+00:00,sim128[20107]:,disconnect,5,201.1.37.179,Client#7
+2012-06-13T23:07:23.566701+00:00,sim128[20107]:,connect,5,98.251.79.180,Client#5

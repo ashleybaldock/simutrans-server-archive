@@ -1,0 +1,135 @@
+2012-11-20T00:15:02.876859+00:00,sim128b[14671]:,disconnect,2,91.16.76.25,Client#5
+2012-11-20T00:15:21.953335+00:00,sim128b[14671]:,connect,2,91.16.76.25,Client#5
+2012-11-20T00:17:54.590016+00:00,sim128b[14671]:,connect,4,98.251.79.180,Client#6
+2012-11-20T00:17:54.648736+00:00,sim128b[14671]:,disconnect,3,98.251.79.180,Client#6
+2012-11-20T01:05:02.364640+00:00,sim128b[14671]:,disconnect,2,91.16.76.25,Client#5
+2012-11-20T01:05:02.364947+00:00,sim128b[14671]:,disconnect,4,98.251.79.180,Client#6
+2012-11-20T01:05:20.467350+00:00,sim128b[14671]:,connect,2,91.16.76.25,Client#5
+2012-11-20T01:06:33.404211+00:00,sim128b[14671]:,connect,3,98.251.79.180,Client#6
+2012-11-20T01:07:01.971001+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,15,,is the desync bug starting? :(
+2012-11-20T01:07:14.737102+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,7,German Trains Transport,"?  "
+2012-11-20T01:12:04.096989+00:00,sim128b[14671]:,disconnect,2,91.16.76.25,Client#5
+2012-11-20T01:12:22.692428+00:00,sim128b[14671]:,connect,2,91.16.76.25,Client#5
+2012-11-20T01:16:34.999132+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,7,German Trains Transport,i'm glad i upgraded my network near watergate
+2012-11-20T01:16:46.995826+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,7,German Trains Transport,trains moving a lot more fluently now
+2012-11-20T01:19:24.963646+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,15,,let me look....
+2012-11-20T01:30:51.663569+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,15,,I had to put a ton of underground trains a while back
+2012-11-20T01:31:05.284027+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,7,German Trains Transport,what for?
+2012-11-20T01:31:13.136743+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,15,,to handle the backups at gi
+2012-11-20T01:31:19.377045+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,7,German Trains Transport,^^
+2012-11-20T01:31:43.372465+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,15,,what did you do to watergate?  add more trains?
+2012-11-20T01:32:03.048946+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,7,German Trains Transport,"that too, i added coal from edge of the world"
+2012-11-20T01:32:11.520080+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,7,German Trains Transport,and connected a coal plant from sheeps
+2012-11-20T01:32:27.359301+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,7,German Trains Transport,though my coal plant @ dwachs is not getting enough coal
+2012-11-20T01:32:37.474639+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,15,,"I am shipping coal to (137,389) so any coal mines you got conected will ship there"
+2012-11-20T01:32:47.562035+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,15,,really? where?
+2012-11-20T01:33:13.555530+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,7,German Trains Transport,"(134,257)"
+2012-11-20T01:34:00.067178+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,15,,"oh, I can add 2 mines near my network"
+2012-11-20T01:34:30.075722+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,7,German Trains Transport,"idk how much u interact with watergate, but i use it to distribute all my coal (yes im lazy)"
+2012-11-20T01:35:47.824807+00:00,sim128b[14671]:,disconnect,2,91.16.76.25,Client#5
+2012-11-20T01:36:07.019905+00:00,sim128b[14671]:,connect,2,91.16.76.25,Client#5
+2012-11-20T01:36:13.911802+00:00,sim128b[14671]:,disconnect,2,91.16.76.25,Client#5
+2012-11-20T01:36:31.058911+00:00,sim128b[14671]:,connect,2,91.16.76.25,Client#5
+2012-11-20T01:54:48.234843+00:00,sim128b[14671]:,disconnect,2,91.16.76.25,Client#5
+2012-11-20T01:55:05.960200+00:00,sim128b[14671]:,connect,2,91.16.76.25,Client#5
+2012-11-20T01:55:05.962018+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,adding a major coal line......
+2012-11-20T01:55:52.332998+00:00,sim128b[14671]:,disconnect,2,91.16.76.25,Client#5
+2012-11-20T01:56:12.152542+00:00,sim128b[14671]:,connect,2,91.16.76.25,Client#5
+2012-11-20T01:56:43.806070+00:00,sim128b[14671]:,disconnect,2,91.16.76.25,Client#5
+2012-11-20T01:58:41.184048+00:00,sim128b[14671]:,connect,2,91.16.76.25,Client#5
+2012-11-20T01:58:51.636347+00:00,sim128b[14671]:,disconnect,2,91.16.76.25,Client#5
+2012-11-20T02:01:12.029035+00:00,sim128b[14671]:,connect,2,91.16.76.25,Client#5
+2012-11-20T02:01:46.925002+00:00,sim128b[14671]:,disconnect,2,91.16.76.25,Client#5
+2012-11-20T02:02:05.113885+00:00,sim128b[14671]:,connect,2,91.16.76.25,Client#5
+2012-11-20T02:02:55.215845+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,15,,"can you pax (568,27) pls?^^"
+2012-11-20T02:04:03.046477+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,add some more vehicles to your sheeps line
+2012-11-20T02:04:20.563434+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,7,German Trains Transport,"it has 2, thats enough, just need to get more coal for the plant"
+2012-11-20T02:04:39.227580+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,you need more vehicles on your sheeps line if you want to boost teh coal plant
+2012-11-20T02:05:03.321355+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,you have to transport passenger & mail fast to get full boost....
+2012-11-20T02:05:14.504736+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,7,German Trains Transport,"and i keep telling you i have enough, and just need to add more coal, if you dont wanna pax it its fine for me aswell"
+2012-11-20T02:05:52.078536+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,all the workers live in sheeps.... which means they will come from buildings in sheeps
+2012-11-20T02:06:10.182318+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"but if your busses don't transport all the passengers, then you won't get full boost at the power plant"
+2012-11-20T02:07:14.678481+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,do you know what I mean?
+2012-11-20T02:07:30.234410+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,7,German Trains Transport,yes
+2012-11-20T02:11:25.486047+00:00,sim128b[14671]:,disconnect,2,91.16.76.25,Client#5
+2012-11-20T02:11:42.945118+00:00,sim128b[14671]:,connect,2,91.16.76.25,Client#5
+2012-11-20T02:11:45.482722+00:00,sim128b[14671]:,disconnect,2,91.16.76.25,Client#5
+2012-11-20T02:12:03.040079+00:00,sim128b[14671]:,connect,2,91.16.76.25,Client#5
+2012-11-20T02:14:47.637669+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,7,German Trains Transport,"if there's a way that would let you get (117,304) fully paxed , it would be awesome :P"
+2012-11-20T02:15:03.239416+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,maybe?
+2012-11-20T02:16:02.760028+00:00,sim128b[14671]:,disconnect,2,91.16.76.25,Client#5
+2012-11-20T02:16:20.672436+00:00,sim128b[14671]:,connect,2,91.16.76.25,Client#5
+2012-11-20T02:22:28.661029+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,the shopping ceter has passenger & mail
+2012-11-20T02:31:34.007610+00:00,sim128b[14671]:,disconnect,2,91.16.76.25,Client#5
+2012-11-20T02:31:51.448555+00:00,sim128b[14671]:,connect,2,91.16.76.25,Client#5
+2012-11-20T02:35:00.821310+00:00,sim128b[14671]:,disconnect,3,98.251.79.180,Client#6
+2012-11-20T02:35:19.437741+00:00,sim128b[14671]:,connect,3,98.251.79.180,Client#6
+2012-11-20T02:36:08.112249+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,15,,im off now cya
+2012-11-20T02:37:02.123754+00:00,sim128b[14671]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,bye
+2012-11-20T02:37:50.194423+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,15,,"oh ,we r running outta coal i think @ washhougal (last notice) cya"
+2012-11-20T02:38:04.622191+00:00,sim128b[14671]:,chat,2,91.16.76.25,Client#5,15,,"(501,59) gn8 cya"
+2012-11-20T02:38:09.095626+00:00,sim128b[14671]:,disconnect,2,91.16.76.25,Client#5
+2012-11-20T03:33:57.580318+00:00,sim128b[14671]:,connect,2,98.251.79.180,Client#6
+2012-11-20T03:52:49.711001+00:00,sim128b[14671]:,connect,4,98.251.79.180,Client#6
+2012-11-20T04:15:15.811044+00:00,sim128b[14671]:,connect,5,98.251.79.180,Client#6
+2012-11-20T05:43:24.123476+00:00,sim128b[14671]:,connect,6,186.43.45.112,Client#6
+2012-11-20T05:54:40.174626+00:00,sim128b[14671]:,disconnect,2,98.251.79.180,Client#6
+2012-11-20T05:54:40.174859+00:00,sim128b[14671]:,disconnect,3,98.251.79.180,Client#6
+2012-11-20T05:54:40.175103+00:00,sim128b[14671]:,disconnect,4,98.251.79.180,Client#6
+2012-11-20T05:54:40.175348+00:00,sim128b[14671]:,disconnect,5,98.251.79.180,Client#6
+2012-11-20T05:54:40.175610+00:00,sim128b[14671]:,disconnect,6,186.43.45.112,Client#6
+2012-11-20T12:18:16.917653+00:00,sim128b[14671]:,connect,2,91.16.69.93,Client#5
+2012-11-20T12:38:28.354625+00:00,sim128b[14671]:,chat,2,91.16.69.93,Client#5,7,German Trains Transport,hi
+2012-11-20T12:41:28.232692+00:00,sim128b[14671]:,disconnect,2,91.16.69.93,Client#5
+2012-11-20T12:42:31.800897+00:00,sim128b[14671]:,connect,2,91.16.69.93,Client#5
+2012-11-20T12:57:10.174096+00:00,sim128b[14671]:,disconnect,2,91.16.69.93,Client#5
+2012-11-20T12:57:43.149185+00:00,sim128b[14671]:,connect,2,91.16.69.93,Client#5
+2012-11-20T13:06:09.926081+00:00,sim128b[14671]:,connect,3,91.16.69.93,Client#5
+2012-11-20T13:07:48.014280+00:00,sim128b[14671]:,connect,4,91.16.69.93,Client#5
+2012-11-20T13:14:59.230944+00:00,sim128b[14671]:,disconnect,2,91.16.69.93,Client#5
+2012-11-20T13:14:59.230992+00:00,sim128b[14671]:,disconnect,3,91.16.69.93,Client#5
+2012-11-20T13:14:59.231014+00:00,sim128b[14671]:,disconnect,4,91.16.69.93,Client#5
+2012-11-20T13:15:20.699112+00:00,sim128b[14671]:,connect,5,91.16.69.93,Client#5
+2012-11-20T13:24:17.406426+00:00,sim128b[14671]:,connect,2,91.16.69.93,Client#5
+2012-11-20T14:07:57.020919+00:00,sim128b[14671]:,disconnect,2,91.16.69.93,Client#5
+2012-11-20T14:07:57.021173+00:00,sim128b[14671]:,disconnect,5,91.16.69.93,Client#5
+2012-11-20T14:56:41.324071+00:00,sim128b[14671]:,connect,2,91.16.69.93,Client#5
+2012-11-20T15:00:22.900149+00:00,sim128b[14671]:,connect,3,91.16.69.93,Client#5
+2012-11-20T15:58:31.395570+00:00,sim128b[14671]:,connect,4,79.207.137.23,Client#4
+2012-11-20T15:58:31.532563+00:00,sim128b[14671]:,disconnect,2,91.16.69.93,Client#5
+2012-11-20T16:08:00.367446+00:00,sim128b[14671]:,connect,2,98.251.79.180,Client#6
+2012-11-20T16:20:39.380520+00:00,sim128b[14671]:,disconnect,2,98.251.79.180,Client#6
+2012-11-20T16:38:15.699569+00:00,sim128b[14671]:,disconnect,4,79.207.137.23,Client#4
+2012-11-20T18:39:25.729312+00:00,sim128b[14671]:,connect,2,98.251.79.180,Client#6
+2012-11-20T18:41:25.621997+00:00,sim128b[14671]:,disconnect,3,91.16.69.93,Client#5
+2012-11-20T18:53:12.549644+00:00,sim128b[14671]:,connect,3,91.16.69.93,Client#5
+2012-11-20T18:53:12.550996+00:00,sim128b[14671]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,hi
+2012-11-20T18:57:18.482679+00:00,sim128b[14671]:,disconnect,3,91.16.69.93,Client#5
+2012-11-20T19:05:31.554128+00:00,sim128b[14671]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,hello?  who's there??????????????????????
+2012-11-20T19:24:37.163930+00:00,sim128b[14671]:,connect,3,91.16.69.93,Client#5
+2012-11-20T19:24:40.712236+00:00,sim128b[14671]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,hi!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2012-11-20T19:24:47.605438+00:00,sim128b[14671]:,chat,3,91.16.69.93,Client#5,15,,yo
+2012-11-20T19:25:01.711467+00:00,sim128b[14671]:,disconnect,3,91.16.69.93,Client#5
+2012-11-20T19:25:20.131820+00:00,sim128b[14671]:,connect,3,91.16.69.93,Client#5
+2012-11-20T19:25:20.133309+00:00,sim128b[14671]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,who you?
+2012-11-20T19:25:45.473324+00:00,sim128b[14671]:,chat,3,91.16.69.93,Client#5,7,German Trains Transport,"i think im the only one agreeting you with ""yo"" most of the times :P"
+2012-11-20T19:26:07.976691+00:00,sim128b[14671]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,left you a message at start
+2012-11-20T19:30:46.256342+00:00,sim128b[14671]:,chat,3,91.16.69.93,Client#5,7,German Trains Transport,"im dumb, what do you mean by 422 outline? where are those fishfarms???"
+2012-11-20T19:30:56.157910+00:00,sim128b[14671]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,line number 422
+2012-11-20T19:31:27.475761+00:00,sim128b[14671]:,chat,3,91.16.69.93,Client#5,7,German Trains Transport,ah lol
+2012-11-20T19:33:02.993109+00:00,sim128b[14671]:,chat,3,91.16.69.93,Client#5,7,German Trains Transport,y its fine
+2012-11-20T19:33:16.981756+00:00,sim128b[14671]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,it also boosts your coal mines (1 or 2 of 'em)
+2012-11-20T19:33:53.541103+00:00,sim128b[14671]:,chat,3,91.16.69.93,Client#5,7,German Trains Transport,"yup , saw that, thx, anyway i'll be semi afk , i have to do and finish math exercises :/"
+2012-11-20T19:36:46.025623+00:00,sim128b[14671]:,disconnect,3,91.16.69.93,Client#5
+2012-11-20T19:37:04.482766+00:00,sim128b[14671]:,connect,3,91.16.69.93,Client#5
+2012-11-20T19:58:49.376504+00:00,sim128b[14671]:,disconnect,2,98.251.79.180,Client#6
+2012-11-20T19:59:15.507155+00:00,sim128b[14671]:,connect,2,98.251.79.180,Client#6
+2012-11-20T19:59:49.722000+00:00,sim128b[14671]:,disconnect,2,98.251.79.180,Client#6
+2012-11-20T20:00:10.455838+00:00,sim128b[14671]:,connect,2,98.251.79.180,Client#6
+2012-11-20T20:00:42.707937+00:00,sim128b[14671]:,disconnect,2,98.251.79.180,Client#6
+2012-11-20T20:01:04.465996+00:00,sim128b[14671]:,connect,2,98.251.79.180,Client#6
+2012-11-20T20:09:02.372555+00:00,sim128b[14671]:,disconnect,3,91.16.69.93,Client#5
+2012-11-20T21:26:06.864779+00:00,sim128b[14671]:,disconnect,2,98.251.79.180,Client#6
+2012-11-20T21:26:21.597308+00:00,sim128b[14671]:,connect,3,91.16.69.93,Client#5
+2012-11-20T23:09:46.591767+00:00,sim128b[14671]:,connect,2,98.251.79.180,Client#6
+2012-11-20T23:10:43.885987+00:00,sim128b[14671]:,disconnect,2,98.251.79.180,Client#6

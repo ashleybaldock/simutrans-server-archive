@@ -1,0 +1,62 @@
+2012-10-05T00:18:07.394911+00:00,sim128b[7499]:,disconnect,2,98.251.79.180,Client#5
+2012-10-05T00:18:12.796344+00:00,sim128b[7499]:,connect,3,98.251.79.180,Client#5
+2012-10-05T01:14:52.644051+00:00,sim128b[7499]:,connect,2,220.245.52.25,Client#43
+2012-10-05T01:15:36.722364+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,hello new player
+2012-10-05T01:16:19.463429+00:00,sim128b[7499]:,chat,2,220.245.52.25,Client#43,2,Tyler Transit,ok ill remove planes on books
+2012-10-05T01:16:36.161421+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,thanks tyler :)
+2012-10-05T01:16:56.521714+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,there is some gasoline you can ship though; you can use that to make money
+2012-10-05T01:17:03.265217+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,how about that?
+2012-10-05T01:17:28.073540+00:00,sim128b[7499]:,chat,2,220.245.52.25,Client#43,2,Tyler Transit,oh it's ok - just needed money to create PAX - u can delete all the signs now
+2012-10-05T01:18:07.862994+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"well in that case I guess it worked out well, ( you got the money while I was offline) :)"
+2012-10-05T01:19:42.508321+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,do you see the available cities?  someone just went bankrupt :(
+2012-10-05T01:21:02.216934+00:00,sim128b[7499]:,disconnect,2,220.245.52.25,Client#43
+2012-10-05T01:21:20.625677+00:00,sim128b[7499]:,connect,2,220.245.52.25,Client#43
+2012-10-05T01:21:50.033630+00:00,sim128b[7499]:,disconnect,2,220.245.52.25,Client#43
+2012-10-05T01:22:19.865413+00:00,sim128b[7499]:,connect,2,220.245.52.25,Client#43
+2012-10-05T01:22:36.936173+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,I probably connected over 20 or 30 forests by now :(
+2012-10-05T01:23:07.995463+00:00,sim128b[7499]:,disconnect,2,220.245.52.25,Client#43
+2012-10-05T01:23:25.583192+00:00,sim128b[7499]:,connect,2,220.245.52.25,Client#43
+2012-10-05T01:23:41.136233+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"hey tyler, go to ""message centre"" > ""options"" > ""chat"""
+2012-10-05T01:23:54.967987+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"hey tyler, go to ""message centre"" > ""options"" > ""chat"" and check the 3rd one"
+2012-10-05T01:24:07.398382+00:00,sim128b[7499]:,chat,2,220.245.52.25,Client#43,2,Tyler Transit,i know that already :P my internet is bad so im trying to get things done quickly
+2012-10-05T01:24:16.964071+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,then you won't miss any chat messages (it makes them a popup)
+2012-10-05T01:24:36.037547+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"oh, I'm sorry.  I've know other players that had similar problems :("
+2012-10-05T01:25:03.381105+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"ACTUALLY, you might want to start out slow... the game lags the first minute after you join"
+2012-10-05T01:25:26.354999+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"if you try to buid alot RIGHT after you join, you are more likely to desync someetimes"
+2012-10-05T01:25:42.563287+00:00,sim128b[7499]:,chat,2,220.245.52.25,Client#43,2,Tyler Transit,yes ive noticed :P anyways i have to go
+2012-10-05T01:25:46.075062+00:00,sim128b[7499]:,chat,2,220.245.52.25,Client#43,2,Tyler Transit,chat to you next time
+2012-10-05T01:25:54.893276+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,oh I was hoping we could talk :)
+2012-10-05T01:25:59.923543+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,bye
+2012-10-05T01:26:01.276454+00:00,sim128b[7499]:,disconnect,2,220.245.52.25,Client#43
+2012-10-05T01:26:16.966384+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,WAIT!!!
+2012-10-05T01:26:32.658994+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,if you want certain cities go ahead and put a station there so people know
+2012-10-05T01:26:38.686761+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,or put a sign so they know
+2012-10-05T01:26:56.116759+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,taht way someone wont' take it while you are offline today :)
+2012-10-05T02:19:44.315380+00:00,sim128b[7499]:,disconnect,3,98.251.79.180,Client#5
+2012-10-05T02:19:59.942951+00:00,sim128b[7499]:,connect,2,98.251.79.180,Client#5
+2012-10-05T03:40:53.322321+00:00,sim128b[7499]:,disconnect,2,98.251.79.180,Client#5
+2012-10-05T03:40:57.954391+00:00,sim128b[7499]:,connect,3,188.22.97.171,Client#7
+2012-10-05T08:25:38.971687+00:00,sim128b[7499]:,connect,2,220.245.52.25,Client#43
+2012-10-05T08:28:57.330781+00:00,sim128b[7499]:,disconnect,2,220.245.52.25,Client#43
+2012-10-05T08:28:57.330820+00:00,sim128b[7499]:,disconnect,3,188.22.97.171,Client#7
+2012-10-05T08:29:07.822662+00:00,sim128b[7499]:,connect,4,220.245.52.25,Client#43
+2012-10-05T08:33:44.571720+00:00,sim128b[7499]:,disconnect,4,220.245.52.25,Client#43
+2012-10-05T08:34:00.483363+00:00,sim128b[7499]:,connect,2,220.245.52.25,Client#43
+2012-10-05T08:52:35.055939+00:00,sim128b[7499]:,disconnect,2,220.245.52.25,Client#43
+2012-10-05T10:11:13.108343+00:00,sim128b[7499]:,connect,2,88.165.36.112,Client#4
+2012-10-05T11:26:31.771671+00:00,sim128b[7499]:,disconnect,2,88.165.36.112,Client#4
+2012-10-05T11:26:36.600453+00:00,sim128b[7499]:,connect,3,85.216.239.28,Client#2
+2012-10-05T11:34:11.887770+00:00,sim128b[7499]:,connect,2,81.165.108.17,Client#2
+2012-10-05T11:38:40.794961+00:00,sim128b[7499]:,chat,2,81.165.108.17,Client#2,15,,Hey
+2012-10-05T11:39:22.304344+00:00,sim128b[7499]:,chat,2,81.165.108.17,Client#2,15,,Mmmmm
+2012-10-05T11:40:22.786547+00:00,sim128b[7499]:,chat,2,81.165.108.17,Client#2,15,,Is someone here?
+2012-10-05T11:40:52.576915+00:00,sim128b[7499]:,disconnect,2,81.165.108.17,Client#2
+2012-10-05T12:38:50.048981+00:00,sim128b[7499]:,connect,2,85.216.239.28,Client#2
+2012-10-05T12:53:09.292524+00:00,sim128b[7499]:,connect,4,85.216.239.28,Client#2
+2012-10-05T13:12:35.782556+00:00,sim128b[7499]:,disconnect,2,85.216.239.28,Client#2
+2012-10-05T13:12:35.782585+00:00,sim128b[7499]:,disconnect,3,85.216.239.28,Client#2
+2012-10-05T13:12:35.782605+00:00,sim128b[7499]:,disconnect,4,85.216.239.28,Client#2
+2012-10-05T15:11:49.721264+00:00,sim128b[7499]:,connect,2,98.251.79.180,Client#5
+2012-10-05T15:25:06.864994+00:00,sim128b[7499]:,connect,3,82.202.65.26,Hanz
+2012-10-05T15:25:28.449655+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,"hi hanz, did you get a new account yet?"
+2012-10-05T15:26:04.357687+00:00,sim128b[7499]:,disconnect,3,82.202.65.26,Hanz

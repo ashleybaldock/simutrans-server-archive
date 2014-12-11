@@ -1,0 +1,214 @@
+2012-04-15T02:44:05.911332+00:00,sim128[407]:,connect,6,189.106.183.115,fghfdh
+2012-04-15T05:38:36.587179+00:00,sim128[407]:,connect,7,83.223.1.173,Forecaster
+2012-04-15T08:16:56.194859+00:00,sim128[407]:,connect,8,188.175.51.198,Client#6
+2012-04-15T09:02:07.525072+00:00,sim128[407]:,disconnect,6,189.106.183.115,fghfdh
+2012-04-15T09:02:07.525250+00:00,sim128[407]:,disconnect,7,83.223.1.173,Forecaster
+2012-04-15T09:02:07.525379+00:00,sim128[407]:,disconnect,8,188.175.51.198,Client#6
+2012-04-15T09:02:13.010108+00:00,sim128[407]:,connect,9,88.112.0.115,Visitor
+2012-04-15T09:55:28.684070+00:00,sim128[407]:,connect,6,85.216.238.158,Client#18
+2012-04-15T10:14:23.686943+00:00,sim128[407]:,disconnect,6,85.216.238.158,Client#18
+2012-04-15T10:14:23.687119+00:00,sim128[407]:,disconnect,9,88.112.0.115,Visitor
+2012-04-15T10:14:29.048615+00:00,sim128[407]:,connect,7,85.216.238.158,Client#18
+2012-04-15T10:37:49.812808+00:00,sim128[407]:,disconnect,7,85.216.238.158,Client#18
+2012-04-15T10:37:55.339876+00:00,sim128[407]:,connect,6,85.216.238.158,Client#18
+2012-04-15T10:49:10.754910+00:00,sim128[407]:,disconnect,6,85.216.238.158,Client#18
+2012-04-15T10:49:16.114063+00:00,sim128[407]:,connect,7,85.216.238.158,Client#18
+2012-04-15T10:54:01.098221+00:00,sim128[407]:,connect,6,220.245.52.25,Client#6
+2012-04-15T10:57:29.787536+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client#6
+2012-04-15T11:04:30.754512+00:00,sim128[407]:,connect,6,220.245.52.25,Client#6
+2012-04-15T11:05:42.922006+00:00,sim128[407]:,chat,6,220.245.52.25,Client#6,15,,i take it P10 you've just started?
+2012-04-15T11:06:36.485258+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client#6
+2012-04-15T11:07:04.155584+00:00,sim128[407]:,connect,6,220.245.52.25,Client#6
+2012-04-15T11:14:17.517086+00:00,sim128[407]:,connect,8,220.245.52.25,Client#8
+2012-04-15T11:14:38.846106+00:00,sim128[407]:,chat,8,220.245.52.25,Client#8,15,,player10 - just to let you know convoi 169/170 make a loss over the year
+2012-04-15T11:14:53.087642+00:00,sim128[407]:,disconnect,8,220.245.52.25,Client#8
+2012-04-15T11:24:28.287502+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client#6
+2012-04-15T11:35:42.401622+00:00,sim128[407]:,connect,6,85.216.238.158,Client#18
+2012-04-15T12:01:23.105471+00:00,sim128[407]:,connect,8,77.242.81.206,Client#7
+2012-04-15T12:01:23.162645+00:00,sim128[407]:,disconnect,7,85.216.238.158,Client#18
+2012-04-15T12:03:54.836088+00:00,sim128[407]:,disconnect,8,77.242.81.206,Client#7
+2012-04-15T12:05:52.849455+00:00,sim128[407]:,connect,7,92.249.131.138,Client#2
+2012-04-15T12:10:02.018924+00:00,sim128[407]:,disconnect,7,92.249.131.138,Client#2
+2012-04-15T12:29:03.193334+00:00,sim128[407]:,connect,7,220.245.52.25,Client#8
+2012-04-15T12:35:41.125158+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client#8
+2012-04-15T12:35:59.709497+00:00,sim128[407]:,connect,7,220.245.52.25,Client#8
+2012-04-15T12:37:07.518936+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client#8
+2012-04-15T12:39:17.483355+00:00,sim128[407]:,connect,7,220.245.52.25,Client#8
+2012-04-15T12:40:57.372478+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client#8
+2012-04-15T12:41:17.219583+00:00,sim128[407]:,connect,7,220.245.52.25,Moranis
+2012-04-15T12:42:11.065858+00:00,sim128[407]:,disconnect,7,220.245.52.25,Moranis
+2012-04-15T12:42:25.015349+00:00,sim128[407]:,connect,7,220.245.52.25,Moranis
+2012-04-15T12:43:57.464600+00:00,sim128[407]:,disconnect,6,85.216.238.158,Client#18
+2012-04-15T12:45:43.802890+00:00,sim128[407]:,connect,6,220.245.52.25,Moranis
+2012-04-15T12:45:54.268498+00:00,sim128[407]:,connect,8,85.216.238.158,Client#18
+2012-04-15T12:45:54.324866+00:00,sim128[407]:,disconnect,7,220.245.52.25,Moranis
+2012-04-15T12:52:06.158330+00:00,sim128[407]:,disconnect,6,220.245.52.25,Moranis
+2012-04-15T12:57:30.504358+00:00,sim128[407]:,connect,6,220.245.52.25,Moranis
+2012-04-15T13:06:15.193261+00:00,sim128[407]:,disconnect,6,220.245.52.25,Moranis
+2012-04-15T13:11:35.731259+00:00,sim128[407]:,connect,6,220.245.52.25,Moranis
+2012-04-15T13:12:15.617669+00:00,sim128[407]:,disconnect,6,220.245.52.25,Moranis
+2012-04-15T13:12:29.164004+00:00,sim128[407]:,connect,6,220.245.52.25,Moranis
+2012-04-15T13:13:39.973683+00:00,sim128[407]:,disconnect,6,220.245.52.25,Moranis
+2012-04-15T13:13:55.090287+00:00,sim128[407]:,connect,6,220.245.52.25,Moranis
+2012-04-15T13:14:55.420298+00:00,sim128[407]:,disconnect,6,220.245.52.25,Moranis
+2012-04-15T13:48:16.253787+00:00,sim128[407]:,connect,6,85.216.238.158,Client#18
+2012-04-15T13:53:05.735892+00:00,sim128[407]:,connect,7,220.245.52.25,Moranis
+2012-04-15T13:53:05.825981+00:00,sim128[407]:,disconnect,8,85.216.238.158,Client#18
+2012-04-15T13:55:14.145758+00:00,sim128[407]:,disconnect,7,220.245.52.25,Moranis
+2012-04-15T13:55:26.880596+00:00,sim128[407]:,connect,7,220.245.52.25,Moranis
+2012-04-15T13:57:34.530466+00:00,sim128[407]:,disconnect,7,220.245.52.25,Moranis
+2012-04-15T13:57:46.342662+00:00,sim128[407]:,connect,7,220.245.52.25,Moranis
+2012-04-15T14:04:26.033772+00:00,sim128[407]:,disconnect,7,220.245.52.25,Moranis
+2012-04-15T14:08:49.525546+00:00,sim128[407]:,connect,7,92.249.131.138,Client#2
+2012-04-15T14:10:37.978190+00:00,sim128[407]:,disconnect,7,92.249.131.138,Client#2
+2012-04-15T14:13:04.859451+00:00,sim128[407]:,connect,7,220.245.52.25,Moranis
+2012-04-15T14:20:27.121118+00:00,sim128[407]:,chat,7,220.245.52.25,Moranis,13,Moranis,"player10 - road @ 92,480>96,480 is 50km/h..."
+2012-04-15T14:20:44.367635+00:00,sim128[407]:,chat,7,220.245.52.25,Moranis,13,Moranis,best way to solve - crtl+s make it 30kp/h - then put the faster road on top
+2012-04-15T14:23:24.346211+00:00,sim128[407]:,disconnect,6,85.216.238.158,Client#18
+2012-04-15T14:56:08.115190+00:00,sim128[407]:,connect,6,178.167.90.2,Client#6
+2012-04-15T14:58:46.205732+00:00,sim128[407]:,connect,8,220.245.52.25,Moranis
+2012-04-15T14:58:46.380192+00:00,sim128[407]:,disconnect,7,220.245.52.25,Moranis
+2012-04-15T14:59:42.056119+00:00,sim128[407]:,disconnect,6,178.167.90.2,Client#6
+2012-04-15T15:05:50.176839+00:00,sim128[407]:,connect,6,189.83.67.122,Ericson
+2012-04-15T15:06:38.145408+00:00,sim128[407]:,connect,7,87.100.200.13,Client#3
+2012-04-15T15:07:17.634389+00:00,sim128[407]:,disconnect,6,189.83.67.122,Ericson
+2012-04-15T15:08:47.429514+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,Hello
+2012-04-15T15:11:30.082168+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,hi?
+2012-04-15T15:12:32.245368+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,Im really new to simutrans. Looks complicater than TTD
+2012-04-15T15:13:14.783248+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,oh it takes a little fiddling - but otherwise it becomes addictive and is relatively easy once u have the hang of it
+2012-04-15T15:13:19.961240+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,TTD?
+2012-04-15T15:13:37.270617+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,Transport tycoon deluxe
+2012-04-15T15:14:02.978023+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,ahhh right! never played that game-  only this because it's free ;)
+2012-04-15T15:14:35.832965+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,Well.. heh
+2012-04-15T15:14:54.907324+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,what would u like to know?
+2012-04-15T15:14:59.118807+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,One i noatice that theres not much factories...
+2012-04-15T15:15:20.670221+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,you can alter that - just this map was pre-made
+2012-04-15T15:15:24.978509+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,once had a map with 200
+2012-04-15T15:15:34.290319+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,+ factories- that was pretty crazy :P *
+2012-04-15T15:15:50.679711+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,yeh.
+2012-04-15T15:15:56.483877+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,plus more factories appear when cities grow
+2012-04-15T15:16:06.706713+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,Ahhh..
+2012-04-15T15:16:21.911694+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,if you go to the 'new destinations' tab
+2012-04-15T15:16:29.465685+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,it lists when new factories appear
+2012-04-15T15:16:30.464316+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,So im safe to start with bus lines in city?
+2012-04-15T15:16:59.886762+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,yes and no - normally in multiplayer online - id try to have one or two freight lines
+2012-04-15T15:17:21.725025+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,just to have some income as setting up a PAX can be expensive at first
+2012-04-15T15:17:48.651195+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,you can look at my player stuff if you want- to get an idea
+2012-04-15T15:17:52.240569+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,well i mess around and learn :D
+2012-04-15T15:18:10.174590+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,ok quick tip : shift + j give you the jump window
+2012-04-15T15:18:19.032294+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,so u can type in co-ordinates and jump to that spot
+2012-04-15T15:18:31.241431+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,ah ok
+2012-04-15T15:18:39.833677+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,"my first line today was @ 46,400"
+2012-04-15T15:19:14.233438+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,nice
+2012-04-15T15:19:44.235217+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,that was my steady income before i made buses :P
+2012-04-15T15:20:06.113024+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,where i find the factory listing you said before?
+2012-04-15T15:20:21.251897+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,"368,320  245,294 are exmaples of another players tram network"
+2012-04-15T15:20:41.471087+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,at the top of the page - next to the mailbox icon - click it
+2012-04-15T15:20:46.576719+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,or shift + f
+2012-04-15T15:20:56.167612+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,lists all the factories on the map
+2012-04-15T15:21:36.377962+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,another tip : on the map - if you click 'factory links' you can hover over a factory on the map and it shows u were it needs to be connected to
+2012-04-15T15:22:17.310542+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,so err.. i can use other players stations?
+2012-04-15T15:22:28.464918+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,you cant unless it's public
+2012-04-15T15:22:39.560708+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,hmm interesting
+2012-04-15T15:22:43.925937+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,"246,297 is a good example"
+2012-04-15T15:23:25.700909+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,H-Trans has linked their Tram Network - and I've linked my Airplane - so our passengers can transfer
+2012-04-15T15:23:56.515475+00:00,sim128[407]:,connect,6,85.216.238.158,Client#18
+2012-04-15T15:24:37.859713+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,i se
+2012-04-15T15:25:04.728587+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,for first i need to build my HQ?
+2012-04-15T15:25:11.679328+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,no no no!
+2012-04-15T15:25:22.511634+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,i never build HQ waste of money :P
+2012-04-15T15:25:30.392857+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,it's more eye candy than anything else lol
+2012-04-15T15:25:40.711729+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,soo how i change my name?
+2012-04-15T15:25:52.745643+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,first you need to find a free player slot
+2012-04-15T15:26:06.557354+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,press k for the player window - shows all players and their money etc
+2012-04-15T15:26:43.701682+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,at the moment- all slots are full (the red dot means it's password protected)
+2012-04-15T15:26:58.191676+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,ahh :D danng
+2012-04-15T15:27:03.102128+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,however...
+2012-04-15T15:27:25.889167+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,TRANSERIC 2 is bankrupt - so that slot will become free on jan 2044 :P
+2012-04-15T15:27:43.635861+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,ooh thats soon
+2012-04-15T15:27:54.726638+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,yeah i had to wait to get this slow because it was full before as well
+2012-04-15T15:28:03.761878+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,slot*
+2012-04-15T15:28:15.256926+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,oki. i go get some food and come back shortly
+2012-04-15T15:28:23.964965+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,sounds like a good plan!
+2012-04-15T15:28:32.999954+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,it is :D
+2012-04-15T15:29:05.717049+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,is there someone else still here lurking? :P
+2012-04-15T15:29:28.930926+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,I wish this game is more complex than open TTD. allways wanted to play something like this online.
+2012-04-15T15:29:55.365345+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,/me going to gather some food
+2012-04-15T15:30:02.710551+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,ok :P
+2012-04-15T15:34:14.755710+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,is threes off to increase fps?
+2012-04-15T15:34:57.639488+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,somewhere i think - but i dont use it
+2012-04-15T15:37:05.037983+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,Soo why public service is in so much debt? anything we could help with?
+2012-04-15T15:41:50.834537+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,am back
+2012-04-15T15:42:16.286048+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,"public service pays for attractions, roads, houses, factories, etc"
+2012-04-15T15:42:40.210360+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,hmm i see
+2012-04-15T15:42:42.256746+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,its ok it's in debt - as long as you arent [well as long as your net wealth doesnt go to zero :P]
+2012-04-15T15:43:10.675889+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,is this game still in constant development?
+2012-04-15T15:44:02.544486+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,alwas evolving
+2012-04-15T15:44:06.660473+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,always*
+2012-04-15T15:44:33.909827+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,eg: traffic lights - before it was on a basic timer - now you can set the phasing
+2012-04-15T15:44:46.651142+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,ohh cool
+2012-04-15T15:44:47.684903+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,elevated roadways are one of the latest add ons
+2012-04-15T15:45:20.063934+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,the best development at couple of years back [i reckon] was choose signals
+2012-04-15T15:45:26.823824+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,used to be a pain organising trains before that
+2012-04-15T15:45:54.633339+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,Nice nice
+2012-04-15T15:46:33.045951+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,too bad there is so few servers out there.
+2012-04-15T15:46:47.223145+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,oh there are a few- but all for different paks
+2012-04-15T15:47:07.637228+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,the guy that hosts this one is a legend! he has like 5 different servers for different paksets
+2012-04-15T15:47:41.440445+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,oh. i found only 4 servers overall
+2012-04-15T15:48:24.126186+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,oh that low? i havent checked in a while - besides today i havent played online in like 6 months :P
+2012-04-15T15:49:14.285969+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,Hehe yea .. need some advertising. I just heard this couple days ago
+2012-04-15T15:50:04.665675+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,"if you really want to fiddle around, try things out - i suggest go single player :P"
+2012-04-15T15:50:20.606345+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,and add a couple of AI players and see how they build etc
+2012-04-15T15:50:42.804392+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,i know but i hate playing alone :D
+2012-04-15T15:52:27.396232+00:00,sim128[407]:,chat,8,220.245.52.25,Moranis,13,Moranis,oh i love it :P you can alter the map so much to your liking- much more freedom
+2012-04-15T15:56:31.413448+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,well i check you later.
+2012-04-15T15:56:37.157477+00:00,sim128[407]:,chat,7,87.100.200.13,Client#3,15,,have fun
+2012-04-15T15:56:51.444798+00:00,sim128[407]:,disconnect,7,87.100.200.13,Client#3
+2012-04-15T16:02:03.925596+00:00,sim128[407]:,disconnect,8,220.245.52.25,Moranis
+2012-04-15T16:13:39.460224+00:00,sim128[407]:,connect,7,220.245.52.25,Moranis
+2012-04-15T16:17:12.430474+00:00,sim128[407]:,disconnect,7,220.245.52.25,Moranis
+2012-04-15T16:29:29.452820+00:00,sim128[407]:,connect,7,220.245.52.25,Moranis
+2012-04-15T16:30:07.580454+00:00,sim128[407]:,disconnect,7,220.245.52.25,Moranis
+2012-04-15T16:30:20.350276+00:00,sim128[407]:,connect,7,220.245.52.25,Moranis
+2012-04-15T16:32:53.520709+00:00,sim128[407]:,disconnect,7,220.245.52.25,Moranis
+2012-04-15T16:33:05.576309+00:00,sim128[407]:,connect,7,220.245.52.25,Moranis
+2012-04-15T16:34:25.132193+00:00,sim128[407]:,connect,8,92.225.59.122,Client#8
+2012-04-15T16:37:43.421742+00:00,sim128[407]:,disconnect,8,92.225.59.122,Client#8
+2012-04-15T16:41:35.814435+00:00,sim128[407]:,chat,7,220.245.52.25,Moranis,13,Moranis,"player 10 - u still own roads at 88,487 & 116,478 - if u wanted to cut on maintenance"
+2012-04-15T16:45:47.263901+00:00,sim128[407]:,disconnect,7,220.245.52.25,Moranis
+2012-04-15T16:49:45.511230+00:00,sim128[407]:,connect,7,220.245.52.25,Moranis
+2012-04-15T16:49:52.507774+00:00,sim128[407]:,connect,8,85.216.238.158,Client#18
+2012-04-15T16:49:52.565575+00:00,sim128[407]:,disconnect,6,85.216.238.158,Client#18
+2012-04-15T16:51:19.278860+00:00,sim128[407]:,disconnect,7,220.245.52.25,Moranis
+2012-04-15T16:51:52.800401+00:00,sim128[407]:,connect,6,220.245.52.25,Moranis
+2012-04-15T16:58:52.210744+00:00,sim128[407]:,disconnect,6,220.245.52.25,Moranis
+2012-04-15T16:59:25.773668+00:00,sim128[407]:,connect,6,220.245.52.25,Moranis
+2012-04-15T16:59:34.760898+00:00,sim128[407]:,connect,7,85.216.238.158,Client#18
+2012-04-15T16:59:34.932620+00:00,sim128[407]:,disconnect,8,85.216.238.158,Client#18
+2012-04-15T17:00:06.447550+00:00,sim128[407]:,disconnect,6,220.245.52.25,Moranis
+2012-04-15T17:01:06.882505+00:00,sim128[407]:,connect,6,220.245.52.25,Moranis
+2012-04-15T17:01:25.689476+00:00,sim128[407]:,disconnect,6,220.245.52.25,Moranis
+2012-04-15T17:03:11.017619+00:00,sim128[407]:,connect,6,220.245.52.25,Moranis
+2012-04-15T17:03:46.107271+00:00,sim128[407]:,disconnect,6,220.245.52.25,Moranis
+2012-04-15T17:07:59.341289+00:00,sim128[407]:,connect,6,220.245.52.25,Moranis
+2012-04-15T17:12:43.786475+00:00,sim128[407]:,chat,6,220.245.52.25,Moranis,13,Moranis,let me guess P10 - you're myer as well :P building those freeways lol
+2012-04-15T17:14:00.150725+00:00,sim128[407]:,disconnect,6,220.245.52.25,Moranis
+2012-04-15T17:18:09.119040+00:00,sim128[407]:,connect,6,220.245.52.25,Moranis
+2012-04-15T17:28:32.872499+00:00,sim128[407]:,connect,8,87.100.200.13,Jazzka
+2012-04-15T17:29:01.889597+00:00,sim128[407]:,chat,6,220.245.52.25,Moranis,13,Moranis,cool name there Jazzka
+2012-04-15T17:29:14.480462+00:00,sim128[407]:,disconnect,7,85.216.238.158,Client#18
+2012-04-15T17:29:16.559084+00:00,sim128[407]:,disconnect,8,87.100.200.13,Jazzka
+2012-04-15T18:31:03.161120+00:00,sim128[407]:,connect,7,79.31.137.242,Client#7
+2012-04-15T18:38:49.044289+00:00,sim128[407]:,connect,8,87.205.64.177,Client#8
+2012-04-15T18:38:49.217618+00:00,sim128[407]:,disconnect,6,220.245.52.25,Moranis
+2012-04-15T18:39:26.015264+00:00,sim128[407]:,disconnect,7,79.31.137.242,Client#7
+2012-04-15T18:46:16.980215+00:00,sim128[407]:,connect,6,87.100.200.13,Jazzka
+2012-04-15T19:28:42.845940+00:00,sim128[407]:,connect,7,85.216.238.158,Client#18
+2012-04-15T19:29:44.193767+00:00,sim128[407]:,connect,9,87.205.64.177,Client#3
+2012-04-15T19:29:44.251234+00:00,sim128[407]:,disconnect,6,87.100.200.13,Jazzka
+2012-04-15T19:29:44.251614+00:00,sim128[407]:,disconnect,8,87.205.64.177,Client#8
+2012-04-15T19:31:15.216585+00:00,sim128[407]:,namechange,9,87.205.64.177,Client#3,Silkeborg
+2012-04-15T19:33:36.723883+00:00,sim128[407]:,disconnect,9,87.205.64.177,Silkeborg
+2012-04-15T19:47:05.525716+00:00,sim128[407]:,connect,6,90.53.213.110,PITEX
+2012-04-15T19:48:43.855680+00:00,sim128[407]:,disconnect,6,90.53.213.110,PITEX
+2012-04-15T21:10:27.818919+00:00,sim128[407]:,connect,6,84.0.243.66,^°^FlyingSun

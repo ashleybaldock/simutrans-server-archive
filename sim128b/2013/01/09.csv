@@ -1,0 +1,489 @@
+2013-01-09T01:25:20.920384+00:00,sim128b[27991]:,onnect,3,71.200.128.99,Benjad
+2013-01-09T01:26:23.403809+00:00,sim128b[27991]:,onnect,4,71.200.128.99,Benjad
+2013-01-09T01:26:23.454711+00:00,sim128b[27991]:,isconnect,2,91.16.72.155,Jaridan
+2013-01-09T01:26:23.454744+00:00,sim128b[27991]:,isconnect,3,71.200.128.99,Benjad
+2013-01-09T01:27:07.100000+00:00,sim128b[27991]:,onnect,2,71.200.128.99,Benjad
+2013-01-09T01:28:54.129293+00:00,sim128b[27991]:,onnect,3,71.200.128.99,Benjad
+2013-01-09T01:29:36.243809+00:00,sim128b[27991]:,onnect,5,71.200.128.99,Benjad
+2013-01-09T01:30:36.330932+00:00,sim128b[27991]:,onnect,6,71.200.128.99,Benjad
+2013-01-09T01:31:17.583326+00:00,sim128b[27991]:,onnect,7,71.200.128.99,Benjad
+2013-01-09T01:32:41.275785+00:00,sim128b[27991]:,onnect,8,71.200.128.99,Benjad
+2013-01-09T02:01:25.812648+00:00,sim128b[27991]:,onnect,9,98.141.195.201,Fifty
+2013-01-09T02:28:11.916510+00:00,sim128b[27991]:,isconnect,2,71.200.128.99,Benjad
+2013-01-09T02:28:11.916554+00:00,sim128b[27991]:,isconnect,3,71.200.128.99,Benjad
+2013-01-09T02:28:11.917822+00:00,sim128b[27991]:,isconnect,4,71.200.128.99,Benjad
+2013-01-09T02:28:11.917863+00:00,sim128b[27991]:,isconnect,5,71.200.128.99,Benjad
+2013-01-09T02:28:11.917908+00:00,sim128b[27991]:,isconnect,6,71.200.128.99,Benjad
+2013-01-09T02:28:11.917948+00:00,sim128b[27991]:,isconnect,7,71.200.128.99,Benjad
+2013-01-09T02:28:11.917984+00:00,sim128b[27991]:,isconnect,8,71.200.128.99,Benjad
+2013-01-09T02:28:11.918031+00:00,sim128b[27991]:,isconnect,9,98.141.195.201,Fifty
+2013-01-09T02:28:17.837639+00:00,sim128b[27991]:,onnect,10,91.16.72.155,Jaridan
+2013-01-09T02:33:29.330346+00:00,sim128b[27991]:,onnect,2,91.16.72.155,Jaridan
+2013-01-09T02:34:33.179536+00:00,sim128b[27991]:,onnect,3,91.16.72.155,Jaridan
+2013-01-09T02:34:52.255315+00:00,sim128b[27991]:,onnect,4,98.141.195.201,Fifty
+2013-01-09T02:34:52.387122+00:00,sim128b[27991]:,isconnect,2,91.16.72.155,Jaridan
+2013-01-09T02:34:52.387175+00:00,sim128b[27991]:,isconnect,10,91.16.72.155,Jaridan
+2013-01-09T02:36:02.002553+00:00,sim128b[27991]:,onnect,2,98.141.195.201,Fifty
+2013-01-09T02:36:02.054494+00:00,sim128b[27991]:,isconnect,3,91.16.72.155,Jaridan
+2013-01-09T02:36:02.054545+00:00,sim128b[27991]:,isconnect,4,98.141.195.201,Fifty
+2013-01-09T02:36:39.801547+00:00,sim128b[27991]:,onnect,3,98.141.195.201,Fifty
+2013-01-09T02:37:04.163820+00:00,sim128b[27991]:,onnect,4,91.16.72.155,Jaridan
+2013-01-09T02:37:04.165086+00:00,sim128b[27991]:,hat,3,98.141.195.201,Fifty,12,RF&P,inugh intolerable desyncing again
+2013-01-09T02:37:04.215903+00:00,sim128b[27991]:,isconnect,2,98.141.195.201,Fifty
+2013-01-09T02:37:21.564978+00:00,sim128b[27991]:,hat,4,91.16.72.155,Jaridan,15,,^^
+2013-01-09T02:37:24.264959+00:00,sim128b[27991]:,hat,3,98.141.195.201,Fifty,12,RF&P,hey who are you :)
+2013-01-09T02:37:31.601664+00:00,sim128b[27991]:,hat,4,91.16.72.155,Jaridan,15,,i'm new
+2013-01-09T02:37:53.180695+00:00,sim128b[27991]:,onnect,2,98.141.195.201,Fifty
+2013-01-09T02:37:53.231066+00:00,sim128b[27991]:,isconnect,3,98.141.195.201,Fifty
+2013-01-09T02:37:53.231097+00:00,sim128b[27991]:,isconnect,4,91.16.72.155,Jaridan
+2013-01-09T02:38:09.186350+00:00,sim128b[27991]:,onnect,3,91.16.72.155,Jaridan
+2013-01-09T02:39:05.990043+00:00,sim128b[27991]:,onnect,4,98.141.195.201,Fifty
+2013-01-09T02:39:06.041109+00:00,sim128b[27991]:,isconnect,2,98.141.195.201,Fifty
+2013-01-09T02:39:06.041206+00:00,sim128b[27991]:,isconnect,3,91.16.72.155,Jaridan
+2013-01-09T02:39:31.474839+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,15,,"anyway, I think I may have a solution for you and abellio thought out"
+2013-01-09T02:39:54.110626+00:00,sim128b[27991]:,onnect,2,98.141.195.201,Fifty
+2013-01-09T02:42:01.331694+00:00,sim128b[27991]:,onnect,3,91.16.72.155,Jaridan
+2013-01-09T02:42:23.161942+00:00,sim128b[27991]:,onnect,5,98.141.195.201,Fifty
+2013-01-09T02:42:23.211329+00:00,sim128b[27991]:,isconnect,2,98.141.195.201,Fifty
+2013-01-09T02:42:23.211350+00:00,sim128b[27991]:,isconnect,4,98.141.195.201,Fifty
+2013-01-09T02:42:39.067757+00:00,sim128b[27991]:,hat,3,91.16.72.155,Jaridan,15,,it ran idle quite fine for the past 2-3 hours
+2013-01-09T02:43:17.195733+00:00,sim128b[27991]:,onnect,2,91.16.72.155,Jaridan
+2013-01-09T02:43:17.246782+00:00,sim128b[27991]:,isconnect,3,91.16.72.155,Jaridan
+2013-01-09T02:43:17.246815+00:00,sim128b[27991]:,isconnect,5,98.141.195.201,Fifty
+2013-01-09T02:43:30.113745+00:00,sim128b[27991]:,onnect,4,98.141.195.201,Fifty
+2013-01-09T02:43:39.430545+00:00,sim128b[27991]:,hat,2,91.16.72.155,Jaridan,15,,"if the server wouldnt desync you, you cuold check the chatlog"
+2013-01-09T02:43:50.940061+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,15,,it's done this once before for benjad and i
+2013-01-09T02:44:18.312064+00:00,sim128b[27991]:,hat,2,91.16.72.155,Jaridan,4,German Festival Trains Transport - patched version,maybe new shiney bridges too cute for the server to handle :P
+2013-01-09T02:44:43.527123+00:00,sim128b[27991]:,onnect,3,91.16.72.155,Jaridan
+2013-01-09T02:44:43.579310+00:00,sim128b[27991]:,isconnect,2,91.16.72.155,Jaridan
+2013-01-09T02:44:43.580702+00:00,sim128b[27991]:,isconnect,4,98.141.195.201,Fifty
+2013-01-09T02:45:31.725558+00:00,sim128b[27991]:,onnect,2,98.141.195.201,Fifty
+2013-01-09T02:45:38.091388+00:00,sim128b[27991]:,isconnect,3,91.16.72.155,Jaridan
+2013-01-09T02:45:56.104261+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,15,,"anyway can't deal with this right now, cya tomorrow maybe"
+2013-01-09T02:47:52.293219+00:00,sim128b[27991]:,onnect,3,91.16.72.155,Jaridan
+2013-01-09T02:48:07.629043+00:00,sim128b[27991]:,hat,3,91.16.72.155,Jaridan,15,,"y,cya"
+2013-01-09T02:52:00.037030+00:00,sim128b[27991]:,onnect,4,98.141.195.201,Fifty
+2013-01-09T02:54:01.661835+00:00,sim128b[27991]:,onnect,5,91.16.72.155,Jaridan
+2013-01-09T03:00:24.415804+00:00,sim128b[27991]:,onnect,6,91.16.72.155,Jaridan
+2013-01-09T03:01:27.995491+00:00,sim128b[27991]:,onnect,7,91.16.72.155,Jaridan
+2013-01-09T03:02:47.535484+00:00,sim128b[27991]:,onnect,8,91.16.72.155,Jaridan
+2013-01-09T03:03:51.512381+00:00,sim128b[27991]:,onnect,9,91.16.72.155,Jaridan
+2013-01-09T03:04:02.801607+00:00,sim128b[27991]:,isconnect,2,98.141.195.201,Fifty
+2013-01-09T03:04:02.801659+00:00,sim128b[27991]:,isconnect,3,91.16.72.155,Jaridan
+2013-01-09T03:04:02.801706+00:00,sim128b[27991]:,isconnect,4,98.141.195.201,Fifty
+2013-01-09T03:04:02.801728+00:00,sim128b[27991]:,isconnect,5,91.16.72.155,Jaridan
+2013-01-09T03:04:02.801750+00:00,sim128b[27991]:,isconnect,6,91.16.72.155,Jaridan
+2013-01-09T03:04:02.801774+00:00,sim128b[27991]:,isconnect,7,91.16.72.155,Jaridan
+2013-01-09T03:04:02.802756+00:00,sim128b[27991]:,isconnect,8,91.16.72.155,Jaridan
+2013-01-09T03:04:02.802776+00:00,sim128b[27991]:,isconnect,9,91.16.72.155,Jaridan
+2013-01-09T03:04:12.230822+00:00,sim128b[27991]:,onnect,2,91.16.72.155,Jaridan
+2013-01-09T03:05:03.470311+00:00,sim128b[27991]:,isconnect,2,91.16.72.155,Jaridan
+2013-01-09T03:11:05.328234+00:00,sim128b[27991]:,onnect,2,71.200.128.99,Benjad
+2013-01-09T03:12:18.342391+00:00,sim128b[27991]:,onnect,3,71.200.128.99,Benjad
+2013-01-09T03:12:55.960150+00:00,sim128b[27991]:,onnect,4,71.200.128.99,Benjad
+2013-01-09T03:13:46.017051+00:00,sim128b[27991]:,onnect,5,71.200.128.99,Benjad
+2013-01-09T03:58:07.659538+00:00,sim128b[27991]:,onnect,6,91.16.67.197,Jaridan
+2013-01-09T03:58:48.547212+00:00,sim128b[27991]:,isconnect,2,71.200.128.99,Benjad
+2013-01-09T03:58:48.547336+00:00,sim128b[27991]:,isconnect,3,71.200.128.99,Benjad
+2013-01-09T03:58:48.548361+00:00,sim128b[27991]:,isconnect,4,71.200.128.99,Benjad
+2013-01-09T03:58:48.548406+00:00,sim128b[27991]:,isconnect,5,71.200.128.99,Benjad
+2013-01-09T03:58:48.548441+00:00,sim128b[27991]:,isconnect,6,91.16.67.197,Jaridan
+2013-01-09T04:22:03.042806+00:00,sim128b[27991]:,onnect,2,91.16.67.197,Jaridan
+2013-01-09T04:22:36.419064+00:00,sim128b[27991]:,onnect,3,91.16.67.197,Jaridan
+2013-01-09T04:35:14.801780+00:00,sim128b[27991]:,onnect,4,71.200.128.99,Benjad
+2013-01-09T06:46:30.458325+00:00,sim128b[27991]:,onnect,5,134.2.80.215,Jaridan
+2013-01-09T09:07:38.560816+00:00,sim128b[27991]:,onnect,6,116.213.170.82,MacBook Air
+2013-01-09T09:29:20.030030+00:00,sim128b[27991]:,isconnect,2,91.16.67.197,Jaridan
+2013-01-09T09:29:20.030054+00:00,sim128b[27991]:,isconnect,3,91.16.67.197,Jaridan
+2013-01-09T09:29:20.030078+00:00,sim128b[27991]:,isconnect,4,71.200.128.99,Benjad
+2013-01-09T09:29:20.030120+00:00,sim128b[27991]:,isconnect,5,134.2.80.215,Jaridan
+2013-01-09T09:29:20.030142+00:00,sim128b[27991]:,isconnect,6,116.213.170.82,MacBook Air
+2013-01-09T09:29:27.374497+00:00,sim128b[27991]:,onnect,7,60.25.237.52,MacBook Air
+2013-01-09T09:30:14.762972+00:00,sim128b[27991]:,onnect,2,60.25.237.52,MacBook Air
+2013-01-09T12:05:32.023257+00:00,sim128b[27991]:,isconnect,2,60.25.237.52,MacBook Air
+2013-01-09T12:05:32.023322+00:00,sim128b[27991]:,isconnect,7,60.25.237.52,MacBook Air
+2013-01-09T12:05:37.067258+00:00,sim128b[27991]:,onnect,3,134.2.111.202,Jaridan
+2013-01-09T12:06:23.191175+00:00,sim128b[27991]:,onnect,2,134.2.111.202,Jaridan
+2013-01-09T12:07:04.079146+00:00,sim128b[27991]:,isconnect,2,134.2.111.202,Jaridan
+2013-01-09T12:07:04.080451+00:00,sim128b[27991]:,isconnect,3,134.2.111.202,Jaridan
+2013-01-09T13:06:32.005787+00:00,sim128b[27991]:,onnect,2,78.24.8.222,Client#2
+2013-01-09T13:26:49.960412+00:00,sim128b[27991]:,onnect,3,62.238.177.205,Client#7
+2013-01-09T13:43:49.098830+00:00,sim128b[27991]:,isconnect,2,78.24.8.222,Client#2
+2013-01-09T13:43:49.098866+00:00,sim128b[27991]:,isconnect,3,62.238.177.205,Client#7
+2013-01-09T13:43:54.057550+00:00,sim128b[27991]:,onnect,4,62.238.177.205,Client#7
+2013-01-09T13:44:29.902538+00:00,sim128b[27991]:,isconnect,4,62.238.177.205,Client#7
+2013-01-09T13:44:37.764152+00:00,sim128b[27991]:,onnect,2,62.238.177.205,Client#7
+2013-01-09T13:45:28.935310+00:00,sim128b[27991]:,isconnect,2,62.238.177.205,Client#7
+2013-01-09T13:46:27.866461+00:00,sim128b[27991]:,onnect,2,62.238.177.205,Client#7
+2013-01-09T14:10:45.517857+00:00,sim128b[27991]:,onnect,3,62.238.177.205,Client#7
+2013-01-09T14:58:57.253922+00:00,sim128b[27991]:,isconnect,2,62.238.177.205,Client#7
+2013-01-09T14:58:57.253944+00:00,sim128b[27991]:,isconnect,3,62.238.177.205,Client#7
+2013-01-09T14:59:02.003712+00:00,sim128b[27991]:,onnect,4,62.238.177.205,Client#7
+2013-01-09T15:08:29.164750+00:00,sim128b[27991]:,isconnect,4,62.238.177.205,Client#7
+2013-01-09T15:08:34.079320+00:00,sim128b[27991]:,onnect,2,62.238.177.205,Client#7
+2013-01-09T15:09:15.047106+00:00,sim128b[27991]:,isconnect,2,62.238.177.205,Client#7
+2013-01-09T15:13:15.975218+00:00,sim128b[27991]:,onnect,2,60.223.237.131,MacBook Air
+2013-01-09T15:14:26.367295+00:00,sim128b[27991]:,onnect,3,60.25.237.52,MacBook Air
+2013-01-09T15:19:01.060021+00:00,sim128b[27991]:,onnect,4,60.25.237.52,MacBook Air
+2013-01-09T15:19:54.202980+00:00,sim128b[27991]:,isconnect,2,60.223.237.131,MacBook Air
+2013-01-09T15:19:54.204138+00:00,sim128b[27991]:,isconnect,3,60.25.237.52,MacBook Air
+2013-01-09T15:19:54.204248+00:00,sim128b[27991]:,isconnect,4,60.25.237.52,MacBook Air
+2013-01-09T15:20:01.115279+00:00,sim128b[27991]:,onnect,5,60.25.237.52,MacBook Air
+2013-01-09T15:22:09.916407+00:00,sim128b[27991]:,onnect,2,60.25.237.52,MacBook Air
+2013-01-09T15:34:53.606987+00:00,sim128b[27991]:,onnect,3,60.25.237.52,MacBook Air
+2013-01-09T15:37:17.954368+00:00,sim128b[27991]:,onnect,4,62.238.177.205,Client#7
+2013-01-09T15:37:18.004299+00:00,sim128b[27991]:,isconnect,2,60.25.237.52,MacBook Air
+2013-01-09T15:37:18.004325+00:00,sim128b[27991]:,isconnect,5,60.25.237.52,MacBook Air
+2013-01-09T15:40:36.880432+00:00,sim128b[27991]:,isconnect,3,60.25.237.52,MacBook Air
+2013-01-09T15:40:49.363555+00:00,sim128b[27991]:,onnect,2,60.25.237.52,MacBook Air
+2013-01-09T15:44:08.532640+00:00,sim128b[27991]:,hat,4,62.238.177.205,Client#7,8,Abellio,"Jaridan, what about: I will leave Pine Plains, Greenbelt, Spirit Lake, Devils Lake, Lawrenceville. You will leave the other cities."
+2013-01-09T15:47:24.706359+00:00,sim128b[27991]:,hat,4,62.238.177.205,Client#7,8,Abellio,+ Ill leave Kalkaska.
+2013-01-09T15:50:49.690894+00:00,sim128b[27991]:,isconnect,2,60.25.237.52,MacBook Air
+2013-01-09T15:51:39.775091+00:00,sim128b[27991]:,onnect,2,60.25.237.52,MacBook Air
+2013-01-09T15:53:02.701362+00:00,sim128b[27991]:,isconnect,2,60.25.237.52,MacBook Air
+2013-01-09T15:53:16.029128+00:00,sim128b[27991]:,onnect,2,60.25.237.52,MacBook Air
+2013-01-09T15:54:14.956443+00:00,sim128b[27991]:,isconnect,2,60.25.237.52,MacBook Air
+2013-01-09T15:54:27.471774+00:00,sim128b[27991]:,onnect,2,60.25.237.52,MacBook Air
+2013-01-09T15:59:15.996965+00:00,sim128b[27991]:,isconnect,2,60.25.237.52,MacBook Air
+2013-01-09T15:59:30.498046+00:00,sim128b[27991]:,onnect,2,60.25.237.52,MacBook Air
+2013-01-09T16:00:05.462068+00:00,sim128b[27991]:,isconnect,4,62.238.177.205,Client#7
+2013-01-09T16:00:15.567513+00:00,sim128b[27991]:,onnect,3,62.238.177.205,Client#7
+2013-01-09T16:00:23.050295+00:00,sim128b[27991]:,onnect,4,60.25.237.52,MacBook Air
+2013-01-09T16:00:23.101415+00:00,sim128b[27991]:,isconnect,2,60.25.237.52,MacBook Air
+2013-01-09T16:07:08.857069+00:00,sim128b[27991]:,isconnect,4,60.25.237.52,MacBook Air
+2013-01-09T16:07:55.043167+00:00,sim128b[27991]:,onnect,2,60.25.237.52,MacBook Air
+2013-01-09T16:11:04.488814+00:00,sim128b[27991]:,isconnect,2,60.25.237.52,MacBook Air
+2013-01-09T16:13:51.100709+00:00,sim128b[27991]:,onnect,4,0.0.0.0,MacBook Air
+2013-01-09T16:16:29.866427+00:00,sim128b[27991]:,isconnect,4,0.0.0.0,MacBook Air
+2013-01-09T16:16:48.164130+00:00,sim128b[27991]:,onnect,4,0.0.0.0,MacBook Air
+2013-01-09T16:21:48.011974+00:00,sim128b[27991]:,isconnect,4,0.0.0.0,MacBook Air
+2013-01-09T16:22:02.626465+00:00,sim128b[27991]:,onnect,4,0.0.0.0,MacBook Air
+2013-01-09T16:27:31.875342+00:00,sim128b[27991]:,isconnect,3,62.238.177.205,Client#7
+2013-01-09T16:37:23.030056+00:00,sim128b[27991]:,onnect,2,0.0.0.0,MacBook Air
+2013-01-09T16:38:17.838974+00:00,sim128b[27991]:,isconnect,2,0.0.0.0,MacBook Air
+2013-01-09T16:38:17.839106+00:00,sim128b[27991]:,isconnect,4,0.0.0.0,MacBook Air
+2013-01-09T16:38:35.421228+00:00,sim128b[27991]:,onnect,2,0.0.0.0,MacBook Air
+2013-01-09T16:52:35.054347+00:00,sim128b[27991]:,onnect,3,0.0.0.0,MacBook Air
+2013-01-09T16:57:30.942127+00:00,sim128b[27991]:,isconnect,2,0.0.0.0,MacBook Air
+2013-01-09T16:57:30.942153+00:00,sim128b[27991]:,isconnect,3,0.0.0.0,MacBook Air
+2013-01-09T16:58:01.447801+00:00,sim128b[27991]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T17:09:23.655558+00:00,sim128b[27991]:,hat,2,114.112.45.95,MacBook Air,5,Southern Rail,How can I make my railway public and join with other player's rails?
+2013-01-09T17:14:06.674276+00:00,sim128b[27991]:,onnect,3,62.238.177.205,Client#7
+2013-01-09T17:14:31.885784+00:00,sim128b[27991]:,hat,3,62.238.177.205,Client#7,15,,You should connect to Greenbelt Branch Airport
+2013-01-09T17:15:29.481084+00:00,sim128b[27991]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T17:28:45.571276+00:00,sim128b[27991]:,onnect,2,91.16.125.1,Jaridan
+2013-01-09T17:30:02.741059+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,15,,"i won't budge unless i get brinkley aswell, it's a 21k pop city and would be the biggest in my loop, there's no point in even starting starting a loop when i dont have atleast 1 decent city"
+2013-01-09T17:30:15.134986+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,15,,you have more than enough big cities
+2013-01-09T17:31:06.349244+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,"@macbook air there's a public pax & mail exchange where you can easily connect pax networks (221,282)"
+2013-01-09T17:31:32.679069+00:00,sim128b[27991]:,hat,3,62.238.177.205,Client#7,8,Abellio,"Ok, your choice ;)"
+2013-01-09T17:31:47.751317+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,"+ what would i want with greenbelt it's a minicity, that lies not where my loop is going"
+2013-01-09T17:32:13.706305+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,"you have enough big cities, and i started brinkley before you, which is why that is really one city i wonÄt budge"
+2013-01-09T17:32:43.682722+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,"you have 95% of all the big cities, so that one doesn't mean much to you, whereas to others it will  impact their system alot"
+2013-01-09T17:33:23.802194+00:00,sim128b[27991]:,hat,3,62.238.177.205,Client#7,8,Abellio,You have enough small cities which could have grown if you wanted. Its a bit too late for that. Im afraid I wont leave Brinkley yet.
+2013-01-09T17:33:31.943279+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,grown?
+2013-01-09T17:33:39.649636+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,you try to grow a 1k city
+2013-01-09T17:34:03.995839+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,especially when your pax gets diminishied - devils lake + corydon
+2013-01-09T17:34:16.507352+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,which helped in gimping my income while i was away aswell
+2013-01-09T17:34:54.674898+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,"on the contrary, as i stated already , you have 95% of all big cities, so 1 less wouldnt hurt you"
+2013-01-09T17:36:12.944034+00:00,sim128b[27991]:,hat,3,62.238.177.205,Client#7,8,Abellio,"Thats the same I could say to you. Also you (can) have a lot income of freight transport, and I cant."
+2013-01-09T17:36:27.644249+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,i have alot of fright income?
+2013-01-09T17:36:38.444095+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,you realize 75% of my income comes from pax?
+2013-01-09T17:36:52.952017+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,"fright does 1/10th the income of pax, more or less"
+2013-01-09T17:36:55.124446+00:00,sim128b[27991]:,hat,3,62.238.177.205,Client#7,8,Abellio,So? Me 100%
+2013-01-09T17:39:24.560343+00:00,sim128b[27991]:,hat,3,62.238.177.205,Client#7,8,Abellio,"However, Im starting up mail with a connection to Greenbelt Branch, dunno if youre gonna do mail. But you can also connect if you want."
+2013-01-09T17:39:48.634328+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,there's nothing i could connect
+2013-01-09T17:41:14.353946+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,@mac you are the only one who can make your own rails public
+2013-01-09T17:41:25.823183+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,"afk, eating my subway"
+2013-01-09T17:42:00.911450+00:00,sim128b[27991]:,hat,3,62.238.177.205,Client#7,8,Abellio,Smaklich
+2013-01-09T18:04:53.677841+00:00,sim128b[27991]:,hat,2,91.16.125.1,Jaridan,4,German Festival Trains Transport - patched version,the crane button -> 4th button/tool from the right to make stuff public mac
+2013-01-09T18:10:47.297850+00:00,sim128b[27991]:,isconnect,3,62.238.177.205,Client#7
+2013-01-09T18:29:46.817657+00:00,sim128b[27991]:,isconnect,2,91.16.125.1,Jaridan
+2013-01-09T18:30:06.418269+00:00,sim128b[27991]:,onnect,2,91.16.125.1,Jaridan
+2013-01-09T18:55:33.992962+00:00,sim128b[27991]:,onnect,3,124.165.216.67,MacBook Air
+2013-01-09T19:19:28.320155+00:00,sim128b[27991]:,isconnect,2,91.16.125.1,Jaridan
+2013-01-09T19:20:19.003157+00:00,sim128b[27991]:,onnect,2,91.16.125.1,Jaridan
+2013-01-09T19:39:59.714057+00:00,sim128b[27991]:,onnect,4,62.238.177.205,Client#7
+2013-01-09T20:02:54.722404+00:00,sim128b[27991]:,isconnect,3,124.165.216.67,MacBook Air
+2013-01-09T20:03:22.637804+00:00,sim128b[27991]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T20:04:43.684207+00:00,sim128b[27991]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T20:05:06.203177+00:00,sim128b[27991]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T20:07:36.850458+00:00,sim128b[27991]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T20:07:51.554748+00:00,sim128b[27991]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T20:19:09.759758+00:00,sim128b[27991]:,isconnect,2,91.16.125.1,Jaridan
+2013-01-09T20:19:24.160936+00:00,sim128b[27991]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T20:19:39.437031+00:00,sim128b[27991]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T20:26:03.249318+00:00,sim128b[27991]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T20:26:17.899739+00:00,sim128b[27991]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T20:26:32.907571+00:00,sim128b[27991]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T20:26:53.059979+00:00,sim128b[27991]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T20:53:08.775071+00:00,sim128b[32681]:,onnect,2,69.138.176.94,Fifty
+2013-01-09T20:58:04.151804+00:00,sim128b[32681]:,onnect,3,62.238.177.205,Client#7
+2013-01-09T21:02:18.875728+00:00,sim128b[32681]:,onnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:02:40.970627+00:00,sim128b[32681]:,hat,4,114.112.45.95,MacBook Air,15,,What happened?
+2013-01-09T21:03:01.052003+00:00,sim128b[32681]:,hat,2,69.138.176.94,Fifty,12,RF&P,"restart I guess. "
+2013-01-09T21:04:00.943564+00:00,sim128b[32681]:,hat,4,114.112.45.95,MacBook Air,15,,"Do server A, B, C have the same admin?"
+2013-01-09T21:04:06.529489+00:00,sim128b[32681]:,hat,2,69.138.176.94,Fifty,12,RF&P,y
+2013-01-09T21:04:30.322393+00:00,sim128b[32681]:,isconnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:04:45.244887+00:00,sim128b[32681]:,onnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:12:02.250995+00:00,sim128b[32681]:,isconnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:12:14.375138+00:00,sim128b[32681]:,onnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:13:16.061418+00:00,sim128b[32681]:,isconnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:13:29.565735+00:00,sim128b[32681]:,onnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:13:52.332843+00:00,sim128b[32681]:,isconnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:14:05.119327+00:00,sim128b[32681]:,onnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:17:02.285750+00:00,sim128b[32681]:,isconnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:17:13.760272+00:00,sim128b[32681]:,onnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:18:03.195825+00:00,sim128b[32681]:,isconnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:18:13.513667+00:00,sim128b[32681]:,onnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:29:02.479162+00:00,sim128b[32681]:,isconnect,3,62.238.177.205,Client#7
+2013-01-09T21:29:02.798257+00:00,sim128b[32681]:,isconnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:29:10.449401+00:00,sim128b[32681]:,onnect,3,62.238.177.205,Client#7
+2013-01-09T21:29:18.509633+00:00,sim128b[32681]:,onnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:29:53.437256+00:00,sim128b[32681]:,isconnect,2,69.138.176.94,Fifty
+2013-01-09T21:31:48.154807+00:00,sim128b[32681]:,isconnect,4,114.112.45.95,MacBook Air
+2013-01-09T21:32:01.002334+00:00,sim128b[32681]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T21:32:14.687049+00:00,sim128b[32681]:,onnect,4,91.16.125.1,Jaridan
+2013-01-09T21:32:25.572312+00:00,sim128b[32681]:,isconnect,4,91.16.125.1,Jaridan
+2013-01-09T21:32:51.861274+00:00,sim128b[32681]:,onnect,4,91.16.125.1,Jaridan
+2013-01-09T21:33:17.308048+00:00,sim128b[32681]:,hat,4,91.16.125.1,Jaridan,15,,wtf?
+2013-01-09T21:33:26.099064+00:00,sim128b[32681]:,hat,4,91.16.125.1,Jaridan,15,,why is our game reset?
+2013-01-09T21:33:36.447351+00:00,sim128b[32681]:,hat,3,62.238.177.205,Client#7,8,[OneWay],No idea.
+2013-01-09T21:36:14.343805+00:00,sim128b[7285]:,onnect,2,71.200.128.99,Benjad
+2013-01-09T21:36:47.708111+00:00,sim128b[7285]:,isconnect,2,71.200.128.99,Benjad
+2013-01-09T21:37:13.263829+00:00,sim128b[7285]:,onnect,2,71.200.128.99,Benjad
+2013-01-09T21:37:55.955578+00:00,sim128b[7285]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T21:38:39.665038+00:00,sim128b[7285]:,onnect,4,91.16.125.1,Jaridan
+2013-01-09T21:38:58.646311+00:00,sim128b[7285]:,hat,2,71.200.128.99,Benjad,15,,"hi all, looks like reset"
+2013-01-09T21:39:01.019235+00:00,sim128b[7285]:,hat,3,114.112.45.95,MacBook Air,15,,"What happened, again?"
+2013-01-09T21:39:08.761984+00:00,sim128b[7285]:,hat,4,91.16.125.1,Jaridan,15,,strange
+2013-01-09T21:39:33.348191+00:00,sim128b[7285]:,hat,2,71.200.128.99,Benjad,15,,"Nothing new posted on forums, so nothing to go by"
+2013-01-09T21:40:04.232030+00:00,sim128b[7285]:,hat,3,114.112.45.95,MacBook Air,3,Southern Rail,Will this new game last long?
+2013-01-09T21:40:11.992256+00:00,sim128b[7285]:,hat,2,71.200.128.99,Benjad,15,,no way to tell
+2013-01-09T21:40:19.760752+00:00,sim128b[7285]:,hat,4,91.16.125.1,Jaridan,7,PSK & Co KG,1games goes 5-7 weeks normally
+2013-01-09T21:40:24.199207+00:00,sim128b[7285]:,hat,4,91.16.125.1,Jaridan,7,PSK & Co KG,or longer sometimes
+2013-01-09T21:40:50.830317+00:00,sim128b[7285]:,hat,2,71.200.128.99,Benjad,15,,"Jaridan, wehere you want to pax?  I was just going to use that loop"
+2013-01-09T21:41:00.270279+00:00,sim128b[7285]:,hat,3,114.112.45.95,MacBook Air,3,Southern Rail,"Could you please remove the tourist attraction at (1,487)?"
+2013-01-09T21:41:12.733668+00:00,sim128b[7285]:,hat,4,91.16.125.1,Jaridan,7,PSK & Co KG,you cant remove trurist attractions
+2013-01-09T21:41:35.754024+00:00,sim128b[7285]:,hat,3,114.112.45.95,MacBook Air,3,Southern Rail,"I know, so I kindly ask a public service to do that for me :)"
+2013-01-09T21:41:38.192078+00:00,sim128b[7285]:,hat,4,91.16.125.1,Jaridan,7,PSK & Co KG,"uhm yeah, that loop and i wanted to do one in the south aswell but i wouldnt mind if you do it"
+2013-01-09T21:41:48.160611+00:00,sim128b[7285]:,onnect,5,69.138.176.94,Fifty
+2013-01-09T21:41:48.162019+00:00,sim128b[7285]:,hat,4,91.16.125.1,Jaridan,7,PSK & Co KG," since i have some cities now"
+2013-01-09T21:42:02.402186+00:00,sim128b[7285]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T21:42:07.166050+00:00,sim128b[7285]:,hat,2,71.200.128.99,Benjad,15,,Hi everybody!
+2013-01-09T21:42:13.116410+00:00,sim128b[7285]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T21:43:56.245810+00:00,sim128b[7285]:,isconnect,5,69.138.176.94,Fifty
+2013-01-09T21:45:00.403303+00:00,sim128b[7285]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T21:45:16.105910+00:00,sim128b[7285]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T21:46:16.691904+00:00,sim128b[7285]:,hat,4,91.16.125.1,Jaridan,7,PSK & Co KG,you here fifty?
+2013-01-09T21:46:33.882804+00:00,sim128b[7285]:,hat,4,91.16.125.1,Jaridan,7,PSK & Co KG,the public player is not accessible
+2013-01-09T21:52:15.077865+00:00,sim128b[7285]:,hat,3,114.112.45.95,MacBook Air,3,Southern Rail,"How to build a public way, or make an exising way public?"
+2013-01-09T21:52:44.242383+00:00,sim128b[7285]:,hat,4,91.16.125.1,Jaridan,7,PSK & Co KG,you see the icon left to the bulldozer?
+2013-01-09T21:53:12.175292+00:00,sim128b[7285]:,hat,4,91.16.125.1,Jaridan,7,PSK & Co KG,"you click tht, and use the 4th tool from the right and click on a station/railway/road/canal etc"
+2013-01-09T21:54:09.073863+00:00,sim128b[7285]:,hat,3,114.112.45.95,MacBook Air,3,Southern Rail,That looks loke for station only.
+2013-01-09T21:54:33.841368+00:00,sim128b[7285]:,hat,4,91.16.125.1,Jaridan,7,PSK & Co KG,if you click on a station tile it makes the  whole station public
+2013-01-09T21:55:00.596734+00:00,sim128b[7285]:,hat,3,114.112.45.95,MacBook Air,3,Southern Rail,"I know, but I want some public railways, not just station. :)"
+2013-01-09T21:55:18.221539+00:00,sim128b[7285]:,hat,4,91.16.125.1,Jaridan,7,PSK & Co KG,as i said you can make railways public that way aswell
+2013-01-09T21:55:32.314224+00:00,sim128b[7285]:,hat,2,71.200.128.99,Benjad,6,Planet Express,but you have to click each tile
+2013-01-09T21:55:46.064248+00:00,sim128b[7285]:,hat,3,114.112.45.95,MacBook Air,3,Southern Rail,"It worked, thx"
+2013-01-09T21:57:02.153016+00:00,sim128b[7285]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T21:57:14.885844+00:00,sim128b[7285]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T22:00:15.505007+00:00,sim128b[7285]:,isconnect,4,91.16.125.1,Jaridan
+2013-01-09T22:00:15.641383+00:00,sim128b[7285]:,isconnect,2,71.200.128.99,Benjad
+2013-01-09T22:00:18.426711+00:00,sim128b[7285]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T22:00:22.980945+00:00,sim128b[7285]:,onnect,2,91.16.125.1,Jaridan
+2013-01-09T22:00:29.866127+00:00,sim128b[7285]:,onnect,3,71.200.128.99,Benjad
+2013-01-09T22:00:36.220121+00:00,sim128b[7285]:,onnect,4,114.112.45.95,MacBook Air
+2013-01-09T22:01:04.419068+00:00,sim128b[7285]:,hat,3,71.200.128.99,Benjad,6,Planet Express,"Jaridan, care to interchange passengers betwen bismarc and upper marlboro"
+2013-01-09T22:01:18.546371+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,7,PSK & Co KG,where?
+2013-01-09T22:01:40.375576+00:00,sim128b[7285]:,hat,3,71.200.128.99,Benjad,6,Planet Express,"@159,302 neighborhood"
+2013-01-09T22:02:00.673068+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,7,PSK & Co KG,"hmm, should we just create and use a public airport?"
+2013-01-09T22:02:05.965327+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,7,PSK & Co KG,easier + more profitable
+2013-01-09T22:02:11.501690+00:00,sim128b[7285]:,hat,3,71.200.128.99,Benjad,6,Planet Express,Sure
+2013-01-09T22:02:12.427214+00:00,sim128b[7285]:,isconnect,2,91.16.125.1,Jaridan
+2013-01-09T22:02:21.944345+00:00,sim128b[7285]:,onnect,2,91.16.125.1,Jaridan
+2013-01-09T22:02:51.800129+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,7,PSK & Co KG,i'll create one
+2013-01-09T22:05:28.339854+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,9,Player 8,fuck shouldve named it oh well
+2013-01-09T22:05:50.988577+00:00,sim128b[7285]:,hat,3,71.200.128.99,Benjad,6,Planet Express,named what?
+2013-01-09T22:06:10.488130+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,9,Player 8,the airport
+2013-01-09T22:06:18.796181+00:00,sim128b[7285]:,hat,3,71.200.128.99,Benjad,6,Planet Express,where is it?
+2013-01-09T22:06:25.589824+00:00,sim128b[7285]:,isconnect,4,114.112.45.95,MacBook Air
+2013-01-09T22:06:36.780295+00:00,sim128b[7285]:,onnect,4,114.112.45.95,MacBook Air
+2013-01-09T22:06:37.436873+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,9,Player 8,"(391,14)"
+2013-01-09T22:06:52.099450+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,9,Player 8,"(323,31)"
+2013-01-09T22:08:08.793156+00:00,sim128b[7285]:,hat,3,71.200.128.99,Benjad,6,Planet Express,omg... what is going on up there
+2013-01-09T22:08:14.047798+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,7,PSK & Co KG,?
+2013-01-09T22:08:34.256280+00:00,sim128b[7285]:,hat,3,71.200.128.99,Benjad,6,Planet Express,"lotsa traffic already, huh"
+2013-01-09T22:08:42.602047+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,7,PSK & Co KG,"ya, it's weird that the server reset, wanted to start a huge paxline today lol"
+2013-01-09T22:08:55.548331+00:00,sim128b[7285]:,hat,3,71.200.128.99,Benjad,6,Planet Express,loll
+2013-01-09T22:08:58.848818+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,7,PSK & Co KG,?
+2013-01-09T22:09:29.233090+00:00,sim128b[7285]:,hat,3,71.200.128.99,Benjad,6,Planet Express,Theres three pawleys island airports.. and 2 of them are jammed up
+2013-01-09T22:10:01.337915+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,7,PSK & Co KG,"? i created 2 and a few planes, to bankrupt and free the account"
+2013-01-09T22:10:12.011681+00:00,sim128b[7285]:,hat,3,71.200.128.99,Benjad,6,Planet Express,gotcha
+2013-01-09T22:12:08.435503+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,7,PSK & Co KG,"ok, i have a connection running to the airport"
+2013-01-09T22:12:45.562522+00:00,sim128b[7285]:,hat,3,71.200.128.99,Benjad,6,Planet Express,"Ok, now I gotta place mine strategcally"
+2013-01-09T22:12:58.377616+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,7,PSK & Co KG,just use the buiggest city?xD
+2013-01-09T22:13:16.261479+00:00,sim128b[7285]:,hat,3,71.200.128.99,Benjad,6,Planet Express,"But then when it overflows, it cuts off city paxs"
+2013-01-09T22:13:42.257607+00:00,sim128b[7285]:,hat,3,71.200.128.99,Benjad,6,Planet Express,Make it it's own stop
+2013-01-09T22:13:57.370212+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,7,PSK & Co KG,"y, just make 1 stop outside"
+2013-01-09T22:14:25.704781+00:00,sim128b[7285]:,isconnect,2,91.16.125.1,Jaridan
+2013-01-09T22:14:34.304956+00:00,sim128b[7285]:,onnect,2,91.16.125.1,Jaridan
+2013-01-09T22:15:46.950139+00:00,sim128b[7285]:,isconnect,4,114.112.45.95,MacBook Air
+2013-01-09T22:15:57.752926+00:00,sim128b[7285]:,onnect,4,114.112.45.95,MacBook Air
+2013-01-09T22:17:29.739946+00:00,sim128b[7285]:,hat,3,71.200.128.99,Benjad,6,Planet Express,I'm also serving mail from the get go
+2013-01-09T22:17:46.627383+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,9,Player 8,be careful about that
+2013-01-09T22:17:56.667485+00:00,sim128b[7285]:,hat,2,91.16.125.1,Jaridan,9,Player 8,"try to serve rpax first, then tst mail offline"
+2013-01-09T22:18:00.753196+00:00,sim128b[7285]:,hat,3,71.200.128.99,Benjad,6,Planet Express,just as add-ons to the busses
+2013-01-09T22:24:23.876755+00:00,sim128b[14576]:,onnect,2,71.200.128.99,Benjad
+2013-01-09T22:24:31.897357+00:00,sim128b[14576]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T22:24:46.259704+00:00,sim128b[14576]:,hat,2,71.200.128.99,Benjad,15,,"off to class, catch you later"
+2013-01-09T22:25:59.886814+00:00,sim128b[14576]:,onnect,4,91.16.125.1,Jaridan
+2013-01-09T22:26:34.258079+00:00,sim128b[14576]:,hat,2,71.200.128.99,Benjad,6,Planet Express,did we just go back a step?
+2013-01-09T22:26:47.058876+00:00,sim128b[14576]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T22:26:59.604086+00:00,sim128b[14576]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T22:28:17.367833+00:00,sim128b[14576]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T22:28:21.369447+00:00,sim128b[14576]:,isconnect,2,71.200.128.99,Benjad
+2013-01-09T22:28:29.401038+00:00,sim128b[14576]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T22:33:02.727700+00:00,sim128b[14576]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T22:33:14.096732+00:00,sim128b[14576]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T22:35:02.388122+00:00,sim128b[14576]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T22:35:12.850089+00:00,sim128b[14576]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T22:37:02.176422+00:00,sim128b[14576]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T22:37:14.377728+00:00,sim128b[14576]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T22:38:10.865154+00:00,sim128b[14576]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T22:57:22.671977+00:00,sim128b[14576]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T22:58:00.593697+00:00,sim128b[14576]:,onnect,3,91.16.125.1,Jaridan
+2013-01-09T22:58:00.682719+00:00,sim128b[14576]:,isconnect,4,91.16.125.1,Jaridan
+2013-01-09T22:58:23.590824+00:00,sim128b[14576]:,hat,2,114.112.45.95,MacBook Air,3,Southern Rail,Anyone has connection difficulties?
+2013-01-09T22:58:28.414825+00:00,sim128b[14576]:,onnect,4,69.138.176.94,Fifty
+2013-01-09T22:58:37.167893+00:00,sim128b[14576]:,hat,3,91.16.125.1,Jaridan,7,German Confused Trains Transport,"nope, well server was down for a few min"
+2013-01-09T22:58:56.190628+00:00,sim128b[14576]:,hat,3,91.16.125.1,Jaridan,7,German Confused Trains Transport,"google: simutrans server list , third link or so you can check if erver is up/down"
+2013-01-09T22:59:26.822528+00:00,sim128b[14576]:,hat,4,69.138.176.94,Fifty,15,,hey
+2013-01-09T22:59:41.693382+00:00,sim128b[14576]:,hat,3,91.16.125.1,Jaridan,7,German Confused Trains Transport,"yo, you have any idea why server crashed?"
+2013-01-09T22:59:55.374480+00:00,sim128b[14576]:,hat,4,69.138.176.94,Fifty,15,,no
+2013-01-09T23:01:44.540223+00:00,sim128b[14576]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:01:56.414551+00:00,sim128b[14576]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:02:17.298533+00:00,sim128b[14576]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:02:29.744742+00:00,sim128b[14576]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:02:48.429448+00:00,sim128b[14576]:,isconnect,3,91.16.125.1,Jaridan
+2013-01-09T23:03:04.162148+00:00,sim128b[14576]:,onnect,3,91.16.125.1,Jaridan
+2013-01-09T23:03:12.457276+00:00,sim128b[14576]:,hat,4,69.138.176.94,Fifty,12,RF&P,"Jaridan, so you will do the steel for the car shop chain?"
+2013-01-09T23:03:22.432562+00:00,sim128b[14576]:,hat,3,91.16.125.1,Jaridan,15,,"y, will try to"
+2013-01-09T23:03:41.825279+00:00,sim128b[14576]:,onnect,5,14.199.13.214,City :)
+2013-01-09T23:03:44.788959+00:00,sim128b[14576]:,hat,4,69.138.176.94,Fifty,12,RF&P,you think today or later?
+2013-01-09T23:04:00.756643+00:00,sim128b[14576]:,hat,3,91.16.125.1,Jaridan,7,German Confused Trains Transport,well now / when you have time
+2013-01-09T23:04:01.053066+00:00,sim128b[14576]:,hat,2,114.112.45.95,MacBook Air,3,Southern Rail,4 players :)
+2013-01-09T23:04:08.277610+00:00,sim128b[14576]:,hat,3,91.16.125.1,Jaridan,7,German Confused Trains Transport,cause we need both or it will overload
+2013-01-09T23:04:53.455551+00:00,sim128b[14576]:,hat,4,69.138.176.94,Fifty,12,RF&P,"ok, so you will build steel now and I will do plastic?"
+2013-01-09T23:05:07.349427+00:00,sim128b[14576]:,isconnect,3,91.16.125.1,Jaridan
+2013-01-09T23:05:17.208824+00:00,sim128b[14576]:,onnect,3,91.16.125.1,Jaridan
+2013-01-09T23:05:22.150800+00:00,sim128b[14576]:,hat,3,91.16.125.1,Jaridan,15,,y
+2013-01-09T23:05:59.173799+00:00,sim128b[14576]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:06:15.590123+00:00,sim128b[14576]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:07:31.995882+00:00,sim128b[14576]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:07:43.928355+00:00,sim128b[14576]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:08:32.378374+00:00,sim128b[14576]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:08:42.515203+00:00,sim128b[14576]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:12:26.141713+00:00,sim128b[21801]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:12:32.522046+00:00,sim128b[21801]:,onnect,3,69.138.176.94,Fifty
+2013-01-09T23:12:44.143906+00:00,sim128b[21801]:,onnect,4,14.199.13.214,City :)
+2013-01-09T23:12:51.196152+00:00,sim128b[21801]:,onnect,5,91.16.125.1,Jaridan
+2013-01-09T23:13:00.172961+00:00,sim128b[21801]:,hat,2,114.112.45.95,MacBook Air,15,,"Everytime I got bankrupt, the server crashes. :("
+2013-01-09T23:13:17.560747+00:00,sim128b[21801]:,hat,5,91.16.125.1,Jaridan,15,,one way here?
+2013-01-09T23:14:25.970432+00:00,sim128b[21801]:,hat,2,114.112.45.95,MacBook Air,5,Southern Rail,Whois Trikky Transport?
+2013-01-09T23:16:16.964654+00:00,sim128b[21801]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:16:28.221824+00:00,sim128b[21801]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:16:30.988318+00:00,sim128b[21801]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:16:43.004195+00:00,sim128b[21801]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:16:50.368513+00:00,sim128b[21801]:,isconnect,3,69.138.176.94,Fifty
+2013-01-09T23:16:59.076937+00:00,sim128b[21801]:,onnect,3,69.138.176.94,Fifty
+2013-01-09T23:18:40.882434+00:00,sim128b[21801]:,isconnect,4,14.199.13.214,City :)
+2013-01-09T23:18:52.531061+00:00,sim128b[21801]:,onnect,4,14.199.13.214,City :)
+2013-01-09T23:19:20.495680+00:00,sim128b[21801]:,hat,5,91.16.125.1,Jaridan,7,German Confused Trains Transport,"can you connect to the public airport aswell city, once you got your stuff running?"
+2013-01-09T23:19:32.017079+00:00,sim128b[21801]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:19:46.473028+00:00,sim128b[21801]:,onnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:20:38.384175+00:00,sim128b[21801]:,hat,5,91.16.125.1,Jaridan,7,German Confused Trains Transport,"wtf, why does my plane not get any pax? (39,299)"
+2013-01-09T23:21:59.371401+00:00,sim128b[21801]:,hat,3,69.138.176.94,Fifty,15,,pawley's island airport has no pax capability
+2013-01-09T23:22:16.672873+00:00,sim128b[21801]:,hat,3,69.138.176.94,Fifty,12,RF&P,add an extension building or bus stop
+2013-01-09T23:22:53.534951+00:00,sim128b[21801]:,hat,5,91.16.125.1,Jaridan,7,German Confused Trains Transport,pawley is an airport
+2013-01-09T23:23:00.097581+00:00,sim128b[21801]:,hat,5,91.16.125.1,Jaridan,7,German Confused Trains Transport,it should have pax
+2013-01-09T23:23:22.061902+00:00,sim128b[21801]:,hat,3,69.138.176.94,Fifty,12,RF&P,not those loading bays
+2013-01-09T23:23:34.819263+00:00,sim128b[21801]:,hat,3,69.138.176.94,Fifty,12,RF&P,there- working now
+2013-01-09T23:24:03.437926+00:00,sim128b[21801]:,hat,5,91.16.125.1,Jaridan,7,German Confused Trains Transport,"cause need my planes running, otherwise i'll bankrupt lult"
+2013-01-09T23:24:50.762534+00:00,sim128b[21801]:,hat,5,91.16.125.1,Jaridan,7,German Confused Trains Transport,gonna work on the steel now
+2013-01-09T23:25:19.080158+00:00,sim128b[21801]:,hat,3,69.138.176.94,Fifty,12,RF&P,"k I will get plastic, just being cautious, don't want to overextend"
+2013-01-09T23:25:44.926939+00:00,sim128b[21801]:,hat,5,91.16.125.1,Jaridan,14,Player 13,"you can make some canals with player 13 , using that guy for land atm"
+2013-01-09T23:26:10.880863+00:00,sim128b[21801]:,isconnect,4,14.199.13.214,City :)
+2013-01-09T23:26:17.117954+00:00,sim128b[21801]:,isconnect,2,114.112.45.95,MacBook Air
+2013-01-09T23:26:23.234601+00:00,sim128b[21801]:,onnect,2,14.199.13.214,City :)
+2013-01-09T23:26:30.643373+00:00,sim128b[21801]:,onnect,4,114.112.45.95,MacBook Air
+2013-01-09T23:26:31.946640+00:00,sim128b[21801]:,hat,3,69.138.176.94,Fifty,12,RF&P,i might use it for terraforming my oil lines
+2013-01-09T23:28:05.929402+00:00,sim128b[21801]:,isconnect,5,91.16.125.1,Jaridan
+2013-01-09T23:28:13.789496+00:00,sim128b[21801]:,onnect,5,91.16.125.1,Jaridan
+2013-01-09T23:29:01.793946+00:00,sim128b[21801]:,isconnect,4,114.112.45.95,MacBook Air
+2013-01-09T23:29:12.490872+00:00,sim128b[21801]:,onnect,4,114.112.45.95,MacBook Air
+2013-01-09T23:30:46.819433+00:00,sim128b[21801]:,isconnect,4,114.112.45.95,MacBook Air
+2013-01-09T23:30:57.661158+00:00,sim128b[21801]:,onnect,4,114.112.45.95,MacBook Air
+2013-01-09T23:31:12.932588+00:00,sim128b[21801]:,hat,5,91.16.125.1,Jaridan,7,German Confused Trains Transport,"macbook , where are you from btw?"
+2013-01-09T23:31:29.910331+00:00,sim128b[21801]:,hat,4,114.112.45.95,MacBook Air,5,Southern Rail,"in real person, you mean?"
+2013-01-09T23:31:40.682135+00:00,sim128b[21801]:,hat,5,91.16.125.1,Jaridan,7,German Confused Trains Transport,just the country
+2013-01-09T23:31:44.895469+00:00,sim128b[21801]:,hat,5,91.16.125.1,Jaridan,7,German Confused Trains Transport,cause you dc alot
+2013-01-09T23:31:48.478115+00:00,sim128b[21801]:,hat,4,114.112.45.95,MacBook Air,5,Southern Rail,china
+2013-01-09T23:31:49.698860+00:00,sim128b[21801]:,hat,5,91.16.125.1,Jaridan,7,German Confused Trains Transport,could be the server though
+2013-01-09T23:31:55.075874+00:00,sim128b[21801]:,hat,5,91.16.125.1,Jaridan,7,German Confused Trains Transport,ah ok^^
+2013-01-09T23:32:01.075574+00:00,sim128b[21801]:,hat,5,91.16.125.1,Jaridan,7,German Confused Trains Transport,the server is in the UK
+2013-01-09T23:32:25.745181+00:00,sim128b[21801]:,isconnect,2,14.199.13.214,City :)
+2013-01-09T23:32:28.155615+00:00,sim128b[21801]:,hat,3,69.138.176.94,Fifty,14,Player 13,"I have no issues from the usa, but I know austrialians have lots of trouble"
+2013-01-09T23:32:43.423206+00:00,sim128b[21801]:,onnect,2,14.199.13.214,City :)
+2013-01-09T23:32:49.348275+00:00,sim128b[21801]:,isconnect,5,91.16.125.1,Jaridan
+2013-01-09T23:32:58.239875+00:00,sim128b[21801]:,onnect,5,91.16.125.1,Jaridan
+2013-01-09T23:33:13.313590+00:00,sim128b[21801]:,hat,5,91.16.125.1,Jaridan,15,,that way it seems like i'm hugging the server lol :D
+2013-01-09T23:33:16.885810+00:00,sim128b[21801]:,isconnect,4,114.112.45.95,MacBook Air
+2013-01-09T23:33:28.781755+00:00,sim128b[21801]:,onnect,4,114.112.45.95,MacBook Air
+2013-01-09T23:34:11.069463+00:00,sim128b[21801]:,isconnect,3,69.138.176.94,Fifty
+2013-01-09T23:34:11.069489+00:00,sim128b[21801]:,isconnect,5,91.16.125.1,Jaridan
+2013-01-09T23:34:11.226587+00:00,sim128b[21801]:,isconnect,2,14.199.13.214,City :)
+2013-01-09T23:34:11.226774+00:00,sim128b[21801]:,isconnect,4,114.112.45.95,MacBook Air
+2013-01-09T23:34:18.960615+00:00,sim128b[21801]:,onnect,2,91.16.125.1,Jaridan
+2013-01-09T23:34:25.601713+00:00,sim128b[21801]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:34:30.437135+00:00,sim128b[21801]:,onnect,4,69.138.176.94,Fifty
+2013-01-09T23:34:30.805313+00:00,sim128b[21801]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:34:44.433274+00:00,sim128b[21801]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:34:56.235004+00:00,sim128b[21801]:,onnect,5,14.199.13.214,City :)
+2013-01-09T23:35:17.848180+00:00,sim128b[21801]:,hat,2,91.16.125.1,Jaridan,7,German Confused Trains Transport,when is the cheetah introduced?
+2013-01-09T23:35:24.989908+00:00,sim128b[21801]:,hat,2,91.16.125.1,Jaridan,7,German Confused Trains Transport,need ma cute cheetah :/
+2013-01-09T23:36:47.240082+00:00,sim128b[21801]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:36:58.597391+00:00,sim128b[21801]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:37:13.704434+00:00,sim128b[21801]:,hat,4,69.138.176.94,Fifty,14,Player 13,cheetah- 1943
+2013-01-09T23:37:19.843457+00:00,sim128b[21801]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:37:21.010118+00:00,sim128b[21801]:,hat,4,69.138.176.94,Fifty,14,Player 13,typo 1942
+2013-01-09T23:37:32.193613+00:00,sim128b[21801]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:37:46.168174+00:00,sim128b[21801]:,hat,4,69.138.176.94,Fifty,14,Player 13,Goliath might be your best choice though
+2013-01-09T23:38:26.730090+00:00,sim128b[21801]:,hat,4,69.138.176.94,Fifty,14,Player 13,eight wheeler can be ok too
+2013-01-09T23:38:57.797876+00:00,sim128b[21801]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:39:10.401871+00:00,sim128b[21801]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:39:15.477719+00:00,sim128b[21801]:,hat,4,69.138.176.94,Fifty,14,Player 13,or the electric.
+2013-01-09T23:39:25.453728+00:00,sim128b[21801]:,hat,2,91.16.125.1,Jaridan,7,German Confused Trains Transport,electric are shit
+2013-01-09T23:39:27.213021+00:00,sim128b[21801]:,hat,3,114.112.45.95,MacBook Air,5,Southern Rail,I'll bankrupt soon.
+2013-01-09T23:39:27.665789+00:00,sim128b[21801]:,hat,2,91.16.125.1,Jaridan,7,German Confused Trains Transport,early on
+2013-01-09T23:39:54.156968+00:00,sim128b[21801]:,hat,4,69.138.176.94,Fifty,14,Player 13,I don't think so!
+2013-01-09T23:40:17.047758+00:00,sim128b[21801]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:40:31.972318+00:00,sim128b[21801]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:42:16.818663+00:00,sim128b[21801]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:42:31.742768+00:00,sim128b[21801]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:46:31.746747+00:00,sim128b[21801]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:46:45.333821+00:00,sim128b[21801]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:47:02.311147+00:00,sim128b[21801]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:47:12.787905+00:00,sim128b[21801]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:49:05.074226+00:00,sim128b[21801]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:49:16.183229+00:00,sim128b[21801]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:49:17.033185+00:00,sim128b[21801]:,isconnect,5,14.199.13.214,City :)
+2013-01-09T23:49:29.765172+00:00,sim128b[21801]:,onnect,5,14.199.13.214,City :)
+2013-01-09T23:49:43.850013+00:00,sim128b[21801]:,isconnect,2,91.16.125.1,Jaridan
+2013-01-09T23:49:52.024553+00:00,sim128b[21801]:,onnect,2,91.16.125.1,Jaridan
+2013-01-09T23:52:32.028784+00:00,sim128b[21801]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:52:48.342942+00:00,sim128b[21801]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:55:52.628620+00:00,sim128b[21801]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:56:06.400254+00:00,sim128b[21801]:,onnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:57:11.685028+00:00,sim128b[21801]:,isconnect,3,114.112.45.95,MacBook Air
+2013-01-09T23:58:31.581875+00:00,sim128b[21801]:,isconnect,5,14.199.13.214,City :)
+2013-01-09T23:59:24.042188+00:00,sim128b[21801]:,onnect,3,14.199.13.214,City :)

@@ -1,0 +1,136 @@
+2012-10-07T02:36:52.364105+00:00,sim128b[7499]:,connect,6,98.251.79.180,Client#5
+2012-10-07T10:18:24.167706+00:00,sim128b[7499]:,disconnect,4,98.251.79.180,Client#5
+2012-10-07T10:18:24.167883+00:00,sim128b[7499]:,disconnect,5,98.251.79.180,Client#5
+2012-10-07T10:18:24.168071+00:00,sim128b[7499]:,disconnect,6,98.251.79.180,Client#5
+2012-10-07T10:18:29.850532+00:00,sim128b[7499]:,connect,7,88.165.36.112,Client#4
+2012-10-07T10:23:04.581158+00:00,sim128b[7499]:,disconnect,7,88.165.36.112,Client#4
+2012-10-07T10:47:05.458702+00:00,sim128b[7499]:,connect,4,82.202.65.26,Hanz
+2012-10-07T11:13:03.659494+00:00,sim128b[7499]:,connect,5,82.202.65.26,Hanz
+2012-10-07T12:23:14.415405+00:00,sim128b[7499]:,connect,6,217.254.184.247,Goettervater
+2012-10-07T12:25:36.090268+00:00,sim128b[7499]:,chat,6,217.254.184.247,Goettervater,15,,jemand da?
+2012-10-07T12:26:21.986724+00:00,sim128b[7499]:,disconnect,4,82.202.65.26,Hanz
+2012-10-07T12:26:21.986896+00:00,sim128b[7499]:,disconnect,5,82.202.65.26,Hanz
+2012-10-07T12:26:21.987059+00:00,sim128b[7499]:,disconnect,6,217.254.184.247,Goettervater
+2012-10-07T12:46:59.518113+00:00,sim128b[7499]:,connect,4,217.254.184.247,Goettervater
+2012-10-07T13:49:08.611492+00:00,sim128b[7499]:,connect,5,82.202.65.26,Hanz
+2012-10-07T14:01:42.859111+00:00,sim128b[7499]:,disconnect,5,82.202.65.26,Hanz
+2012-10-07T14:12:33.937283+00:00,sim128b[7499]:,connect,5,217.254.184.247,Goettervater
+2012-10-07T14:28:10.306436+00:00,sim128b[7499]:,connect,6,82.202.65.26,Hanz
+2012-10-07T14:28:10.364949+00:00,sim128b[7499]:,disconnect,4,217.254.184.247,Goettervater
+2012-10-07T14:59:38.057565+00:00,sim128b[7499]:,connect,4,89.155.122.64,Client#4
+2012-10-07T15:02:36.468613+00:00,sim128b[7499]:,disconnect,4,89.155.122.64,Client#4
+2012-10-07T15:31:40.150701+00:00,sim128b[7499]:,disconnect,5,217.254.184.247,Goettervater
+2012-10-07T15:47:20.953346+00:00,sim128b[7499]:,connect,4,94.224.41.172,Len
+2012-10-07T15:52:30.203943+00:00,sim128b[7499]:,disconnect,4,94.224.41.172,Len
+2012-10-07T16:29:50.354608+00:00,sim128b[7499]:,connect,4,188.167.96.139,Client#4
+2012-10-07T16:39:56.046011+00:00,sim128b[7499]:,disconnect,6,82.202.65.26,Hanz
+2012-10-07T16:47:05.109580+00:00,sim128b[7499]:,connect,5,217.254.184.247,Goettervater
+2012-10-07T16:49:06.330051+00:00,sim128b[7499]:,connect,6,82.202.65.26,Hanz
+2012-10-07T16:49:06.468341+00:00,sim128b[7499]:,disconnect,4,188.167.96.139,Client#4
+2012-10-07T17:46:28.218381+00:00,sim128b[7499]:,disconnect,5,217.254.184.247,Goettervater
+2012-10-07T17:46:55.915947+00:00,sim128b[7499]:,connect,4,217.254.184.247,Goettervater
+2012-10-07T18:51:45.248977+00:00,sim128b[7499]:,disconnect,4,217.254.184.247,Goettervater
+2012-10-07T18:53:24.336990+00:00,sim128b[7499]:,connect,4,86.6.187.69,Client#4
+2012-10-07T18:56:53.788927+00:00,sim128b[7499]:,disconnect,4,86.6.187.69,Client#4
+2012-10-07T19:12:56.781215+00:00,sim128b[7499]:,connect,4,94.224.41.172,Len
+2012-10-07T19:17:11.564738+00:00,sim128b[7499]:,connect,5,217.254.184.247,Goettervater
+2012-10-07T19:23:38.294183+00:00,sim128b[7499]:,disconnect,4,94.224.41.172,Len
+2012-10-07T19:40:11.701920+00:00,sim128b[7499]:,connect,4,98.251.79.180,Client#5
+2012-10-07T19:40:29.087556+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,15,,"hi, who's here?"
+2012-10-07T19:42:37.897943+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,15,,hello goettervater
+2012-10-07T19:47:44.393613+00:00,sim128b[7499]:,disconnect,5,217.254.184.247,Goettervater
+2012-10-07T19:51:51.579381+00:00,sim128b[7499]:,connect,5,217.254.184.247,Goettervater
+2012-10-07T19:54:01.512045+00:00,sim128b[7499]:,disconnect,4,98.251.79.180,Client#5
+2012-10-07T19:54:10.883846+00:00,sim128b[7499]:,connect,4,98.251.79.180,Client#5
+2012-10-07T19:56:19.296076+00:00,sim128b[7499]:,disconnect,6,82.202.65.26,Hanz
+2012-10-07T20:01:23.092807+00:00,sim128b[7499]:,chat,5,217.254.184.247,Goettervater,6,Goettervater,hallo
+2012-10-07T20:01:41.709341+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"hi, have you played before?"
+2012-10-07T20:02:26.016907+00:00,sim128b[7499]:,chat,5,217.254.184.247,Goettervater,6,Goettervater,"yes ,,, ein bisschen"
+2012-10-07T20:03:07.868025+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,what account name did you use before?  Htrans?
+2012-10-07T20:03:41.094287+00:00,sim128b[7499]:,chat,5,217.254.184.247,Goettervater,6,Goettervater,mom
+2012-10-07T20:03:55.098203+00:00,sim128b[7499]:,chat,5,217.254.184.247,Goettervater,6,Goettervater,player **
+2012-10-07T20:05:53.633449+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"here is another big empty city: (15,39)"
+2012-10-07T20:06:58.040718+00:00,sim128b[7499]:,chat,5,217.254.184.247,Goettervater,6,Goettervater,"ahhh ,, danke ,"
+2012-10-07T20:07:06.731632+00:00,sim128b[7499]:,chat,5,217.254.184.247,Goettervater,6,Goettervater,thanks
+2012-10-07T20:07:40.146805+00:00,sim128b[7499]:,chat,5,217.254.184.247,Goettervater,6,Goettervater,no money
+2012-10-07T20:08:12.989900+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"look at ""Net Wealth""..... keep above 0 and you are ok"
+2012-10-07T20:08:34.071899+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"you have 567,000 ""Net Wealth"" so you have 567000 you can spen"
+2012-10-07T20:09:41.871757+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"negative ""Net Wealth"" = lose the game; positive ""Net Wealth"" = you can build more"
+2012-10-07T20:12:06.926946+00:00,sim128b[7499]:,chat,5,217.254.184.247,Goettervater,6,Goettervater,sorry verstehe nix
+2012-10-07T20:15:20.899841+00:00,sim128b[7499]:,disconnect,5,217.254.184.247,Goettervater
+2012-10-07T20:15:58.970783+00:00,sim128b[7499]:,connect,5,217.254.184.247,Goettervater
+2012-10-07T20:16:33.723264+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"Go to ""Finances"" and look at ""Net Wealth"""
+2012-10-07T20:20:19.236371+00:00,sim128b[7499]:,connect,6,82.202.65.26,Hanz
+2012-10-07T20:21:07.619632+00:00,sim128b[7499]:,chat,5,217.254.184.247,Goettervater,6,Goettervater,Firmensitz?
+2012-10-07T20:21:29.131707+00:00,sim128b[7499]:,chat,5,217.254.184.247,Goettervater,6,Goettervater,"for 90,000,00¬"
+2012-10-07T20:21:54.580671+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"Net Wealth 534,500.00 c"
+2012-10-07T20:26:46.726069+00:00,sim128b[7499]:,chat,5,217.254.184.247,Goettervater,6,Goettervater,Gesamtvermögen 5388700.00
+2012-10-07T20:27:07.564052+00:00,sim128b[7499]:,chat,5,217.254.184.247,Goettervater,6,Goettervater,"hmmm 539.557,00"
+2012-10-07T20:27:11.751976+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"yes, yes :)"
+2012-10-07T20:27:27.510242+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,you can spend all that
+2012-10-07T20:27:48.264022+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,don't go to 0 Gesamtvermogen
+2012-10-07T20:29:44.039748+00:00,sim128b[7499]:,chat,5,217.254.184.247,Goettervater,6,Goettervater,warum?
+2012-10-07T20:31:06.188717+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"you have 539,557 money, not 82,600 money"
+2012-10-07T20:45:48.882504+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"you said ""no money"""
+2012-10-07T20:57:42.835151+00:00,sim128b[7499]:,connect,7,178.191.233.34,Client#7
+2012-10-07T20:58:29.136121+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,hello client 7
+2012-10-07T20:59:27.562779+00:00,sim128b[7499]:,chat,7,178.191.233.34,Client#7,13,Alamo Corp,hello?
+2012-10-07T20:59:42.286762+00:00,sim128b[7499]:,disconnect,6,82.202.65.26,Hanz
+2012-10-07T20:59:58.503378+00:00,sim128b[7499]:,connect,6,82.202.65.26,Hanz
+2012-10-07T21:00:09.119908+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"hi alamo, hi hanz, glad to see you back"
+2012-10-07T21:00:32.063115+00:00,sim128b[7499]:,chat,7,178.191.233.34,Client#7,13,Alamo Corp,playing is nearly impossible for me....
+2012-10-07T21:00:54.649525+00:00,sim128b[7499]:,chat,7,178.191.233.34,Client#7,13,Alamo Corp,it lags ...
+2012-10-07T21:01:03.578918+00:00,sim128b[7499]:,chat,7,178.191.233.34,Client#7,13,Alamo Corp,extremly
+2012-10-07T21:01:03.809706+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,oh :(   sorry ...... can you change something for me before you leave?
+2012-10-07T21:01:12.192833+00:00,sim128b[7499]:,chat,7,178.191.233.34,Client#7,13,Alamo Corp,what
+2012-10-07T21:01:46.381604+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"(264,399)  can we make your bridge longer here? so I can put rail different?"
+2012-10-07T21:02:13.563210+00:00,sim128b[7499]:,chat,7,178.191.233.34,Client#7,13,Alamo Corp,yes
+2012-10-07T21:02:31.084903+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"start bridge at (262,400) ??"
+2012-10-07T21:03:21.958637+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"sorry, guess gotta remove the depot too :("
+2012-10-07T21:03:36.553549+00:00,sim128b[7499]:,disconnect,6,82.202.65.26,Hanz
+2012-10-07T21:04:03.083247+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,thanks so much :)
+2012-10-07T21:04:16.043839+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,do you need anything?
+2012-10-07T21:04:20.107670+00:00,sim128b[7499]:,chat,7,178.191.233.34,Client#7,13,Alamo Corp,np
+2012-10-07T21:06:57.742272+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,I think someone should tell the server owner that the patch he added made things very laggy/slow
+2012-10-07T21:08:35.459950+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,is hanz here?  or alamo?
+2012-10-07T21:27:04.959878+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,still there alamo?
+2012-10-07T21:28:30.955891+00:00,sim128b[7499]:,disconnect,5,217.254.184.247,Goettervater
+2012-10-07T21:29:31.703458+00:00,sim128b[7499]:,connect,5,217.254.184.247,Goettervater
+2012-10-07T21:32:20.100117+00:00,sim128b[7499]:,chat,7,178.191.233.34,Client#7,13,Alamo Corp,yes
+2012-10-07T21:32:33.029547+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"nice, are you making your passenger system now? :)"
+2012-10-07T21:33:08.291394+00:00,sim128b[7499]:,chat,7,178.191.233.34,Client#7,13,Alamo Corp,i try to... but it lags :( think i will continue tomorrow building trams within the cities
+2012-10-07T21:33:17.812362+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"btw, I tried to warn feros, srac, gazda not to build trolleybus electric, but he still does it :("
+2012-10-07T21:33:26.951063+00:00,sim128b[7499]:,chat,7,178.191.233.34,Client#7,13,Alamo Corp,is there a public airport?
+2012-10-07T21:33:36.614263+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"uh, there are two main ones"
+2012-10-07T21:33:51.518245+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"one near aberdeen and one near birmingham... "
+2012-10-07T21:33:58.459478+00:00,sim128b[7499]:,chat,7,178.191.233.34,Client#7,13,Alamo Corp,ah i see
+2012-10-07T21:34:06.007508+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"we never setup a ""real"" public one for all players"
+2012-10-07T21:34:25.776444+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"but, if you want to exchange passenger somewhere else, let me know"
+2012-10-07T21:34:43.658141+00:00,sim128b[7499]:,chat,7,178.191.233.34,Client#7,13,Alamo Corp,its ok this way... i just connect to both of them
+2012-10-07T21:34:48.999130+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,ok
+2012-10-07T21:35:15.330670+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,or not ok.... right now they are teh most used
+2012-10-07T21:35:27.105145+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"actually, I tried making several public stations, but..."
+2012-10-07T21:36:30.221061+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"oh, nevermind, sorry"
+2012-10-07T21:36:43.734305+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"on another note, (281,261) used to be connected to cantebury, but that player went bankrupt so not much is connected there"
+2012-10-07T21:37:34.696802+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"(80,243) used to be connected to a few cities, but that was the same player that bankrupt.  now it has only a little bit"
+2012-10-07T21:38:21.200126+00:00,sim128b[7499]:,chat,7,178.191.233.34,Client#7,13,Alamo Corp,ok
+2012-10-07T21:40:20.580795+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,15,,"btw, road electric is fine to use as long as you don't make it public"
+2012-10-07T21:40:41.727545+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,if trolleybus electric becomes public you can never delete that road again :(
+2012-10-07T21:41:57.272353+00:00,sim128b[7499]:,chat,7,178.191.233.34,Client#7,13,Alamo Corp,i dont like trollybus anyway ;)
+2012-10-07T21:42:41.648824+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"well, the problem is feros/srac/Gadza (same person?) who doesn't seem to play but builds them on the map"
+2012-10-07T21:45:02.687298+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"can you perhaps make a special passenger & mail to these to powerplants?  (112,412) & (109,426)"
+2012-10-07T21:45:27.525344+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"they are both close to one of your train stations.... and since power is so rare, any boost helps :)"
+2012-10-07T21:45:55.717565+00:00,sim128b[7499]:,chat,7,178.191.233.34,Client#7,13,Alamo Corp,i will connect them when i continue building my passenger system... but for now i will go to bed... its already late
+2012-10-07T21:46:22.460584+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"sure, I understand"
+2012-10-07T21:49:34.353700+00:00,sim128b[7499]:,disconnect,5,217.254.184.247,Goettervater
+2012-10-07T21:50:06.442114+00:00,sim128b[7499]:,connect,5,217.254.184.247,Goettervater
+2012-10-07T21:50:40.584594+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"alamo, still here?  do you speak german?"
+2012-10-07T21:51:07.093297+00:00,sim128b[7499]:,disconnect,7,178.191.233.34,Client#7
+2012-10-07T21:51:20.125901+00:00,sim128b[7499]:,connect,6,178.191.233.34,Client#7
+2012-10-07T21:51:45.028286+00:00,sim128b[7499]:,chat,6,178.191.233.34,Client#7,15,,"ja, spreche ich ^^"
+2012-10-07T21:52:34.059154+00:00,sim128b[7499]:,disconnect,4,98.251.79.180,Client#5
+2012-10-07T21:52:53.157979+00:00,sim128b[7499]:,connect,4,98.251.79.180,Client#5
+2012-10-07T21:55:38.328647+00:00,sim128b[7499]:,disconnect,6,178.191.233.34,Client#7
+2012-10-07T22:07:26.169642+00:00,sim128b[7499]:,disconnect,4,98.251.79.180,Client#5
+2012-10-07T22:07:37.407341+00:00,sim128b[7499]:,connect,4,98.251.79.180,Client#5
+2012-10-07T22:19:17.565652+00:00,sim128b[19721]:,connect,2,98.251.79.180,Client#5

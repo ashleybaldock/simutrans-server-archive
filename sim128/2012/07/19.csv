@@ -1,0 +1,233 @@
+2012-07-19T00:01:43.076509+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,3,Transport 1,"if you want an account, the passwords for ""Transport 1 - 11"" is ""abcd""; again the pass is ""abcd"""
+2012-07-19T00:03:51.934047+00:00,sim128[7679]:,disconnect,4,98.251.79.180,Client#6
+2012-07-19T00:03:56.820528+00:00,sim128[7679]:,connect,5,98.251.79.180,Client#6
+2012-07-19T00:08:31.902692+00:00,sim128[7679]:,chat,5,98.251.79.180,Client#6,15,,"I mean accounts 2-11; "
+2012-07-19T00:09:06.173424+00:00,sim128[7679]:,chat,5,98.251.79.180,Client#6,2,A-Train,"after you log in with ""abcd"" click on the green block to change your company name and password."
+2012-07-19T01:04:27.417494+00:00,sim128[7679]:,connect,4,98.251.79.180,Client#6
+2012-07-19T01:20:30.189859+00:00,sim128[7679]:,disconnect,4,98.251.79.180,Client#6
+2012-07-19T01:20:30.190119+00:00,sim128[7679]:,disconnect,5,98.251.79.180,Client#6
+2012-07-19T01:20:45.585052+00:00,sim128[7679]:,connect,4,98.251.79.180,Client#6
+2012-07-19T01:21:34.679733+00:00,sim128[7679]:,disconnect,4,98.251.79.180,Client#6
+2012-07-19T01:21:48.914635+00:00,sim128[7679]:,connect,4,98.251.79.180,Client#6
+2012-07-19T01:25:14.485818+00:00,sim128[7679]:,disconnect,4,98.251.79.180,Client#6
+2012-07-19T01:25:25.372781+00:00,sim128[7679]:,connect,4,98.251.79.180,Client#6
+2012-07-19T01:28:14.692823+00:00,sim128[7679]:,disconnect,4,98.251.79.180,Client#6
+2012-07-19T01:28:19.911627+00:00,sim128[7679]:,connect,5,98.251.79.180,Client#6
+2012-07-19T01:31:48.926091+00:00,sim128[7679]:,connect,4,98.251.79.180,Client#6
+2012-07-19T01:38:09.818759+00:00,sim128[7679]:,connect,6,98.251.79.180,Client#6
+2012-07-19T01:39:15.079504+00:00,sim128[7679]:,disconnect,4,98.251.79.180,Client#6
+2012-07-19T01:39:15.079643+00:00,sim128[7679]:,disconnect,5,98.251.79.180,Client#6
+2012-07-19T01:39:15.079770+00:00,sim128[7679]:,disconnect,6,98.251.79.180,Client#6
+2012-07-19T01:39:20.198580+00:00,sim128[7679]:,connect,7,98.251.79.180,Client#6
+2012-07-19T01:48:30.129535+00:00,sim128[7679]:,disconnect,7,98.251.79.180,Client#6
+2012-07-19T01:48:42.307727+00:00,sim128[7679]:,connect,4,98.251.79.180,Client#6
+2012-07-19T02:53:39.715343+00:00,sim128[7679]:,disconnect,4,98.251.79.180,Client#6
+2012-07-19T02:53:51.805767+00:00,sim128[7679]:,connect,4,98.251.79.180,Client#6
+2012-07-19T02:55:16.119967+00:00,sim128[7679]:,disconnect,4,98.251.79.180,Client#6
+2012-07-19T02:55:20.863949+00:00,sim128[7679]:,connect,5,98.251.79.180,Client#6
+2012-07-19T03:19:39.528117+00:00,sim128[7679]:,connect,4,98.251.79.180,Client#6
+2012-07-19T03:34:20.400940+00:00,sim128[7679]:,connect,6,98.251.79.180,Client#6
+2012-07-19T03:36:43.797489+00:00,sim128[7679]:,disconnect,4,98.251.79.180,Client#6
+2012-07-19T03:36:43.797525+00:00,sim128[7679]:,disconnect,5,98.251.79.180,Client#6
+2012-07-19T03:36:43.797550+00:00,sim128[7679]:,disconnect,6,98.251.79.180,Client#6
+2012-07-19T03:36:48.929104+00:00,sim128[7679]:,connect,7,98.251.79.180,Client#6
+2012-07-19T05:27:33.502975+00:00,sim128[7679]:,connect,4,109.212.197.219,Fr-N
+2012-07-19T07:00:30.183024+00:00,sim128[7679]:,disconnect,4,109.212.197.219,Fr-N
+2012-07-19T07:00:30.183364+00:00,sim128[7679]:,disconnect,7,98.251.79.180,Client#6
+2012-07-19T07:00:35.042147+00:00,sim128[7679]:,connect,5,188.22.165.152,Hundling
+2012-07-19T07:02:10.473239+00:00,sim128[7679]:,chat,5,188.22.165.152,Hundling,6,Hundling Trans,oh new game
+2012-07-19T08:47:15.977857+00:00,sim128[7679]:,connect,4,188.22.165.152,Client#4
+2012-07-19T08:56:54.467376+00:00,sim128[7679]:,disconnect,5,188.22.165.152,Hundling
+2012-07-19T10:06:26.093590+00:00,sim128[7679]:,connect,5,188.22.165.152,Client#4
+2012-07-19T11:18:11.408567+00:00,sim128[7679]:,disconnect,4,188.22.165.152,Client#4
+2012-07-19T11:18:11.408613+00:00,sim128[7679]:,disconnect,5,188.22.165.152,Client#4
+2012-07-19T11:18:16.449918+00:00,sim128[7679]:,connect,6,188.22.165.152,Client#4
+2012-07-19T11:23:20.940367+00:00,sim128[7679]:,connect,4,88.115.144.237,Huitsi
+2012-07-19T11:44:53.723935+00:00,sim128[7679]:,chat,4,88.115.144.237,Huitsi,5,GreenCompany,..
+2012-07-19T12:03:51.110490+00:00,sim128[7679]:,disconnect,6,188.22.165.152,Client#4
+2012-07-19T12:04:01.960917+00:00,sim128[7679]:,connect,5,188.22.165.152,Client#4
+2012-07-19T12:09:10.010898+00:00,sim128[7679]:,disconnect,4,88.115.144.237,Huitsi
+2012-07-19T12:15:44.794515+00:00,sim128[7679]:,connect,4,88.115.144.237,Huitsi
+2012-07-19T12:16:12.329677+00:00,sim128[7679]:,chat,4,88.115.144.237,Huitsi,15,,Hi
+2012-07-19T12:29:17.567228+00:00,sim128[7679]:,disconnect,5,188.22.165.152,Client#4
+2012-07-19T12:29:27.102140+00:00,sim128[7679]:,connect,5,188.22.165.152,Client#4
+2012-07-19T12:31:55.509188+00:00,sim128[7679]:,disconnect,4,88.115.144.237,Huitsi
+2012-07-19T12:34:19.552054+00:00,sim128[7679]:,connect,4,88.115.144.237,Huitsi
+2012-07-19T12:35:27.283279+00:00,sim128[7679]:,disconnect,5,188.22.165.152,Client#4
+2012-07-19T12:36:01.417653+00:00,sim128[7679]:,connect,5,188.22.165.152,Hundling
+2012-07-19T12:36:23.034467+00:00,sim128[7679]:,chat,4,88.115.144.237,Huitsi,15,,Hi
+2012-07-19T12:41:35.147018+00:00,sim128[7679]:,disconnect,4,88.115.144.237,Huitsi
+2012-07-19T12:41:47.646064+00:00,sim128[7679]:,connect,4,88.115.144.237,Huitsi
+2012-07-19T12:52:39.415403+00:00,sim128[7679]:,disconnect,4,88.115.144.237,Huitsi
+2012-07-19T12:53:08.619216+00:00,sim128[7679]:,connect,4,88.115.144.237,Huitsi
+2012-07-19T12:54:42.875212+00:00,sim128[7679]:,connect,6,84.78.145.9,Client#5
+2012-07-19T12:55:25.805009+00:00,sim128[7679]:,disconnect,4,88.115.144.237,Huitsi
+2012-07-19T12:55:33.642847+00:00,sim128[7679]:,disconnect,5,188.22.165.152,Hundling
+2012-07-19T12:55:58.504967+00:00,sim128[7679]:,connect,4,188.22.165.152,Hundling
+2012-07-19T12:59:29.271547+00:00,sim128[7679]:,connect,5,88.115.144.237,Huitsi
+2012-07-19T13:01:06.519637+00:00,sim128[7679]:,disconnect,6,84.78.145.9,Client#5
+2012-07-19T13:08:05.401576+00:00,sim128[7679]:,disconnect,5,88.115.144.237,Huitsi
+2012-07-19T14:32:35.682645+00:00,sim128[7679]:,disconnect,4,188.22.165.152,Hundling
+2012-07-19T14:32:40.655969+00:00,sim128[7679]:,connect,5,109.212.197.219,Fr-N
+2012-07-19T14:34:46.040012+00:00,sim128[7679]:,connect,4,79.207.142.5,Client#8
+2012-07-19T14:37:12.849409+00:00,sim128[7679]:,disconnect,5,109.212.197.219,Fr-N
+2012-07-19T14:37:34.968590+00:00,sim128[7679]:,connect,5,109.212.197.219,Fr-N
+2012-07-19T14:40:00.365339+00:00,sim128[7679]:,chat,5,109.212.197.219,Fr-N,15,,Hi
+2012-07-19T14:41:02.938172+00:00,sim128[7679]:,disconnect,4,79.207.142.5,Client#8
+2012-07-19T14:41:25.105721+00:00,sim128[7679]:,connect,4,79.207.142.5,Client#8
+2012-07-19T14:47:51.101024+00:00,sim128[7679]:,connect,6,98.141.195.146,Client#6
+2012-07-19T14:50:49.672347+00:00,sim128[7679]:,disconnect,6,98.141.195.146,Client#6
+2012-07-19T14:54:51.748880+00:00,sim128[7679]:,disconnect,4,79.207.142.5,Client#8
+2012-07-19T14:55:06.258854+00:00,sim128[7679]:,connect,4,79.207.142.5,Client#8
+2012-07-19T15:00:10.789498+00:00,sim128[7679]:,disconnect,5,109.212.197.219,Fr-N
+2012-07-19T16:14:20.695043+00:00,sim128[7679]:,disconnect,4,79.207.142.5,Client#8
+2012-07-19T16:14:25.408667+00:00,sim128[7679]:,connect,5,109.212.197.219,Fr-N
+2012-07-19T17:15:18.169134+00:00,sim128[7679]:,connect,4,98.251.79.180,Client#6
+2012-07-19T17:51:34.441971+00:00,sim128[7679]:,connect,7,109.212.197.219,Fr-N
+2012-07-19T17:51:34.612905+00:00,sim128[7679]:,disconnect,5,109.212.197.219,Fr-N
+2012-07-19T17:54:37.593713+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,hi fr
+2012-07-19T18:44:18.224611+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,"fr, your new line will bankrupt me :("
+2012-07-19T18:49:54.990784+00:00,sim128[7679]:,chat,7,109.212.197.219,Fr-N,12,Fr Network,sorry all market is ocuuped
+2012-07-19T18:50:23.574844+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,"yeah, there is only one market. and I was already delivering food there"
+2012-07-19T18:50:54.243598+00:00,sim128[7679]:,chat,7,109.212.197.219,Fr-N,12,Fr Network,food is best income
+2012-07-19T18:50:57.957131+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,I thought it would allow us both to deliver it... but it cut me off
+2012-07-19T18:51:05.964310+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,my food does not work at all now :(
+2012-07-19T18:51:10.197772+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,no income
+2012-07-19T18:51:54.082537+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,I was already delivering food though
+2012-07-19T18:52:11.658941+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,I put up a sign: food delivered by: A-Train; canned-food: International; beer: Hundling Trans
+2012-07-19T18:52:24.018242+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,people were already delivering stuff there
+2012-07-19T18:52:35.285169+00:00,sim128[7679]:,chat,7,109.212.197.219,Fr-N,12,Fr Network,no we share income
+2012-07-19T18:52:50.394970+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,"no, it stopped my income"
+2012-07-19T18:52:59.224792+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,my factory will not work anymore
+2012-07-19T18:53:22.002978+00:00,sim128[7679]:,chat,7,109.212.197.219,Fr-N,12,Fr Network,food in market is not full
+2012-07-19T18:53:44.762684+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,"yes, but I have a double line (2 stops) you have one stop"
+2012-07-19T18:54:06.711683+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,your 1 stop line causes my 2 stop line to not be used
+2012-07-19T18:54:12.641873+00:00,sim128[7679]:,chat,7,109.212.197.219,Fr-N,12,Fr Network,make 1 stop
+2012-07-19T18:54:18.670928+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,then I won't make much money
+2012-07-19T18:54:30.915820+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,can you make your delivery of food 2 stops?
+2012-07-19T18:54:53.699313+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,from food factory to supermarket make it 2 stops
+2012-07-19T18:55:01.456890+00:00,sim128[7679]:,chat,7,109.212.197.219,Fr-N,12,Fr Network,ok
+2012-07-19T18:55:03.433947+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,and you also make more moeny too
+2012-07-19T18:55:53.801358+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,"fr, look at what I did, I flew food from food factory to (11,500)"
+2012-07-19T18:56:03.833137+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,"then flew from (11,500"
+2012-07-19T18:56:09.302782+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,to supermarket
+2012-07-19T18:56:15.934742+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,you make big money that way
+2012-07-19T18:57:38.999979+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,that will work too (you just need a second train (copy the first one) :)
+2012-07-19T18:57:55.802860+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,"after you make more money, you can fly far away like I did and get lots and lots of money"
+2012-07-19T18:59:35.567543+00:00,sim128[7679]:,disconnect,4,98.251.79.180,Client#6
+2012-07-19T18:59:44.777281+00:00,sim128[7679]:,connect,4,98.251.79.180,Client#6
+2012-07-19T19:02:55.428063+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,"are you exchanging food at ""Piteti Grain farm yard""?"
+2012-07-19T19:04:30.434709+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,now you just need a train from grain farm yard to supermarket :)
+2012-07-19T19:05:34.542082+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,"one train from food factory to grain farm, then a *different* train from grain farm to supmarket = 2 lines/stops"
+2012-07-19T19:07:56.410665+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,????
+2012-07-19T19:08:38.370770+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,"oh, that's not good :("
+2012-07-19T19:09:14.479222+00:00,sim128[7679]:,chat,7,109.212.197.219,Fr-N,12,Fr Network,no
+2012-07-19T19:09:43.803836+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,take one of the free slots
+2012-07-19T19:10:54.187371+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,"sorry fr, the food line was my fault (my line was broken)"
+2012-07-19T19:11:09.001138+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,"the password on the other accounts is ""abcd"" so pick anyone you want"
+2012-07-19T19:11:38.564421+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,I went banrupt once on this new map too :)
+2012-07-19T19:14:14.894287+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,"fr, you can build that food line again; don't worry about 2 stops; it was my fault; use 1 if you want"
+2012-07-19T19:14:49.376262+00:00,sim128[7679]:,chat,7,109.212.197.219,Fr-N,10,French Network,ok tanks
+2012-07-19T19:16:30.690456+00:00,sim128[7679]:,chat,7,109.212.197.219,Fr-N,10,French Network,are you sure
+2012-07-19T19:16:59.516061+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,14,read chat to get this 13,"if you need the income you can... "
+2012-07-19T19:17:16.438371+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,14,read chat to get this 13,I don't think there is any other factories :(
+2012-07-19T19:18:24.494074+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,"oh, that was me; I was going to level terrain :)"
+2012-07-19T19:36:11.467474+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,you can use platform choose signals to save money on maintenance for stations
+2012-07-19T20:04:42.946511+00:00,sim128[7679]:,disconnect,7,109.212.197.219,Fr-N
+2012-07-19T20:04:56.198156+00:00,sim128[7679]:,connect,5,109.212.197.219,Fr-N
+2012-07-19T20:10:55.213830+00:00,sim128[7679]:,chat,4,98.251.79.180,Client#6,9,A-Train,what will you build next?
+2012-07-19T20:20:52.840944+00:00,sim128[7679]:,disconnect,5,109.212.197.219,Fr-N
+2012-07-19T20:21:14.062311+00:00,sim128[7679]:,connect,5,109.212.197.219,Fr-N
+2012-07-19T20:46:25.752172+00:00,sim128[7679]:,disconnect,4,98.251.79.180,Client#6
+2012-07-19T20:48:02.979204+00:00,sim128[7679]:,connect,4,91.115.61.1,Client#7
+2012-07-19T20:49:48.341300+00:00,sim128[7679]:,chat,4,91.115.61.1,Client#7,6,Hundling Trans,hi
+2012-07-19T20:59:28.814572+00:00,sim128[7679]:,connect,6,0.0.0.0,mvw
+2012-07-19T21:09:44.903410+00:00,sim128[7679]:,disconnect,6,0.0.0.0,mvw
+2012-07-19T21:10:00.711533+00:00,sim128[7679]:,connect,6,0.0.0.0,mvw
+2012-07-19T21:14:07.078357+00:00,sim128[7679]:,disconnect,6,0.0.0.0,mvw
+2012-07-19T21:40:49.638311+00:00,sim128[7679]:,disconnect,4,91.115.61.1,Client#7
+2012-07-19T21:56:45.591634+00:00,sim128[7679]:,connect,4,94.234.170.80,riber
+2012-07-19T21:57:02.986542+00:00,sim128[7679]:,connect,6,201.13.154.1,Eric
+2012-07-19T21:58:18.058499+00:00,sim128[7679]:,connect,7,201.13.154.1,Client#7
+2012-07-19T21:58:46.105275+00:00,sim128[7679]:,disconnect,7,201.13.154.1,Client#7
+2012-07-19T21:59:19.152648+00:00,sim128[7679]:,connect,7,201.13.154.1,Client#7
+2012-07-19T21:59:56.360040+00:00,sim128[7679]:,disconnect,7,201.13.154.1,Client#7
+2012-07-19T22:00:46.841719+00:00,sim128[7679]:,connect,7,201.13.154.1,Client#7
+2012-07-19T22:01:14.087348+00:00,sim128[7679]:,disconnect,7,201.13.154.1,Client#7
+2012-07-19T22:01:42.254989+00:00,sim128[7679]:,connect,7,201.13.154.1,Client#7
+2012-07-19T22:02:16.460710+00:00,sim128[7679]:,disconnect,7,201.13.154.1,Client#7
+2012-07-19T22:02:44.577715+00:00,sim128[7679]:,connect,7,201.13.154.1,Client#7
+2012-07-19T22:04:38.108444+00:00,sim128[7679]:,disconnect,4,94.234.170.80,riber
+2012-07-19T22:06:13.790427+00:00,sim128[7679]:,disconnect,7,201.13.154.1,Client#7
+2012-07-19T22:06:27.608144+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T22:08:07.577881+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T22:08:19.457765+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T22:09:06.227038+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T22:09:18.447250+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T22:12:15.456207+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T22:12:29.159055+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T22:13:46.206411+00:00,sim128[7679]:,disconnect,6,201.13.154.1,Eric
+2012-07-19T22:16:25.245783+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T22:16:37.296437+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T22:28:49.904555+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T22:29:03.456682+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T22:39:52.945305+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T22:40:06.850026+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T22:40:28.776765+00:00,sim128[7679]:,disconnect,5,109.212.197.219,Fr-N
+2012-07-19T22:40:50.336879+00:00,sim128[7679]:,connect,5,109.212.197.219,Fr-N
+2012-07-19T22:46:38.743529+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T22:46:52.209132+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T22:53:46.378389+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T22:54:00.128414+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T23:06:59.421107+00:00,sim128[7679]:,disconnect,5,109.212.197.219,Fr-N
+2012-07-19T23:07:29.081510+00:00,sim128[7679]:,connect,5,109.212.197.219,Fr-N
+2012-07-19T23:15:19.011643+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T23:15:36.791279+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T23:16:33.956533+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T23:16:46.636062+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T23:19:30.404788+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T23:19:44.188145+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T23:22:28.998089+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T23:22:42.550166+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T23:38:50.655838+00:00,sim128[7679]:,connect,6,98.251.79.180,Client#6
+2012-07-19T23:39:46.912541+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,9,A-Train,hundling?  fr? you here?
+2012-07-19T23:40:22.323421+00:00,sim128[7679]:,chat,4,201.13.154.1,Client#7,8,TRANSERIC,he is bankrupted
+2012-07-19T23:40:38.551793+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,9,A-Train,"hello, who were you on the old map transeric?"
+2012-07-19T23:41:22.804869+00:00,sim128[7679]:,chat,4,201.13.154.1,Client#7,8,TRANSERIC,I am new here...
+2012-07-19T23:42:01.064380+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T23:42:14.732410+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T23:42:27.458599+00:00,sim128[7679]:,disconnect,6,98.251.79.180,Client#6
+2012-07-19T23:42:42.443909+00:00,sim128[7679]:,connect,6,98.251.79.180,Client#6
+2012-07-19T23:43:41.014302+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T23:43:57.488441+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T23:45:11.010124+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,9,A-Train,"for any new players; the password on the accounts is ""abcd"";  so log into one; then click the green box to change your company name and password"
+2012-07-19T23:45:41.183877+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,9,A-Train,hey fr/transeric ... This way new players must know how to use chat if they play :)
+2012-07-19T23:46:07.509702+00:00,sim128[7679]:,chat,4,201.13.154.1,Client#7,15,,ok...
+2012-07-19T23:47:30.926003+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,14,read chat to get this 13,"hello, client 7, which player are you?"
+2012-07-19T23:47:43.202894+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,9,A-Train,"oops, that's me"
+2012-07-19T23:47:49.405949+00:00,sim128[7679]:,chat,4,201.13.154.1,Client#7,8,TRANSERIC,Eric
+2012-07-19T23:47:58.471369+00:00,sim128[7679]:,chat,4,201.13.154.1,Client#7,8,TRANSERIC,Trans-Eric
+2012-07-19T23:48:06.920444+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,9,A-Train,"oh, it's you fr?"
+2012-07-19T23:48:20.715045+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,9,A-Train,it says 3 people are on; who is other player?
+2012-07-19T23:48:24.476972+00:00,sim128[7679]:,chat,4,201.13.154.1,Client#7,8,TRANSERIC,"no,I am from Brazil"
+2012-07-19T23:48:51.932569+00:00,sim128[7679]:,chat,4,201.13.154.1,Client#7,8,TRANSERIC,the other I don t know who is
+2012-07-19T23:49:34.430105+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,14,read chat to get this 13,"oh, good you have positive income now :)"
+2012-07-19T23:50:12.297936+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,9,A-Train,do you like passenger lines eric?  is your name eric?
+2012-07-19T23:50:56.317305+00:00,sim128[7679]:,chat,4,201.13.154.1,Client#7,8,TRANSERIC,"I like ittoo, but I need to make some cash before I Start Passenger Lines"
+2012-07-19T23:51:03.944843+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,9,A-Train,ok
+2012-07-19T23:51:50.908757+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,9,A-Train,"eric, if you want to build passenger in brest and leiden later you can.... I was going to move out of that city later"
+2012-07-19T23:52:00.471212+00:00,sim128[7679]:,chat,4,201.13.154.1,Client#7,8,TRANSERIC,I want tostay with the Northeast Cities
+2012-07-19T23:52:24.274195+00:00,sim128[7679]:,chat,4,201.13.154.1,Client#7,8,TRANSERIC,No...
+2012-07-19T23:52:28.680589+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,9,A-Train,northeast?  ok    I am hoping to run passenger in the northwest cities
+2012-07-19T23:53:08.063584+00:00,sim128[7679]:,chat,4,201.13.154.1,Client#7,8,TRANSERIC,"I am Interested in Leverkussen and the 7 cities nearby "
+2012-07-19T23:53:55.305065+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,14,read chat to get this 13,"ok, that's good..   I am interested in ramnicu valcea and west of there"
+2012-07-19T23:54:16.895816+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T23:54:37.130064+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T23:55:27.625900+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,9,A-Train,"oh, I am player 13, I was just leveling some land with it; I'm really only building on this one account"
+2012-07-19T23:55:35.134358+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T23:55:47.908785+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T23:56:27.034289+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T23:56:39.240858+00:00,sim128[7679]:,connect,4,201.13.154.1,Client#7
+2012-07-19T23:57:15.095028+00:00,sim128[7679]:,chat,6,98.251.79.180,Client#6,9,A-Train,seems someone built a big station in my favorite spot (northwest corner of map)
+2012-07-19T23:57:46.248813+00:00,sim128[7679]:,disconnect,4,201.13.154.1,Client#7
+2012-07-19T23:58:14.553623+00:00,sim128[7679]:,connect,4,201.13.154.1,Eric Costa Marques

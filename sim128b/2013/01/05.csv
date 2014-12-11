@@ -1,0 +1,75 @@
+2013-01-05T02:30:02.628808+00:00,sim128b[27991]:,onnect,3,71.200.128.99,Benjad
+2013-01-05T03:19:13.338237+00:00,sim128b[27991]:,onnect,4,71.200.128.99,Benjad
+2013-01-05T03:22:21.432672+00:00,sim128b[27991]:,hat,4,71.200.128.99,Benjad,6,Planet Express,"Fifty: can you extend bridge @383,253"
+2013-01-05T03:56:35.098936+00:00,sim128b[27991]:,onnect,5,69.138.176.94,Fifty
+2013-01-05T03:56:35.148846+00:00,sim128b[27991]:,isconnect,2,14.199.13.214,Client#4
+2013-01-05T03:56:35.149043+00:00,sim128b[27991]:,isconnect,3,71.200.128.99,Benjad
+2013-01-05T03:58:02.751763+00:00,sim128b[27991]:,hat,5,69.138.176.94,Fifty,12,RF&P,bridge extended
+2013-01-05T03:58:24.919333+00:00,sim128b[27991]:,hat,4,71.200.128.99,Benjad,6,Planet Express,"cool, thanks.   my deadlock is fixed, so steel should be flowing"
+2013-01-05T03:59:15.626290+00:00,sim128b[27991]:,hat,5,69.138.176.94,Fifty,12,RF&P,"k good, you might even need more capacity too, but idk if I have enough capacity to supply you full capacity yet"
+2013-01-05T04:00:02.460069+00:00,sim128b[27991]:,hat,4,71.200.128.99,Benjad,6,Planet Express,"Yup, I did put a 3rd train on that route, I just have to watch the interchange.. poor planning on my part can deadlock there "
+2013-01-05T04:01:29.863981+00:00,sim128b[27991]:,hat,5,69.138.176.94,Fifty,12,RF&P,will the roundabout route for cannery traffic make money?
+2013-01-05T04:03:11.305971+00:00,sim128b[27991]:,hat,4,71.200.128.99,Benjad,6,Planet Express,"I'm not sure.. plus I already screwed up.. i though it produced cooled goods, and it could ride out on my meat train"
+2013-01-05T04:03:35.468779+00:00,sim128b[27991]:,hat,4,71.200.128.99,Benjad,6,Planet Express,"but of course it makes piece goods... so not not so sure a train is best option, maybe keeping the trucks is best option"
+2013-01-05T04:04:15.477043+00:00,sim128b[27991]:,hat,5,69.138.176.94,Fifty,12,RF&P,"cans are low dollar, low speedbonus and heavy, so..."
+2013-01-05T04:04:42.318715+00:00,sim128b[27991]:,hat,4,71.200.128.99,Benjad,6,Planet Express,"yup, no need to rush them along"
+2013-01-05T04:09:57.742855+00:00,sim128b[27991]:,hat,5,69.138.176.94,Fifty,12,RF&P,"well, not really much here for me to do, but it looks like soon I'll be out of the red for the first time in 45 years."
+2013-01-05T04:10:20.844022+00:00,sim128b[27991]:,hat,4,71.200.128.99,Benjad,6,Planet Express,"lol, yup, about teh same, just watcjing for balancing purposes"
+2013-01-05T04:12:07.345963+00:00,sim128b[27991]:,hat,5,69.138.176.94,Fifty,12,RF&P,"well, just got notice of month 553 of loan... that's over 46 years. Well, still waiting for jaridan... he seems to have fallen off the face of the earth..."
+2013-01-05T04:12:34.753233+00:00,sim128b[27991]:,hat,5,69.138.176.94,Fifty,12,RF&P,"anyway, getting late. i'm off, cya."
+2013-01-05T04:12:37.385052+00:00,sim128b[27991]:,isconnect,5,69.138.176.94,Fifty
+2013-01-05T08:29:47.514890+00:00,sim128b[27991]:,onnect,2,106.48.1.80,MacBook Air
+2013-01-05T11:02:24.366411+00:00,sim128b[27991]:,onnect,3,80.92.252.254,ak
+2013-01-05T11:06:47.708665+00:00,sim128b[27991]:,onnect,5,62.238.177.205,Client#7
+2013-01-05T11:09:05.588602+00:00,sim128b[27991]:,hat,5,62.238.177.205,Client#7,8,Abellio,"Macbook air, what are you doing?"
+2013-01-05T11:09:27.165865+00:00,sim128b[27991]:,hat,5,62.238.177.205,Client#7,8,Abellio,Placing oneway signs in fronts of my stops?
+2013-01-05T14:06:43.440454+00:00,sim128b[27991]:,isconnect,2,106.48.1.80,MacBook Air
+2013-01-05T14:06:43.440497+00:00,sim128b[27991]:,isconnect,3,80.92.252.254,ak
+2013-01-05T14:06:43.440522+00:00,sim128b[27991]:,isconnect,4,71.200.128.99,Benjad
+2013-01-05T14:06:43.441713+00:00,sim128b[27991]:,isconnect,5,62.238.177.205,Client#7
+2013-01-05T14:06:49.559744+00:00,sim128b[27991]:,onnect,6,92.252.20.105,PizZe
+2013-01-05T14:07:55.646196+00:00,sim128b[27991]:,isconnect,6,92.252.20.105,PizZe
+2013-01-05T14:15:49.685874+00:00,sim128b[27991]:,onnect,2,71.200.128.99,Benjad
+2013-01-05T15:12:19.102300+00:00,sim128b[27991]:,onnect,3,62.238.177.205,Client#7
+2013-01-05T15:15:04.920535+00:00,sim128b[27991]:,onnect,4,62.238.177.205,>
+2013-01-05T15:17:37.486131+00:00,sim128b[27991]:,isconnect,2,71.200.128.99,Benjad
+2013-01-05T15:37:42.127851+00:00,sim128b[27991]:,isconnect,4,62.238.177.205,>
+2013-01-05T16:17:20.538349+00:00,sim128b[27991]:,onnect,2,87.205.30.56,Client#2
+2013-01-05T16:19:43.783717+00:00,sim128b[27991]:,isconnect,2,87.205.30.56,Client#2
+2013-01-05T16:21:33.591013+00:00,sim128b[27991]:,onnect,2,84.146.112.3,Client#2
+2013-01-05T16:25:00.717564+00:00,sim128b[27991]:,isconnect,2,84.146.112.3,Client#2
+2013-01-05T16:28:09.788670+00:00,sim128b[27991]:,onnect,2,62.238.177.205,>
+2013-01-05T16:38:21.829164+00:00,sim128b[27991]:,onnect,4,71.200.128.99,Benjad
+2013-01-05T16:50:30.967429+00:00,sim128b[27991]:,onnect,5,69.138.176.94,Client#5
+2013-01-05T16:53:25.623402+00:00,sim128b[27991]:,hat,3,62.238.177.205,Client#7,8,Abellio,Hi all!
+2013-01-05T16:53:37.439789+00:00,sim128b[27991]:,hat,4,71.200.128.99,Benjad,6,Planet Express,Hi
+2013-01-05T16:54:19.701702+00:00,sim128b[27991]:,hat,4,71.200.128.99,Benjad,6,Planet Express,Are you working on pax network today?
+2013-01-05T16:54:57.810047+00:00,sim128b[27991]:,hat,3,62.238.177.205,Client#7,8,Abellio,What do you mean? I only have pax..
+2013-01-05T16:55:25.848036+00:00,sim128b[27991]:,hat,4,71.200.128.99,Benjad,6,Planet Express,"loll.  k.  My region is ready for some pax and mail network, "
+2013-01-05T16:55:51.264370+00:00,sim128b[27991]:,hat,4,71.200.128.99,Benjad,6,Planet Express,"@16,169"
+2013-01-05T16:55:58.371805+00:00,sim128b[27991]:,hat,3,62.238.177.205,Client#7,8,Abellio,Whats your region? Maybe I can help..
+2013-01-05T16:56:04.301056+00:00,sim128b[27991]:,hat,3,62.238.177.205,Client#7,8,Abellio,Ill take a look
+2013-01-05T16:56:15.601845+00:00,sim128b[27991]:,hat,4,71.200.128.99,Benjad,6,Planet Express,"@28,229"
+2013-01-05T16:56:44.531274+00:00,sim128b[27991]:,hat,4,71.200.128.99,Benjad,6,Planet Express,"I was considering doing it, but it would mean 3 players in some large cities"
+2013-01-05T16:57:18.457645+00:00,sim128b[27991]:,hat,3,62.238.177.205,Client#7,8,Abellio,"Ah ok.. Well, its your own choice ;)"
+2013-01-05T16:57:34.744643+00:00,sim128b[27991]:,hat,4,71.200.128.99,Benjad,6,Planet Express,"it;s all yours.. if I got into it, it would be a mess"
+2013-01-05T16:58:13.616993+00:00,sim128b[27991]:,isconnect,5,69.138.176.94,Client#5
+2013-01-05T16:58:23.060229+00:00,sim128b[27991]:,isconnect,2,62.238.177.205,>
+2013-01-05T17:04:58.892035+00:00,sim128b[27991]:,isconnect,4,71.200.128.99,Benjad
+2013-01-05T17:23:42.733638+00:00,sim128b[27991]:,isconnect,3,62.238.177.205,Client#7
+2013-01-05T17:32:22.884089+00:00,sim128b[27991]:,onnect,2,71.200.128.99,Benjad
+2013-01-05T17:45:54.297507+00:00,sim128b[27991]:,onnect,3,71.200.128.99,Benjad
+2013-01-05T18:07:06.542459+00:00,sim128b[27991]:,isconnect,2,71.200.128.99,Benjad
+2013-01-05T18:07:06.542610+00:00,sim128b[27991]:,isconnect,3,71.200.128.99,Benjad
+2013-01-05T19:11:40.222638+00:00,sim128b[27991]:,onnect,2,98.141.195.201,Fifty
+2013-01-05T19:26:01.949648+00:00,sim128b[27991]:,isconnect,2,98.141.195.201,Fifty
+2013-01-05T19:27:13.221780+00:00,sim128b[27991]:,onnect,2,71.200.128.99,Benjad
+2013-01-05T21:57:51.776558+00:00,sim128b[27991]:,isconnect,2,71.200.128.99,Benjad
+2013-01-05T21:57:58.364065+00:00,sim128b[27991]:,onnect,3,71.200.128.99,Benjad
+2013-01-05T22:10:54.053270+00:00,sim128b[27991]:,onnect,2,91.20.187.105,Client#2
+2013-01-05T22:14:48.219046+00:00,sim128b[27991]:,isconnect,2,91.20.187.105,Client#2
+2013-01-05T23:06:05.137044+00:00,sim128b[27991]:,isconnect,3,71.200.128.99,Benjad
+2013-01-05T23:06:09.999672+00:00,sim128b[27991]:,onnect,2,62.238.177.205,Client#7
+2013-01-05T23:11:51.125020+00:00,sim128b[27991]:,isconnect,2,62.238.177.205,Client#7
+2013-01-05T23:30:41.362595+00:00,sim128b[27991]:,onnect,2,116.213.170.85,MacBook Air
+2013-01-05T23:33:37.968489+00:00,sim128b[27991]:,isconnect,2,116.213.170.85,MacBook Air

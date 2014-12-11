@@ -1,0 +1,114 @@
+2012-10-25T00:47:25.364043+00:00,sim128b[21423]:,disconnect,2,98.251.79.180,Client#5
+2012-10-25T00:47:25.364095+00:00,sim128b[21423]:,disconnect,3,98.251.79.180,Client#5
+2012-10-25T00:47:25.364120+00:00,sim128b[21423]:,disconnect,4,98.251.79.180,Client#5
+2012-10-25T00:47:36.907635+00:00,sim128b[21423]:,connect,5,98.251.79.180,Client#5
+2012-10-25T05:50:43.584439+00:00,sim128b[21423]:,connect,2,85.216.236.24,Client#2
+2012-10-25T17:16:29.592206+00:00,sim128b[21423]:,connect,3,85.216.236.24,Client#2
+2012-10-25T17:43:52.150395+00:00,sim128b[21423]:,connect,4,98.251.79.180,Client#5
+2012-10-25T17:46:05.186387+00:00,sim128b[21423]:,connect,6,99.48.64.72,Jasperthecat1
+2012-10-25T17:46:05.292641+00:00,sim128b[21423]:,disconnect,2,85.216.236.24,Client#2
+2012-10-25T17:46:05.292900+00:00,sim128b[21423]:,disconnect,3,85.216.236.24,Client#2
+2012-10-25T17:46:05.293181+00:00,sim128b[21423]:,disconnect,5,98.251.79.180,Client#5
+2012-10-25T17:48:12.000957+00:00,sim128b[21423]:,disconnect,6,99.48.64.72,Jasperthecat1
+2012-10-25T18:56:28.334246+00:00,sim128b[21423]:,connect,2,98.251.79.180,Client#5
+2012-10-25T19:08:45.220322+00:00,sim128b[21423]:,connect,3,98.251.79.180,Client#5
+2012-10-25T19:44:05.772931+00:00,sim128b[21423]:,connect,5,89.155.122.64,Client#4
+2012-10-25T19:44:05.843324+00:00,sim128b[21423]:,disconnect,2,98.251.79.180,Client#5
+2012-10-25T19:44:05.843356+00:00,sim128b[21423]:,disconnect,4,98.251.79.180,Client#5
+2012-10-25T19:44:10.111677+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,hi
+2012-10-25T19:45:38.105171+00:00,sim128b[21423]:,chat,5,89.155.122.64,Client#4,3,"TransPortugal, SA",hi
+2012-10-25T19:46:10.793184+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,do you know who that person is that builds roads?
+2012-10-25T19:47:10.578078+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"there is someone who only builds roads "
+2012-10-25T19:47:11.058895+00:00,sim128b[21423]:,chat,5,89.155.122.64,Client#4,3,"TransPortugal, SA",no....
+2012-10-25T19:48:00.897727+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,maybe he is someone at your house?  he came on same time as you and left same time as you
+2012-10-25T19:48:59.322041+00:00,sim128b[21423]:,chat,5,89.155.122.64,Client#4,3,"TransPortugal, SA",not only am I game.
+2012-10-25T19:49:48.045388+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"oh...  whoever he is, he would probably like sim city :) you can build many roads in sim city :)"
+2012-10-25T19:53:33.750679+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"can you remove this road (170,293)?"
+2012-10-25T19:53:59.479065+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,thanks
+2012-10-25T19:54:45.218104+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"here is a little more coal if you need (136,228)"
+2012-10-25T19:56:31.810315+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"I can send some passenger & mail to boost production, maybe"
+2012-10-25T19:56:45.520090+00:00,sim128b[21423]:,chat,5,89.155.122.64,Client#4,3,"TransPortugal, SA","ok, thanks"
+2012-10-25T20:03:07.772457+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"more coal here (121,229)  you can even use a ship to send it to your other coal mine :)"
+2012-10-25T20:05:47.822377+00:00,sim128b[21423]:,chat,5,89.155.122.64,Client#4,3,"TransPortugal, SA","can you create electric line in (151,253,-1)?"
+2012-10-25T20:07:03.984388+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,let me try adding passenger & mail and see if that helsp
+2012-10-25T20:07:18.408987+00:00,sim128b[21423]:,chat,5,89.155.122.64,Client#4,3,"TransPortugal, SA",ok!
+2012-10-25T20:13:25.491115+00:00,sim128b[21423]:,connect,2,85.216.236.24,Client#2
+2012-10-25T20:13:45.247731+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,hi anonyous person
+2012-10-25T20:17:16.239166+00:00,sim128b[21423]:,chat,5,89.155.122.64,Client#4,3,"TransPortugal, SA","the eletric line in (151,254,-1) is very small "
+2012-10-25T20:17:51.327622+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"I know...  give it a few months and let's see if the production goes up "
+2012-10-25T20:18:34.386147+00:00,sim128b[21423]:,disconnect,2,85.216.236.24,Client#2
+2012-10-25T20:21:45.045279+00:00,sim128b[21423]:,chat,5,89.155.122.64,Client#4,3,"TransPortugal, SA","can i conect industry in (186,26,1) for gasoil?"
+2012-10-25T20:22:13.964111+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"yeah, you can ship gasoline; I'm only using chemicals"
+2012-10-25T20:22:52.541971+00:00,sim128b[21423]:,chat,5,89.155.122.64,Client#4,3,"TransPortugal, SA",you can create a public stop?
+2012-10-25T20:23:41.376018+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,you don't need to.... my stop will pick up chemicals and yours will pick up gasoline (try it)
+2012-10-25T20:25:36.575852+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,once you setup a vehicle to take gasoline.... it will show up
+2012-10-25T20:27:19.536461+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"oh, here's how to make a shipyard (188,30)"
+2012-10-25T20:27:35.284235+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,make a small straight water like this
+2012-10-25T20:27:43.730085+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,then you can put a shipyard there
+2012-10-25T20:28:15.854868+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"the 4th one.... ""shipyard"""
+2012-10-25T20:28:25.328117+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"""Build Shipyard"""
+2012-10-25T20:32:07.310189+00:00,sim128b[21423]:,connect,2,99.48.64.72,Jasperthecat1
+2012-10-25T20:32:26.354712+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"hello jasper, why didn't you get an account?"
+2012-10-25T20:33:02.924231+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,15,,what account?
+2012-10-25T20:33:07.034209+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,15,,and hey
+2012-10-25T20:33:31.262270+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,read the instructions when you join the game......  the 3rd to last account is available
+2012-10-25T20:33:47.281312+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,15,,Thanks...
+2012-10-25T20:34:16.785464+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,15,,and why does the music fade?
+2012-10-25T20:34:37.920262+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,15,,the midi?
+2012-10-25T20:34:44.811674+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,sure... don't know... just mute it and open up the folder in media player instead on random shuffle :)
+2012-10-25T20:35:09.426703+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"make sure you read this (280,40) I have to go, bye"
+2012-10-25T20:35:41.342640+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,there is a folder with all the music/midis. yeah you can just select them all and run in media player instead
+2012-10-25T20:35:47.606990+00:00,sim128b[21423]:,disconnect,2,99.48.64.72,Jasperthecat1
+2012-10-25T20:36:14.058162+00:00,sim128b[21423]:,chat,5,89.155.122.64,Client#4,3,"TransPortugal, SA","please, electric line in (157,249,0)"
+2012-10-25T20:37:09.844564+00:00,sim128b[21423]:,disconnect,3,98.251.79.180,Client#5
+2012-10-25T21:36:57.567807+00:00,sim128b[21423]:,connect,2,89.155.122.64,Client#4
+2012-10-25T21:47:29.535052+00:00,sim128b[21423]:,connect,3,89.155.122.64,Client#4
+2012-10-25T22:47:48.651708+00:00,sim128b[21423]:,connect,4,98.251.79.180,Client#5
+2012-10-25T22:47:48.798200+00:00,sim128b[21423]:,disconnect,2,89.155.122.64,Client#4
+2012-10-25T22:47:48.798230+00:00,sim128b[21423]:,disconnect,5,89.155.122.64,Client#4
+2012-10-25T22:52:42.307943+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,ya there?
+2012-10-25T22:54:31.438738+00:00,sim128b[21423]:,connect,2,99.48.64.72,Jasperthecat1
+2012-10-25T22:55:10.642297+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"jasper, no account yet?"
+2012-10-25T22:55:18.088706+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,15,,what account?
+2012-10-25T22:55:33.006100+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,the cyan account and the blue one are both free
+2012-10-25T22:55:45.873796+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,15,,oh...
+2012-10-25T22:56:09.974113+00:00,sim128b[21423]:,disconnect,3,89.155.122.64,Client#4
+2012-10-25T22:57:05.837077+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"read the instructions at (280,40)"
+2012-10-25T22:58:13.535487+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,understand it?
+2012-10-25T22:58:20.676598+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,15,,Got it.
+2012-10-25T22:59:06.465702+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,after you log in change it
+2012-10-25T23:00:03.206991+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",Locked it.
+2012-10-25T23:00:31.816651+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,might I suggest checking out either the breweries or food factories?
+2012-10-25T23:00:51.868910+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,I am already shipping grain... all you need to do is ship the other stuff and you will have a line that makes money
+2012-10-25T23:01:11.642642+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,there's lots of cities for passenger & mail too if you like that
+2012-10-25T23:01:26.491473+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",i know
+2012-10-25T23:03:14.962161+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",how do i unhide the factories?
+2012-10-25T23:03:34.641866+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",i cant see any cars
+2012-10-25T23:03:44.113258+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",aka Citycars.
+2012-10-25T23:03:57.201618+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",they are all light green
+2012-10-25T23:04:11.324155+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,the cars are gree?
+2012-10-25T23:05:19.842460+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"go to ""Options"" > ""Display Settings"" and mess with those"
+2012-10-25T23:06:40.980008+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,did you get it working?
+2012-10-25T23:06:54.202265+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",nope
+2012-10-25T23:07:38.957994+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,here's my settings....
+2012-10-25T23:07:41.841713+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,15,,"Nvm, I pressed O."
+2012-10-25T23:07:49.431623+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,the first 5 are all unchecked
+2012-10-25T23:07:49.562408+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,15,,and it works now.
+2012-10-25T23:08:07.404573+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"the next 3 are unchecked... and it says ""no buildings hidden"""
+2012-10-25T23:08:12.043975+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,15,,It showed the owners of the infrastructure
+2012-10-25T23:08:32.670283+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"oh, how do I get that feature???? !!!"
+2012-10-25T23:08:38.756722+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,how doyou make it show that?
+2012-10-25T23:08:40.482089+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,15,,Press O.
+2012-10-25T23:09:19.684663+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,zero pops up the help for me :(
+2012-10-25T23:09:30.694535+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,15,,oh press Shift O
+2012-10-25T23:09:37.392683+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,oh... the letter ok
+2012-10-25T23:09:42.902708+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,ver nice!!!!  thanks
+2012-10-25T23:11:58.605369+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"do you know about ""lists"">""factory list"" to find factories?"
+2012-10-25T23:12:38.672490+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",Yes.
+2012-10-25T23:13:10.671019+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"if you are wondering, I make my roads and rivers public :)"
+2012-10-25T23:15:00.158588+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,that way other players can move them or build stations on them if they  are in the way
+2012-10-25T23:16:17.794126+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"oh goods factory, yeah that's a good one for income too :)"
+2012-10-25T23:17:39.170555+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"there are some cities I build passenger & mail to boost factories, but you can build there if you need a city"
+2012-10-25T23:18:59.255175+00:00,sim128b[21423]:,disconnect,2,99.48.64.72,Jasperthecat1
+2012-10-25T23:27:22.395300+00:00,sim128b[21423]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,what do the road signs do?
+2012-10-25T23:41:24.312624+00:00,sim128b[21423]:,connect,2,98.251.79.180,Client#5

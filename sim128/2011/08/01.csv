@@ -1,0 +1,343 @@
+Aug  1 00:26:03,0,255,Right now 1 clients are connected.
+Aug  1 00:26:44,0,255,Right now 0 clients are connected.
+Aug  1 00:33:27,0,255,Right now 1 clients are connected.
+Aug  1 00:33:57,0,255,Right now 0 clients are connected.
+Aug  1 00:39:55,0,255,Right now 1 clients are connected.
+Aug  1 00:40:10,0,255,Right now 0 clients are connected.
+Aug  1 00:56:46,0,255,Right now 1 clients are connected.
+Aug  1 00:57:27,0,255,Right now 0 clients are connected.
+Aug  1 01:04:36,0,255,Right now 1 clients are connected.
+Aug  1 01:04:59,0,255,Right now 0 clients are connected.
+Aug  1 04:03:50,0,255,Right now 1 clients are connected.
+Aug  1 04:19:20,2,3,"he replied promptly saying he would see what he could do, but i haven't heard anything since"
+Aug  1 04:24:09,2,3,is Finn still blocking you anywhere?
+Aug  1 04:28:30,0,255,Right now 0 clients are connected.
+Aug  1 04:28:53,0,255,Right now 1 clients are connected.
+Aug  1 04:42:21,0,255,Right now 0 clients are connected.
+Aug  1 04:42:55,0,255,Right now 1 clients are connected.
+Aug  1 04:55:29,0,255,Right now 0 clients are connected.
+Aug  1 04:55:52,0,255,Right now 1 clients are connected.
+Aug  1 04:59:26,0,255,Right now 0 clients are connected.
+Aug  1 04:59:50,0,255,Right now 1 clients are connected.
+Aug  1 05:00:40,0,255,Right now 0 clients are connected.
+Aug  1 05:01:12,0,255,Right now 1 clients are connected.
+Aug  1 05:01:37,0,255,Right now 0 clients are connected.
+Aug  1 05:02:02,0,255,Right now 1 clients are connected.
+Aug  1 05:08:13,0,255,Right now 0 clients are connected.
+Aug  1 05:08:36,0,255,Right now 1 clients are connected.
+Aug  1 05:09:32,0,255,Right now 0 clients are connected.
+Aug  1 05:09:56,0,255,Right now 1 clients are connected.
+Aug  1 05:36:20,0,255,Right now 0 clients are connected.
+Aug  1 05:36:43,0,255,Right now 1 clients are connected.
+Aug  1 05:40:48,0,255,Right now 0 clients are connected.
+Aug  1 05:41:16,0,255,Right now 1 clients are connected.
+Aug  1 05:43:28,0,255,Right now 0 clients are connected.
+Aug  1 05:43:51,0,255,Right now 1 clients are connected.
+Aug  1 05:47:15,0,255,Right now 0 clients are connected.
+Aug  1 05:47:38,0,255,Right now 1 clients are connected.
+Aug  1 05:55:03,0,255,Right now 0 clients are connected.
+Aug  1 05:55:27,0,255,Right now 1 clients are connected.
+Aug  1 05:59:57,0,255,Right now 0 clients are connected.
+Aug  1 06:00:21,0,255,Right now 1 clients are connected.
+Aug  1 06:01:20,0,255,Right now 2 clients are connected.
+Aug  1 06:01:21,0,255,Right now 1 clients are connected.
+Aug  1 06:01:44,0,255,Right now 2 clients are connected.
+Aug  1 06:02:58,3,4,"No, not anymore"
+Aug  1 06:03:43,2,3,"ah, good"
+Aug  1 06:04:25,3,4,"Damn, who makes all slots of players to player number x ?"
+Aug  1 06:05:08,2,3,maybe people who are just looking
+Aug  1 06:05:44,2,3,most of us are new to multiplayer
+Aug  1 06:06:00,3,4,"Do you want I remove power line about 325,110 ?"
+Aug  1 06:07:23,2,3,if you can make it a bridge i can smooth my tracks
+Aug  1 06:09:24,0,255,Right now 1 clients are connected.
+Aug  1 06:09:48,0,255,Right now 2 clients are connected.
+Aug  1 06:11:15,0,255,Right now 1 clients are connected.
+Aug  1 06:11:38,0,255,Right now 2 clients are connected.
+Aug  1 06:12:01,0,255,Right now 1 clients are connected.
+Aug  1 06:12:25,0,255,Right now 2 clients are connected.
+Aug  1 06:14:41,2,3,merci
+Aug  1 06:15:01,0,255,Right now 1 clients are connected.
+Aug  1 06:15:26,0,255,Right now 2 clients are connected.
+Aug  1 06:18:43,2,3,i tried to improve my main yard at Ripon there
+Aug  1 06:19:04,2,3,"at the very moment i tried to lay track at 311,109 the cotton farm appeared :("
+Aug  1 06:19:38,3,4,...   not lucky
+Aug  1 06:20:12,0,255,Right now 1 clients are connected.
+Aug  1 06:20:35,0,255,Right now 2 clients are connected.
+Aug  1 06:21:15,0,255,Right now 1 clients are connected.
+Aug  1 06:21:46,0,255,Right now 2 clients are connected.
+Aug  1 06:22:41,2,3,there are 2 exits from the yard but all the trains try to use only 1 because the route is a bit shorter
+Aug  1 06:23:19,3,4,Use waypoints ?
+Aug  1 06:23:33,2,3,2 problems with waypoints
+Aug  1 06:24:00,2,3,1. i want each train to choose the clearest path
+Aug  1 06:24:19,2,3,"2. trains stop at waypoints, causing congestion"
+Aug  1 06:24:47,3,4,I think 2 is no longer a problem
+Aug  1 06:24:58,2,3,it was yesterday
+Aug  1 06:25:26,3,4,"If I remember well, recent versions of simutrans with waypoints"
+Aug  1 06:25:41,3,4,the train will not stop
+Aug  1 06:25:49,2,3,"can you move the power bridge pylon 325,115 to 325,114?"
+Aug  1 06:25:52,3,4,if the waypoint is not in a station
+Aug  1 06:25:58,2,3,it slows to 25km/h
+Aug  1 06:26:35,3,4,I can't
+Aug  1 06:26:46,2,3,maybe it happened because there was a signal in front of the waypoint
+Aug  1 06:26:48,3,4,"325,114 is your railway"
+Aug  1 06:27:00,2,3,"sorry, 324,115"
+Aug  1 06:27:20,3,4,the power bridge can be of 4 tiles ;)
+Aug  1 06:27:26,3,4,maximum
+Aug  1 06:27:37,0,255,Right now 1 clients are connected.
+Aug  1 06:28:01,0,255,Right now 2 clients are connected.
+Aug  1 06:28:27,2,3,"ok, i will have a think about that area"
+Aug  1 06:28:48,0,255,Right now 1 clients are connected.
+Aug  1 06:29:12,0,255,Right now 2 clients are connected.
+Aug  1 06:29:25,2,3,i wanted to make a 5th line
+Aug  1 06:29:41,2,3,but there will be other options
+Aug  1 06:32:15,3,4,I just make a test and it appears taht waypoints don't reduce the speed
+Aug  1 06:32:48,2,3,"what if there are signals around the waypoint? my trains were slowing, and when i removed the waypoint they returned to normal"
+Aug  1 06:33:11,3,4,ok great
+Aug  1 06:33:52,2,3,"while we are looking at power lines, go to 360,205"
+Aug  1 06:34:05,2,3,i want to take my trucks underground to load
+Aug  1 06:34:25,2,3,since we have a power line thru there i might as well put my tunnel entrance under the power lines somewhere
+Aug  1 06:35:18,0,255,Right now 1 clients are connected.
+Aug  1 06:35:43,0,255,Right now 2 clients are connected.
+Aug  1 06:35:55,3,4,Is it good ?
+Aug  1 06:36:08,2,3,now that's service! :)
+Aug  1 06:36:17,2,3,you even shaped it for me
+Aug  1 06:36:33,3,4,hehe
+Aug  1 06:37:04,0,255,Right now 1 clients are connected.
+Aug  1 06:37:29,0,255,Right now 2 clients are connected.
+Aug  1 06:44:48,2,3,your Chester Station is very elegant
+Aug  1 06:47:46,0,255,Right now 1 clients are connected.
+Aug  1 06:47:46,0,255,Right now 0 clients are connected.
+Aug  1 06:48:10,0,255,Right now 1 clients are connected.
+Aug  1 06:58:04,0,255,Right now 0 clients are connected.
+Aug  1 06:58:27,0,255,Right now 1 clients are connected.
+Aug  1 07:16:51,0,255,Right now 0 clients are connected.
+Aug  1 07:17:14,0,255,Right now 1 clients are connected.
+Aug  1 07:39:19,0,255,Right now 0 clients are connected.
+Aug  1 07:39:52,0,255,Right now 1 clients are connected.
+Aug  1 07:45:34,0,255,Right now 0 clients are connected.
+Aug  1 07:45:59,0,255,Right now 1 clients are connected.
+Aug  1 07:53:17,0,255,Right now 0 clients are connected.
+Aug  1 07:53:41,0,255,Right now 1 clients are connected.
+Aug  1 07:55:16,0,255,Right now 0 clients are connected.
+Aug  1 07:55:40,0,255,Right now 1 clients are connected.
+Aug  1 08:00:26,0,255,Right now 0 clients are connected.
+Aug  1 08:00:50,0,255,Right now 1 clients are connected.
+Aug  1 08:08:29,0,255,Right now 0 clients are connected.
+Aug  1 08:08:53,0,255,Right now 1 clients are connected.
+Aug  1 08:15:10,0,255,Right now 0 clients are connected.
+Aug  1 08:15:34,0,255,Right now 1 clients are connected.
+Aug  1 08:16:14,0,255,Right now 0 clients are connected.
+Aug  1 08:16:36,0,255,Right now 1 clients are connected.
+Aug  1 08:19:25,0,255,Right now 2 clients are connected.
+Aug  1 08:23:26,3,4,I think too
+Aug  1 08:23:42,0,255,Right now 1 clients are connected.
+Aug  1 08:24:07,0,255,Right now 2 clients are connected.
+Aug  1 08:36:57,0,255,Right now 1 clients are connected.
+Aug  1 09:06:04,0,255,Right now 0 clients are connected.
+Aug  1 09:41:18,0,255,Right now 1 clients are connected.
+Aug  1 09:47:14,0,255,Right now 0 clients are connected.
+Aug  1 10:31:59,0,255,Right now 1 clients are connected.
+Aug  1 10:41:24,0,255,Right now 0 clients are connected.
+Aug  1 10:41:49,0,255,Right now 1 clients are connected.
+Aug  1 10:48:53,0,255,Right now 0 clients are connected.
+Aug  1 10:49:18,0,255,Right now 1 clients are connected.
+Aug  1 10:50:27,0,255,Right now 0 clients are connected.
+Aug  1 10:51:03,0,255,Right now 1 clients are connected.
+Aug  1 10:51:21,0,255,Right now 0 clients are connected.
+Aug  1 10:51:53,0,255,Right now 1 clients are connected.
+Aug  1 10:52:23,0,255,Right now 0 clients are connected.
+Aug  1 10:52:48,0,255,Right now 1 clients are connected.
+Aug  1 10:53:19,0,255,Right now 2 clients are connected.
+Aug  1 10:54:11,0,255,Right now 1 clients are connected.
+Aug  1 10:54:12,0,255,Right now 0 clients are connected.
+Aug  1 10:54:41,0,255,Right now 1 clients are connected.
+Aug  1 10:55:05,0,255,Right now 2 clients are connected.
+Aug  1 10:56:06,0,255,Right now 1 clients are connected.
+Aug  1 10:56:32,0,255,Right now 2 clients are connected.
+Aug  1 10:58:23,0,255,Right now 1 clients are connected.
+Aug  1 10:58:47,0,255,Right now 2 clients are connected.
+Aug  1 10:59:33,0,255,Right now 1 clients are connected.
+Aug  1 10:59:56,0,255,Right now 2 clients are connected.
+Aug  1 11:00:24,0,255,Right now 1 clients are connected.
+Aug  1 11:00:47,0,255,Right now 2 clients are connected.
+Aug  1 11:02:00,0,255,Right now 1 clients are connected.
+Aug  1 11:02:24,0,255,Right now 2 clients are connected.
+Aug  1 11:12:39,0,255,Right now 1 clients are connected.
+Aug  1 11:13:17,0,255,Right now 2 clients are connected.
+Aug  1 11:13:30,0,255,Right now 1 clients are connected.
+Aug  1 11:13:55,0,255,Right now 2 clients are connected.
+Aug  1 11:19:41,0,255,Right now 1 clients are connected.
+Aug  1 11:20:07,0,255,Right now 2 clients are connected.
+Aug  1 11:23:39,0,255,Right now 1 clients are connected.
+Aug  1 11:24:04,0,255,Right now 2 clients are connected.
+Aug  1 11:31:33,0,255,Right now 1 clients are connected.
+Aug  1 11:32:04,0,255,Right now 2 clients are connected.
+Aug  1 11:39:44,0,255,Right now 1 clients are connected.
+Aug  1 11:40:14,0,255,Right now 2 clients are connected.
+Aug  1 11:46:09,0,255,Right now 1 clients are connected.
+Aug  1 11:46:49,0,255,Right now 2 clients are connected.
+Aug  1 11:53:53,0,255,Right now 1 clients are connected.
+Aug  1 11:54:48,0,255,Right now 2 clients are connected.
+Aug  1 11:55:29,0,255,Right now 1 clients are connected.
+Aug  1 11:55:52,0,255,Right now 2 clients are connected.
+Aug  1 11:56:58,0,255,Right now 1 clients are connected.
+Aug  1 11:57:23,0,255,Right now 2 clients are connected.
+Aug  1 11:58:27,0,255,Right now 1 clients are connected.
+Aug  1 11:58:55,0,255,Right now 2 clients are connected.
+Aug  1 12:05:34,0,255,Right now 1 clients are connected.
+Aug  1 12:05:57,0,255,Right now 2 clients are connected.
+Aug  1 12:06:32,0,255,Right now 1 clients are connected.
+Aug  1 12:08:22,0,255,Right now 2 clients are connected.
+Aug  1 12:10:49,0,255,Right now 1 clients are connected.
+Aug  1 12:12:15,0,255,Right now 2 clients are connected.
+Aug  1 12:14:38,0,255,Right now 1 clients are connected.
+Aug  1 12:15:03,0,255,Right now 2 clients are connected.
+Aug  1 12:17:49,0,255,Right now 1 clients are connected.
+Aug  1 12:18:13,0,255,Right now 2 clients are connected.
+Aug  1 12:20:14,0,255,Right now 1 clients are connected.
+Aug  1 12:20:39,0,255,Right now 2 clients are connected.
+Aug  1 12:21:30,2,4,I hope this map will be an exemple for the future for multiplayer ;)
+Aug  1 12:30:11,0,255,Right now 1 clients are connected.
+Aug  1 12:30:36,0,255,Right now 2 clients are connected.
+Aug  1 12:39:16,0,255,Right now 1 clients are connected.
+Aug  1 12:40:13,0,255,Right now 2 clients are connected.
+Aug  1 12:41:05,0,255,Right now 1 clients are connected.
+Aug  1 12:41:33,0,255,Right now 2 clients are connected.
+Aug  1 12:44:31,0,255,Right now 1 clients are connected.
+Aug  1 12:44:55,0,255,Right now 2 clients are connected.
+Aug  1 12:47:24,0,255,Right now 1 clients are connected.
+Aug  1 12:47:48,0,255,Right now 2 clients are connected.
+Aug  1 12:48:26,0,255,Right now 1 clients are connected.
+Aug  1 12:48:55,0,255,Right now 2 clients are connected.
+Aug  1 12:51:05,2,4,"I can move infrastructures if you want in York public interchange area (391,243)"
+Aug  1 12:51:54,2,4,"394,188, make your trucks bypassing the station"
+Aug  1 12:56:29,2,4,"393,188 problem with your trucks : solved ;)"
+Aug  1 12:57:15,3,3,"sorry, just saw your messages"
+Aug  1 12:57:29,2,4,no problem
+Aug  1 12:57:46,3,3,those trucks were just going in/out of depot
+Aug  1 12:57:56,2,4,ah ok
+Aug  1 12:58:19,3,3,"no need to move anything at York just yet, for now i am happy to weave around everything"
+Aug  1 12:58:38,2,4,hehe :)
+Aug  1 13:00:48,2,4,8th spetember in Australia is the wrc rally hehe
+Aug  1 13:11:25,3,3,"hey, a road just moved sideways"
+Aug  1 13:11:33,2,4,hehe
+Aug  1 13:11:38,2,4,for the future
+Aug  1 13:11:47,3,3,so are you coming over to watch the rally?
+Aug  1 13:11:51,2,4,when you'll need a double track
+Aug  1 13:12:06,3,3,"the french one is held on corsica, is it not?"
+Aug  1 13:12:14,3,3,"oui, merci"
+Aug  1 13:12:17,2,4,not anymore
+Aug  1 13:12:22,2,4,now in Alsace
+Aug  1 13:12:37,2,4,I'll watch it on youtube ;)
+Aug  1 13:13:21,3,3,"it is hard to watch oon tv here, only highlights, shown at strange times"
+Aug  1 13:14:02,2,4,In France only if you pay for private tv
+Aug  1 13:15:12,2,4,The top of rally is dominated by french :)
+Aug  1 13:15:20,3,3,"might be the same here, i don't know"
+Aug  1 13:15:22,2,4,"French cars, french pilots... hehe  "
+Aug  1 13:15:47,3,3,and all the 2nd best are from finland
+Aug  1 13:15:54,3,3,loeb is a very cool guy
+Aug  1 13:15:58,2,4,yes
+Aug  1 13:16:22,2,4,and his co-pilot too
+Aug  1 13:16:53,0,255,Right now 1 clients are connected.
+Aug  1 13:17:20,0,255,Right now 2 clients are connected.
+Aug  1 13:19:50,2,4,Woaw I transported more than 13 millions passengers past year ;)
+Aug  1 13:24:35,2,4,Alliance is not here anymore...
+Aug  1 13:24:58,3,3,not for a couple of days anyway
+Aug  1 13:28:34,0,255,Right now 1 clients are connected.
+Aug  1 13:28:56,0,255,Right now 2 clients are connected.
+Aug  1 13:32:00,0,255,Right now 1 clients are connected.
+Aug  1 13:32:26,0,255,Right now 2 clients are connected.
+Aug  1 13:33:10,2,4,"Ba,gor canal is operating"
+Aug  1 13:36:17,0,255,Right now 1 clients are connected.
+Aug  1 13:36:43,0,255,Right now 2 clients are connected.
+Aug  1 13:53:25,0,255,Right now 1 clients are connected.
+Aug  1 13:53:26,0,255,Right now 0 clients are connected.
+Aug  1 13:53:51,0,255,Right now 1 clients are connected.
+Aug  1 14:18:42,0,255,Right now 0 clients are connected.
+Aug  1 14:19:08,0,255,Right now 1 clients are connected.
+Aug  1 14:25:19,0,255,Right now 0 clients are connected.
+Aug  1 14:25:43,0,255,Right now 1 clients are connected.
+Aug  1 14:36:30,0,255,Right now 2 clients are connected.
+Aug  1 14:38:54,3,4,"Hey! Can you make the whole york public interchange for trolley bus and make a junction at 383,240 with it too ? Please ;)"
+Aug  1 14:41:02,2,3,how about i delete my roads and you replace them? especially i never built them myself
+Aug  1 14:41:17,3,4,ok no problem
+Aug  1 14:41:20,2,3,i meant to ask how your canal plans were going
+Aug  1 14:41:41,0,255,Right now 1 clients are connected.
+Aug  1 14:42:06,0,255,Right now 2 clients are connected.
+Aug  1 14:42:16,3,4,I'll not make freight anymore
+Aug  1 14:42:34,0,255,Right now 1 clients are connected.
+Aug  1 14:42:59,0,255,Right now 2 clients are connected.
+Aug  1 14:43:21,2,3,it often desyncs when i delete stuff
+Aug  1 14:43:30,3,4,oh
+Aug  1 14:44:50,0,255,Right now 1 clients are connected.
+Aug  1 14:45:14,0,255,Right now 2 clients are connected.
+Aug  1 14:45:38,2,3,did we get all of it?
+Aug  1 14:46:01,3,4,Yes I think^^
+Aug  1 14:46:12,3,4,No
+Aug  1 14:46:14,2,3,we'll soon find out...
+Aug  1 14:46:24,3,4,"385,246"
+Aug  1 14:46:38,3,4,"385,241"
+Aug  1 14:46:51,3,4,taht's all
+Aug  1 14:47:18,3,4,Thanks
+Aug  1 14:47:24,2,3,de nada
+Aug  1 14:48:49,2,3,the canal idea is a good one
+Aug  1 14:49:12,3,4,But we can't share as roads...
+Aug  1 14:49:34,3,4,So I will deleted my existing canals for you to replace
+Aug  1 14:50:45,2,3,"no rush, i don't know if or when i will use them"
+Aug  1 14:50:54,2,3,i have not thought very far ahead
+Aug  1 14:51:11,3,4,Yes don't worry me too
+Aug  1 14:51:55,2,3,connecting the lakes can be very useful for moving goods
+Aug  1 14:52:01,2,3,but i don't need it done yet
+Aug  1 14:52:17,3,4,Ok
+Aug  1 14:53:56,0,255,Right now 1 clients are connected.
+Aug  1 14:56:41,0,255,Right now 0 clients are connected.
+Aug  1 16:21:39,0,255,Right now 1 clients are connected.
+Aug  1 16:53:48,0,255,Right now 0 clients are connected.
+Aug  1 19:06:42,0,255,Right now 1 clients are connected.
+Aug  1 19:07:22,0,255,Right now 0 clients are connected.
+Aug  1 19:36:17,0,255,Right now 1 clients are connected.
+Aug  1 19:37:10,0,255,Right now 2 clients are connected.
+Aug  1 19:38:02,0,255,Right now 1 clients are connected.
+Aug  1 19:38:44,0,255,Right now 2 clients are connected.
+Aug  1 19:39:19,0,255,Right now 1 clients are connected.
+Aug  1 19:40:01,0,255,Right now 2 clients are connected.
+Aug  1 19:40:48,0,255,Right now 1 clients are connected.
+Aug  1 19:41:32,0,255,Right now 2 clients are connected.
+Aug  1 19:42:11,0,255,Right now 1 clients are connected.
+Aug  1 19:42:52,0,255,Right now 2 clients are connected.
+Aug  1 19:43:01,0,255,Right now 1 clients are connected.
+Aug  1 19:43:39,0,255,Right now 0 clients are connected.
+Aug  1 19:44:22,0,255,Right now 1 clients are connected.
+Aug  1 19:45:08,0,255,Right now 0 clients are connected.
+Aug  1 19:45:50,0,255,Right now 1 clients are connected.
+Aug  1 19:46:17,0,255,Right now 0 clients are connected.
+Aug  1 19:46:58,0,255,Right now 1 clients are connected.
+Aug  1 19:47:46,0,255,Right now 0 clients are connected.
+Aug  1 19:48:27,0,255,Right now 1 clients are connected.
+Aug  1 19:49:17,0,255,Right now 0 clients are connected.
+Aug  1 19:52:06,0,255,Right now 1 clients are connected.
+Aug  1 19:52:49,0,255,Right now 0 clients are connected.
+Aug  1 19:55:11,0,255,Right now 1 clients are connected.
+Aug  1 19:56:02,0,255,Right now 0 clients are connected.
+Aug  1 19:56:46,0,255,Right now 1 clients are connected.
+Aug  1 19:57:40,0,255,Right now 0 clients are connected.
+Aug  1 19:58:26,0,255,Right now 1 clients are connected.
+Aug  1 19:59:26,0,255,Right now 0 clients are connected.
+Aug  1 20:00:09,0,255,Right now 1 clients are connected.
+Aug  1 20:01:01,0,255,Right now 0 clients are connected.
+Aug  1 20:03:28,0,255,Right now 1 clients are connected.
+Aug  1 20:04:08,0,255,Right now 0 clients are connected.
+Aug  1 20:04:53,0,255,Right now 1 clients are connected.
+Aug  1 20:05:42,0,255,Right now 0 clients are connected.
+Aug  1 20:06:25,0,255,Right now 1 clients are connected.
+Aug  1 20:06:52,0,255,Right now 0 clients are connected.
+Aug  1 20:09:37,0,255,Right now 1 clients are connected.
+Aug  1 20:10:36,0,255,Right now 0 clients are connected.
+Aug  1 20:11:18,0,255,Right now 1 clients are connected.
+Aug  1 20:11:47,0,255,Right now 0 clients are connected.
+Aug  1 20:13:37,0,255,Right now 1 clients are connected.
+Aug  1 20:14:29,0,255,Right now 0 clients are connected.
+Aug  1 20:15:22,0,255,Right now 1 clients are connected.
+Aug  1 20:16:04,0,255,Right now 0 clients are connected.
+Aug  1 22:38:13,0,255,Right now 1 clients are connected.
+Aug  1 22:54:37,0,255,Right now 0 clients are connected.

@@ -1,0 +1,236 @@
+2012-08-21T00:45:36.832222+00:00,sim128[25665]:,disconnect,4,98.251.79.180,Client#6
+2012-08-21T00:45:58.267540+00:00,sim128[25665]:,connect,4,98.251.79.180,Client#6
+2012-08-21T00:48:00.129286+00:00,sim128[25665]:,disconnect,4,98.251.79.180,Client#6
+2012-08-21T00:48:21.916360+00:00,sim128[25665]:,connect,4,98.251.79.180,Client#6
+2012-08-21T01:07:49.859281+00:00,sim128[25665]:,disconnect,4,98.251.79.180,Client#6
+2012-08-21T01:08:16.154330+00:00,sim128[25665]:,connect,4,98.251.79.180,Client#6
+2012-08-21T01:27:41.539325+00:00,sim128[25665]:,disconnect,7,85.54.146.123,Client#4
+2012-08-21T01:34:39.029135+00:00,sim128[25665]:,chat,4,98.251.79.180,Client#6,9,A-Train,the gas station you are shipping to already has too much gas per month
+2012-08-21T01:58:00.201843+00:00,sim128[25665]:,connect,5,98.251.79.180,Client#6
+2012-08-21T02:45:48.941632+00:00,sim128[25665]:,disconnect,4,98.251.79.180,Client#6
+2012-08-21T02:45:48.941932+00:00,sim128[25665]:,disconnect,5,98.251.79.180,Client#6
+2012-08-21T02:46:17.249538+00:00,sim128[25665]:,connect,4,98.251.79.180,Client#6
+2012-08-21T02:47:16.399263+00:00,sim128[25665]:,connect,5,98.251.79.180,Client#6
+2012-08-21T02:48:45.152020+00:00,sim128[25665]:,connect,6,98.251.79.180,Client#6
+2012-08-21T06:21:18.336838+00:00,sim128[25665]:,connect,7,178.41.11.191,Client#12
+2012-08-21T08:07:51.520358+00:00,sim128[25665]:,connect,8,78.128.195.151,Client#10
+2012-08-21T08:09:03.425572+00:00,sim128[25665]:,disconnect,4,98.251.79.180,Client#6
+2012-08-21T08:09:03.425921+00:00,sim128[25665]:,disconnect,5,98.251.79.180,Client#6
+2012-08-21T08:09:03.426249+00:00,sim128[25665]:,disconnect,6,98.251.79.180,Client#6
+2012-08-21T08:09:03.426544+00:00,sim128[25665]:,disconnect,7,178.41.11.191,Client#12
+2012-08-21T08:09:03.426857+00:00,sim128[25665]:,disconnect,8,78.128.195.151,Client#10
+2012-08-21T08:11:33.152155+00:00,sim128[25665]:,connect,4,78.128.195.151,Client#10
+2012-08-21T08:13:31.953620+00:00,sim128[25665]:,disconnect,4,78.128.195.151,Client#10
+2012-08-21T08:13:47.261447+00:00,sim128[25665]:,connect,5,78.128.195.151,Client#10
+2012-08-21T08:58:32.187371+00:00,sim128[25665]:,connect,4,78.128.195.151,Client#10
+2012-08-21T09:00:44.456384+00:00,sim128[25665]:,connect,6,188.22.173.189,Hundling
+2012-08-21T09:00:45.522092+00:00,sim128[25665]:,disconnect,5,78.128.195.151,Client#10
+2012-08-21T09:21:42.000270+00:00,sim128[25665]:,disconnect,4,78.128.195.151,Client#10
+2012-08-21T09:41:30.966345+00:00,sim128[25665]:,connect,4,85.54.146.123,Client#5
+2012-08-21T10:07:45.667191+00:00,sim128[25665]:,disconnect,4,85.54.146.123,Client#5
+2012-08-21T10:09:55.990410+00:00,sim128[25665]:,connect,4,85.54.146.123,Client#5
+2012-08-21T10:14:40.089853+00:00,sim128[25665]:,disconnect,4,85.54.146.123,Client#5
+2012-08-21T10:19:26.493317+00:00,sim128[25665]:,disconnect,6,188.22.173.189,Hundling
+2012-08-21T10:20:44.366303+00:00,sim128[25665]:,connect,4,85.54.146.123,Client#5
+2012-08-21T10:34:03.362117+00:00,sim128[25665]:,connect,5,78.128.195.151,Client#10
+2012-08-21T10:51:51.944712+00:00,sim128[25665]:,disconnect,4,85.54.146.123,Client#5
+2012-08-21T10:51:51.944972+00:00,sim128[25665]:,disconnect,5,78.128.195.151,Client#10
+2012-08-21T11:20:59.000336+00:00,sim128[25665]:,connect,4,85.110.147.112,Client#4
+2012-08-21T15:24:51.654005+00:00,sim128[25665]:,connect,5,98.251.79.180,Client#6
+2012-08-21T15:26:25.997331+00:00,sim128[25665]:,disconnect,4,85.110.147.112,Client#4
+2012-08-21T15:26:25.997585+00:00,sim128[25665]:,disconnect,5,98.251.79.180,Client#6
+2012-08-21T15:26:52.578949+00:00,sim128[25665]:,connect,4,98.251.79.180,Client#6
+2012-08-21T15:31:17.523563+00:00,sim128[25665]:,connect,5,98.251.79.180,Client#6
+2012-08-21T15:36:23.930153+00:00,sim128[25665]:,connect,6,98.251.79.180,Client#6
+2012-08-21T15:47:22.155209+00:00,sim128[25665]:,connect,7,98.251.79.180,Client#6
+2012-08-21T15:51:23.750389+00:00,sim128[25665]:,connect,8,98.251.79.180,Client#6
+2012-08-21T15:59:04.882531+00:00,sim128[25665]:,disconnect,4,98.251.79.180,Client#6
+2012-08-21T15:59:04.882582+00:00,sim128[25665]:,disconnect,5,98.251.79.180,Client#6
+2012-08-21T15:59:04.882616+00:00,sim128[25665]:,disconnect,6,98.251.79.180,Client#6
+2012-08-21T15:59:04.882639+00:00,sim128[25665]:,disconnect,7,98.251.79.180,Client#6
+2012-08-21T15:59:04.882667+00:00,sim128[25665]:,disconnect,8,98.251.79.180,Client#6
+2012-08-21T15:59:20.462395+00:00,sim128[25665]:,connect,9,98.251.79.180,Client#6
+2012-08-21T16:02:53.555750+00:00,sim128[26050]:,connect,4,98.251.79.180,Client#6
+2012-08-21T16:13:19.981594+00:00,sim128[26050]:,connect,5,78.128.195.151,Client#10
+2012-08-21T16:15:34.842966+00:00,sim128[26050]:,disconnect,5,78.128.195.151,Client#10
+2012-08-21T16:15:58.690306+00:00,sim128[26050]:,connect,5,78.128.195.151,Client#10
+2012-08-21T16:16:14.379126+00:00,sim128[26050]:,chat,4,98.251.79.180,Client#6,9,A-Train,hi
+2012-08-21T16:17:59.745927+00:00,sim128[26050]:,disconnect,5,78.128.195.151,Client#10
+2012-08-21T16:18:24.764268+00:00,sim128[26050]:,connect,5,78.128.195.151,Client#10
+2012-08-21T16:20:06.667154+00:00,sim128[26050]:,disconnect,4,98.251.79.180,Client#6
+2012-08-21T16:20:25.480065+00:00,sim128[26050]:,connect,4,98.251.79.180,Client#6
+2012-08-21T16:43:44.977614+00:00,sim128[26050]:,disconnect,4,98.251.79.180,Client#6
+2012-08-21T16:44:05.024925+00:00,sim128[26050]:,connect,4,98.251.79.180,Client#6
+2012-08-21T17:04:35.767850+00:00,sim128[26050]:,disconnect,5,78.128.195.151,Client#10
+2012-08-21T17:11:57.532978+00:00,sim128[26050]:,connect,5,98.251.79.180,Client#6
+2012-08-21T17:24:44.068420+00:00,sim128[26050]:,connect,6,98.251.79.180,Client#6
+2012-08-21T17:31:41.355624+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"if you want an account, read messages at (500,0) on map"
+2012-08-21T17:59:49.573741+00:00,sim128[26050]:,connect,7,189.110.144.45,Eric Costa Marques
+2012-08-21T17:59:50.617901+00:00,sim128[26050]:,disconnect,4,98.251.79.180,Client#6
+2012-08-21T17:59:50.617938+00:00,sim128[26050]:,disconnect,5,98.251.79.180,Client#6
+2012-08-21T18:03:28.512050+00:00,sim128[26050]:,chat,7,189.110.144.45,Eric Costa Marques,4,TRANSERIC,How can it is possible ???
+2012-08-21T18:03:37.317284+00:00,sim128[26050]:,chat,7,189.110.144.45,Eric Costa Marques,4,TRANSERIC,TRANSERIC saved ??
+2012-08-21T18:03:57.154340+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,remember the crash after bankrupt?
+2012-08-21T18:04:12.322326+00:00,sim128[26050]:,chat,7,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"Yes, I do"
+2012-08-21T18:04:20.219569+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,it recovered a save just before bankrupt
+2012-08-21T18:04:50.971040+00:00,sim128[26050]:,chat,7,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Hum... explais a lot..
+2012-08-21T18:05:27.866539+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,sparta is gone you can build paassenger and mail now
+2012-08-21T18:05:55.553322+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"grenoble, montpellier, etc"
+2012-08-21T18:06:13.797818+00:00,sim128[26050]:,chat,7,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"Yes, I will do that before the Passengers system gone crash..."
+2012-08-21T18:06:25.704987+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,but problem
+2012-08-21T18:06:32.213317+00:00,sim128[26050]:,chat,7,189.110.144.45,Eric Costa Marques,4,TRANSERIC,I will back in five minutes...
+2012-08-21T18:06:55.112841+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"look at (441,186) underground"
+2012-08-21T18:08:27.955075+00:00,sim128[26050]:,disconnect,7,189.110.144.45,Eric Costa Marques
+2012-08-21T18:10:31.696298+00:00,sim128[26050]:,connect,4,189.110.144.45,Eric Costa Marques
+2012-08-21T18:11:12.308027+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,look at sparta's city undergound
+2012-08-21T18:12:18.790815+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,I am back
+2012-08-21T18:12:42.864639+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,look under kolice
+2012-08-21T18:12:44.486015+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,oh my god...
+2012-08-21T18:13:02.473908+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,it is a huge public station
+2012-08-21T18:13:22.324984+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"if you use it, you cant make busses"
+2012-08-21T18:13:29.962426+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,You want it for you ??
+2012-08-21T18:13:59.033904+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,so you must avoid those tiles or.... use it and no busses
+2012-08-21T18:14:13.646056+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"no, it was an accident"
+2012-08-21T18:14:17.534844+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,The name of this Stop is Olviedo central stop
+2012-08-21T18:14:25.612867+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,i was about to remove it
+2012-08-21T18:14:40.153451+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,You can remove it ??
+2012-08-21T18:14:42.852378+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,but accidentally made public
+2012-08-21T18:14:58.973221+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,i can't now :(
+2012-08-21T18:15:00.268561+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,You will use it ??
+2012-08-21T18:15:40.095632+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"no it was my station to bankrupt sparta, but sparta closed the account himself"
+2012-08-21T18:15:51.984631+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,so i don't need it
+2012-08-21T18:16:16.463589+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,I will use it...
+2012-08-21T18:16:25.996950+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"If you agreee, of course..."
+2012-08-21T18:16:28.752559+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,you see sparta?  he closed it  today
+2012-08-21T18:16:49.049309+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,I don t know who is he...
+2012-08-21T18:16:52.747446+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"so, you can use it, but"
+2012-08-21T18:16:58.544274+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,but ??
+2012-08-21T18:17:07.731034+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,that means no busses
+2012-08-21T18:17:19.997794+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,why no busses ??
+2012-08-21T18:17:41.224001+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,cause it covers 11 cities
+2012-08-21T18:17:55.319070+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,they will just get on it
+2012-08-21T18:18:25.238313+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"So, it means 11 cities for US..."
+2012-08-21T18:18:36.888123+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,13-14 cities
+2012-08-21T18:18:43.864655+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Because I wil take them to the INTERNATIONAL HUB
+2012-08-21T18:19:06.468512+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"it means you have 1 station fo 13 cities, no busses"
+2012-08-21T18:19:54.114356+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,if you do that you will need many many planes
+2012-08-21T18:20:15.001733+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,and dont make both sides 100%
+2012-08-21T18:20:26.237915+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,And double-articulated busses..
+2012-08-21T18:20:36.081776+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,no busses!!!
+2012-08-21T18:20:43.306115+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"Ok, ok.."
+2012-08-21T18:20:55.768660+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,But itwas the best way...
+2012-08-21T18:21:20.605721+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Using double-articulated busses and Airplanes...
+2012-08-21T18:21:25.104533+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"the station covers the city, so extra stations would get 0 passenger"
+2012-08-21T18:21:42.883096+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"Ok, sorry..."
+2012-08-21T18:21:51.793083+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,I will do it...
+2012-08-21T18:22:00.908891+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,ONLY AIRPLANES
+2012-08-21T18:22:07.551888+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,unless you don't use the public station
+2012-08-21T18:22:22.680334+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"But if the line was not profitable, I will delete it..."
+2012-08-21T18:22:45.223846+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"(369,135) good spot for airprt?"
+2012-08-21T18:22:53.191159+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,But the public station is exactly the ONE that we are talking about...
+2012-08-21T18:23:11.285101+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Yes...
+2012-08-21T18:23:27.495263+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Let[s start...
+2012-08-21T18:23:53.998891+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,connect those airport stops?
+2012-08-21T18:24:14.227354+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Yes !!
+2012-08-21T18:24:30.616024+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,there
+2012-08-21T18:25:41.304592+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"(368,126) fopr a depot?"
+2012-08-21T18:27:09.424834+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"btw, the station does not cover 100% of cities; check station coverage"
+2012-08-21T18:27:25.001137+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,you can make a few busses
+2012-08-21T18:27:54.802588+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,I can ??
+2012-08-21T18:28:00.729185+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Thank you...
+2012-08-21T18:28:16.550078+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"check ""show station coverage"""
+2012-08-21T18:31:50.510760+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,i yhink international 100% and oviedo 0% might work
+2012-08-21T18:32:29.014784+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,basically whichever has more passengers make 100% and the other 0%
+2012-08-21T18:33:08.730270+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,I will make the two lines...
+2012-08-21T18:33:20.430965+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,no just one is needed
+2012-08-21T18:33:47.048366+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"If causes any demanding problems or you or another players, I will deactivate the air-lines..."
+2012-08-21T18:34:10.026369+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,I have done Olviedo 100% International 0%
+2012-08-21T18:34:27.240762+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,the 100% on one side prevents loss of income
+2012-08-21T18:34:47.552778+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,the 0% on other side prevents backups
+2012-08-21T18:35:31.288838+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,always set side with more passenger to 100% so no backups
+2012-08-21T18:35:34.151284+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"I have sent the airplanes exit form the hangar, BUT..."
+2012-08-21T18:35:53.555975+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,The lag make it delay a little...
+2012-08-21T18:36:10.562951+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"Now, they have done it..."
+2012-08-21T18:36:42.242562+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,OH MY GOD...
+2012-08-21T18:37:02.016307+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Even 10 airlplanes will not enough...
+2012-08-21T18:37:20.807644+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,15,,"its 13-14 cities "
+2012-08-21T18:38:31.364179+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,check later and see which airport has more passengers and make it 100%
+2012-08-21T18:39:03.225567+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Until now... is the Olviedo Airport
+2012-08-21T18:39:08.144427+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,I really think international should be 100%; it should have more passengers
+2012-08-21T18:39:33.172700+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"btw, get a mail plane too :)"
+2012-08-21T18:39:39.844510+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Maybe later... but now... is Olviedo..
+2012-08-21T18:39:59.162869+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,put mail on same line
+2012-08-21T18:40:04.683430+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,100 passengers per second...
+2012-08-21T18:40:10.512668+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Ok
+2012-08-21T18:40:55.649939+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,and watch the net wealth :)
+2012-08-21T18:41:52.476293+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"When theNEW planes exit from Hangar, my Net Wealth falls a littl..."
+2012-08-21T18:42:29.571137+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"yeah, wait a little, then try one mail plane :)"
+2012-08-21T18:43:17.360385+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"Ok, after a few moments I will put two mail planes to fly..."
+2012-08-21T18:43:40.551854+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,"btw, you can make a second line at the extra space (370,141)"
+2012-08-21T18:44:10.985083+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,or you can just move current line there
+2012-08-21T18:44:27.512323+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Thank-you
+2012-08-21T18:45:15.446410+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,My net wealth fell down near 3 million...
+2012-08-21T18:45:55.751955+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,but income is up:)
+2012-08-21T18:46:15.794788+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,start the mail planes?
+2012-08-21T18:46:54.215440+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,I will create a exclusive line for it...
+2012-08-21T18:47:05.470615+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,you don't need that
+2012-08-21T18:47:34.336257+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Just in the case of the mail planes won t be profitable...
+2012-08-21T18:47:49.869093+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,it's the same as passenger so might as well use same line to make it easy?   or??
+2012-08-21T18:50:18.544216+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"Because of the lag, they are in hangar yet..."
+2012-08-21T18:50:31.064118+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,But i sent the order to fly
+2012-08-21T18:50:32.552138+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,they are flying here
+2012-08-21T18:51:11.592822+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Lag...
+2012-08-21T18:51:25.530433+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Here they appear in hangar yet...
+2012-08-21T18:51:43.915354+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,they made money here
+2012-08-21T18:51:59.588246+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,arriving at oviedo now
+2012-08-21T18:52:15.620280+00:00,sim128[26050]:,chat,6,98.251.79.180,Client#6,9,A-Train,back to int 2nd time now
+2012-08-21T18:52:54.477056+00:00,sim128[26050]:,disconnect,6,98.251.79.180,Client#6
+2012-08-21T18:53:11.985300+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"So... I will exit, and back..."
+2012-08-21T18:53:28.420756+00:00,sim128[26050]:,connect,5,98.251.79.180,Client#6
+2012-08-21T18:54:20.695442+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,hi
+2012-08-21T18:56:31.771066+00:00,sim128[26050]:,connect,6,189.110.144.45,Eric Costa Marques
+2012-08-21T18:56:32.818886+00:00,sim128[26050]:,disconnect,4,189.110.144.45,Eric Costa Marques
+2012-08-21T18:57:34.810306+00:00,sim128[26050]:,chat,6,189.110.144.45,Eric Costa Marques,4,TRANSERIC,I am back
+2012-08-21T18:59:03.795092+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,k
+2012-08-21T18:59:46.664663+00:00,sim128[26050]:,chat,6,189.110.144.45,Eric Costa Marques,4,TRANSERIC,minus 300k (net wealth) by airplane that I put to fly...
+2012-08-21T19:00:06.699657+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,"not to bad ... "
+2012-08-21T19:00:31.467225+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,= maintenance loss at beginning of each month
+2012-08-21T19:00:46.570404+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,i mean + plus
+2012-08-21T19:00:46.966483+00:00,sim128[26050]:,chat,6,189.110.144.45,Eric Costa Marques,4,TRANSERIC,After I put plus 8 airplanes (mail) to fly
+2012-08-21T19:01:30.473443+00:00,sim128[26050]:,chat,6,189.110.144.45,Eric Costa Marques,4,TRANSERIC,I will put 10 + airplanes of passengers to fly in that line...
+2012-08-21T19:02:05.617678+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,"watch the chart, one the rate falls youi don't need more"
+2012-08-21T19:03:06.700978+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,"as long as chart goes down, it works :)"
+2012-08-21T19:04:26.903760+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,except you got mail too  :(  so maybe chart is not so helpful...  maybe just watch numbers to see if they go up or down
+2012-08-21T19:05:07.794039+00:00,sim128[26050]:,chat,6,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"No... In London until now, i am only using passengers, BUT..."
+2012-08-21T19:05:22.826380+00:00,sim128[26050]:,chat,6,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"Later, I can consider...MAIL too..."
+2012-08-21T19:06:56.754609+00:00,sim128[26050]:,disconnect,5,98.251.79.180,Client#6
+2012-08-21T19:07:26.317729+00:00,sim128[26050]:,connect,4,98.251.79.180,Client#6
+2012-08-21T19:08:20.461508+00:00,sim128[26050]:,chat,4,98.251.79.180,Client#6,15,,"later , you might want to use a bigger terminal at international hub"
+2012-08-21T19:11:09.773198+00:00,sim128[26050]:,chat,4,98.251.79.180,Client#6,9,A-Train,ya there?
+2012-08-21T19:11:21.413553+00:00,sim128[26050]:,chat,6,189.110.144.45,Eric Costa Marques,4,TRANSERIC,yes
+2012-08-21T19:11:25.109219+00:00,sim128[26050]:,chat,4,98.251.79.180,Client#6,9,A-Train,k
+2012-08-21T19:14:02.518501+00:00,sim128[26050]:,chat,4,98.251.79.180,Client#6,9,A-Train,what cpu do you have?
+2012-08-21T19:14:56.917822+00:00,sim128[26050]:,chat,6,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"Intel Dual Core 2Duo 2,2 Ghz"
+2012-08-21T19:15:22.017918+00:00,sim128[26050]:,chat,4,98.251.79.180,Client#6,9,A-Train,"oh, and graphics card?"
+2012-08-21T19:18:31.610326+00:00,sim128[26050]:,chat,4,98.251.79.180,Client#6,9,A-Train,soo  it probably is the net connection that has problems
+2012-08-21T19:18:55.818203+00:00,sim128[26050]:,disconnect,6,189.110.144.45,Eric Costa Marques
+2012-08-21T19:21:54.754777+00:00,sim128[26050]:,connect,5,189.110.144.45,Eric Costa Marques
+2012-08-21T19:25:06.535823+00:00,sim128[26050]:,disconnect,4,98.251.79.180,Client#6
+2012-08-21T19:25:27.266722+00:00,sim128[26050]:,connect,4,98.251.79.180,Client#6
+2012-08-21T19:29:06.073049+00:00,sim128[26050]:,chat,4,98.251.79.180,Client#6,9,A-Train,can you read this?
+2012-08-21T19:30:16.155862+00:00,sim128[26050]:,chat,4,98.251.79.180,Client#6,9,A-Train,"see underground stop at? (452,162)"
+2012-08-21T19:37:30.488277+00:00,sim128[26050]:,disconnect,4,98.251.79.180,Client#6
+2012-08-21T19:37:52.395137+00:00,sim128[26050]:,connect,4,98.251.79.180,Client#6
+2012-08-21T19:53:15.058331+00:00,sim128[26050]:,disconnect,5,189.110.144.45,Eric Costa Marques
+2012-08-21T19:53:44.249370+00:00,sim128[26050]:,connect,5,189.110.144.45,Eric Costa Marques
+2012-08-21T19:55:34.753138+00:00,sim128[26050]:,disconnect,4,98.251.79.180,Client#6
+2012-08-21T19:56:04.117709+00:00,sim128[26050]:,connect,4,98.251.79.180,Client#6
+2012-08-21T19:56:41.659357+00:00,sim128[26050]:,disconnect,4,98.251.79.180,Client#6
+2012-08-21T20:50:43.921626+00:00,sim128[26050]:,connect,4,189.110.144.45,Eric Costa Marques
+2012-08-21T21:35:56.301401+00:00,sim128[26050]:,disconnect,4,189.110.144.45,Eric Costa Marques
+2012-08-21T21:35:56.301444+00:00,sim128[26050]:,disconnect,5,189.110.144.45,Eric Costa Marques
+2012-08-21T21:36:18.463487+00:00,sim128[26050]:,connect,6,189.110.144.45,Eric Costa Marques
+2012-08-21T22:38:46.549170+00:00,sim128[26050]:,connect,4,78.128.195.151,Client#10
+2012-08-21T22:46:48.210774+00:00,sim128[26050]:,disconnect,6,189.110.144.45,Eric Costa Marques
+2012-08-21T22:49:18.573691+00:00,sim128[26050]:,connect,5,189.110.144.45,Eric Costa Marques
+2012-08-21T22:55:37.194425+00:00,sim128[26050]:,disconnect,4,78.128.195.151,Client#10

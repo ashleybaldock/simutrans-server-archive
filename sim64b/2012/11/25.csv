@@ -1,0 +1,56 @@
+2012-11-25T00:04:13.604961+00:00,sim64b[22847]:,disconnect,2,93.195.20.202,Client#3
+2012-11-25T01:35:17.988602+00:00,sim64b[22847]:,connect,2,177.33.87.80,edson
+2012-11-25T01:36:21.323253+00:00,sim64b[22847]:,disconnect,2,177.33.87.80,edson
+2012-11-25T02:28:47.281217+00:00,sim64b[22847]:,connect,2,98.141.195.201,Fifty
+2012-11-25T03:20:44.107702+00:00,sim64b[22847]:,connect,3,173.55.26.75,HI-Desert
+2012-11-25T03:23:31.088931+00:00,sim64b[22847]:,chat,2,98.141.195.201,Fifty,4,RF&P,Hello Hi-desert
+2012-11-25T03:23:39.476170+00:00,sim64b[22847]:,chat,3,173.55.26.75,HI-Desert,15,,Hello
+2012-11-25T03:24:09.814875+00:00,sim64b[22847]:,chat,2,98.141.195.201,Fifty,4,RF&P,"Can you do me a favor? Please go to @176, 273"
+2012-11-25T03:24:42.703761+00:00,sim64b[22847]:,chat,3,173.55.26.75,HI-Desert,9,Hi-Desert Transport,Sure
+2012-11-25T03:24:57.599201+00:00,sim64b[22847]:,chat,2,98.141.195.201,Fifty,4,RF&P,I would like to borrow one of your trucks for a moment.
+2012-11-25T03:25:33.394502+00:00,sim64b[22847]:,chat,3,173.55.26.75,HI-Desert,9,Hi-Desert Transport,"OK, where do you want it sent to."
+2012-11-25T03:25:54.175754+00:00,sim64b[22847]:,chat,2,98.141.195.201,Fifty,4,RF&P,"@167,274 would work."
+2012-11-25T03:26:53.783883+00:00,sim64b[22847]:,chat,2,98.141.195.201,Fifty,4,RF&P,"don't build a stop there, just send it to that waypoint!"
+2012-11-25T03:27:39.749077+00:00,sim64b[22847]:,chat,2,98.141.195.201,Fifty,4,RF&P,"sorry missed it, let's try again..."
+2012-11-25T03:27:52.199257+00:00,sim64b[22847]:,chat,3,173.55.26.75,HI-Desert,9,Hi-Desert Transport,It will be back
+2012-11-25T03:29:03.332250+00:00,sim64b[22847]:,chat,3,173.55.26.75,HI-Desert,9,Hi-Desert Transport,!!!!!
+2012-11-25T03:29:07.129495+00:00,sim64b[22847]:,chat,2,98.141.195.201,Fifty,4,RF&P,Thank you!
+2012-11-25T03:29:41.998015+00:00,sim64b[22847]:,chat,3,173.55.26.75,HI-Desert,9,Hi-Desert Transport,What just happened?
+2012-11-25T03:31:30.298430+00:00,sim64b[22847]:,connect,4,110.137.150.41,Client#3
+2012-11-25T03:31:43.703531+00:00,sim64b[22847]:,chat,2,98.141.195.201,Fifty,4,RF&P,"I used a little bug to take your truck, copied it in the depot so I could have one, and sent it back on its way!"
+2012-11-25T03:32:27.351324+00:00,sim64b[22847]:,chat,2,98.141.195.201,Fifty,4,RF&P,Now you'll just need to remove that waypoint from its schedule!
+2012-11-25T03:32:46.762236+00:00,sim64b[22847]:,chat,3,173.55.26.75,HI-Desert,9,Hi-Desert Transport,"Ahhh, you wanted an obselete engine unit, right? of was it for kicks?"
+2012-11-25T03:33:03.552583+00:00,sim64b[22847]:,chat,3,173.55.26.75,HI-Desert,9,Hi-Desert Transport,Oh and the waypoint removed itself
+2012-11-25T03:33:41.788580+00:00,sim64b[22847]:,chat,2,98.141.195.201,Fifty,4,RF&P,"yes, I wanted that obsolete truck. Thanks for putting up with me!"
+2012-11-25T03:34:40.313741+00:00,sim64b[22847]:,chat,3,173.55.26.75,HI-Desert,9,Hi-Desert Transport,"well, i guess its true you learn something new everyday."
+2012-11-25T03:35:01.943841+00:00,sim64b[22847]:,chat,2,98.141.195.201,Fifty,15,,"It can also be done with trains, though a bit more complex."
+2012-11-25T03:35:07.993044+00:00,sim64b[22847]:,disconnect,4,110.137.150.41,Client#3
+2012-11-25T03:35:27.470187+00:00,sim64b[22847]:,chat,3,173.55.26.75,HI-Desert,9,Hi-Desert Transport,How can it be done with trains?
+2012-11-25T03:36:24.927888+00:00,sim64b[22847]:,chat,2,98.141.195.201,Fifty,4,RF&P,"You have to make a public track first and then connect two networks together, then place depot on a public rail stub."
+2012-11-25T03:38:11.264812+00:00,sim64b[22847]:,chat,3,173.55.26.75,HI-Desert,9,Hi-Desert Transport,":0, ok i got it now. when anothers player vehicle goes into your own depot, does it retain its player id ?"
+2012-11-25T03:39:15.316337+00:00,sim64b[22847]:,chat,2,98.141.195.201,Fifty,4,RF&P,"Yes and no :). It does if I send it back on its way immediately, but if I change its schedule or dissasemble it, no"
+2012-11-25T03:39:19.785301+00:00,sim64b[22847]:,chat,3,173.55.26.75,HI-Desert,9,Hi-Desert Transport,"or it looks like your own, yet when started, it returns to the other player"
+2012-11-25T03:46:36.639428+00:00,sim64b[22847]:,disconnect,3,173.55.26.75,HI-Desert
+2012-11-25T03:49:08.957992+00:00,sim64b[22847]:,connect,3,173.55.26.75,HI-Desert
+2012-11-25T03:49:16.115674+00:00,sim64b[22847]:,disconnect,2,98.141.195.201,Fifty
+2012-11-25T03:49:28.489927+00:00,sim64b[22847]:,disconnect,3,173.55.26.75,HI-Desert
+2012-11-25T03:51:08.262364+00:00,sim64b[22847]:,connect,2,173.55.26.75,HI-Desert
+2012-11-25T03:52:12.539885+00:00,sim64b[22847]:,chat,2,173.55.26.75,HI-Desert,15,,Bye fifty
+2012-11-25T10:56:32.579954+00:00,sim64b[22847]:,connect,3,94.169.4.104,Funny45
+2012-11-25T10:56:35.719080+00:00,sim64b[22847]:,disconnect,2,173.55.26.75,HI-Desert
+2012-11-25T10:56:35.719110+00:00,sim64b[22847]:,disconnect,3,94.169.4.104,Funny45
+2012-11-25T10:57:04.526573+00:00,sim64b[22847]:,connect,2,94.169.4.104,Funny45
+2012-11-25T11:54:15.703397+00:00,sim64b[22847]:,connect,3,80.132.145.94,Client#3
+2012-11-25T12:49:13.111878+00:00,sim64b[22847]:,connect,4,93.195.21.183,Client#4
+2012-11-25T12:49:13.211451+00:00,sim64b[22847]:,disconnect,2,94.169.4.104,Funny45
+2012-11-25T12:49:17.851357+00:00,sim64b[22847]:,disconnect,3,80.132.145.94,Client#3
+2012-11-25T12:50:34.645919+00:00,sim64b[22847]:,disconnect,4,93.195.21.183,Client#4
+2012-11-25T15:23:52.078158+00:00,sim64b[22847]:,connect,2,201.83.88.77,edson
+2012-11-25T16:37:55.331875+00:00,sim64b[22847]:,disconnect,2,201.83.88.77,edson
+2012-11-25T16:39:08.576173+00:00,sim64b[22847]:,connect,3,98.141.195.201,Fifty
+2012-11-25T17:21:59.034002+00:00,sim64b[22847]:,connect,2,93.195.21.183,Client#4
+2012-11-25T18:23:20.930521+00:00,sim64b[22847]:,connect,4,93.195.21.183,Client#4
+2012-11-25T21:05:58.844504+00:00,sim64b[22847]:,disconnect,2,93.195.21.183,Client#4
+2012-11-25T21:05:58.844642+00:00,sim64b[22847]:,disconnect,3,98.141.195.201,Fifty
+2012-11-25T21:05:58.844797+00:00,sim64b[22847]:,disconnect,4,93.195.21.183,Client#4
+2012-11-25T21:06:13.210235+00:00,sim64b[22847]:,connect,5,92.225.199.174,Client#4

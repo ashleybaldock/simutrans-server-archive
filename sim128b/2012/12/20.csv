@@ -1,0 +1,68 @@
+2012-12-20T00:05:27.404157+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,paichtis
+2012-12-20T00:05:55.397087+00:00,sim128b[12837]:,connect,3,88.165.36.112,paichtis
+2012-12-20T00:25:56.009289+00:00,sim128b[12837]:,disconnect,2,71.200.128.99,benjad
+2012-12-20T01:20:45.256070+00:00,sim128b[12837]:,connect,2,31.51.62.70,Client#2
+2012-12-20T02:10:40.481867+00:00,sim128b[12837]:,disconnect,2,31.51.62.70,Client#2
+2012-12-20T02:10:40.481898+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,paichtis
+2012-12-20T02:10:50.895264+00:00,sim128b[12837]:,connect,4,88.165.36.112,paichtis
+2012-12-20T02:52:14.286207+00:00,sim128b[12837]:,connect,2,71.200.128.99,benjad
+2012-12-20T03:40:09.467106+00:00,sim128b[12837]:,connect,3,98.141.195.201,Fifty
+2012-12-20T07:36:54.403981+00:00,sim128b[12837]:,connect,5,88.165.36.112,paichtis
+2012-12-20T10:10:26.571018+00:00,sim128b[12837]:,connect,6,88.165.36.112,paichtis
+2012-12-20T11:12:25.226416+00:00,sim128b[12837]:,disconnect,2,71.200.128.99,benjad
+2012-12-20T11:12:25.226586+00:00,sim128b[12837]:,disconnect,3,98.141.195.201,Fifty
+2012-12-20T11:12:25.226781+00:00,sim128b[12837]:,disconnect,4,88.165.36.112,paichtis
+2012-12-20T11:12:25.226975+00:00,sim128b[12837]:,disconnect,5,88.165.36.112,paichtis
+2012-12-20T11:12:25.227182+00:00,sim128b[12837]:,disconnect,6,88.165.36.112,paichtis
+2012-12-20T11:53:38.302529+00:00,sim128b[12837]:,connect,2,88.165.36.112,paichtis
+2012-12-20T11:58:57.850799+00:00,sim128b[12837]:,connect,3,88.165.36.112,paichtis
+2012-12-20T12:16:23.343750+00:00,sim128b[12837]:,disconnect,2,88.165.36.112,paichtis
+2012-12-20T12:16:23.343795+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,paichtis
+2012-12-20T12:16:41.181843+00:00,sim128b[12837]:,connect,2,88.165.36.112,paichtis
+2012-12-20T12:39:22.153412+00:00,sim128b[12837]:,connect,3,130.89.161.144,jjasloot
+2012-12-20T12:40:23.569352+00:00,sim128b[12837]:,disconnect,3,130.89.161.144,jjasloot
+2012-12-20T12:40:40.528005+00:00,sim128b[12837]:,disconnect,2,88.165.36.112,paichtis
+2012-12-20T15:02:28.256244+00:00,sim128b[12837]:,connect,2,88.165.36.112,paichtis
+2012-12-20T15:59:23.375094+00:00,sim128b[12837]:,connect,3,88.165.36.112,paichtis
+2012-12-20T20:41:59.897352+00:00,sim128b[12837]:,disconnect,2,88.165.36.112,paichtis
+2012-12-20T20:41:59.897391+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,paichtis
+2012-12-20T20:42:10.469039+00:00,sim128b[12837]:,connect,4,69.138.176.94,Fifty
+2012-12-20T22:01:44.725937+00:00,sim128b[12837]:,connect,2,69.138.176.94,Fifty
+2012-12-20T22:35:12.206219+00:00,sim128b[12837]:,connect,3,69.138.176.94,Fifty
+2012-12-20T22:43:03.062697+00:00,sim128b[12837]:,connect,5,69.138.176.94,Fifty
+2012-12-20T22:45:52.634120+00:00,sim128b[12837]:,connect,6,71.200.128.99,benjad
+2012-12-20T22:45:52.811386+00:00,sim128b[12837]:,disconnect,2,69.138.176.94,Fifty
+2012-12-20T22:45:52.811639+00:00,sim128b[12837]:,disconnect,3,69.138.176.94,Fifty
+2012-12-20T22:45:52.811672+00:00,sim128b[12837]:,disconnect,4,69.138.176.94,Fifty
+2012-12-20T22:46:08.998904+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,hey
+2012-12-20T22:46:51.313092+00:00,sim128b[12837]:,chat,6,71.200.128.99,benjad,15,,hi hi.   thanks for power
+2012-12-20T22:47:02.700503+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,no problem
+2012-12-20T22:47:46.809854+00:00,sim128b[12837]:,chat,6,71.200.128.99,benjad,15,,still learning pak128 .. it makes the oddest connections.
+2012-12-20T22:48:00.519502+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,"yes, agree"
+2012-12-20T22:48:28.400238+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,"Speaking of, I was hoping we might be able to make a trade"
+2012-12-20T22:48:43.208928+00:00,sim128b[12837]:,chat,6,71.200.128.99,benjad,15,,"I play pakBR ... its so awesome, but no one runs that on a server (standard at least)"
+2012-12-20T22:48:48.735535+00:00,sim128b[12837]:,chat,6,71.200.128.99,benjad,15,,shoot
+2012-12-20T22:49:06.462723+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,Once I sort out my network problems (which could take all of today)
+2012-12-20T22:49:29.122810+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,"I want to supply the electronics factory @363,60, but..."
+2012-12-20T22:50:02.682399+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,"I need steel from your mill @32,162"
+2012-12-20T22:50:35.859996+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,"And in exchange, once I can bring to your electronics plant from @370,9"
+2012-12-20T22:50:39.127348+00:00,sim128b[12837]:,chat,6,71.200.128.99,benjad,15,,"Would you like me to get it there, or do you want that route?"
+2012-12-20T22:50:57.965303+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,I'd like you to get it there :)
+2012-12-20T22:51:23.740529+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,"so you don't have to run a little mill for only a few units of steel for electronics, and neither do I"
+2012-12-20T22:51:46.815426+00:00,sim128b[12837]:,chat,6,71.200.128.99,benjad,9,Planet Express,my pleasure.. i'll set it up in a bit.  I'm also learning that ships barely cover costs in this pak... so I'll rail it somehow
+2012-12-20T22:52:26.012987+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,"you already have a dock, I think a ship would cover costs (esp since I have a yard already"
+2012-12-20T22:53:19.538939+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,"The issue is they are not taking direct routes, so you should create a waypoint dock at say @337,179 and run through there"
+2012-12-20T22:54:00.657509+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,"and again, no rush, I likely won't have this mess I'm working on now fixed tonight"
+2012-12-20T22:55:40.526367+00:00,sim128b[12837]:,chat,6,71.200.128.99,benjad,9,Planet Express,"what do you mean 'not taking direct routes'?  Pathfinding is not working right, and needs a helping waypoint along the wau?"
+2012-12-20T22:56:30.562728+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,"no, you just get paid for the straight line distance, so by stopping your ships at an intermediate station, you'll get more $"
+2012-12-20T22:56:59.748820+00:00,sim128b[12837]:,chat,6,71.200.128.99,benjad,9,Planet Express,lolll...   figures   :)
+2012-12-20T22:57:01.136035+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,when your routes bend (go south and north again)
+2012-12-20T22:57:38.940152+00:00,sim128b[12837]:,chat,6,71.200.128.99,benjad,9,Planet Express,Gotcha...   Turn a straight distance into a taxicab distance
+2012-12-20T22:58:25.839441+00:00,sim128b[12837]:,chat,6,71.200.128.99,benjad,9,Planet Express,"guess I need to rework some of my existing ship lines, since they serpentene their way to reno!"
+2012-12-20T23:17:12.166990+00:00,sim128b[12837]:,disconnect,6,71.200.128.99,benjad
+2012-12-20T23:17:30.977347+00:00,sim128b[12837]:,connect,2,71.200.128.99,benjad
+2012-12-20T23:28:38.608106+00:00,sim128b[12837]:,connect,3,71.200.128.99,Client#3
+2012-12-20T23:34:33.106369+00:00,sim128b[12837]:,disconnect,5,69.138.176.94,Fifty
+2012-12-20T23:44:25.903625+00:00,sim128b[12837]:,disconnect,2,71.200.128.99,benjad
+2012-12-20T23:48:29.926691+00:00,sim128b[12837]:,connect,2,88.165.36.112,paichtis
+2012-12-20T23:49:27.913578+00:00,sim128b[12837]:,chat,2,88.165.36.112,paichtis,14,playtosor,evening !  who's there ?

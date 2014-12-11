@@ -1,0 +1,469 @@
+2012-04-05T00:02:48.072045+00:00,sim64a[7556]:,connect,4,189.46.242.103,Client#4
+2012-04-05T00:13:46.472505+00:00,sim64a[7556]:,connect,5,189.46.242.103,Client#4
+2012-04-05T00:16:23.243135+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Client#4
+2012-04-05T00:16:23.243357+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Client#4
+2012-04-05T00:16:23.243625+00:00,sim64a[7556]:,disconnect,4,189.46.242.103,Client#4
+2012-04-05T00:16:23.243876+00:00,sim64a[7556]:,disconnect,5,189.46.242.103,Client#4
+2012-04-05T00:16:30.694300+00:00,sim64a[7556]:,connect,6,189.46.242.103,Client#4
+2012-04-05T00:22:28.784274+00:00,sim64a[7556]:,disconnect,6,189.46.242.103,Client#4
+2012-04-05T00:22:41.451137+00:00,sim64a[7556]:,connect,2,189.46.242.103,Client#4
+2012-04-05T00:52:49.805655+00:00,sim64a[7556]:,connect,3,177.33.96.184,edson
+2012-04-05T00:54:53.174191+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Client#4
+2012-04-05T00:55:09.222528+00:00,sim64a[7556]:,connect,2,189.46.242.103,Client#4
+2012-04-05T00:55:52.512534+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Client#4
+2012-04-05T00:56:43.052768+00:00,sim64a[7556]:,connect,2,189.46.242.103,Client#4
+2012-04-05T00:57:50.783695+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Client#4
+2012-04-05T00:58:02.676923+00:00,sim64a[7556]:,connect,2,189.46.242.103,Client#4
+2012-04-05T00:58:57.967138+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Client#4
+2012-04-05T00:59:13.495653+00:00,sim64a[7556]:,connect,2,189.46.242.103,Client#4
+2012-04-05T01:00:12.386787+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Client#4
+2012-04-05T01:00:27.159377+00:00,sim64a[7556]:,connect,2,189.46.242.103,Client#4
+2012-04-05T01:01:49.972149+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Client#4
+2012-04-05T01:02:04.997949+00:00,sim64a[7556]:,connect,2,189.46.242.103,Client#4
+2012-04-05T01:02:27.247661+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Client#4
+2012-04-05T01:02:47.353366+00:00,sim64a[7556]:,connect,2,189.46.242.103,Client#4
+2012-04-05T01:03:25.761599+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Client#4
+2012-04-05T01:06:59.853569+00:00,sim64a[7556]:,connect,2,189.46.242.103,Client#4
+2012-04-05T01:07:43.502018+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Client#4
+2012-04-05T01:07:58.796804+00:00,sim64a[7556]:,connect,2,189.46.242.103,Client#4
+2012-04-05T01:08:40.205543+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Client#4
+2012-04-05T01:08:59.259819+00:00,sim64a[7556]:,connect,2,189.46.242.103,Client#4
+2012-04-05T01:09:08.401137+00:00,sim64a[7556]:,chat,3,177.33.96.184,edson,2,FedEx,voc precisa de uma internet melhor.
+2012-04-05T01:09:45.884290+00:00,sim64a[7556]:,chat,2,189.46.242.103,Client#4,15,,[é s[ó neste SERVER que acontece isso...
+2012-04-05T01:10:49.470927+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Client#4
+2012-04-05T01:11:09.160336+00:00,sim64a[7556]:,connect,2,189.46.242.103,Client#4
+2012-04-05T01:11:21.767928+00:00,sim64a[7556]:,disconnect,3,177.33.96.184,edson
+2012-04-05T01:21:29.241752+00:00,sim64a[7556]:,chat,2,189.46.242.103,Client#4,10,NOVO HORIZONTE,"Edson, vc t[á ai ainda ???"
+2012-04-05T01:23:59.730882+00:00,sim64a[7556]:,chat,2,189.46.242.103,Client#4,10,NOVO HORIZONTE,Sim
+2012-04-05T01:33:47.849356+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Client#4
+2012-04-05T01:54:05.202383+00:00,sim64a[7556]:,connect,2,177.33.96.184,edson
+2012-04-05T01:59:13.489126+00:00,sim64a[7556]:,disconnect,2,177.33.96.184,edson
+2012-04-05T02:00:57.469303+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T02:01:22.076253+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T09:37:38.883343+00:00,sim64a[7556]:,connect,2,178.219.32.61,mniip
+2012-04-05T09:49:44.765383+00:00,sim64a[7556]:,disconnect,2,178.219.32.61,mniip
+2012-04-05T09:49:50.329942+00:00,sim64a[7556]:,connect,3,178.219.32.61,mniip
+2012-04-05T09:55:50.299268+00:00,sim64a[7556]:,connect,2,178.219.32.61,mniip
+2012-04-05T10:02:04.459893+00:00,sim64a[7556]:,connect,4,212.156.132.158,Client#4
+2012-04-05T10:02:04.594439+00:00,sim64a[7556]:,disconnect,3,178.219.32.61,mniip
+2012-04-05T10:02:36.107732+00:00,sim64a[7556]:,disconnect,4,212.156.132.158,Client#4
+2012-04-05T10:17:46.148521+00:00,sim64a[7556]:,connect,3,212.156.132.158,Client#4
+2012-04-05T11:35:55.774243+00:00,sim64a[7556]:,connect,4,177.33.99.18,edson
+2012-04-05T12:27:00.024925+00:00,sim64a[7556]:,connect,5,78.9.93.57,Client#4
+2012-04-05T12:48:28.546095+00:00,sim64a[7556]:,connect,6,177.33.99.18,edson
+2012-04-05T12:48:28.597243+00:00,sim64a[7556]:,disconnect,2,178.219.32.61,mniip
+2012-04-05T12:48:28.597279+00:00,sim64a[7556]:,disconnect,3,212.156.132.158,Client#4
+2012-04-05T12:48:28.597299+00:00,sim64a[7556]:,disconnect,4,177.33.99.18,edson
+2012-04-05T12:50:23.483285+00:00,sim64a[7556]:,connect,2,178.219.32.61,mniip
+2012-04-05T12:50:38.751923+00:00,sim64a[7556]:,chat,6,177.33.99.18,edson,2,FedEx,"mniip, you don't know the base of simutrans right?"
+2012-04-05T12:52:15.892527+00:00,sim64a[7556]:,disconnect,6,177.33.99.18,edson
+2012-04-05T12:52:16.368861+00:00,sim64a[7556]:,disconnect,5,78.9.93.57,Client#4
+2012-04-05T12:52:25.701898+00:00,sim64a[7556]:,connect,3,177.33.99.18,edson
+2012-04-05T12:52:45.657687+00:00,sim64a[7556]:,connect,4,78.9.93.57,Client#4
+2012-04-05T12:54:19.757956+00:00,sim64a[7556]:,chat,2,178.219.32.61,mniip,6,Mniip Inc,edson: i know...
+2012-04-05T12:54:22.946945+00:00,sim64a[7556]:,disconnect,2,178.219.32.61,mniip
+2012-04-05T12:54:33.637659+00:00,sim64a[7556]:,connect,2,178.219.32.61,mniip
+2012-04-05T12:54:50.046090+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,"so, why you make double stations at same place?"
+2012-04-05T12:55:02.088468+00:00,sim64a[7556]:,chat,2,178.219.32.61,mniip,15,,whe?
+2012-04-05T12:55:24.901896+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,yes?
+2012-04-05T12:56:36.967923+00:00,sim64a[7556]:,disconnect,4,78.9.93.57,Client#4
+2012-04-05T12:56:50.207242+00:00,sim64a[7556]:,connect,4,78.9.93.57,Client#4
+2012-04-05T12:57:16.343538+00:00,sim64a[7556]:,chat,2,178.219.32.61,mniip,6,Mniip Inc,no idea what are you about
+2012-04-05T12:57:49.851732+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,"look aye steel mill, you have 2 stations on it"
+2012-04-05T12:58:42.265545+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,"you block the river (ok, you build a alternative bu t still blocks), you just need to put a dock."
+2012-04-05T12:58:58.287365+00:00,sim64a[7556]:,chat,2,178.219.32.61,mniip,6,Mniip Inc,oh
+2012-04-05T12:59:04.435344+00:00,sim64a[7556]:,chat,2,178.219.32.61,mniip,6,Mniip Inc,kaykaykay
+2012-04-05T12:59:14.219917+00:00,sim64a[7556]:,disconnect,4,78.9.93.57,Client#4
+2012-04-05T12:59:26.568400+00:00,sim64a[7556]:,connect,4,78.9.93.57,Client#4
+2012-04-05T12:59:37.325376+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,the same at flatcar car factory
+2012-04-05T13:00:26.503901+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,let me repair this?
+2012-04-05T13:00:52.396495+00:00,sim64a[7556]:,chat,2,178.219.32.61,mniip,6,Mniip Inc,hmmm?
+2012-04-05T13:01:08.796461+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,"you, let me repair this and make a better stop for all?"
+2012-04-05T13:01:18.442736+00:00,sim64a[7556]:,chat,2,178.219.32.61,mniip,6,Mniip Inc,:/ okay
+2012-04-05T13:01:57.858049+00:00,sim64a[7556]:,disconnect,4,78.9.93.57,Client#4
+2012-04-05T13:02:07.924461+00:00,sim64a[7556]:,connect,4,78.9.93.57,Client#4
+2012-04-05T13:03:32.552262+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,15,,"okay, you know, you need to remove the pass?"
+2012-04-05T13:04:00.137505+00:00,sim64a[7556]:,chat,2,178.219.32.61,mniip,6,Mniip Inc,what pass?
+2012-04-05T13:04:18.021598+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,"your company pass, just remove it to let me enter and modify"
+2012-04-05T13:04:32.089220+00:00,sim64a[7556]:,chat,2,178.219.32.61,mniip,7,PSK & Co KG,oh k
+2012-04-05T13:04:39.578753+00:00,sim64a[7556]:,chat,2,178.219.32.61,mniip,7,PSK & Co KG,wopps
+2012-04-05T13:04:54.243309+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,6,Mniip Inc,"okay, i will repair"
+2012-04-05T13:04:55.744010+00:00,sim64a[7556]:,chat,2,178.219.32.61,mniip,6,Mniip Inc,accidentally clicked
+2012-04-05T13:05:13.818513+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,6,Mniip Inc,"lol, you don't use lines?"
+2012-04-05T13:05:18.729764+00:00,sim64a[7556]:,disconnect,2,178.219.32.61,mniip
+2012-04-05T13:05:33.114338+00:00,sim64a[7556]:,connect,2,178.219.32.61,mniip
+2012-04-05T13:05:52.300917+00:00,sim64a[7556]:,chat,2,178.219.32.61,mniip,6,Mniip Inc,for gooods? no...
+2012-04-05T13:06:45.844848+00:00,sim64a[7556]:,disconnect,3,177.33.99.18,edson
+2012-04-05T13:06:55.837825+00:00,sim64a[7556]:,connect,3,177.33.99.18,edson
+2012-04-05T13:08:13.870382+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,6,Mniip Inc,im editing
+2012-04-05T13:09:25.326130+00:00,sim64a[7556]:,disconnect,2,178.219.32.61,mniip
+2012-04-05T13:09:40.562915+00:00,sim64a[7556]:,connect,2,178.219.32.61,mniip
+2012-04-05T13:11:49.654709+00:00,sim64a[7556]:,disconnect,2,178.219.32.61,mniip
+2012-04-05T13:11:58.132140+00:00,sim64a[7556]:,disconnect,3,177.33.99.18,edson
+2012-04-05T13:12:08.550483+00:00,sim64a[7556]:,connect,2,177.33.99.18,edson
+2012-04-05T13:12:28.881414+00:00,sim64a[7556]:,connect,3,178.219.32.61,mniip
+2012-04-05T13:14:37.441907+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,6,Mniip Inc,it's better to use lines to control vehicles
+2012-04-05T13:14:53.638307+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,gah
+2012-04-05T13:15:46.170257+00:00,sim64a[7556]:,disconnect,4,78.9.93.57,Client#4
+2012-04-05T13:16:16.896418+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,6,Mniip Inc,"I put ships in Aye Iron Mine (691,270)"
+2012-04-05T13:16:42.331322+00:00,sim64a[7556]:,disconnect,3,178.219.32.61,mniip
+2012-04-05T13:17:04.911855+00:00,sim64a[7556]:,connect,3,178.219.32.61,mniip
+2012-04-05T13:18:42.481589+00:00,sim64a[7556]:,disconnect,3,178.219.32.61,mniip
+2012-04-05T13:19:49.617522+00:00,sim64a[7556]:,connect,3,178.219.32.61,mniip
+2012-04-05T13:21:22.907440+00:00,sim64a[7556]:,disconnect,3,178.219.32.61,mniip
+2012-04-05T13:21:39.696764+00:00,sim64a[7556]:,connect,3,178.219.32.61,mniip
+2012-04-05T13:22:18.855497+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,15,,"i have a fast connection, but a very long pings :I"
+2012-04-05T13:22:58.194528+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,6,Mniip Inc,"simutrans needs a good connection, desync it's the problem"
+2012-04-05T13:23:16.094041+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,1mb/s enough?
+2012-04-05T13:23:40.566173+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,6,Mniip Inc,i got the same
+2012-04-05T13:24:15.049006+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,"on the other side of the earth i have 1mb/s, in europe - 3mb/s, in my city - 5mb/s"
+2012-04-05T13:24:36.868142+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,6,Mniip Inc,"D: "
+2012-04-05T13:24:51.277933+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,wait... where is server located?
+2012-04-05T13:24:52.061455+00:00,sim64a[7556]:,disconnect,3,178.219.32.61,mniip
+2012-04-05T13:25:02.467002+00:00,sim64a[7556]:,connect,3,178.219.32.61,mniip
+2012-04-05T13:26:09.064926+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,6,Mniip Inc,"idk, looks better now ?"
+2012-04-05T13:26:52.331010+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,you're using some weird thing to draw out rails O-o
+2012-04-05T13:27:58.224713+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,6,Mniip Inc,just the track remover D:
+2012-04-05T13:28:31.300752+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,6,Mniip Inc,"well, i have finish, i think, if you get any problem, tell me and irepair, or do it ur self :D"
+2012-04-05T13:28:39.755255+00:00,sim64a[7556]:,disconnect,3,178.219.32.61,mniip
+2012-04-05T13:29:40.247679+00:00,sim64a[7556]:,connect,3,178.219.32.61,mniip
+2012-04-05T13:30:31.022825+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,are you familiar with IRC?
+2012-04-05T13:30:46.509822+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,2,FedEx,nop :]
+2012-04-05T13:30:55.150637+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,:<
+2012-04-05T13:31:01.583351+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,:C
+2012-04-05T13:31:05.117994+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,2,FedEx,what IRC? :d
+2012-04-05T13:31:52.742415+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,all IRC are similar to use o-O
+2012-04-05T13:32:16.991715+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,2,FedEx,"no, what is IRC?"
+2012-04-05T13:32:25.616505+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,"oh, Internet Relay Chat"
+2012-04-05T13:32:54.182778+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,2,FedEx,aaah XD
+2012-04-05T13:32:57.895759+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,much more powerful and generic than any other chat
+2012-04-05T13:33:46.789664+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,2,FedEx,"no, i never used it :d"
+2012-04-05T13:34:16.285751+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,i only started using it a year ago
+2012-04-05T13:35:28.203622+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,if precise <Nickserv> 48 weeks 1 day 6:37 ago
+2012-04-05T13:35:53.926482+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,2,FedEx,D:
+2012-04-05T13:36:21.582641+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,well how old are you? :?
+2012-04-05T13:36:32.458795+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,2,FedEx,16~ 17 :d
+2012-04-05T13:36:58.248311+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,ohh im 14 next month
+2012-04-05T13:37:25.365349+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,2,FedEx,lol
+2012-04-05T13:37:31.975010+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,hm?
+2012-04-05T13:37:51.083865+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,2,FedEx,we are young :D
+2012-04-05T13:38:21.479748+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,:/ hate being young :I
+2012-04-05T13:38:46.963851+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,2,FedEx,why? D:
+2012-04-05T13:38:59.767422+00:00,sim64a[7556]:,chat,3,178.219.32.61,mniip,6,Mniip Inc,there are reasons
+2012-04-05T13:40:08.704728+00:00,sim64a[7556]:,connect,4,94.192.34.224,Client#4
+2012-04-05T13:40:12.271839+00:00,sim64a[7556]:,disconnect,3,178.219.32.61,mniip
+2012-04-05T13:40:59.063795+00:00,sim64a[7556]:,connect,3,178.219.32.61,mniip
+2012-04-05T13:41:39.059494+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,2,FedEx,"well, i will left bb"
+2012-04-05T13:41:43.474236+00:00,sim64a[7556]:,disconnect,2,177.33.99.18,edson
+2012-04-05T13:42:06.830228+00:00,sim64a[7556]:,disconnect,3,178.219.32.61,mniip
+2012-04-05T13:42:26.967229+00:00,sim64a[7556]:,connect,2,178.219.32.61,mniip
+2012-04-05T13:44:31.017735+00:00,sim64a[7556]:,disconnect,4,94.192.34.224,Client#4
+2012-04-05T13:44:50.798458+00:00,sim64a[7556]:,connect,3,78.9.93.57,Client#4
+2012-04-05T14:10:11.565669+00:00,sim64a[7556]:,disconnect,3,78.9.93.57,Client#4
+2012-04-05T14:15:12.002889+00:00,sim64a[7556]:,connect,3,83.145.160.176,Client#3
+2012-04-05T14:42:09.346661+00:00,sim64a[7556]:,connect,4,108.23.68.55,Client#3
+2012-04-05T14:48:19.996091+00:00,sim64a[7556]:,connect,5,177.33.99.18,edson
+2012-04-05T14:48:20.052442+00:00,sim64a[7556]:,disconnect,2,178.219.32.61,mniip
+2012-04-05T14:48:20.052471+00:00,sim64a[7556]:,disconnect,3,83.145.160.176,Client#3
+2012-04-05T14:50:08.525420+00:00,sim64a[7556]:,disconnect,5,177.33.99.18,edson
+2012-04-05T14:52:50.461944+00:00,sim64a[7556]:,connect,2,177.33.99.18,edson
+2012-04-05T14:56:02.075236+00:00,sim64a[7556]:,disconnect,2,177.33.99.18,edson
+2012-04-05T15:07:30.657779+00:00,sim64a[7556]:,disconnect,4,108.23.68.55,Client#3
+2012-04-05T15:07:35.405211+00:00,sim64a[7556]:,connect,2,83.33.147.14,Client#2
+2012-04-05T15:08:48.360818+00:00,sim64a[7556]:,connect,3,78.9.93.57,Client#4
+2012-04-05T15:09:07.048231+00:00,sim64a[7556]:,disconnect,2,83.33.147.14,Client#2
+2012-04-05T15:13:09.291021+00:00,sim64a[7556]:,disconnect,3,78.9.93.57,Client#4
+2012-04-05T15:45:26.432268+00:00,sim64a[7556]:,connect,2,177.33.99.18,edson
+2012-04-05T15:57:13.263362+00:00,sim64a[7556]:,connect,3,177.33.99.18,edson
+2012-04-05T16:00:44.988671+00:00,sim64a[7556]:,disconnect,2,177.33.99.18,edson
+2012-04-05T16:00:44.989051+00:00,sim64a[7556]:,disconnect,3,177.33.99.18,edson
+2012-04-05T16:00:55.128067+00:00,sim64a[7556]:,connect,2,177.33.99.18,edson
+2012-04-05T16:15:07.435157+00:00,sim64a[7556]:,connect,3,177.33.99.18,edson
+2012-04-05T16:25:05.982985+00:00,sim64a[7556]:,connect,4,178.219.32.61,mniip
+2012-04-05T16:25:06.158642+00:00,sim64a[7556]:,disconnect,2,177.33.99.18,edson
+2012-04-05T16:26:19.714125+00:00,sim64a[7556]:,connect,2,78.9.93.57,Client#4
+2012-04-05T16:28:31.523852+00:00,sim64a[7556]:,disconnect,4,178.219.32.61,mniip
+2012-04-05T16:28:43.134020+00:00,sim64a[7556]:,connect,4,178.219.32.61,mniip
+2012-04-05T16:29:43.224100+00:00,sim64a[7556]:,disconnect,4,178.219.32.61,mniip
+2012-04-05T16:30:03.813178+00:00,sim64a[7556]:,connect,4,178.219.32.61,mniip
+2012-04-05T16:30:56.502900+00:00,sim64a[7556]:,disconnect,4,178.219.32.61,mniip
+2012-04-05T16:32:38.422789+00:00,sim64a[7556]:,disconnect,2,78.9.93.57,Client#4
+2012-04-05T16:36:40.349956+00:00,sim64a[7556]:,connect,2,177.33.99.18,edson
+2012-04-05T17:53:04.670688+00:00,sim64a[7556]:,connect,4,177.33.99.18,edson
+2012-04-05T18:25:48.750015+00:00,sim64a[7556]:,connect,5,108.23.68.55,Client#3
+2012-04-05T18:25:48.883412+00:00,sim64a[7556]:,disconnect,2,177.33.99.18,edson
+2012-04-05T18:25:48.883701+00:00,sim64a[7556]:,disconnect,3,177.33.99.18,edson
+2012-04-05T18:26:10.156710+00:00,sim64a[7556]:,disconnect,5,108.23.68.55,Client#3
+2012-04-05T18:39:13.970605+00:00,sim64a[7556]:,connect,2,177.33.99.18,edson
+2012-04-05T18:56:34.637305+00:00,sim64a[7556]:,connect,3,87.208.221.149,Client#3
+2012-04-05T18:56:34.807774+00:00,sim64a[7556]:,disconnect,4,177.33.99.18,edson
+2012-04-05T19:01:29.206063+00:00,sim64a[7556]:,disconnect,3,87.208.221.149,Client#3
+2012-04-05T19:01:54.004846+00:00,sim64a[7556]:,disconnect,2,177.33.99.18,edson
+2012-04-05T19:47:16.514347+00:00,sim64a[7556]:,connect,2,177.33.99.18,edson
+2012-04-05T20:08:54.005479+00:00,sim64a[7556]:,connect,3,177.33.99.18,edson
+2012-04-05T20:10:24.337611+00:00,sim64a[7556]:,disconnect,2,177.33.99.18,edson
+2012-04-05T20:10:24.337859+00:00,sim64a[7556]:,disconnect,3,177.33.99.18,edson
+2012-04-05T20:18:18.972661+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T20:23:35.414312+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T20:23:48.896401+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T20:25:37.654510+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T20:25:47.434731+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T20:35:45.914998+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T20:37:41.523827+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T20:37:41.524150+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T20:37:58.505791+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T20:40:39.594793+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T20:40:59.501540+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T20:42:18.350068+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T20:42:34.090222+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T20:43:59.178837+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T20:44:17.454421+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T20:50:11.178736+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T20:50:44.009246+00:00,sim64a[7556]:,connect,4,177.33.99.18,edson
+2012-04-05T20:50:44.061457+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T20:54:17.980945+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T20:54:39.581964+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T20:58:57.874867+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T20:59:11.024398+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:02:35.196985+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:02:50.204134+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:04:46.453528+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:05:01.538348+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:09:24.040577+00:00,sim64a[7556]:,chat,4,177.33.99.18,edson,2,FedEx,eric
+2012-04-05T21:09:57.637711+00:00,sim64a[7556]:,chat,2,189.46.242.103,Eric Costa Marques,5,Consorcio Leste 4,oi Edson
+2012-04-05T21:09:58.269430+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:10:12.376047+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:10:24.762029+00:00,sim64a[7556]:,chat,4,177.33.99.18,edson,2,FedEx,voc tem que controlar os gastos
+2012-04-05T21:10:40.720797+00:00,sim64a[7556]:,chat,4,177.33.99.18,edson,2,FedEx,voc ja criou 4 companias e as 4 faliram
+2012-04-05T21:11:03.937735+00:00,sim64a[7556]:,chat,2,189.46.242.103,Eric Costa Marques,15,,Meus planos não tem dado certo...
+2012-04-05T21:11:08.660331+00:00,sim64a[7556]:,chat,4,177.33.99.18,edson,2,FedEx,n~ao gaste todo o dinheiro de uma vez
+2012-04-05T21:11:27.737586+00:00,sim64a[7556]:,chat,2,189.46.242.103,Eric Costa Marques,15,,Linhas Longas dão Muito Dinheiro
+2012-04-05T21:11:36.173899+00:00,sim64a[7556]:,chat,4,177.33.99.18,edson,2,FedEx,"ent~ao começa com coisas pequenas "
+2012-04-05T21:11:56.219338+00:00,sim64a[7556]:,chat,4,177.33.99.18,edson,2,FedEx,mais linhas longas gastam mais para cerem constr´uidas
+2012-04-05T21:11:58.824070+00:00,sim64a[7556]:,chat,2,189.46.242.103,Eric Costa Marques,15,,"OK, dica Aceita"
+2012-04-05T21:12:31.109012+00:00,sim64a[7556]:,chat,2,189.46.242.103,Eric Costa Marques,15,,No Server B minha empresa vingou...
+2012-04-05T21:12:49.634877+00:00,sim64a[7556]:,chat,4,177.33.99.18,edson,2,FedEx,nao estou jogando muito no sv 2
+2012-04-05T21:13:54.305032+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:14:01.635687+00:00,sim64a[7556]:,connect,2,201.89.179.126,Thanwer
+2012-04-05T21:14:11.015061+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:14:39.143167+00:00,sim64a[7556]:,disconnect,2,201.89.179.126,Thanwer
+2012-04-05T21:14:52.422481+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:15:09.117304+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:16:01.606358+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:16:14.772281+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:16:53.898283+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:17:06.975419+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:17:59.027473+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:18:13.187298+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:19:08.237527+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:19:24.459741+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:19:36.507504+00:00,sim64a[7556]:,disconnect,4,177.33.99.18,edson
+2012-04-05T21:19:46.854403+00:00,sim64a[7556]:,connect,3,177.33.99.18,edson
+2012-04-05T21:24:19.540873+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:24:36.758448+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:25:18.491136+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:25:34.534875+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:27:19.545645+00:00,sim64a[7556]:,disconnect,3,177.33.99.18,edson
+2012-04-05T21:27:20.182907+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T21:27:30.539049+00:00,sim64a[7556]:,connect,2,177.33.99.18,edson
+2012-04-05T21:27:41.753143+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:29:29.445742+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:29:43.576811+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:30:28.185743+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:30:44.061420+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:31:12.189869+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:31:26.711454+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:33:49.639048+00:00,sim64a[7556]:,disconnect,2,177.33.99.18,edson
+2012-04-05T21:33:49.639386+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:33:59.386703+00:00,sim64a[7556]:,connect,2,177.33.99.18,edson
+2012-04-05T21:34:18.331657+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:37:05.500478+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:37:19.763636+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:37:45.456215+00:00,sim64a[7556]:,chat,3,189.46.242.103,Eric Costa Marques,15,,Agora eu me salvo...
+2012-04-05T21:38:03.595616+00:00,sim64a[7556]:,chat,3,189.46.242.103,Eric Costa Marques,5,Consorcio Leste 4,Essa linha dá lucro !!!
+2012-04-05T21:38:58.939643+00:00,sim64a[7556]:,chat,3,189.46.242.103,Eric Costa Marques,5,Consorcio Leste 4,"Edson, vc t[á ON ?"
+2012-04-05T21:40:17.812811+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:40:31.519345+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:44:25.008057+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:44:40.830729+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:45:37.319159+00:00,sim64a[7556]:,chat,3,189.46.242.103,Eric Costa Marques,15,,Who is ONLINE ??
+2012-04-05T21:46:48.242365+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:47:02.975803+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:48:33.705546+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:48:48.076009+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:50:49.442630+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:51:03.626489+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:51:45.954353+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:52:00.812410+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:53:01.902378+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:53:12.679201+00:00,sim64a[7556]:,connect,3,177.33.99.18,edson
+2012-04-05T21:53:21.347184+00:00,sim64a[7556]:,connect,4,189.46.242.103,Eric Costa Marques
+2012-04-05T21:53:21.438564+00:00,sim64a[7556]:,disconnect,2,177.33.99.18,edson
+2012-04-05T21:55:07.676922+00:00,sim64a[7556]:,disconnect,3,177.33.99.18,edson
+2012-04-05T21:55:17.118938+00:00,sim64a[7556]:,connect,2,177.33.99.18,edson
+2012-04-05T21:56:26.808537+00:00,sim64a[7556]:,disconnect,4,189.46.242.103,Eric Costa Marques
+2012-04-05T21:56:41.271115+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:57:15.803172+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:57:31.038471+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:58:34.167634+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:58:56.398249+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:59:28.486327+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T21:59:42.861695+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T22:00:32.947068+00:00,sim64a[7556]:,disconnect,2,177.33.99.18,edson
+2012-04-05T22:00:44.131780+00:00,sim64a[7556]:,connect,2,177.33.99.18,edson
+2012-04-05T22:00:56.935724+00:00,sim64a[7556]:,connect,4,189.46.242.103,Eric Costa Marques
+2012-04-05T22:00:57.026867+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T22:01:53.985593+00:00,sim64a[7556]:,disconnect,4,189.46.242.103,Eric Costa Marques
+2012-04-05T22:02:10.318230+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T22:03:45.047784+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T22:04:11.645437+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T22:04:48.734975+00:00,sim64a[7556]:,disconnect,2,177.33.99.18,edson
+2012-04-05T22:05:49.675106+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:06:29.680635+00:00,sim64a[7556]:,connect,4,177.33.99.18,edson
+2012-04-05T22:06:29.774509+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T22:08:05.609087+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:08:22.938984+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:09:20.226550+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:09:33.936669+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:11:28.107746+00:00,sim64a[7556]:,chat,2,189.46.242.103,Eric Costa Marques,14,TRANSERIC VI,N'ão me incomoda falir pela 6ª vez...
+2012-04-05T22:11:42.640780+00:00,sim64a[7556]:,chat,2,189.46.242.103,Eric Costa Marques,14,TRANSERIC VI,Agora vai dar certo...
+2012-04-05T22:12:10.691970+00:00,sim64a[7556]:,chat,4,177.33.99.18,edson,2,FedEx,XD
+2012-04-05T22:12:39.015900+00:00,sim64a[7556]:,chat,4,177.33.99.18,edson,2,FedEx,voc quer uma ajuda?
+2012-04-05T22:14:22.666771+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:14:34.228763+00:00,sim64a[7556]:,connect,2,177.33.99.18,edson
+2012-04-05T22:14:42.410757+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T22:14:42.582125+00:00,sim64a[7556]:,disconnect,4,177.33.99.18,edson
+2012-04-05T22:14:49.935793+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,15,,eric
+2012-04-05T22:15:03.129458+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,2,FedEx,eric olhe
+2012-04-05T22:15:14.784763+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,2,FedEx,oi?
+2012-04-05T22:15:22.100909+00:00,sim64a[7556]:,disconnect,2,177.33.99.18,edson
+2012-04-05T22:15:37.213269+00:00,sim64a[7556]:,connect,2,177.33.99.18,edson
+2012-04-05T22:15:52.197091+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,15,,eric
+2012-04-05T22:16:21.925106+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,2,FedEx,teste
+2012-04-05T22:16:29.864281+00:00,sim64a[7556]:,chat,2,177.33.99.18,edson,2,FedEx,oO
+2012-04-05T22:17:03.381998+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T22:17:14.338085+00:00,sim64a[7556]:,connect,3,177.33.99.18,edson
+2012-04-05T22:17:22.076724+00:00,sim64a[7556]:,connect,4,189.46.242.103,Eric Costa Marques
+2012-04-05T22:17:22.130281+00:00,sim64a[7556]:,disconnect,2,177.33.99.18,edson
+2012-04-05T22:17:57.596438+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,eric
+2012-04-05T22:18:43.728250+00:00,sim64a[7556]:,disconnect,4,189.46.242.103,Eric Costa Marques
+2012-04-05T22:19:01.368207+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:19:47.818415+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:20:04.631202+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:20:13.235192+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,eric
+2012-04-05T22:20:35.084945+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,fala comigo!
+2012-04-05T22:20:58.281123+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:21:16.214725+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:21:43.290755+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,eric D:
+2012-04-05T22:21:55.402867+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,"calma, n~ao faz nada, me escuta (le seil´a)"
+2012-04-05T22:22:57.072109+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,ta ai?
+2012-04-05T22:23:35.865528+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:23:39.428059+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,"calma, eric, carro com trem nao da lucro"
+2012-04-05T22:23:53.498995+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:24:26.830881+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:24:42.823921+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:25:01.227716+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,ERIC
+2012-04-05T22:25:35.310643+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:25:50.320458+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:26:35.928403+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:26:50.332281+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:27:21.061868+00:00,sim64a[7556]:,disconnect,3,177.33.99.18,edson
+2012-04-05T22:27:32.630376+00:00,sim64a[7556]:,connect,3,177.33.99.18,edson
+2012-04-05T22:28:25.158656+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:28:42.069560+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:29:40.557747+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:29:58.954227+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:30:27.841804+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:30:42.836665+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:30:52.005667+00:00,sim64a[7556]:,chat,3,177.33.99.18,edson,2,FedEx,"eric, olha oq eu fiz para voc"
+2012-04-05T22:32:27.052743+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:32:44.240459+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:33:00.929209+00:00,sim64a[7556]:,disconnect,3,177.33.99.18,edson
+2012-04-05T22:33:16.711148+00:00,sim64a[7556]:,connect,3,177.33.99.18,edson
+2012-04-05T22:33:48.438120+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:34:04.253211+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:35:56.103011+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:36:11.422411+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:36:26.988866+00:00,sim64a[7556]:,disconnect,3,177.33.99.18,edson
+2012-04-05T22:36:36.868920+00:00,sim64a[7556]:,connect,3,177.33.99.18,edson
+2012-04-05T22:38:02.238912+00:00,sim64a[7556]:,disconnect,3,177.33.99.18,edson
+2012-04-05T22:38:18.834111+00:00,sim64a[7556]:,chat,2,189.46.242.103,Eric Costa Marques,15,,"Agradeço a ajuda, mas pode mudar o nome dela para Edson Corporation :)"
+2012-04-05T22:39:49.790419+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T22:41:32.367296+00:00,sim64a[7556]:,connect,4,189.46.242.103,Eric Costa Marques
+2012-04-05T22:45:12.908001+00:00,sim64a[7556]:,connect,5,189.46.242.103,Eric Costa Marques
+2012-04-05T22:50:36.402052+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:50:36.402088+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T22:50:36.402109+00:00,sim64a[7556]:,disconnect,4,189.46.242.103,Eric Costa Marques
+2012-04-05T22:50:36.402131+00:00,sim64a[7556]:,disconnect,5,189.46.242.103,Eric Costa Marques
+2012-04-05T22:50:43.668275+00:00,sim64a[7556]:,connect,6,189.46.242.103,Eric Costa Marques
+2012-04-05T22:51:55.357666+00:00,sim64a[7556]:,disconnect,6,189.46.242.103,Eric Costa Marques
+2012-04-05T22:52:03.841148+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:53:15.100056+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T22:55:26.967873+00:00,sim64a[7556]:,connect,4,177.33.99.18,edson
+2012-04-05T22:55:27.020550+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:56:20.946942+00:00,sim64a[7556]:,chat,4,177.33.99.18,edson,15,,tem certeza? e so voc mudar o pass
+2012-04-05T22:57:20.743529+00:00,sim64a[7556]:,chat,3,189.46.242.103,Eric Costa Marques,11,TRANSERIC 9,"Tenho sim, valeu, aqui euestou falindo bastante, mas h[á muito tempo eu jogo este jogo, qq hora eu consigo fazer uma empresa vingar"
+2012-04-05T22:57:52.617670+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T22:58:06.675081+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:58:41.784743+00:00,sim64a[7556]:,chat,4,177.33.99.18,edson,2,FedEx,tudo bem
+2012-04-05T22:59:07.049287+00:00,sim64a[7556]:,chat,4,177.33.99.18,edson,2,FedEx,outra dica - nao transporte carros com trems porq nao tem lucro
+2012-04-05T22:59:50.124193+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T22:59:55.719505+00:00,sim64a[7556]:,disconnect,4,177.33.99.18,edson
+2012-04-05T23:00:08.746464+00:00,sim64a[7556]:,connect,2,177.33.99.18,edson
+2012-04-05T23:00:16.506930+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T23:00:54.844371+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T23:01:10.555163+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T23:01:49.404681+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T23:02:04.604653+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T23:03:35.935092+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T23:03:50.009317+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T23:05:21.019628+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T23:05:32.260365+00:00,sim64a[7556]:,connect,3,177.33.99.18,edson
+2012-04-05T23:05:40.900868+00:00,sim64a[7556]:,connect,4,189.46.242.103,Eric Costa Marques
+2012-04-05T23:05:41.072210+00:00,sim64a[7556]:,disconnect,2,177.33.99.18,edson
+2012-04-05T23:07:22.510064+00:00,sim64a[7556]:,disconnect,4,189.46.242.103,Eric Costa Marques
+2012-04-05T23:07:36.949108+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:08:36.677836+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:08:52.460833+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:10:17.510758+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:10:37.833137+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:13:05.123845+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:13:19.154604+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:14:14.883022+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:14:23.362357+00:00,sim64a[7556]:,disconnect,3,177.33.99.18,edson
+2012-04-05T23:14:46.971273+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:17:59.608619+00:00,sim64a[7556]:,connect,3,71.191.224.43,Fifty
+2012-04-05T23:21:18.218866+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:21:33.092738+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:22:31.463361+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:22:46.922537+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:24:54.092940+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:25:09.488380+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:29:05.536195+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:29:22.264597+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:30:56.833495+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:31:10.435099+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:35:53.283599+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:36:08.685717+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:36:13.811062+00:00,sim64a[7556]:,disconnect,3,71.191.224.43,Fifty
+2012-04-05T23:38:47.106927+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T23:43:28.598074+00:00,sim64a[7556]:,connect,4,189.46.242.103,Eric Costa Marques
+2012-04-05T23:44:28.618056+00:00,sim64a[7556]:,connect,5,189.46.242.103,Eric Costa Marques
+2012-04-05T23:49:51.682456+00:00,sim64a[7556]:,connect,6,189.46.242.103,Eric Costa Marques
+2012-04-05T23:50:58.647886+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:50:58.647925+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T23:50:58.648075+00:00,sim64a[7556]:,disconnect,4,189.46.242.103,Eric Costa Marques
+2012-04-05T23:50:58.648203+00:00,sim64a[7556]:,disconnect,5,189.46.242.103,Eric Costa Marques
+2012-04-05T23:50:58.648336+00:00,sim64a[7556]:,disconnect,6,189.46.242.103,Eric Costa Marques
+2012-04-05T23:51:07.072629+00:00,sim64a[7556]:,connect,7,189.46.242.103,Eric Costa Marques
+2012-04-05T23:52:13.815525+00:00,sim64a[7556]:,disconnect,7,189.46.242.103,Eric Costa Marques
+2012-04-05T23:52:21.885939+00:00,sim64a[7556]:,connect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:53:28.370046+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T23:54:07.155515+00:00,sim64a[7556]:,disconnect,2,189.46.242.103,Eric Costa Marques
+2012-04-05T23:54:07.155549+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T23:54:15.647677+00:00,sim64a[7556]:,connect,4,189.46.242.103,Eric Costa Marques
+2012-04-05T23:55:15.504271+00:00,sim64a[7556]:,connect,2,177.33.99.18,edson
+2012-04-05T23:57:14.794113+00:00,sim64a[7556]:,disconnect,4,189.46.242.103,Eric Costa Marques
+2012-04-05T23:57:29.406062+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T23:59:12.896859+00:00,sim64a[7556]:,disconnect,3,189.46.242.103,Eric Costa Marques
+2012-04-05T23:59:27.048848+00:00,sim64a[7556]:,connect,3,189.46.242.103,Eric Costa Marques

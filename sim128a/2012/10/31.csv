@@ -1,0 +1,12 @@
+2012-10-31T15:16:59.073987+00:00,sim128a[4509]:,disconnect,4,98.251.79.180,Client#5
+2012-10-31T15:17:18.745061+00:00,sim128a[4509]:,connect,5,83.208.102.160,Client#2
+2012-10-31T23:15:12.935487+00:00,sim128a[3798]:,connect,2,201.1.35.149,Eric Costa Marques
+2012-10-31T23:20:17.800362+00:00,sim128a[3798]:,connect,3,98.251.79.180,Client#5
+2012-10-31T23:20:45.008945+00:00,sim128a[3798]:,chat,3,98.251.79.180,Client#5,15,,are you here transeric
+2012-10-31T23:21:07.432898+00:00,sim128a[3798]:,chat,2,201.1.35.149,Eric Costa Marques,14,TRANSERIC,Yes
+2012-10-31T23:21:34.048050+00:00,sim128a[3798]:,disconnect,2,201.1.35.149,Eric Costa Marques
+2012-10-31T23:21:45.016722+00:00,sim128a[3798]:,chat,3,98.251.79.180,Client#5,15,,"oh, the b server is up with a special map"
+2012-10-31T23:21:58.928286+00:00,sim128a[3798]:,connect,2,201.1.35.149,Eric Costa Marques
+2012-10-31T23:22:06.922141+00:00,sim128a[3798]:,chat,3,98.251.79.180,Client#5,15,,do you want to play the b server instead?
+2012-10-31T23:22:30.850038+00:00,sim128a[3798]:,chat,2,201.1.35.149,Eric Costa Marques,15,,I will see it
+2012-10-31T23:22:38.776844+00:00,sim128a[3798]:,disconnect,2,201.1.35.149,Eric Costa Marques

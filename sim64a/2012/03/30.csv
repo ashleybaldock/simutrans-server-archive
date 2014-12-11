@@ -1,0 +1,40 @@
+2012-03-30T00:03:05.129864+00:00,sim64a[6226]:,disconnect,2,177.33.97.8,edson
+2012-03-30T00:03:10.536790+00:00,sim64a[6226]:,connect,3,177.33.97.8,edson
+2012-03-30T00:14:53.849742+00:00,sim64a[6226]:,disconnect,3,177.33.97.8,edson
+2012-03-30T00:14:59.256384+00:00,sim64a[6226]:,connect,2,177.33.97.8,edson
+2012-03-30T00:16:10.381495+00:00,sim64a[6226]:,connect,3,177.33.97.8,edson
+2012-03-30T00:16:41.991183+00:00,sim64a[6226]:,disconnect,2,177.33.97.8,edson
+2012-03-30T00:16:41.991353+00:00,sim64a[6226]:,disconnect,3,177.33.97.8,edson
+2012-03-30T00:16:51.472438+00:00,sim64a[6226]:,connect,2,177.33.97.8,edson
+2012-03-30T00:39:00.627133+00:00,sim64a[6226]:,connect,3,177.33.97.8,edson
+2012-03-30T00:40:20.741905+00:00,sim64a[6226]:,connect,4,177.33.97.8,edson
+2012-03-30T00:41:40.214769+00:00,sim64a[6226]:,disconnect,2,177.33.97.8,edson
+2012-03-30T00:41:40.215045+00:00,sim64a[6226]:,disconnect,3,177.33.97.8,edson
+2012-03-30T00:41:40.215263+00:00,sim64a[6226]:,disconnect,4,177.33.97.8,edson
+2012-03-30T00:41:45.555357+00:00,sim64a[6226]:,connect,5,177.33.97.8,edson
+2012-03-30T00:47:10.772568+00:00,sim64a[6226]:,connect,2,177.33.97.8,edson
+2012-03-30T01:01:05.147847+00:00,sim64a[6226]:,disconnect,2,177.33.97.8,edson
+2012-03-30T01:01:05.147928+00:00,sim64a[6226]:,disconnect,5,177.33.97.8,edson
+2012-03-30T01:01:10.443675+00:00,sim64a[6226]:,connect,3,177.33.97.8,edson
+2012-03-30T05:32:05.811836+00:00,sim64a[6226]:,connect,2,88.112.169.225,Client#2
+2012-03-30T05:49:49.230559+00:00,sim64a[6226]:,chat,2,88.112.169.225,Client#2,3,Rigid Transport,hello
+2012-03-30T05:49:49.230601+00:00,sim64a[6226]:,chat,3,177.33.97.8,edson,15,,hello
+2012-03-30T05:52:16.035728+00:00,sim64a[2961]:,connect,2,88.112.169.225,hecubah
+2012-03-30T05:53:10.941243+00:00,sim64a[2961]:,chat,2,88.112.169.225,hecubah,15,,hello
+2012-03-30T06:30:49.413545+00:00,sim64a[2961]:,chat,2,88.112.169.225,hecubah,3,Trikky Transport,"feel kinda stupid, forgot totally that simutrans has set destinations for cargo too :d"
+2012-03-30T07:37:51.417036+00:00,sim64a[2961]:,connect,3,78.105.150.232,Client#2
+2012-03-30T07:38:50.688100+00:00,sim64a[2961]:,chat,3,78.105.150.232,Client#2,15,,hello
+2012-03-30T07:39:17.334769+00:00,sim64a[2961]:,chat,3,78.105.150.232,Client#2,15,,map looking good
+2012-03-30T07:40:14.214897+00:00,sim64a[2961]:,chat,3,78.105.150.232,Client#2,1,public service,.
+2012-03-30T07:40:35.056692+00:00,sim64a[2961]:,chat,2,88.112.169.225,hecubah,3,Trikky Transport,"yeah, nice map.."
+2012-03-30T07:44:05.770943+00:00,sim64a[2961]:,chat,3,78.105.150.232,Client#2,1,public service,seems to be more stable
+2012-03-30T07:44:44.826961+00:00,sim64a[2961]:,chat,2,88.112.169.225,hecubah,3,Trikky Transport,oh I just keep digging myself deeper :(
+2012-03-30T07:46:00.066972+00:00,sim64a[2961]:,chat,2,88.112.169.225,hecubah,3,Trikky Transport,"-146% margin and only 6,000 net wealth left.."
+2012-03-30T07:47:43.726841+00:00,sim64a[2961]:,chat,2,88.112.169.225,hecubah,3,Trikky Transport,"oh yay, at least they wanna transport mail by rail."
+2012-03-30T07:59:10.798032+00:00,sim64a[2961]:,chat,3,78.105.150.232,Client#2,1,public service,"sorry, I need to restart the server, will be back up shortly"
+2012-03-30T07:59:39.647130+00:00,sim64a[2961]:,chat,2,88.112.169.225,hecubah,3,Trikky Transport,ah okay
+2012-03-30T07:59:46.026947+00:00,sim64a[2961]:,disconnect,2,88.112.169.225,hecubah
+2012-03-30T08:02:27.832765+00:00,sim64a[15579]:,connect,2,78.105.150.232,Client#2
+2012-03-30T08:02:34.635824+00:00,sim64a[15579]:,chat,2,78.105.150.232,Client#2,15,,should be ok now
+2012-03-30T08:03:09.763432+00:00,sim64a[15579]:,chat,2,78.105.150.232,Client#2,1,public service,happy playing :)
+2012-03-30T08:05:39.352119+00:00,sim64a[15579]:,connect,3,88.112.169.225,hecubah

@@ -1,0 +1,170 @@
+2012-08-15T00:00:19.682754+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,i think simply memory fragmentation
+2012-08-15T00:00:40.764215+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,"simutrans is very ""bad"" with its memory on the machine"
+2012-08-15T00:00:50.563393+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,servers often need to be restarted
+2012-08-15T00:00:52.430123+00:00,sim128[14371]:,chat,4,98.251.79.180,Client#4,9,A-Train,"well, this server has crashed since it happened I think soo does the simutrans process restart when that happens?"
+2012-08-15T00:01:06.770588+00:00,sim128[14371]:,chat,4,98.251.79.180,Client#4,9,A-Train,if so memory would be freed back then
+2012-08-15T00:01:22.044259+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,"yes, that's what timothy must to do"
+2012-08-15T00:01:35.534246+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,"save game,kill process and restart server"
+2012-08-15T00:01:42.007421+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,he said he would do
+2012-08-15T00:01:47.654161+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,i hope soon
+2012-08-15T00:01:48.562777+00:00,sim128[14371]:,chat,4,98.251.79.180,Client#4,9,A-Train,I mean doesn't simutrans already restart process when it crashed or does it not?
+2012-08-15T00:01:57.224004+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,it hasn't crashed
+2012-08-15T00:02:00.694306+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,it's working
+2012-08-15T00:02:05.584788+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,it's simply slow
+2012-08-15T00:02:15.251080+00:00,sim128[14371]:,chat,4,98.251.79.180,Client#4,9,A-Train,I was on earlier today; the server crashed( which happens sometimes)
+2012-08-15T00:02:32.972969+00:00,sim128[14371]:,chat,4,98.251.79.180,Client#4,9,A-Train,when the server crashes the game goes offline and it reverts to an older save game
+2012-08-15T00:02:39.952534+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,i think timothy has put up a script that restarts the server when it crasches
+2012-08-15T00:03:03.834114+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,but i don't know what parameter/file he checks to determine that server has crashed
+2012-08-15T00:06:24.353169+00:00,sim128[14371]:,disconnect,5,79.44.63.9,Client#5
+2012-08-15T00:07:23.802226+00:00,sim128[14371]:,connect,5,79.44.63.9,Client#5
+2012-08-15T00:08:28.219686+00:00,sim128[14371]:,disconnect,4,98.251.79.180,Client#4
+2012-08-15T00:08:48.100526+00:00,sim128[14371]:,connect,4,98.251.79.180,Client#4
+2012-08-15T00:19:14.374871+00:00,sim128[14371]:,disconnect,4,98.251.79.180,Client#4
+2012-08-15T00:19:35.336239+00:00,sim128[14371]:,connect,4,98.251.79.180,Client#4
+2012-08-15T00:26:18.355180+00:00,sim128[14371]:,disconnect,4,98.251.79.180,Client#4
+2012-08-15T00:29:58.805408+00:00,sim128[14371]:,connect,4,98.251.79.180,Client#4
+2012-08-15T00:31:07.824671+00:00,sim128[14371]:,disconnect,5,79.44.63.9,Client#5
+2012-08-15T00:31:44.549652+00:00,sim128[14371]:,connect,5,79.44.63.9,Client#5
+2012-08-15T00:47:46.220264+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,"wasn't there a rule that tell that other players cannot ""invade"" your cities?"
+2012-08-15T00:48:51.180757+00:00,sim128[14371]:,chat,4,98.251.79.180,Client#4,9,A-Train,"not really any ""rules"", but yes it's generally not good to copy passenger & mail lines in a city that already has them"
+2012-08-15T00:49:30.837520+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,"at 18,462 hundling built upon my stops"
+2012-08-15T00:50:24.078519+00:00,sim128[14371]:,chat,4,98.251.79.180,Client#4,9,A-Train,"is that the monorail line?  yeah, I saw it.   if it's an issue, put up some signs around the place asking him not to copy your passenger cities"
+2012-08-15T00:50:49.166656+00:00,sim128[14371]:,chat,4,98.251.79.180,Client#4,9,A-Train,he's usually nice enough to fix it... maybe also mention you still play (and your not one who stopped playing)
+2012-08-15T00:51:40.923934+00:00,sim128[14371]:,chat,4,98.251.79.180,Client#4,9,A-Train,he'll remove the stops/monorail if you ask him nicely (he did in the past at least)
+2012-08-15T00:52:00.960280+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,oh i don't mind
+2012-08-15T00:52:06.147357+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,i simply think
+2012-08-15T00:52:19.782094+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,"if there are rules, it's strange people don't follow them"
+2012-08-15T00:53:01.195808+00:00,sim128[14371]:,chat,4,98.251.79.180,Client#4,9,A-Train,"I have no idea why he would copy your city (maybe an long gone player, but not sure)"
+2012-08-15T00:53:31.221677+00:00,sim128[14371]:,chat,4,98.251.79.180,Client#4,9,A-Train,"then again, he's not online much, and some people took his other cities he never built passenger in.... maybe he also didn't know you built the city :)"
+2012-08-15T00:54:31.567139+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,"in my point of view, the problem is not ""owning most"" or building the city"
+2012-08-15T00:54:43.960200+00:00,sim128[14371]:,chat,5,79.44.63.9,Client#5,5,yorkeiser,but to not build upon other players' stop
+2012-08-15T00:54:57.022852+00:00,sim128[14371]:,chat,4,98.251.79.180,Client#4,9,A-Train,"well, yeah, it's mostly copying the same area (which takes away passengers)"
+2012-08-15T00:55:19.002411+00:00,sim128[14371]:,chat,4,98.251.79.180,Client#4,9,A-Train,"but I like to see cities grow too, so usually pick out a few I can make grow :)"
+2012-08-15T01:00:23.855836+00:00,sim128[14371]:,connect,6,98.251.79.180,Client#4
+2012-08-15T01:00:54.879326+00:00,sim128[14371]:,connect,7,79.44.63.9,Client#5
+2012-08-15T01:20:41.178064+00:00,sim128[14371]:,disconnect,4,98.251.79.180,Client#4
+2012-08-15T01:20:41.178094+00:00,sim128[14371]:,disconnect,5,79.44.63.9,Client#5
+2012-08-15T01:20:41.178115+00:00,sim128[14371]:,disconnect,7,79.44.63.9,Client#5
+2012-08-15T01:21:18.981782+00:00,sim128[14371]:,connect,4,79.44.63.9,Client#5
+2012-08-15T01:23:05.819047+00:00,sim128[14371]:,chat,4,79.44.63.9,Client#5,5,yorkeiser,"bon, i built in hertogenbosch, as just he did"
+2012-08-15T01:23:30.721550+00:00,sim128[14371]:,chat,4,79.44.63.9,Client#5,5,yorkeiser,"if he complaints, please tell him to remove his stops, and i'll do to"
+2012-08-15T01:23:43.167609+00:00,sim128[14371]:,chat,4,79.44.63.9,Client#5,5,yorkeiser,"i'll sleep now, 'night ;)"
+2012-08-15T01:25:15.407257+00:00,sim128[14371]:,chat,6,98.251.79.180,Client#4,9,A-Train,bye. .... a message would be better than building stops .... no idea when he'll be back
+2012-08-15T01:25:37.679260+00:00,sim128[14371]:,disconnect,4,79.44.63.9,Client#5
+2012-08-15T01:45:23.352898+00:00,sim128[14371]:,connect,4,98.251.79.180,Client#4
+2012-08-15T01:47:56.288359+00:00,sim128[14371]:,connect,5,122.148.146.34,Client#6
+2012-08-15T01:47:57.176210+00:00,sim128[14371]:,disconnect,6,98.251.79.180,Client#4
+2012-08-15T01:48:34.384417+00:00,sim128[14371]:,disconnect,5,122.148.146.34,Client#6
+2012-08-15T02:19:33.899749+00:00,sim128[14371]:,disconnect,4,98.251.79.180,Client#4
+2012-08-15T02:19:49.444354+00:00,sim128[14371]:,connect,5,98.251.79.180,Client#4
+2012-08-15T03:00:25.446772+00:00,sim128[14371]:,connect,4,98.251.79.180,Client#4
+2012-08-15T03:13:13.066290+00:00,sim128[14371]:,disconnect,4,98.251.79.180,Client#4
+2012-08-15T03:13:13.066573+00:00,sim128[14371]:,disconnect,5,98.251.79.180,Client#4
+2012-08-15T03:13:33.188350+00:00,sim128[14371]:,connect,4,98.251.79.180,Client#4
+2012-08-15T03:21:55.474174+00:00,sim128[14371]:,connect,5,98.251.79.180,Client#4
+2012-08-15T03:22:29.437292+00:00,sim128[14371]:,connect,6,98.251.79.180,Client#6
+2012-08-15T03:22:30.345473+00:00,sim128[14371]:,disconnect,4,98.251.79.180,Client#4
+2012-08-15T03:22:38.494059+00:00,sim128[14371]:,disconnect,6,98.251.79.180,Client#6
+2012-08-15T03:23:51.777779+00:00,sim128[14371]:,disconnect,5,98.251.79.180,Client#4
+2012-08-15T09:40:58.383574+00:00,sim128[14371]:,connect,4,79.44.63.9,Client#5
+2012-08-15T09:49:40.326834+00:00,sim128[14371]:,connect,5,79.44.63.9,Client#5
+2012-08-15T09:51:55.331411+00:00,sim128[14371]:,disconnect,4,79.44.63.9,Client#5
+2012-08-15T09:51:55.331545+00:00,sim128[14371]:,disconnect,5,79.44.63.9,Client#5
+2012-08-15T09:52:30.838716+00:00,sim128[14371]:,connect,6,79.44.63.9,Client#5
+2012-08-15T09:58:57.337613+00:00,sim128[14371]:,connect,4,79.44.63.9,Client#5
+2012-08-15T10:02:08.156537+00:00,sim128[14371]:,connect,5,79.44.63.9,Client#5
+2012-08-15T10:06:08.025001+00:00,sim128[14371]:,connect,7,79.44.63.9,Client#5
+2012-08-15T10:08:26.338118+00:00,sim128[14371]:,connect,8,79.44.63.9,Client#5
+2012-08-15T10:09:31.914408+00:00,sim128[14371]:,connect,9,178.41.25.218,Client#12
+2012-08-15T10:09:32.815384+00:00,sim128[14371]:,disconnect,4,79.44.63.9,Client#5
+2012-08-15T10:09:32.815421+00:00,sim128[14371]:,disconnect,5,79.44.63.9,Client#5
+2012-08-15T10:09:32.815443+00:00,sim128[14371]:,disconnect,6,79.44.63.9,Client#5
+2012-08-15T10:09:32.815467+00:00,sim128[14371]:,disconnect,7,79.44.63.9,Client#5
+2012-08-15T10:10:54.082614+00:00,sim128[14371]:,disconnect,9,178.41.25.218,Client#12
+2012-08-15T10:12:23.096687+00:00,sim128[14371]:,connect,4,79.44.63.9,Client#5
+2012-08-15T10:25:10.021405+00:00,sim128[14371]:,connect,5,79.44.63.9,Client#5
+2012-08-15T10:28:20.403084+00:00,sim128[14371]:,connect,6,79.44.63.9,Client#5
+2012-08-15T10:52:01.163206+00:00,sim128[14371]:,connect,7,178.41.25.218,Client#12
+2012-08-15T10:52:02.264653+00:00,sim128[14371]:,disconnect,4,79.44.63.9,Client#5
+2012-08-15T10:52:02.264705+00:00,sim128[14371]:,disconnect,5,79.44.63.9,Client#5
+2012-08-15T10:52:02.265079+00:00,sim128[14371]:,disconnect,8,79.44.63.9,Client#5
+2012-08-15T11:04:56.743905+00:00,sim128[14371]:,disconnect,7,178.41.25.218,Client#12
+2012-08-15T11:07:01.548276+00:00,sim128[14371]:,disconnect,6,79.44.63.9,Client#5
+2012-08-15T12:30:06.888804+00:00,sim128[14371]:,connect,4,79.44.63.9,Client#5
+2012-08-15T12:56:01.168690+00:00,sim128[14371]:,connect,5,79.44.63.9,Client#5
+2012-08-15T14:11:31.444054+00:00,sim128[14371]:,connect,6,93.103.184.38,Client#6
+2012-08-15T15:01:09.399943+00:00,sim128[14371]:,connect,7,201.80.206.26,Verruckt
+2012-08-15T15:14:29.362094+00:00,sim128[14371]:,disconnect,4,79.44.63.9,Client#5
+2012-08-15T15:14:29.362119+00:00,sim128[14371]:,disconnect,5,79.44.63.9,Client#5
+2012-08-15T15:14:29.362140+00:00,sim128[14371]:,disconnect,6,93.103.184.38,Client#6
+2012-08-15T15:14:29.362161+00:00,sim128[14371]:,disconnect,7,201.80.206.26,Verruckt
+2012-08-15T15:14:46.724666+00:00,sim128[14371]:,connect,8,201.80.206.26,Verruckt
+2012-08-15T15:20:45.787649+00:00,sim128[14371]:,connect,4,201.80.206.26,Verruckt
+2012-08-15T15:21:23.094487+00:00,sim128[14371]:,connect,5,79.44.63.9,Client#5
+2012-08-15T15:21:24.001544+00:00,sim128[14371]:,disconnect,8,201.80.206.26,Verruckt
+2012-08-15T15:22:08.805991+00:00,sim128[14371]:,disconnect,5,79.44.63.9,Client#5
+2012-08-15T15:22:09.026939+00:00,sim128[14371]:,disconnect,4,201.80.206.26,Verruckt
+2012-08-15T15:22:44.007855+00:00,sim128[14371]:,connect,4,79.44.63.9,Client#5
+2012-08-15T15:38:51.250650+00:00,sim128[14371]:,connect,5,79.44.63.9,Client#5
+2012-08-15T15:45:44.773776+00:00,sim128[14371]:,connect,6,79.44.63.9,Client#5
+2012-08-15T17:07:43.762866+00:00,sim128[14371]:,connect,7,79.44.63.9,Client#5
+2012-08-15T17:31:54.425890+00:00,sim128[14371]:,connect,8,98.251.79.180,Client#4
+2012-08-15T17:40:41.428924+00:00,sim128[14371]:,connect,9,98.251.79.180,Client#4
+2012-08-15T17:46:06.126955+00:00,sim128[14371]:,connect,10,98.251.79.180,Client#4
+2012-08-15T17:49:25.171140+00:00,sim128[14371]:,connect,11,98.251.79.180,Client#4
+2012-08-15T17:51:53.984032+00:00,sim128[14371]:,connect,12,98.251.79.180,Client#4
+2012-08-15T17:54:47.440437+00:00,sim128[14371]:,connect,13,98.251.79.180,Client#4
+2012-08-15T18:00:14.261003+00:00,sim128[14371]:,connect,14,98.251.79.180,Client#4
+2012-08-15T18:12:48.214600+00:00,sim128[14371]:,connect,15,98.251.79.180,Client#4
+2012-08-15T18:19:02.918626+00:00,sim128[14371]:,connect,16,98.251.79.180,Client#4
+2012-08-15T18:24:29.309494+00:00,sim128[14371]:,connect,17,98.251.79.180,Client#4
+2012-08-15T18:38:52.862723+00:00,sim128[14371]:,chat,17,98.251.79.180,Client#4,9,A-Train,"new players, if you want an account: read the message at (500,0) on the map"
+2012-08-15T18:39:24.781227+00:00,sim128[14371]:,connect,18,98.251.79.180,Client#4
+2012-08-15T19:14:45.341086+00:00,sim128[14371]:,connect,19,98.251.79.180,Client#4
+2012-08-15T19:15:31.544106+00:00,sim128[14371]:,connect,20,98.251.79.180,Client#4
+2012-08-15T19:17:11.168773+00:00,sim128[14371]:,connect,21,98.251.79.180,Client#4
+2012-08-15T19:57:03.672932+00:00,sim128[14371]:,connect,22,201.13.155.160,Eric Costa Marques
+2012-08-15T20:11:31.212355+00:00,sim128[14371]:,connect,23,91.127.24.235,Client#12
+2012-08-15T20:11:32.167975+00:00,sim128[14371]:,disconnect,4,79.44.63.9,Client#5
+2012-08-15T20:11:32.168011+00:00,sim128[14371]:,disconnect,5,79.44.63.9,Client#5
+2012-08-15T20:11:32.168060+00:00,sim128[14371]:,disconnect,6,79.44.63.9,Client#5
+2012-08-15T20:11:32.168084+00:00,sim128[14371]:,disconnect,7,79.44.63.9,Client#5
+2012-08-15T20:11:32.168105+00:00,sim128[14371]:,disconnect,8,98.251.79.180,Client#4
+2012-08-15T20:11:32.168125+00:00,sim128[14371]:,disconnect,9,98.251.79.180,Client#4
+2012-08-15T20:11:32.168345+00:00,sim128[14371]:,disconnect,10,98.251.79.180,Client#4
+2012-08-15T20:11:32.168367+00:00,sim128[14371]:,disconnect,11,98.251.79.180,Client#4
+2012-08-15T20:11:32.168390+00:00,sim128[14371]:,disconnect,12,98.251.79.180,Client#4
+2012-08-15T20:11:32.168415+00:00,sim128[14371]:,disconnect,13,98.251.79.180,Client#4
+2012-08-15T20:11:32.168440+00:00,sim128[14371]:,disconnect,14,98.251.79.180,Client#4
+2012-08-15T20:11:32.168702+00:00,sim128[14371]:,disconnect,15,98.251.79.180,Client#4
+2012-08-15T20:11:32.168737+00:00,sim128[14371]:,disconnect,16,98.251.79.180,Client#4
+2012-08-15T20:11:32.168760+00:00,sim128[14371]:,disconnect,17,98.251.79.180,Client#4
+2012-08-15T20:11:32.168781+00:00,sim128[14371]:,disconnect,18,98.251.79.180,Client#4
+2012-08-15T20:11:32.168803+00:00,sim128[14371]:,disconnect,19,98.251.79.180,Client#4
+2012-08-15T20:11:32.168827+00:00,sim128[14371]:,disconnect,20,98.251.79.180,Client#4
+2012-08-15T20:11:32.169016+00:00,sim128[14371]:,disconnect,21,98.251.79.180,Client#4
+2012-08-15T20:25:17.874394+00:00,sim128[14371]:,chat,22,201.13.155.160,Eric Costa Marques,4,TRANSERIC,"Laggg.... I tried to solve the jam, but I can t because of lag"
+2012-08-15T20:28:50.082115+00:00,sim128[14371]:,disconnect,23,91.127.24.235,Client#12
+2012-08-15T20:29:55.898584+00:00,sim128[14371]:,connect,4,91.127.24.235,Client#12
+2012-08-15T20:39:12.988817+00:00,sim128[14371]:,disconnect,4,91.127.24.235,Client#12
+2012-08-15T21:15:46.634349+00:00,sim128[14371]:,chat,22,201.13.155.160,Eric Costa Marques,4,TRANSERIC,"When the slow-server PROBLEMS are fixed, I will solve the JAM..."
+2012-08-15T22:05:12.145133+00:00,sim128[14371]:,connect,4,90.15.127.120,Fr-N
+2012-08-15T22:08:38.645248+00:00,sim128[14371]:,disconnect,4,90.15.127.120,Fr-N
+2012-08-15T22:08:38.645285+00:00,sim128[14371]:,disconnect,22,201.13.155.160,Eric Costa Marques
+2012-08-15T22:08:53.901984+00:00,sim128[14371]:,connect,5,90.15.127.120,Fr-N
+2012-08-15T22:12:29.260956+00:00,sim128[14371]:,connect,4,90.15.127.120,Fr-N
+2012-08-15T22:41:56.033706+00:00,sim128[14371]:,connect,6,98.251.79.180,Client#4
+2012-08-15T22:49:00.272589+00:00,sim128[14371]:,connect,7,98.251.79.180,Client#4
+2012-08-15T22:53:10.209338+00:00,sim128[14371]:,connect,8,98.251.79.180,Client#4
+2012-08-15T22:56:04.034146+00:00,sim128[14371]:,connect,9,98.251.79.180,Client#4
+2012-08-15T23:00:15.867104+00:00,sim128[14371]:,connect,10,98.251.79.180,Client#4
+2012-08-15T23:01:54.590466+00:00,sim128[14371]:,connect,11,98.251.79.180,Client#4
+2012-08-15T23:04:22.515667+00:00,sim128[14371]:,connect,12,98.251.79.180,Client#4
+2012-08-15T23:11:52.671819+00:00,sim128[14371]:,connect,13,98.251.79.180,Client#4
+2012-08-15T23:35:18.804748+00:00,sim128[14371]:,connect,14,98.251.79.180,Client#4
+2012-08-15T23:38:14.621066+00:00,sim128[14371]:,connect,15,98.251.79.180,Client#4
+2012-08-15T23:41:09.626344+00:00,sim128[14371]:,connect,16,98.251.79.180,Client#4
+2012-08-15T23:48:16.210177+00:00,sim128[14371]:,connect,17,98.251.79.180,Client#4
+2012-08-15T23:50:46.295831+00:00,sim128[14371]:,connect,18,98.251.79.180,Client#4
+2012-08-15T23:54:07.620532+00:00,sim128[14371]:,connect,19,98.251.79.180,Client#4
+2012-08-15T23:57:28.035538+00:00,sim128[14371]:,connect,20,98.251.79.180,Client#4

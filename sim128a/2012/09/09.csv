@@ -1,0 +1,551 @@
+2012-09-09T00:12:31.245439+00:00,sim128a[9535]:,connect,6,69.138.176.94,Fifty
+2012-09-09T00:21:06.616489+00:00,sim128a[9535]:,disconnect,5,92.149.244.142,Client#5
+2012-09-09T00:21:26.766962+00:00,sim128a[9535]:,connect,5,92.149.244.142,Client#5
+2012-09-09T00:28:15.616648+00:00,sim128a[9535]:,disconnect,6,69.138.176.94,Fifty
+2012-09-09T00:43:06.978229+00:00,sim128a[9535]:,disconnect,5,92.149.244.142,Client#5
+2012-09-09T00:43:26.107861+00:00,sim128a[9535]:,connect,5,92.149.244.142,Client#5
+2012-09-09T00:44:23.849175+00:00,sim128a[9535]:,chat,4,91.16.63.212,Jaridan,9,German Transports,oioiooi the speedonus you grab with concorde's is crazy
+2012-09-09T00:45:27.320895+00:00,sim128a[9535]:,chat,5,92.149.244.142,Client#5,8,Helloworld Ltd,you pay the price for it though
+2012-09-09T00:52:12.142633+00:00,sim128a[9535]:,connect,6,98.251.79.180,Client#6
+2012-09-09T00:55:08.034390+00:00,sim128a[9535]:,disconnect,5,92.149.244.142,Client#5
+2012-09-09T00:55:26.994874+00:00,sim128a[9535]:,connect,5,92.149.244.142,Client#5
+2012-09-09T01:02:41.023807+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,who's online? :)
+2012-09-09T01:21:59.128861+00:00,sim128a[9535]:,disconnect,4,91.16.63.212,Jaridan
+2012-09-09T01:24:08.084906+00:00,sim128a[9535]:,disconnect,5,92.149.244.142,Client#5
+2012-09-09T01:24:28.454541+00:00,sim128a[9535]:,connect,4,92.149.244.142,Client#5
+2012-09-09T01:36:32.305437+00:00,sim128a[9535]:,connect,5,69.138.176.94,Fifty
+2012-09-09T01:36:41.354814+00:00,sim128a[9535]:,disconnect,4,92.149.244.142,Client#5
+2012-09-09T01:36:49.525420+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"hi fifty, which account are you?"
+2012-09-09T01:37:01.325206+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,RF&P
+2012-09-09T01:37:12.367131+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,your the one from australia?
+2012-09-09T01:37:16.703533+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"No, USA"
+2012-09-09T01:37:30.009516+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"oh, wait, wasn't your name started with an ""m"" yesterday?"
+2012-09-09T01:38:02.200579+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"Yeah. There are 2 people who play on this player: Me, and moblet, who is from Australia"
+2012-09-09T01:38:02.302387+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,are you not moblet?
+2012-09-09T01:38:24.726197+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"really, I thought moblet said he was from the US and you were from australia :)"
+2012-09-09T01:38:42.056922+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,oh well
+2012-09-09T01:38:42.903869+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"Nope, other way around!"
+2012-09-09T01:39:14.245971+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,could I ask you to check 2 things perhaps?
+2012-09-09T01:39:21.849568+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,Sure.
+2012-09-09T01:39:29.485570+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"(168,75)  I want to make a rail there"
+2012-09-09T01:39:57.681294+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,done
+2012-09-09T01:39:59.667970+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"yes, perfect"
+2012-09-09T01:40:35.171867+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"(285,95)    I can't flattent all the land under the bridges"
+2012-09-09T01:40:47.190600+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,Now try
+2012-09-09T01:40:54.686834+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"thanks, that's what I needed. thanks again"
+2012-09-09T01:41:46.647566+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,it's just cheap track now to lay out the path... hopefully I can use 400km track later :)
+2012-09-09T01:41:53.828241+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"No problem, any time. Is that to be a pax line"
+2012-09-09T01:42:17.408983+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,I want to connect to the passenger exchange with rail instead of planes.... might be fun :)
+2012-09-09T01:42:52.435304+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,You might consider going through dirk hills and or building an exchange near there for a new player or me
+2012-09-09T01:43:06.227332+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,*i mean delta blues
+2012-09-09T01:43:33.983277+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,what coords?
+2012-09-09T01:43:51.806283+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"actually, I made the exchange on that side of map because longer distance = more money :)"
+2012-09-09T01:44:19.424839+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"No coords really, just thinking maybe connecting those two stranded cities"
+2012-09-09T01:44:32.628938+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,by no coords I mean I have no concrete ideas
+2012-09-09T01:44:38.392779+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,I don't really do pax
+2012-09-09T01:44:41.134264+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"oh, there's unclaimed cities?  hmm it might be nice to have 1 or 2 along the way"
+2012-09-09T01:45:27.694823+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,oh deltaa blues  ... I see it !
+2012-09-09T01:45:56.034177+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"Dirk hills you could do too, but you'd have to modify your track"
+2012-09-09T01:47:12.488183+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"hmm, just maybe....  will you be online for a while...  I might need a change in that area if I reroute my track to them"
+2012-09-09T01:47:22.869030+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,I'll be here for at least 30 min
+2012-09-09T01:47:42.267981+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"how should I cross your iron ore line?  "
+2012-09-09T01:48:50.257711+00:00,sim128a[9535]:,connect,4,220.245.52.25,Client#22
+2012-09-09T01:49:24.797865+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,I don't care too much if you leave me space for a double track
+2012-09-09T01:49:51.326244+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"well I'm pretty sure you don't want to bridge up, as that would slow your 110 track... so gotta figure an easier way for you"
+2012-09-09T01:49:53.206469+00:00,sim128a[9535]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,thx a-train for that pwoerline movement
+2012-09-09T01:50:14.532493+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"oh, hi borella"
+2012-09-09T01:50:36.535588+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,I built a new track near some of your towns
+2012-09-09T01:50:52.211037+00:00,sim128a[9535]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,where?
+2012-09-09T01:51:08.006983+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,VSville - Watergate
+2012-09-09T01:51:50.388150+00:00,sim128a[9535]:,disconnect,4,220.245.52.25,Client#22
+2012-09-09T01:52:14.805126+00:00,sim128a[9535]:,connect,4,220.245.52.25,Client#22
+2012-09-09T01:52:42.871083+00:00,sim128a[9535]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,ah damn because i kept desyncing yesterday so i gave up
+2012-09-09T01:52:50.572535+00:00,sim128a[9535]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,my track does need to cross yours though
+2012-09-09T01:53:01.433662+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,tell me where
+2012-09-09T01:53:15.487400+00:00,sim128a[9535]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,firstly that canal is too small
+2012-09-09T01:53:25.559228+00:00,sim128a[9535]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,canal crossing*
+2012-09-09T01:53:49.056074+00:00,sim128a[9535]:,disconnect,4,220.245.52.25,Client#22
+2012-09-09T01:54:16.391509+00:00,sim128a[9535]:,connect,4,220.245.52.25,Client#22
+2012-09-09T01:54:46.248111+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,liek that?
+2012-09-09T01:54:47.330865+00:00,sim128a[9535]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,thx for that
+2012-09-09T01:55:09.561286+00:00,sim128a[9535]:,disconnect,4,220.245.52.25,Client#22
+2012-09-09T01:55:17.090018+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"I can extend my bridge near 314, 81? "
+2012-09-09T01:55:33.655514+00:00,sim128a[9535]:,connect,4,220.245.52.25,Client#22
+2012-09-09T01:55:40.123573+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"(314,81)"
+2012-09-09T01:56:11.139699+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,borella wait!   uh...
+2012-09-09T01:56:24.568446+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,does your track need to be south of mine instead?
+2012-09-09T01:56:25.948334+00:00,sim128a[9535]:,disconnect,4,220.245.52.25,Client#22
+2012-09-09T01:57:33.727411+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"fifty, I got a plan... go to (180,90)"
+2012-09-09T01:57:50.807567+00:00,sim128a[9535]:,connect,4,220.245.52.25,Client#22
+2012-09-09T01:58:05.398558+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"if you delete the nearby track for a few seconds, I can build a mountain... then"
+2012-09-09T01:58:15.488419+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,you tunnel under and get your 110 km
+2012-09-09T01:58:26.487916+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,and I build over/on top and get my 400km
+2012-09-09T01:58:39.806710+00:00,sim128a[9535]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,im aiming for 400 as well lol
+2012-09-09T01:58:46.996065+00:00,sim128a[9535]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,but a 280kph tunnel will do
+2012-09-09T01:59:03.275635+00:00,sim128a[9535]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,knew i should have finished this yesterday :P but desync drove me mad
+2012-09-09T01:59:16.886008+00:00,sim128a[9535]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,atrains - where is your track planning to lead?
+2012-09-09T01:59:34.289273+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"I will go just past watergate, then head se"
+2012-09-09T01:59:53.300544+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"A train, what about I just extend my tunnel a bit and you go by the coal mine yard"
+2012-09-09T01:59:57.921865+00:00,sim128a[9535]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,ah i see
+2012-09-09T02:00:02.154771+00:00,sim128a[9535]:,disconnect,4,220.245.52.25,Client#22
+2012-09-09T02:00:51.402976+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"I can't go by the coalmine becaus ehundling is in way...  I have to go (183,94) diagonal"
+2012-09-09T02:01:48.356594+00:00,sim128a[9535]:,connect,4,220.245.52.25,Client#22
+2012-09-09T02:01:58.196914+00:00,sim128a[9535]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,ok a-trains ive decided what to do
+2012-09-09T02:02:00.244707+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,there is space...
+2012-09-09T02:02:16.367792+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,even more if you flip your bridge
+2012-09-09T02:02:18.378410+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"yeah, but then I have to go backwards :)"
+2012-09-09T02:02:36.632866+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,where is your track going borella?
+2012-09-09T02:03:03.440149+00:00,sim128a[9535]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,heading to my towns east
+2012-09-09T02:03:07.127910+00:00,sim128a[9535]:,disconnect,4,220.245.52.25,Client#22
+2012-09-09T02:03:19.471690+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"No, look at where my track is"
+2012-09-09T02:03:41.496929+00:00,sim128a[9535]:,connect,4,220.245.52.25,Client#22
+2012-09-09T02:04:01.103455+00:00,sim128a[9535]:,disconnect,4,220.245.52.25,Client#22
+2012-09-09T02:04:18.720060+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,yeah I Know... but diagonal would the the direct route
+2012-09-09T02:04:28.217010+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,what you think?
+2012-09-09T02:05:20.055769+00:00,sim128a[9535]:,connect,4,220.245.52.25,Client#22
+2012-09-09T02:05:36.416033+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"one way or another you will need to go 90 degrees, why not there?"
+2012-09-09T02:05:56.601528+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"no, I don't need to go 90 ... it's 45 all the way"
+2012-09-09T02:06:23.738844+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,let me finish route and you can see what I had in mind
+2012-09-09T02:06:38.401824+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"ugh, fine you're paranoid about this no ;)"
+2012-09-09T02:07:10.849865+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"any slowdown affects income,  if this game actually had proper bridges or tunnels it wouldn't be a big deal :('"
+2012-09-09T02:07:36.364904+00:00,sim128a[9535]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,yeah i hate 160kph limited bridges
+2012-09-09T02:08:18.024029+00:00,sim128a[9535]:,disconnect,4,220.245.52.25,Client#22
+2012-09-09T02:08:35.571336+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,or I can decorate that land to make more natural?
+2012-09-09T02:09:32.651777+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"You see, you still go 90 degrees there!"
+2012-09-09T02:09:47.543310+00:00,sim128a[9535]:,connect,4,220.245.52.25,Client#22
+2012-09-09T02:09:56.522911+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,just 2 tiles because you have to go downhill
+2012-09-09T02:10:03.116184+00:00,sim128a[9535]:,disconnect,4,220.245.52.25,Client#22
+2012-09-09T02:11:16.829420+00:00,sim128a[9535]:,connect,4,91.16.63.212,Jaridan
+2012-09-09T02:11:56.751916+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"Destroy the river at 187,88 and use those tracks, it will be faster!"
+2012-09-09T02:13:10.379341+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,faster?  how so?  don't see what you mean
+2012-09-09T02:13:37.435670+00:00,sim128a[9535]:,connect,7,220.245.52.25,Client#22
+2012-09-09T02:14:21.651467+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"173, 84 will have 3 sucessive reductions in speed in three tiles, my route has no more than 2 "
+2012-09-09T02:14:55.537729+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"actually, I plan to put a station on top of that bridge, so the bridge will not count as a slowdown :)"
+2012-09-09T02:15:14.113175+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,leaving only 1 slowdown: the ramp up
+2012-09-09T02:15:15.435039+00:00,sim128a[9535]:,chat,7,220.245.52.25,Client#22,5,Borella Moveables,smart thinking
+2012-09-09T02:15:18.736096+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,Even station tiles count :)
+2012-09-09T02:15:29.779645+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,well think of it this way....
+2012-09-09T02:15:42.569818+00:00,sim128a[9535]:,disconnect,7,220.245.52.25,Client#22
+2012-09-09T02:15:47.577644+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,I can put station tile on bridge and combine the station slowdown with bridge
+2012-09-09T02:16:07.874515+00:00,sim128a[9535]:,connect,7,220.245.52.25,Client#22
+2012-09-09T02:16:22.985172+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"or I can put station next to coal mine, which means it slows down at station and at bridge (2 spots)"
+2012-09-09T02:17:05.060309+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"now, if you want me to use that other path of yours for other reasons, let me know"
+2012-09-09T02:17:12.450751+00:00,sim128a[9535]:,chat,7,220.245.52.25,Client#22,5,Borella Moveables,"a-train - can you make road public @ 325,113"
+2012-09-09T02:17:24.673740+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,I can still move it if you don't like this route (the way it looks) or you don't like making a tunnela
+2012-09-09T02:17:41.255638+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,I'm flexible... if bothers you in any way I can move to your spot you suggested
+2012-09-09T02:18:05.693718+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"It's your network, it's your decision"
+2012-09-09T02:18:31.145986+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"yes, but if you find the way I did it ugly or it cause you problems, I'll gladly change it so you will be happier"
+2012-09-09T02:18:52.993252+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,your route does look nicer (more natural) :)
+2012-09-09T02:18:56.009268+00:00,sim128a[9535]:,disconnect,7,220.245.52.25,Client#22
+2012-09-09T02:19:18.103258+00:00,sim128a[9535]:,connect,7,220.245.52.25,Client#22
+2012-09-09T02:19:31.077275+00:00,sim128a[9535]:,chat,4,91.16.63.212,Jaridan,15,,"a-trains ( borella, did you read the nots?"
+2012-09-09T02:19:49.043743+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"Yeah, my route is less ugly, but I don't care that much."
+2012-09-09T02:20:20.421950+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"ok, well let me know if you ever want me to switch to that route fifty,,, really I don't mind it's a nice path too :)"
+2012-09-09T02:20:45.392287+00:00,sim128a[9535]:,disconnect,7,220.245.52.25,Client#22
+2012-09-09T02:21:10.334695+00:00,sim128a[9535]:,connect,7,220.245.52.25,Client#22
+2012-09-09T02:21:20.618528+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"oh, and a train, can you please power 310, 46?"
+2012-09-09T02:21:51.745618+00:00,sim128a[9535]:,disconnect,7,220.245.52.25,Client#22
+2012-09-09T02:22:12.477743+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"(310,46)"
+2012-09-09T02:22:37.471105+00:00,sim128a[9535]:,connect,7,220.245.52.25,Client#22
+2012-09-09T02:22:51.214144+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"I was going to earlier, but they weren't transporting all the glass back then it seemed"
+2012-09-09T02:23:17.326758+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"Well, I will be taking some glass too in the future"
+2012-09-09T02:23:28.429469+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,how long are you on borella?
+2012-09-09T02:23:43.360564+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,(I put the request there before helloworld started supplying that mill)
+2012-09-09T02:24:43.834423+00:00,sim128a[9535]:,chat,7,220.245.52.25,Client#22,5,Borella Moveables,"RF&P @ 437,126 can you delete that creek under your bridge plz"
+2012-09-09T02:24:57.104389+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"(437,126)"
+2012-09-09T02:25:28.979475+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,how long will you be on borella?
+2012-09-09T02:25:45.828946+00:00,sim128a[9535]:,chat,7,220.245.52.25,Client#22,5,Borella Moveables,not sure why?
+2012-09-09T02:25:54.057429+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,I wanted to ask you about a few spots
+2012-09-09T02:26:27.172814+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"(350,28)  could you delete road so I can make powerline there?  (you can build road back after I make power)"
+2012-09-09T02:27:02.295558+00:00,sim128a[9535]:,chat,7,220.245.52.25,Client#22,5,Borella Moveables,its fine i only used roads to guide city growth
+2012-09-09T02:27:06.053388+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"thanks, you can put road back if you want"
+2012-09-09T02:27:11.840647+00:00,sim128a[9535]:,disconnect,7,220.245.52.25,Client#22
+2012-09-09T02:27:35.735295+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"(510,238)  wanted you to check that out.... I changed it a little"
+2012-09-09T02:27:47.338666+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,thought maybe you would want to makea tunnel there
+2012-09-09T02:28:52.495618+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"if you put coordinates in parenthesis (510,238) you can click on the message and go there :)"
+2012-09-09T02:29:22.188418+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,or with an @ sign
+2012-09-09T02:30:34.289328+00:00,sim128a[9535]:,chat,4,91.16.63.212,Jaridan,9,German Transports,man can anyone imagine being one of the 42k travekkers waiuting at the public exchange?:P
+2012-09-09T02:30:45.704756+00:00,sim128a[9535]:,chat,4,91.16.63.212,Jaridan,9,German Transports,*travellers/passengers
+2012-09-09T02:31:02.786938+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,do you think this gmae should have limits on capacity?
+2012-09-09T02:31:28.168350+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,You can set no_routing_over_overcrowded
+2012-09-09T02:31:41.817073+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,it will not route pax over an overcrowded station
+2012-09-09T02:31:42.558740+00:00,sim128a[9535]:,chat,4,91.16.63.212,Jaridan,9,German Transports,"thats not what i meant , but imagine being  sdtuck and having to wait for eteernity xD"
+2012-09-09T02:32:09.065301+00:00,sim128a[9535]:,chat,4,91.16.63.212,Jaridan,9,German Transports,btw is it ok to set routes to wait for full load @ public interchanges?
+2012-09-09T02:32:29.044682+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"yeah, I know what ya meant :)    although I don't know how I could imagine that"
+2012-09-09T02:33:24.709827+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"I remember I was at the airport once, and it was packed, and the only thing I could think of was ""gee, if this was simutrans, this station would be overcrowded"" :)"
+2012-09-09T02:34:08.493094+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,I am just biding my time till sim city comes out :)
+2012-09-09T02:34:19.848988+00:00,sim128a[9535]:,chat,4,91.16.63.212,Jaridan,9,German Transports,hmm? i cant change something at the airport?
+2012-09-09T02:35:17.223963+00:00,sim128a[9535]:,chat,4,91.16.63.212,Jaridan,9,German Transports,cant i delete and edit stuff that's public?
+2012-09-09T02:35:32.244978+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"yes, but not stations"
+2012-09-09T02:36:01.341165+00:00,sim128a[9535]:,chat,4,91.16.63.212,Jaridan,9,German Transports,so only if you swith to public player you can remove stations then?
+2012-09-09T02:36:46.273796+00:00,sim128a[9535]:,chat,4,91.16.63.212,Jaridan,9,German Transports,"i was just thining of removing the closest station there and add another runway to lang, cause sometimes some airplaines were clucking for the one runway"
+2012-09-09T02:36:47.956826+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"unfortunately, yes,....  I keep trying to suggest they should allow players to exchange with other players at their OWN stations and not have public stops "
+2012-09-09T02:37:16.623367+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,say again.... I can add more space to the airport
+2012-09-09T02:37:53.850260+00:00,sim128a[9535]:,chat,4,91.16.63.212,Jaridan,9,German Transports,"its not a about space, i would delete the station at (8,54) and make another runway for landing"
+2012-09-09T02:38:29.293205+00:00,sim128a[9535]:,chat,4,91.16.63.212,Jaridan,9,German Transports,cause the majority seems to favour this side so some planes lose (a tiny bit) of times sometimes waiting for the upper runway to be free
+2012-09-09T02:39:09.977219+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"you could change your line so it stops at the south line (9,57) and it might take that runway instead"
+2012-09-09T02:39:40.224963+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"borella, you still here?"
+2012-09-09T02:39:48.729835+00:00,sim128a[9535]:,chat,4,91.16.63.212,Jaridan,9,German Transports,true but thats work asweel
+2012-09-09T02:39:55.870791+00:00,sim128a[9535]:,chat,4,91.16.63.212,Jaridan,9,German Transports,w/e guess ill do it
+2012-09-09T02:41:08.963160+00:00,sim128a[9535]:,disconnect,6,98.251.79.180,Client#6
+2012-09-09T02:41:31.556927+00:00,sim128a[9535]:,connect,6,98.251.79.180,Client#6
+2012-09-09T02:45:43.834751+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,did borella leave? I can't tell
+2012-09-09T02:46:01.203901+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"guess so, no construction :("
+2012-09-09T02:48:40.476094+00:00,sim128a[9535]:,chat,4,91.16.63.212,Jaridan,9,German Transports,"hmm is it okay if i develop pax @ hillsdale? (320,200)"
+2012-09-09T02:49:00.068043+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"that city has been free "
+2012-09-09T02:49:11.737091+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,for a while now (like yesterday I saw it I think)_
+2012-09-09T02:49:17.674986+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"yeah, I think it's ok"
+2012-09-09T02:55:44.727457+00:00,sim128a[9535]:,disconnect,6,98.251.79.180,Client#6
+2012-09-09T03:01:51.017980+00:00,sim128a[9535]:,connect,6,220.245.52.25,Client#22
+2012-09-09T03:02:06.291103+00:00,sim128a[9535]:,chat,6,220.245.52.25,Client#22,5,Borella Moveables,bk
+2012-09-09T03:03:12.787764+00:00,sim128a[9535]:,disconnect,6,220.245.52.25,Client#22
+2012-09-09T03:03:32.468043+00:00,sim128a[9535]:,connect,6,220.245.52.25,Client#22
+2012-09-09T03:04:06.277081+00:00,sim128a[9535]:,disconnect,6,220.245.52.25,Client#22
+2012-09-09T03:04:41.279488+00:00,sim128a[9535]:,connect,6,220.245.52.25,Client#22
+2012-09-09T03:05:28.492190+00:00,sim128a[9535]:,disconnect,6,220.245.52.25,Client#22
+2012-09-09T03:07:03.545972+00:00,sim128a[9535]:,connect,6,220.245.52.25,Client#22
+2012-09-09T03:09:32.320378+00:00,sim128a[9535]:,disconnect,6,220.245.52.25,Client#22
+2012-09-09T03:09:56.112747+00:00,sim128a[9535]:,connect,6,220.245.52.25,Client#22
+2012-09-09T03:11:58.484445+00:00,sim128a[9535]:,disconnect,6,220.245.52.25,Client#22
+2012-09-09T03:12:22.087796+00:00,sim128a[9535]:,connect,6,220.245.52.25,Client#22
+2012-09-09T03:13:02.373408+00:00,sim128a[9535]:,chat,6,220.245.52.25,Client#22,5,Borella Moveables,a-trains @ vsville - i was away for 1.5 days - so lots happened! im currently upgrading all my towns 1 by 1
+2012-09-09T03:13:13.619452+00:00,sim128a[9535]:,disconnect,6,220.245.52.25,Client#22
+2012-09-09T03:15:03.609377+00:00,sim128a[9535]:,connect,6,220.245.52.25,Client#22
+2012-09-09T03:15:26.978755+00:00,sim128a[9535]:,disconnect,6,220.245.52.25,Client#22
+2012-09-09T03:16:53.637385+00:00,sim128a[9535]:,connect,6,220.245.52.25,Client#22
+2012-09-09T03:17:17.359693+00:00,sim128a[9535]:,chat,6,220.245.52.25,Client#22,5,Borella Moveables,thx RF&P for not crowing vancouver anymore :P
+2012-09-09T03:17:59.647499+00:00,sim128a[9535]:,disconnect,6,220.245.52.25,Client#22
+2012-09-09T03:19:09.750803+00:00,sim128a[9535]:,connect,6,220.245.52.25,Client#22
+2012-09-09T03:30:13.273117+00:00,sim128a[9535]:,chat,5,69.138.176.94,Fifty,12,RF&P,"Yes, it was a mess :)"
+2012-09-09T03:30:28.108937+00:00,sim128a[9535]:,chat,6,220.245.52.25,Client#22,5,Borella Moveables,it was fine until u added more cars :P but all good now
+2012-09-09T03:30:36.281361+00:00,sim128a[9535]:,disconnect,5,69.138.176.94,Fifty
+2012-09-09T03:34:23.642778+00:00,sim128a[9535]:,disconnect,6,220.245.52.25,Client#22
+2012-09-09T03:34:43.709322+00:00,sim128a[9535]:,connect,5,220.245.52.25,Client#22
+2012-09-09T03:46:45.321429+00:00,sim128a[9535]:,disconnect,5,220.245.52.25,Client#22
+2012-09-09T03:47:07.549061+00:00,sim128a[9535]:,connect,5,220.245.52.25,Client#22
+2012-09-09T04:10:14.035537+00:00,sim128a[9535]:,disconnect,5,220.245.52.25,Client#22
+2012-09-09T04:10:36.092234+00:00,sim128a[9535]:,connect,5,220.245.52.25,Client#22
+2012-09-09T04:23:24.619262+00:00,sim128a[9535]:,disconnect,5,220.245.52.25,Client#22
+2012-09-09T04:34:03.581352+00:00,sim128a[9535]:,connect,5,114.79.29.52,Client#6
+2012-09-09T04:42:39.120485+00:00,sim128a[9535]:,connect,6,106.3.63.178,fantix
+2012-09-09T04:44:39.650969+00:00,sim128a[9535]:,disconnect,5,114.79.29.52,Client#6
+2012-09-09T04:45:59.322327+00:00,sim128a[9535]:,connect,5,114.79.29.52,Client#6
+2012-09-09T04:47:55.734478+00:00,sim128a[9535]:,disconnect,5,114.79.29.52,Client#6
+2012-09-09T04:49:40.480883+00:00,sim128a[9535]:,connect,5,114.79.29.52,Client#6
+2012-09-09T04:54:28.195233+00:00,sim128a[9535]:,connect,7,78.128.195.151,Jan
+2012-09-09T04:54:28.290658+00:00,sim128a[9535]:,disconnect,6,106.3.63.178,fantix
+2012-09-09T04:56:34.367322+00:00,sim128a[9535]:,disconnect,5,114.79.29.52,Client#6
+2012-09-09T04:57:48.939743+00:00,sim128a[9535]:,connect,5,114.79.29.52,Client#6
+2012-09-09T04:59:19.070218+00:00,sim128a[9535]:,disconnect,4,91.16.63.212,Jaridan
+2012-09-09T05:07:48.031027+00:00,sim128a[9535]:,disconnect,7,78.128.195.151,Jan
+2012-09-09T05:07:57.466585+00:00,sim128a[9535]:,disconnect,5,114.79.29.52,Client#6
+2012-09-09T05:08:54.205675+00:00,sim128a[9535]:,connect,4,114.79.29.52,Client#6
+2012-09-09T05:23:04.748049+00:00,sim128a[9535]:,connect,5,91.16.75.140,Jaridan
+2012-09-09T05:29:57.198559+00:00,sim128a[9535]:,disconnect,4,114.79.29.52,Client#6
+2012-09-09T05:31:11.161425+00:00,sim128a[9535]:,connect,4,114.79.29.52,Client#6
+2012-09-09T05:49:03.453249+00:00,sim128a[9535]:,disconnect,4,114.79.29.52,Client#6
+2012-09-09T05:50:31.800264+00:00,sim128a[9535]:,connect,4,114.79.29.52,Client#6
+2012-09-09T05:58:02.332147+00:00,sim128a[9535]:,connect,6,92.149.244.142,Client#5
+2012-09-09T06:02:50.111488+00:00,sim128a[9535]:,connect,7,80.101.227.10,rikrunner
+2012-09-09T06:04:09.522256+00:00,sim128a[9535]:,disconnect,4,114.79.29.52,Client#6
+2012-09-09T06:05:46.519434+00:00,sim128a[9535]:,connect,4,114.79.29.52,Client#6
+2012-09-09T06:07:23.571897+00:00,sim128a[9535]:,disconnect,7,80.101.227.10,rikrunner
+2012-09-09T06:11:12.370094+00:00,sim128a[9535]:,disconnect,4,114.79.29.52,Client#6
+2012-09-09T06:12:57.759766+00:00,sim128a[9535]:,connect,4,114.79.29.52,Client#6
+2012-09-09T06:15:51.128691+00:00,sim128a[9535]:,disconnect,4,114.79.29.52,Client#6
+2012-09-09T06:17:27.196164+00:00,sim128a[9535]:,connect,4,114.79.29.52,Client#6
+2012-09-09T06:20:26.169076+00:00,sim128a[9535]:,disconnect,4,114.79.29.52,Client#6
+2012-09-09T06:21:48.668990+00:00,sim128a[9535]:,connect,4,114.79.29.52,Client#6
+2012-09-09T06:22:44.639561+00:00,sim128a[9535]:,disconnect,4,114.79.29.52,Client#6
+2012-09-09T06:24:26.916810+00:00,sim128a[9535]:,connect,4,114.79.29.52,Client#6
+2012-09-09T06:25:17.568372+00:00,sim128a[9535]:,disconnect,4,114.79.29.52,Client#6
+2012-09-09T06:26:59.150912+00:00,sim128a[9535]:,connect,4,114.79.29.52,Client#6
+2012-09-09T06:27:46.481670+00:00,sim128a[9535]:,disconnect,4,114.79.29.52,Client#6
+2012-09-09T06:29:57.627978+00:00,sim128a[9535]:,connect,4,114.79.29.150,Client#6
+2012-09-09T06:30:57.162061+00:00,sim128a[9535]:,disconnect,4,114.79.29.150,Client#6
+2012-09-09T06:34:40.323917+00:00,sim128a[9535]:,connect,4,114.79.29.150,Client#6
+2012-09-09T06:37:50.934806+00:00,sim128a[9535]:,disconnect,4,114.79.29.150,Client#6
+2012-09-09T06:39:07.788215+00:00,sim128a[9535]:,connect,4,114.79.29.150,Client#6
+2012-09-09T06:40:08.318642+00:00,sim128a[9535]:,disconnect,4,114.79.29.150,Client#6
+2012-09-09T06:41:28.146721+00:00,sim128a[9535]:,connect,4,114.79.29.150,Client#6
+2012-09-09T06:43:13.359536+00:00,sim128a[9535]:,connect,7,80.101.227.10,rikrunner
+2012-09-09T06:45:14.051408+00:00,sim128a[9535]:,disconnect,4,114.79.29.150,Client#6
+2012-09-09T06:45:34.047036+00:00,sim128a[9535]:,disconnect,7,80.101.227.10,rikrunner
+2012-09-09T07:02:49.724068+00:00,sim128a[9535]:,connect,4,114.79.28.209,Client#4
+2012-09-09T07:08:10.024489+00:00,sim128a[9535]:,connect,7,80.101.227.10,rikrunner
+2012-09-09T07:27:19.036236+00:00,sim128a[9535]:,disconnect,6,92.149.244.142,Client#5
+2012-09-09T07:51:17.860186+00:00,sim128a[9535]:,connect,6,90.15.4.80,Fr-N
+2012-09-09T07:56:49.549663+00:00,sim128a[9535]:,disconnect,6,90.15.4.80,Fr-N
+2012-09-09T08:01:25.552184+00:00,sim128a[9535]:,disconnect,5,91.16.75.140,Jaridan
+2012-09-09T08:06:02.351120+00:00,sim128a[9535]:,disconnect,7,80.101.227.10,rikrunner
+2012-09-09T08:09:01.028203+00:00,sim128a[9535]:,connect,5,80.101.227.10,rikrunner
+2012-09-09T08:17:57.240419+00:00,sim128a[9535]:,disconnect,4,114.79.28.209,Client#4
+2012-09-09T08:18:20.279358+00:00,sim128a[9535]:,connect,4,114.79.28.209,Client#4
+2012-09-09T08:40:16.852837+00:00,sim128a[9535]:,disconnect,5,80.101.227.10,rikrunner
+2012-09-09T09:03:24.569360+00:00,sim128a[9535]:,connect,5,90.172.104.128,Client#8
+2012-09-09T09:06:54.779410+00:00,sim128a[9535]:,disconnect,5,90.172.104.128,Client#8
+2012-09-09T09:31:57.087329+00:00,sim128a[9535]:,connect,5,92.149.244.142,Client#5
+2012-09-09T09:40:10.526719+00:00,sim128a[9535]:,connect,6,78.128.195.151,Jan
+2012-09-09T09:52:22.575200+00:00,sim128a[9535]:,disconnect,4,114.79.28.209,Client#4
+2012-09-09T09:53:00.573384+00:00,sim128a[9535]:,connect,4,114.79.28.209,Client#4
+2012-09-09T09:54:19.151520+00:00,sim128a[9535]:,connect,7,92.149.244.142,Client#5
+2012-09-09T09:54:19.246475+00:00,sim128a[9535]:,disconnect,5,92.149.244.142,Client#5
+2012-09-09T09:54:20.524927+00:00,sim128a[9535]:,disconnect,4,114.79.28.209,Client#4
+2012-09-09T09:54:52.070376+00:00,sim128a[9535]:,connect,4,114.79.28.209,Client#4
+2012-09-09T09:59:20.885214+00:00,sim128a[9535]:,disconnect,4,114.79.28.209,Client#4
+2012-09-09T09:59:44.335847+00:00,sim128a[9535]:,connect,4,114.79.28.209,Client#4
+2012-09-09T09:59:59.625389+00:00,sim128a[9535]:,disconnect,7,92.149.244.142,Client#5
+2012-09-09T10:00:24.986623+00:00,sim128a[9535]:,connect,5,92.149.244.142,Client#5
+2012-09-09T10:01:14.277615+00:00,sim128a[9535]:,disconnect,5,92.149.244.142,Client#5
+2012-09-09T10:01:51.993656+00:00,sim128a[9535]:,connect,5,92.149.244.142,Client#5
+2012-09-09T10:03:33.444318+00:00,sim128a[9535]:,disconnect,5,92.149.244.142,Client#5
+2012-09-09T10:04:04.134490+00:00,sim128a[9535]:,connect,5,92.149.244.142,Client#5
+2012-09-09T10:07:11.784827+00:00,sim128a[9535]:,disconnect,5,92.149.244.142,Client#5
+2012-09-09T10:09:56.107549+00:00,sim128a[9535]:,disconnect,4,114.79.28.209,Client#4
+2012-09-09T10:10:18.004657+00:00,sim128a[9535]:,connect,4,114.79.28.209,Client#4
+2012-09-09T10:22:30.293220+00:00,sim128a[9535]:,disconnect,4,114.79.28.209,Client#4
+2012-09-09T10:29:40.788548+00:00,sim128a[9535]:,connect,4,91.16.75.140,Jaridan
+2012-09-09T10:54:36.577535+00:00,sim128a[9535]:,connect,5,92.149.244.142,Client#5
+2012-09-09T10:59:12.189469+00:00,sim128a[9535]:,disconnect,5,92.149.244.142,Client#5
+2012-09-09T10:59:35.324163+00:00,sim128a[9535]:,connect,5,92.149.244.142,Client#5
+2012-09-09T10:59:49.894326+00:00,sim128a[9535]:,disconnect,4,91.16.75.140,Jaridan
+2012-09-09T11:03:58.539681+00:00,sim128a[9535]:,disconnect,5,92.149.244.142,Client#5
+2012-09-09T11:04:21.080277+00:00,sim128a[9535]:,connect,4,92.149.244.142,Client#5
+2012-09-09T11:05:40.169778+00:00,sim128a[9535]:,disconnect,4,92.149.244.142,Client#5
+2012-09-09T11:06:00.796204+00:00,sim128a[9535]:,connect,4,92.149.244.142,Client#5
+2012-09-09T11:09:32.926545+00:00,sim128a[9535]:,disconnect,4,92.149.244.142,Client#5
+2012-09-09T12:20:47.206866+00:00,sim128a[9535]:,connect,4,91.16.75.140,Jaridan
+2012-09-09T12:30:18.095668+00:00,sim128a[9535]:,connect,5,78.128.195.151,Jan
+2012-09-09T12:30:18.231296+00:00,sim128a[9535]:,disconnect,6,78.128.195.151,Jan
+2012-09-09T12:34:34.707208+00:00,sim128a[9535]:,disconnect,5,78.128.195.151,Jan
+2012-09-09T13:06:25.640836+00:00,sim128a[9535]:,connect,5,81.201.60.157,Client#5
+2012-09-09T13:08:41.262232+00:00,sim128a[9535]:,namechange,5,81.201.60.157,Client#5,ady
+2012-09-09T13:09:10.090998+00:00,sim128a[9535]:,disconnect,5,81.201.60.157,ady
+2012-09-09T14:11:01.046690+00:00,sim128a[9535]:,connect,5,92.149.244.142,Client#5
+2012-09-09T14:27:04.421669+00:00,sim128a[9535]:,connect,6,78.128.195.151,Jan
+2012-09-09T14:28:51.275411+00:00,sim128a[9535]:,disconnect,6,78.128.195.151,Jan
+2012-09-09T14:39:17.487119+00:00,sim128a[9535]:,connect,6,98.251.79.180,Client#6
+2012-09-09T14:57:49.038799+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,who's online now?
+2012-09-09T15:00:05.340587+00:00,sim128a[9535]:,disconnect,4,91.16.75.140,Jaridan
+2012-09-09T15:00:18.609754+00:00,sim128a[9535]:,chat,5,92.149.244.142,Client#5,8,Helloworld Ltd,hi Atrain
+2012-09-09T15:00:31.451133+00:00,sim128a[9535]:,chat,5,92.149.244.142,Client#5,8,Helloworld Ltd,I'm about to logoff
+2012-09-09T15:00:33.835810+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"hi, I removed that hovering stop"
+2012-09-09T15:00:44.096801+00:00,sim128a[9535]:,chat,5,92.149.244.142,Client#5,8,Helloworld Ltd,ok I try now
+2012-09-09T15:00:45.430363+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,can you check one location?  oh and I powered your meat factory
+2012-09-09T15:01:05.352986+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"(317,117)  got any ideas?"
+2012-09-09T15:01:14.024615+00:00,sim128a[9535]:,chat,5,92.149.244.142,Client#5,8,Helloworld Ltd,done the public
+2012-09-09T15:01:39.712179+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,public worked :)  thanks
+2012-09-09T15:02:13.247333+00:00,sim128a[9535]:,chat,5,92.149.244.142,Client#5,8,Helloworld Ltd,"what you did at 311, 117 is a little selfish"
+2012-09-09T15:02:21.827383+00:00,sim128a[9535]:,chat,5,92.149.244.142,Client#5,8,Helloworld Ltd,but oh well :)
+2012-09-09T15:02:42.034952+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,maybe I could ask borella
+2012-09-09T15:04:07.565397+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"oh, like you wanting me to destroy my huge station last game so you can build a road? :("
+2012-09-09T15:05:30.338826+00:00,sim128a[9535]:,chat,5,92.149.244.142,Client#5,8,Helloworld Ltd,your huge station was killing 3 of my lines and jaming half the map
+2012-09-09T15:05:45.503963+00:00,sim128a[9535]:,chat,5,92.149.244.142,Client#5,8,Helloworld Ltd,but anyway no big deal :)
+2012-09-09T15:06:13.433156+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,I built you roads over it just like you needed and would have built you more if you needed
+2012-09-09T15:06:37.510272+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,I realize you can't build roads over other people's stations (a bug in the game for some reason)
+2012-09-09T15:07:30.314766+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"anyways, at this point, let me say I'm sorry for getting upset... it's not good to go on like this"
+2012-09-09T15:07:49.176696+00:00,sim128a[9535]:,disconnect,5,92.149.244.142,Client#5
+2012-09-09T15:08:08.759968+00:00,sim128a[9535]:,connect,4,92.149.244.142,Client#5
+2012-09-09T15:08:41.340862+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,sorry for what I said (read chat history)... don't want you to leave where I upset you
+2012-09-09T15:11:48.730614+00:00,sim128a[9535]:,disconnect,4,92.149.244.142,Client#5
+2012-09-09T15:12:10.184789+00:00,sim128a[9535]:,connect,4,92.149.244.142,Client#5
+2012-09-09T15:14:08.762419+00:00,sim128a[9535]:,chat,4,92.149.244.142,Client#5,15,,see you later .... and thanks for the power
+2012-09-09T15:14:19.744464+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,did you get my 2 messages?
+2012-09-09T15:14:31.189850+00:00,sim128a[9535]:,chat,4,92.149.244.142,Client#5,8,Helloworld Ltd,about you being sorry ?
+2012-09-09T15:14:39.835322+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,yeah apologizing?
+2012-09-09T15:15:20.494646+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"anyways, sorry about that (hope you saw my other 2 messages)"
+2012-09-09T15:15:22.204322+00:00,sim128a[9535]:,chat,4,92.149.244.142,Client#5,8,Helloworld Ltd,yeah ... I'm not sure I understand what you talk about but just don't worry ok ? it's a game :)
+2012-09-09T15:15:54.781786+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"yeah, but I dont want you to be upset, so just wanted to say sorry ok? :)"
+2012-09-09T15:16:45.907024+00:00,sim128a[9535]:,chat,4,92.149.244.142,Client#5,8,Helloworld Ltd,ok lol :)
+2012-09-09T15:16:55.370277+00:00,sim128a[9535]:,chat,4,92.149.244.142,Client#5,8,Helloworld Ltd,see you later !
+2012-09-09T15:17:01.237732+00:00,sim128a[9535]:,disconnect,4,92.149.244.142,Client#5
+2012-09-09T15:17:02.339201+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"bye "
+2012-09-09T15:20:50.172813+00:00,sim128a[9535]:,connect,4,91.16.75.140,Jaridan
+2012-09-09T15:36:07.219893+00:00,sim128a[9535]:,disconnect,6,98.251.79.180,Client#6
+2012-09-09T15:36:28.427814+00:00,sim128a[9535]:,connect,5,98.251.79.180,Client#6
+2012-09-09T15:44:40.558896+00:00,sim128a[9535]:,connect,6,92.149.244.142,Client#5
+2012-09-09T15:50:29.249930+00:00,sim128a[9535]:,connect,7,82.202.65.26,Client#7
+2012-09-09T15:53:09.747150+00:00,sim128a[9535]:,connect,8,90.15.4.80,Fr-N
+2012-09-09T15:55:39.636052+00:00,sim128a[9535]:,disconnect,8,90.15.4.80,Fr-N
+2012-09-09T15:56:52.762773+00:00,sim128a[9535]:,disconnect,7,82.202.65.26,Client#7
+2012-09-09T16:01:33.340733+00:00,sim128a[9535]:,connect,7,82.202.65.26,Hanz
+2012-09-09T16:01:46.428187+00:00,sim128a[9535]:,disconnect,7,82.202.65.26,Hanz
+2012-09-09T16:01:48.726386+00:00,sim128a[9535]:,chat,5,98.251.79.180,Client#6,10,A-Train,"hi Hanz, which account are you?"
+2012-09-09T16:12:13.791442+00:00,sim128a[9535]:,disconnect,6,92.149.244.142,Client#5
+2012-09-09T16:36:53.588244+00:00,sim128a[9535]:,connect,6,117.207.178.67,unni
+2012-09-09T16:42:13.435599+00:00,sim128a[9535]:,chat,4,91.16.75.140,Jaridan,9,German Transports,maybe he's shy :P
+2012-09-09T16:44:34.030204+00:00,sim128a[9535]:,chat,5,98.251.79.180,Client#6,10,A-Train,hi
+2012-09-09T16:54:02.026902+00:00,sim128a[9535]:,disconnect,6,117.207.178.67,unni
+2012-09-09T16:55:41.520902+00:00,sim128a[9535]:,disconnect,5,98.251.79.180,Client#6
+2012-09-09T16:57:23.103775+00:00,sim128a[9535]:,connect,5,90.15.4.80,Fr-N
+2012-09-09T16:57:53.470268+00:00,sim128a[9535]:,disconnect,5,90.15.4.80,Fr-N
+2012-09-09T17:34:46.319994+00:00,sim128a[9535]:,chat,4,91.16.75.140,Jaridan,9,German Transports,yo
+2012-09-09T17:35:02.102603+00:00,sim128a[9535]:,chat,4,91.16.75.140,Jaridan,9,German Transports,afk now for a bit
+2012-09-09T17:46:47.566226+00:00,sim128a[9535]:,disconnect,4,91.16.75.140,Jaridan
+2012-09-09T17:46:56.618957+00:00,sim128a[9535]:,connect,5,78.128.195.151,Jan
+2012-09-09T17:47:31.029787+00:00,sim128a[9535]:,disconnect,5,78.128.195.151,Jan
+2012-09-09T18:24:31.024909+00:00,sim128a[9535]:,connect,4,91.16.75.140,Jaridan
+2012-09-09T18:26:49.334637+00:00,sim128a[9535]:,connect,5,78.128.195.151,Jan
+2012-09-09T18:30:35.064778+00:00,sim128a[9535]:,disconnect,5,78.128.195.151,Jan
+2012-09-09T19:06:22.952603+00:00,sim128a[9535]:,connect,5,80.121.83.95,Client#7
+2012-09-09T19:10:47.109095+00:00,sim128a[9535]:,disconnect,4,91.16.75.140,Jaridan
+2012-09-09T19:12:56.833262+00:00,sim128a[9535]:,disconnect,5,80.121.83.95,Client#7
+2012-09-09T19:13:11.573249+00:00,sim128a[9535]:,connect,4,92.149.244.142,Client#5
+2012-09-09T19:15:53.664030+00:00,sim128a[9535]:,disconnect,4,92.149.244.142,Client#5
+2012-09-09T19:16:32.191108+00:00,sim128a[9535]:,connect,4,92.149.244.142,Client#5
+2012-09-09T19:22:01.287665+00:00,sim128a[9535]:,disconnect,4,92.149.244.142,Client#5
+2012-09-09T19:22:34.066527+00:00,sim128a[9535]:,connect,4,92.149.244.142,Client#5
+2012-09-09T19:23:24.106193+00:00,sim128a[9535]:,disconnect,4,92.149.244.142,Client#5
+2012-09-09T19:23:49.663241+00:00,sim128a[9535]:,connect,5,92.149.244.142,Client#5
+2012-09-09T19:25:31.950852+00:00,sim128a[9535]:,connect,4,114.79.28.209,Client#4
+2012-09-09T19:25:34.999290+00:00,sim128a[9535]:,disconnect,5,92.149.244.142,Client#5
+2012-09-09T19:28:05.094199+00:00,sim128a[9535]:,connect,5,91.16.75.140,Jaridan
+2012-09-09T20:18:33.386526+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,anyoneo on right now?
+2012-09-09T20:19:25.972681+00:00,sim128a[9535]:,chat,4,114.79.28.209,Client#4,7,PSK & Co KG,yes
+2012-09-09T20:20:27.647530+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,are you building something atm?
+2012-09-09T20:21:39.286831+00:00,sim128a[9535]:,chat,4,114.79.28.209,Client#4,7,PSK & Co KG,just looking around right now.
+2012-09-09T20:21:50.335402+00:00,sim128a[9535]:,chat,4,114.79.28.209,Client#4,7,PSK & Co KG,trying to find what i can do
+2012-09-09T20:33:38.979972+00:00,sim128a[9535]:,connect,6,78.128.195.151,Jan
+2012-09-09T20:37:51.511014+00:00,sim128a[9535]:,disconnect,6,78.128.195.151,Jan
+2012-09-09T20:38:43.726023+00:00,sim128a[9535]:,connect,6,92.149.244.142,Client#5
+2012-09-09T20:39:35.738056+00:00,sim128a[9535]:,disconnect,6,92.149.244.142,Client#5
+2012-09-09T20:39:59.212927+00:00,sim128a[9535]:,connect,6,92.149.244.142,Client#5
+2012-09-09T20:42:50.426174+00:00,sim128a[9535]:,disconnect,4,114.79.28.209,Client#4
+2012-09-09T20:43:19.260715+00:00,sim128a[9535]:,connect,4,114.79.28.209,Client#4
+2012-09-09T20:46:04.471895+00:00,sim128a[9535]:,disconnect,6,92.149.244.142,Client#5
+2012-09-09T20:46:24.264836+00:00,sim128a[9535]:,connect,6,92.149.244.142,Client#5
+2012-09-09T20:47:54.232753+00:00,sim128a[9535]:,disconnect,6,92.149.244.142,Client#5
+2012-09-09T20:54:41.018959+00:00,sim128a[9535]:,connect,6,85.54.129.132,Client#6
+2012-09-09T20:58:14.148910+00:00,sim128a[9535]:,disconnect,4,114.79.28.209,Client#4
+2012-09-09T21:02:14.352664+00:00,sim128a[9535]:,connect,4,92.149.244.142,Client#5
+2012-09-09T21:03:20.090023+00:00,sim128a[9535]:,disconnect,4,92.149.244.142,Client#5
+2012-09-09T21:06:11.439283+00:00,sim128a[9535]:,connect,4,92.149.244.142,Client#5
+2012-09-09T21:07:04.171544+00:00,sim128a[9535]:,disconnect,4,92.149.244.142,Client#5
+2012-09-09T21:07:54.568944+00:00,sim128a[9535]:,connect,4,92.149.244.142,Client#5
+2012-09-09T21:09:40.337992+00:00,sim128a[9535]:,disconnect,4,92.149.244.142,Client#5
+2012-09-09T21:19:08.660103+00:00,sim128a[9535]:,disconnect,6,85.54.129.132,Client#6
+2012-09-09T21:19:24.365297+00:00,sim128a[9535]:,connect,4,85.54.129.132,Client#6
+2012-09-09T22:19:30.216000+00:00,sim128a[9535]:,disconnect,4,85.54.129.132,Client#6
+2012-09-09T22:20:21.986663+00:00,sim128a[9535]:,connect,4,85.54.129.132,Client#6
+2012-09-09T22:21:12.003018+00:00,sim128a[9535]:,disconnect,4,85.54.129.132,Client#6
+2012-09-09T22:21:33.880884+00:00,sim128a[9535]:,connect,4,85.54.129.132,Client#6
+2012-09-09T22:32:58.333616+00:00,sim128a[9535]:,disconnect,5,91.16.75.140,Jaridan
+2012-09-09T22:33:14.410186+00:00,sim128a[9535]:,connect,5,91.16.75.140,Jaridan
+2012-09-09T22:43:15.051105+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"and, found anyhing yet?^^"
+2012-09-09T22:53:26.537841+00:00,sim128a[9535]:,disconnect,5,91.16.75.140,Jaridan
+2012-09-09T22:53:42.605315+00:00,sim128a[9535]:,connect,5,91.16.75.140,Jaridan
+2012-09-09T23:05:44.335483+00:00,sim128a[9535]:,connect,6,98.251.79.180,Client#6
+2012-09-09T23:07:18.838474+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,jaridan?
+2012-09-09T23:10:01.029322+00:00,sim128a[9535]:,disconnect,4,85.54.129.132,Client#6
+2012-09-09T23:16:18.240665+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,whos' here?
+2012-09-09T23:20:01.408742+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,15,,i am
+2012-09-09T23:20:13.108068+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,hi!!!!!! :)
+2012-09-09T23:20:17.581700+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,hi :/
+2012-09-09T23:20:52.071858+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"pretty pissed atm, someone is using 2 players to screw around with passengers in my city in pak64"
+2012-09-09T23:21:08.153068+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"oh, tell me more about it"
+2012-09-09T23:21:23.124857+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"also looks like when he played he dislocated the public streets between my cities "
+2012-09-09T23:21:41.010473+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,he recreated them but didnt make em public so its kinda obvious
+2012-09-09T23:21:53.267004+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,and its nowhere where he build anything
+2012-09-09T23:21:56.036665+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,if he is stealing passengers by copying your line you can get them back by shortening the number of stops sometimes
+2012-09-09T23:22:09.001935+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"if you can do it in 2 stops and he takes 3, you will get all the passengers back"
+2012-09-09T23:22:32.586799+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,well a lot of em are small towns where i coped it into 1 stop
+2012-09-09T23:22:40.291408+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"I see... that's an odd one..  "
+2012-09-09T23:23:00.729442+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"I've seen players sometimes build weird stuff on maps, but never try to mess up roads"
+2012-09-09T23:23:11.081515+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"and its pretty obvious someone wants to mess with me, because the 2 extraslot players that built in my cities built always right besides my stops"
+2012-09-09T23:23:29.379271+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"not in another part of the town, and ive been lazy so my towns have been growing"
+2012-09-09T23:23:39.452065+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,although I have tried to bankrupt players that stopped playing after a long time (and maybe free the account eventually)
+2012-09-09T23:23:48.830650+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"well, if u got time hop pak64 and chose server b"
+2012-09-09T23:23:56.333518+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,its kinda funny
+2012-09-09T23:24:15.534617+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,cause he also used new roads which are way more flashy than the normal public roads
+2012-09-09T23:24:22.439186+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"uh, there is a guy called canuk, he playes on one of the pak64 servers; he tried here for a short while"
+2012-09-09T23:24:50.761090+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"y i saw him, even though he went bankrupt, i dont think he really wanted to mess with you"
+2012-09-09T23:25:15.835384+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"oh, yeah, I sent him a message and offered to help him out, but he said he has a good game on pak64"
+2012-09-09T23:25:24.868500+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"only annoying thing, the blue slot player went bankrupt while the second one covers a lot more and makes a small profit.-.-"
+2012-09-09T23:25:52.778844+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"tbh i like pak 128 more, the ppl are active atleast"
+2012-09-09T23:26:00.762103+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"question, do you want me to connect (371,190)>"
+2012-09-09T23:26:14.202418+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,yup
+2012-09-09T23:26:18.767508+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,pls do so
+2012-09-09T23:26:20.416488+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,well the last pak128 was not as active as this one is... this one is much better :)
+2012-09-09T23:26:54.959563+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,im gonna ask fifty/ rf&p if you should connect the brewery near the glass mill aswell
+2012-09-09T23:27:01.645231+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,seeing as it's maxed out
+2012-09-09T23:27:14.976125+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,what coord?
+2012-09-09T23:27:42.488725+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"cause, funny, i didnt see the brewery was maxed out with stuff, and was wondering why the glass mill never had any sand, so i thought i would help him by shipping sand aswell "
+2012-09-09T23:27:54.956276+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"(324,193)"
+2012-09-09T23:27:56.336337+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"the power system has a lot of extra at the moment, so I can connect stuff"
+2012-09-09T23:28:21.530852+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,did you read my note?
+2012-09-09T23:28:51.537083+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"hmm, that brewery, if you click on the ""supermarket"" in the chain you will see it is mostly geting all it needs, but it could use a little more I guess"
+2012-09-09T23:29:04.096727+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,where's teh note?
+2012-09-09T23:29:46.126391+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,does the supermarkts max number go up aswell if you connect it to power?
+2012-09-09T23:29:58.335395+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"maybe I should talk to borella first, he has power right next to it"
+2012-09-09T23:29:59.377712+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,the note's at the start lol :S
+2012-09-09T23:30:17.686631+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,do this
+2012-09-09T23:30:38.857960+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"click on any factory/supermarket... then ""chart""  .... then ""production/boost"""
+2012-09-09T23:31:00.834748+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"it shows you which items ""can"" boost production and also if they are boosting it now"
+2012-09-09T23:31:26.642394+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"actually, the little icons next to where it says ""Max. 1,012 units/month"" shows which items boost it right there too"
+2012-09-09T23:34:12.776200+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,make sense?
+2012-09-09T23:34:18.562283+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,doing all the time
+2012-09-09T23:36:28.486621+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,":) can you delete (345,386) ?  :)"
+2012-09-09T23:38:11.231248+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,no
+2012-09-09T23:38:16.733724+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,i luv it so much
+2012-09-09T23:38:26.757873+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,done D:
+2012-09-09T23:38:32.243246+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"thanks, you can build it back now if you want"
+2012-09-09T23:38:38.155640+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,yay :D
+2012-09-09T23:39:10.550648+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"sry was busy, dislocated all his towns "
+2012-09-09T23:39:19.615447+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,I got a incinerator hooked up... just need to ship garbage to it and it should add more power :)
+2012-09-09T23:39:24.058916+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"if ppl wanna mess they can have it, it's his smurf anywqay<"
+2012-09-09T23:39:36.673185+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,i call a load of BS
+2012-09-09T23:39:39.435933+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,:D
+2012-09-09T23:39:47.395822+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,literally lol xD
+2012-09-09T23:39:49.693155+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,leave him messages....  sometimes it really just is a mistake or people not knowing how to play
+2012-09-09T23:39:57.034181+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,i dont thing
+2012-09-09T23:39:57.888796+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,add a bunch of signs in his areas
+2012-09-09T23:40:32.485431+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"* i dont think, buildiing in EVERY town of the map is not knowing how to play, also the guy running meyer moving company always did roads nearby"
+2012-09-09T23:40:57.018827+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"meyer, that sounds familiar for some reasons"
+2012-09-09T23:41:14.878677+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"i also left a message in chat for that certain company to remove his stops in my city, and seeing as he was online, yet not responding idk"
+2012-09-09T23:41:33.393785+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"like i said, the ppl in pak 128 seem a lot cooler and nicer than in the pak 64b"
+2012-09-09T23:41:41.268939+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"no one's talking there "
+2012-09-09T23:41:50.494185+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"use some signs too, if he's new he might not know about chat... also chat disappears after a while"
+2012-09-09T23:42:34.437838+00:00,sim128a[9535]:,connect,4,122.148.146.34,moblet
+2012-09-09T23:42:43.073190+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"well its a stop'n'goi server, even my chat from 3-5 days ago is still visible"
+2012-09-09T23:45:35.620520+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"oh well, you know i dont really care it's just childish and all"
+2012-09-09T23:46:04.706466+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,was planning to catch up there by redoing/expanding my pax to cover what has come over the last few days
+2012-09-09T23:46:22.637310+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,but don't really feel up to it when there are stops that i cant go around/delete
+2012-09-09T23:46:40.591261+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"yeah, that's usually why the don't build passenger & mail in same city as another player is a good rule"
+2012-09-09T23:46:54.390455+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,its dumb anyway
+2012-09-09T23:47:09.903963+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,unless it's a big city and the goal is to play co-op
+2012-09-09T23:47:46.457699+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"btw, are we able to found cities?"
+2012-09-09T23:48:13.184544+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"yeah, but you still got that city you ask me about yesterday"
+2012-09-09T23:48:28.731556+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,y i know
+2012-09-09T23:48:40.648239+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"was lazy, i built a car chain today though :P"
+2012-09-09T23:48:44.315533+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,hillsdale... and I see you got new era to build too :)
+2012-09-09T23:48:52.631812+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,new era?
+2012-09-09T23:49:03.717755+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,x new era
+2012-09-09T23:49:10.212170+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,ah y
+2012-09-09T23:49:28.592515+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"that one got surprisingly big like the others, even though i didn't really invest into it"
+2012-09-09T23:49:35.354532+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,which is kinda surprising
+2012-09-09T23:50:09.759901+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"i like coal sludge the most atm, looks so quadratic xD"
+2012-09-09T23:50:53.439060+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"btw, if you want the city to go dense, stop it from growing outward and vice versa"
+2012-09-09T23:52:19.394894+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,see the word dense -> dict.cc -> ??? -> profit xD didn't know dense could mean thick/compact aswell lol
+2012-09-09T23:52:39.604465+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"y, that's what i'm planning to do"
+2012-09-09T23:53:18.486265+00:00,sim128a[9535]:,disconnect,4,122.148.146.34,moblet
+2012-09-09T23:54:08.562554+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"does the city still ""grow""  if you turn growing off?"
+2012-09-09T23:54:18.068293+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,I'm guessing not
+2012-09-09T23:54:30.199498+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,or do i need to force it not to be able to grow through duo-tracks?
+2012-09-09T23:54:33.738720+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,just make sure there's no roads it can grow more buildings
+2012-09-09T23:54:39.916217+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,look at city limits
+2012-09-09T23:55:14.556500+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,all you need is some track next to any roads at the edge of city limits so it won't build a house next to road (it only builds next to road)
+2012-09-09T23:55:49.933062+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,no 400km trains yet
+2012-09-09T23:56:12.810041+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,kinda envy your big cities xD
+2012-09-09T23:56:31.262605+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"well, coal sludge got caged :P"
+2012-09-09T23:56:50.547954+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,mine?  I only got like 4 cities + 2 really small I havne't connected yet
+2012-09-09T23:57:08.199170+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,y but one has 40k easy money^^
+2012-09-09T23:57:33.639435+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"oh ... well you can always pick your biggest city, then make sure"
+2012-09-09T23:57:48.984629+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,you connect all nearby factories that say workers are from that city
+2012-09-09T23:58:06.831516+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,and transport passenger AND mail very fast out of the city (no backups)
+2012-09-09T23:58:13.685328+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"omfg xD one of my busline's is stuck cause of a blue bus, whereas the blue guy is bankrupt anyway-.-"
+2012-09-09T23:58:14.832699+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,the more you transport the fast it grows
+2012-09-09T23:58:44.115618+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,what do you mean by no backups?
+2012-09-09T23:59:00.867913+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,don't let passengers wait and fill up your stations... transport them away as fast as you can
+2012-09-09T23:59:16.188871+00:00,sim128a[9535]:,chat,5,91.16.75.140,Jaridan,9,German Transports,"ah, y"
+2012-09-09T23:59:20.116263+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,because cities grow based on how many passengers you transport
+2012-09-09T23:59:59.385879+00:00,sim128a[9535]:,chat,6,98.251.79.180,Client#6,10,A-Train,"if they backup at your midway stations, that's ok, it's only the first station that matters I think?  or maybe you have to get them to destination?"

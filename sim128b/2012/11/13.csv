@@ -1,0 +1,272 @@
+2012-11-13T00:00:35.650876+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,<3 my second loop went from  ~30%usage to ~50%
+2012-11-13T00:00:50.357444+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"and my mainloop i 95+... "
+2012-11-13T00:01:10.794141+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,i mean my pax loops
+2012-11-13T00:01:10.811341+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,those short trains probably don't handle a big load :(
+2012-11-13T00:01:17.771736+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,?
+2012-11-13T00:01:31.848234+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,you have big mail backlogs I think (last I checked you did)
+2012-11-13T00:02:05.551008+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"y, though i can't add more, i'm more or less at the train maximum, i thought of adding 1 train per (main)loop , to handle mail only"
+2012-11-13T00:04:51.542486+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"y, no, the loops look like they are at their maximum, cant really add anything more there, i'm also thinking of how to handle additional pax&mail from the first mainloop...."
+2012-11-13T00:06:08.335385+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"underground rail maybe, with extra platforms aboveground"
+2012-11-13T00:09:43.836118+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"(279,284) how about a public dock for passenger & mail approximately here?"
+2012-11-13T00:10:17.551651+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"maybe you could connect it with a monorail or something else in a loop: ""salford south station - dock -brewery -shopping center"
+2012-11-13T00:10:25.495076+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"ah right, thats what we were talking about before the listing server crashe dright?"
+2012-11-13T00:10:50.101824+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,yeah... btw you can manually enter the address and port to get back in when that happens
+2012-11-13T00:11:14.817311+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"if you google for ""simtrans server list"" there is a page with that info somewhere"
+2012-11-13T00:11:27.608987+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"oh right, forgot about that, though i dont know the address, nor the direct ip (the name is kinda long)"
+2012-11-13T00:11:36.619292+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,ok
+2012-11-13T00:11:51.745966+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,128.simutrans.entropy.me.uk:133354 or something like that
+2012-11-13T00:12:08.102016+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"hmm, I may have the port wrong"
+2012-11-13T00:14:03.901573+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,so... wanna give it a try?
+2012-11-13T00:15:41.041974+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,its
+2012-11-13T00:15:42.777371+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,b.128.simutrans.entropy.me.uk:13354
+2012-11-13T00:16:11.670677+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,holy wtf?
+2012-11-13T00:16:24.379198+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,oh... you can also do 128.simutrans.entropy.me.uk:13354   and maybe even leave off the 128
+2012-11-13T00:16:28.971403+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,look at that new plant that just popped up dafuq?
+2012-11-13T00:16:42.782253+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,it stated on top of that hill
+2012-11-13T00:16:54.765090+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,looks so retarded xD
+2012-11-13T00:18:35.817457+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,y we can
+2012-11-13T00:19:30.893357+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"how will you cross teh water?  "
+2012-11-13T00:20:44.766011+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,like this :P
+2012-11-13T00:21:07.628469+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,are you gonna loop it?  oh. you know you could loop it like....
+2012-11-13T00:21:21.926806+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"y, guess i should"
+2012-11-13T00:21:23.665782+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,train station - dock - brew - supermarket - city hall stop
+2012-11-13T00:22:22.298339+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,or I could put the doc closer to that bridge south of brewery if you wanted to cross there instead
+2012-11-13T00:23:00.168692+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"oh nice, the monorail just goes over water :)"
+2012-11-13T00:24:00.486687+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"in that case you could even put a monorail at (279,282) or something"
+2012-11-13T00:24:39.945580+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,those monorails look like lego bricks...
+2012-11-13T00:25:29.662902+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,the square ones?
+2012-11-13T00:26:29.904819+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"how are you gonna connect the monorail to dock? (278,282)"
+2012-11-13T00:27:17.385474+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,I could make another bridge there?
+2012-11-13T00:28:12.286868+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,-.-
+2012-11-13T00:28:16.935918+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,frigin tool
+2012-11-13T00:31:53.620416+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,is it safe to make the dock public?  should I rename it something?
+2012-11-13T00:32:11.587348+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"you could name it: Dock of awesomeness "
+2012-11-13T00:32:13.627905+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,:D
+2012-11-13T00:33:39.462332+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,will you have mail too or just passenger?
+2012-11-13T00:33:47.928691+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,just pax
+2012-11-13T00:34:59.326227+00:00,sim128b[1451]:,disconnect,2,91.16.76.66,Client#5
+2012-11-13T00:35:17.364791+00:00,sim128b[1451]:,connect,2,91.16.76.66,Client#5
+2012-11-13T00:35:37.265968+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,can you add one of the monorail mail cars?  monorails have mail too
+2012-11-13T00:36:09.842681+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"sorry, it's a separate vehicle"
+2012-11-13T00:36:21.755435+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"look in depot, you can run it with that green one"
+2012-11-13T00:37:06.281382+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,those 2 wont bring in profit for sure :P but w/e fun to have 1 monorail atleast
+2012-11-13T00:37:50.232914+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"the monorail *might* bring in profit.   it's connected to 2 factories, the city hall and me"
+2012-11-13T00:38:24.929195+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"they should so add more monorailtracks , lol then it would be a lot more viable for paxing within a city"
+2012-11-13T00:38:39.854912+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"because they can transport so many pax, compared to ttrams"
+2012-11-13T00:39:14.558502+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"if trams are not high enough capacity you can put trains on the same lines, though they might lose money"
+2012-11-13T00:39:15.982728+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"not to mention they are cheap as fuck, but the maintenance for them is superhigh"
+2012-11-13T00:39:34.952891+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"i know i know, just saying"
+2012-11-13T00:39:43.365172+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,see? profit
+2012-11-13T00:40:50.765735+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"lets wait till the end of the month , that thing is around 100 tiles i think , so thats 7k maint + 500 for stations, so around 7,5k maintenance costs :P"
+2012-11-13T00:47:14.345544+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,i think you should take that water powerplant lol :D
+2012-11-13T00:47:27.036494+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,might as well :)
+2012-11-13T00:47:50.487704+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,it provides a whopping 8MW !!!! :) :(
+2012-11-13T00:48:04.817387+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"hey, those things add up ok?^^"
+2012-11-13T00:48:33.024309+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,have you ever seen one reach it's max?  it says max 232
+2012-11-13T00:48:48.434307+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,not in my lifetime :P
+2012-11-13T00:49:59.027674+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"as i asked before at some point , can you make this go straight? (310,78)"
+2012-11-13T00:50:26.130601+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,that was a loooooong time ago... and we fixed it way back then... what do you need to change?
+2012-11-13T00:50:48.241961+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,i need/want a third 8 tile station
+2012-11-13T00:50:52.118179+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,but i cant...
+2012-11-13T00:51:43.750414+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,would you rather move your high speed line west more?
+2012-11-13T00:52:12.719067+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,then have lots of room for platforms on west side?
+2012-11-13T00:57:23.866168+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"(304,89) tile for tunnel?"
+2012-11-13T00:57:36.702385+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,?
+2012-11-13T00:57:47.689184+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,can you move it over 1 tile?
+2012-11-13T00:58:20.445184+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,yes
+2012-11-13T01:00:31.718000+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"(295,68) mistake?"
+2012-11-13T01:01:07.317271+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"no midtake, just leftover"
+2012-11-13T01:01:12.805104+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,there is also one of those south of gi left over
+2012-11-13T01:01:24.366290+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"i know, idc though"
+2012-11-13T01:02:26.195153+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,thnks
+2012-11-13T01:02:54.712867+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"check this out, the rail I just made naryour tunnel, see it?"
+2012-11-13T01:03:08.983400+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,yeah...?
+2012-11-13T01:03:11.479125+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,use the 2nd to last landscape toole
+2012-11-13T01:03:22.682726+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,it slopes it down just liek raods
+2012-11-13T01:03:31.144594+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,i know that ;)
+2012-11-13T01:03:53.055656+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,thx thogh
+2012-11-13T01:04:19.554113+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,oh.... now you make your platforms?
+2012-11-13T01:04:35.440844+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,?
+2012-11-13T01:05:02.127230+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"i got my 3, which is enough for now"
+2012-11-13T01:20:27.441347+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,sigh ~.~
+2012-11-13T01:20:33.538690+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,??
+2012-11-13T01:20:58.119773+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,made a station public ~.~
+2012-11-13T01:21:05.636990+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,ouch
+2012-11-13T01:21:25.471014+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"oh, that's not too bad at all"
+2012-11-13T01:21:31.693421+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,?
+2012-11-13T01:21:37.877593+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,you could just put the platform on other side of track
+2012-11-13T01:21:57.303015+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,? cant i use the public one
+2012-11-13T01:21:58.795909+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,or you could use the public station if that's all it has
+2012-11-13T01:21:59.951502+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,?
+2012-11-13T01:24:39.295642+00:00,sim128b[1451]:,disconnect,2,91.16.76.66,Client#5
+2012-11-13T01:24:57.107771+00:00,sim128b[1451]:,connect,2,91.16.76.66,Client#5
+2012-11-13T01:25:06.361936+00:00,sim128b[1451]:,disconnect,2,91.16.76.66,Client#5
+2012-11-13T01:25:21.392451+00:00,sim128b[1451]:,connect,2,91.16.76.66,Client#5
+2012-11-13T01:33:16.644792+00:00,sim128b[1451]:,disconnect,2,91.16.76.66,Client#5
+2012-11-13T01:33:32.462843+00:00,sim128b[1451]:,connect,2,91.16.76.66,Client#5
+2012-11-13T01:45:25.381395+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"(601,332) can you send the powerline here (westward before turning north?"
+2012-11-13T01:46:06.770727+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,thanks
+2012-11-13T01:46:35.105415+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,lol that station xD
+2012-11-13T01:51:18.468034+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"(304,67)"
+2012-11-13T01:51:30.229136+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,why didnt my train take one of the 2 other free stations?
+2012-11-13T01:51:41.152838+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,im using a choose signal right after the tunnel
+2012-11-13T01:51:46.485659+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,and its all one station
+2012-11-13T01:52:04.768182+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,does it work?
+2012-11-13T01:52:14.756918+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,???
+2012-11-13T01:52:24.381398+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,does it work right that way
+2012-11-13T01:52:36.657419+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,why shouldnt it?
+2012-11-13T01:53:18.003108+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"a choose signal , reserves all the way up to a staton, if its free"
+2012-11-13T01:55:04.639466+00:00,sim128b[1451]:,disconnect,2,91.16.76.66,Client#5
+2012-11-13T01:55:19.575683+00:00,sim128b[1451]:,connect,2,91.16.76.66,Client#5
+2012-11-13T01:57:03.173202+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,ah fuck i know why it didnt work as intended
+2012-11-13T01:59:05.198014+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"an end of choose signal i set, wasnt in the station, but on the track, thus, as my stations will now go west, the end of choose signal interfered with the reserving of my trains"
+2012-11-13T01:59:20.093044+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"is there any way you can get passenger here? (532,249)"
+2012-11-13T01:59:49.497049+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,7,German Trains Transport,"write a note at start, i'm done for today, and about to log off"
+2012-11-13T02:03:06.866498+00:00,sim128b[1451]:,disconnect,2,91.16.76.66,Client#5
+2012-11-13T02:03:26.804478+00:00,sim128b[1451]:,connect,2,91.16.76.66,Client#5
+2012-11-13T02:03:33.940150+00:00,sim128b[1451]:,chat,2,91.16.76.66,Client#5,15,,"well i'm off now,cya"
+2012-11-13T02:03:40.796175+00:00,sim128b[1451]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,bye
+2012-11-13T02:03:56.216308+00:00,sim128b[1451]:,disconnect,2,91.16.76.66,Client#5
+2012-11-13T02:16:00.749379+00:00,sim128b[1451]:,disconnect,3,98.251.79.180,Client#3
+2012-11-13T02:16:13.954676+00:00,sim128b[1451]:,connect,2,98.251.79.180,Client#3
+2012-11-13T04:37:05.348024+00:00,sim128b[1451]:,disconnect,2,98.251.79.180,Client#3
+2012-11-13T04:37:17.371368+00:00,sim128b[1451]:,connect,3,91.16.88.122,Client#5
+2012-11-13T11:01:17.110987+00:00,sim128b[1451]:,connect,2,91.16.88.122,Client#5
+2012-11-13T11:34:18.449271+00:00,sim128b[1451]:,connect,4,91.16.88.122,Client#5
+2012-11-13T12:54:40.133269+00:00,sim128b[1451]:,connect,5,189.120.54.77,Titan
+2012-11-13T12:54:40.310211+00:00,sim128b[1451]:,disconnect,2,91.16.88.122,Client#5
+2012-11-13T12:54:40.310257+00:00,sim128b[1451]:,disconnect,3,91.16.88.122,Client#5
+2012-11-13T13:11:42.232758+00:00,sim128b[1451]:,disconnect,5,189.120.54.77,Titan
+2012-11-13T13:28:59.290130+00:00,sim128b[1451]:,connect,2,189.120.54.77,Titan
+2012-11-13T13:39:19.586394+00:00,sim128b[1451]:,disconnect,2,189.120.54.77,Titan
+2012-11-13T17:01:12.611494+00:00,sim128b[1451]:,connect,2,91.16.88.122,Client#5
+2012-11-13T18:53:54.012821+00:00,sim128b[1451]:,connect,3,98.251.79.180,Client#3
+2012-11-13T19:31:00.341714+00:00,sim128b[1451]:,disconnect,2,91.16.88.122,Client#5
+2012-11-13T19:31:00.341761+00:00,sim128b[1451]:,disconnect,3,98.251.79.180,Client#3
+2012-11-13T19:31:00.341785+00:00,sim128b[1451]:,disconnect,4,91.16.88.122,Client#5
+2012-11-13T19:31:18.725683+00:00,sim128b[1451]:,connect,2,98.251.79.180,Client#3
+2012-11-13T19:50:05.129026+00:00,sim128b[1451]:,disconnect,2,98.251.79.180,Client#3
+2012-11-13T19:50:16.655686+00:00,sim128b[1451]:,connect,3,98.251.79.180,Client#3
+2012-11-13T20:02:49.374953+00:00,sim128b[1451]:,connect,2,98.251.79.180,Client#3
+2012-11-13T20:47:40.380332+00:00,sim128b[1451]:,connect,4,91.16.88.122,Client#5
+2012-11-13T20:47:40.475022+00:00,sim128b[1451]:,disconnect,3,98.251.79.180,Client#3
+2012-11-13T20:50:29.172801+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,hi
+2012-11-13T20:50:34.441528+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,yo
+2012-11-13T20:50:49.013752+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,need some things moved when you have free time
+2012-11-13T20:50:53.890091+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,my korner mill will have coal for eternity
+2012-11-13T20:52:07.627399+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,whatcha need?
+2012-11-13T20:52:20.972303+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,got time right now
+2012-11-13T20:52:47.242406+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,"(633,81)  I want to make a station right where the powerline is"
+2012-11-13T20:52:57.931863+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"im just glad, my plants get enough coal now x.X"
+2012-11-13T20:53:03.161860+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,if you want to start using the extra account
+2012-11-13T20:53:14.631962+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,"should I rename the account ""power"" ?"
+2012-11-13T20:53:35.675764+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"we can try that next game, i wont redo ALL powerlines :/"
+2012-11-13T20:53:46.917819+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,way too much timeconsuming for too little reward
+2012-11-13T20:54:59.329100+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,10,Power,well I wouldn't say that... then powerlines don't get in the way and other reasons
+2012-11-13T20:55:26.635850+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"ok, but not now, or on one of the following weekdays, gonna be busy"
+2012-11-13T20:55:30.890144+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,maybe on weekend
+2012-11-13T20:55:56.009033+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,or i can give you my pw and you can do it if you want
+2012-11-13T20:56:01.169816+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,well you can always make  any new lines with it.. or replace short areas
+2012-11-13T20:56:26.139045+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,"oh I remember doing that.... first game I played, I gave one of the other players my password"
+2012-11-13T20:56:45.958530+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,just in case... since I didn't know how much I'd play simutrans :)
+2012-11-13T20:56:50.300423+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,what tile you looking @?
+2012-11-13T20:57:05.778543+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,I am working on the spot you just removed the powerline
+2012-11-13T20:57:48.815836+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,got it :)  thanks
+2012-11-13T20:58:08.642923+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"i NEVER give out my password, kinda my policy"
+2012-11-13T20:58:10.452136+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,so.... does anyone else have that password too?
+2012-11-13T20:58:16.018486+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,unless i really trus someone ;)
+2012-11-13T20:58:22.286560+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"nope, just u and me"
+2012-11-13T20:58:34.707632+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,"well in that case, ......"
+2012-11-13T20:58:53.134323+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,trus = *trust
+2012-11-13T20:58:59.821558+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,"there, my account is now the same password I think"
+2012-11-13T20:59:17.534344+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,9,A-Train Transport,y it is
+2012-11-13T20:59:50.171763+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,so... just so we dont have problems... I won't edit any of your cities or lines...  I won't even fix your backups...
+2012-11-13T20:59:52.734921+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"well, small community, not many trolls expected, i'm a little surprised though"
+2012-11-13T21:00:16.987467+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"that, unlike last game, we are so small in numbers this time, i think it may have to do with being unable to play for weeks"
+2012-11-13T21:00:26.964910+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,and don't fix my backups or edit my cities or lines...  we just do this to move something like a powerline in our way???
+2012-11-13T21:00:31.241908+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,hehe^^
+2012-11-13T21:00:41.099414+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,y
+2012-11-13T21:01:09.177583+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,btw you fixed your gridlock?
+2012-11-13T21:02:03.004738+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,the only reason I said that is I don't want either of us to come online and be like... hey you changed something  or you fixed something I didn't want you to.... and be all sad  and cause problems :)
+2012-11-13T21:02:09.969832+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,"yeah, I changed the lines around"
+2012-11-13T21:05:01.539780+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,"(296,400)  can we remove this tunnel?"
+2012-11-13T21:05:24.333431+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,that was left over from a road we couldn't cross
+2012-11-13T21:05:36.447787+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,y
+2012-11-13T21:07:00.433044+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,"(367,155)  I made a mistake here....  I added to the station, but didn't check underground"
+2012-11-13T21:07:15.539469+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,slice -2
+2012-11-13T21:07:44.016197+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,~.~
+2012-11-13T21:08:38.662699+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,thanks.... my line was at capacity... so now I think I'll try long underground trains
+2012-11-13T21:09:14.680651+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"i recommend the 350 train, lots of capacity"
+2012-11-13T21:09:27.326028+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,*350 km/h train
+2012-11-13T21:09:28.092312+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,oh?   more than the orange one?
+2012-11-13T21:09:39.025467+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,well
+2012-11-13T21:09:44.414591+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,hmm
+2012-11-13T21:10:07.904399+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,"yeah, maybe so...."
+2012-11-13T21:10:22.969603+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,thanks.... hmm... now I will have to rethink the desing :)
+2012-11-13T21:11:05.718324+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,well
+2012-11-13T21:11:47.604784+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"a 8 tile station, covered by a lon 400 powerhouse train, made with pax waggons, will carry"
+2012-11-13T21:12:05.732521+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"934 pax and have a max speed of 343, and 320 when loaded"
+2012-11-13T21:12:33.159622+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"the 350 train, will carry 864 pax and 256 mail"
+2012-11-13T21:12:38.419732+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,"well 280 is max, so I am aiming for 280"
+2012-11-13T21:12:42.115370+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,and reach its max speed of 350
+2012-11-13T21:12:52.717323+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"i thought about that too BUT "
+2012-11-13T21:13:04.914994+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,the only train going 280 is an obsolete one
+2012-11-13T21:13:09.594165+00:00,sim128b[1451]:,disconnect,2,98.251.79.180,Client#3
+2012-11-13T21:13:13.718769+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,AND its running cost is higher
+2012-11-13T21:13:28.514807+00:00,sim128b[1451]:,connect,2,98.251.79.180,Client#3
+2012-11-13T21:13:28.991726+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,than the 350 train and it can carry less
+2012-11-13T21:13:45.522695+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,15,,what I mean is I add more cars till it slows to 280
+2012-11-13T21:13:55.953543+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,oh
+2012-11-13T21:14:25.539063+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,well
+2012-11-13T21:14:35.300185+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,are you mostly underground=?
+2012-11-13T21:14:55.788240+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"or do you, like me , have quite some distances where you could potentially runa bove ground?"
+2012-11-13T21:14:56.193476+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,yes I go underground almost right away (with only a small exception)
+2012-11-13T21:15:38.702877+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,i mean i also go mostly underground  for my 2nd big loop for the southern cities
+2012-11-13T21:15:40.309107+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,"well, I *could* run above ground, but I decided to just go all underground and make a long train to handle these high passenger numbers that are backloggin"
+2012-11-13T21:16:03.548167+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,I am basically copying my main loop on certain cities with a 2nd line
+2012-11-13T21:16:09.696664+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,but since i'm above ground from hilsboro  till gi (mostly) its worth to go for the speed bonus i guess
+2012-11-13T21:16:34.268762+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,in other games I would copy my loops like 2 levels underground to handle the extra load that the surface line couldnt
+2012-11-13T21:17:18.212784+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"y "
+2012-11-13T21:17:42.989795+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,1182 passenger for orange - 288km - 10 tiles
+2012-11-13T21:18:12.862521+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"well if you go for 11th tile 400kmh, you can go either 275 thats +240~ pax or 281  which is around 180 + pax, to the former value"
+2012-11-13T21:18:21.261140+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,1440/256 for the blue train with platform 12
+2012-11-13T21:18:52.583675+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,I just hope the less horsepower on blue train won't hurt it
+2012-11-13T21:19:08.838811+00:00,sim128b[1451]:,connect,3,109.190.126.52,John
+2012-11-13T21:19:43.077829+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,hello john!!!!!!!!!!!!!!!!!!!!!!!.......\
+2012-11-13T21:19:52.193939+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,hi
+2012-11-13T21:20:12.615176+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,"oh, I guess "
+2012-11-13T21:20:20.290848+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,I can try the blue
+2012-11-13T21:20:37.269351+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,"let me see if I cna fit 12 platforms "
+2012-11-13T21:22:03.943437+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,i like the streamline design of the blue :P
+2012-11-13T21:25:21.394807+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,why do attractions keep spwning outside my cities?:/
+2012-11-13T21:25:40.310714+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,because there's no room closer near roads probably
+2012-11-13T21:26:49.227499+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,why did i have the smart idea to build stations within a city? oh right cause it looks friggin awesome.... if you can build stations underground thats on problem..
+2012-11-13T21:28:27.029512+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,in some ways I kind of wish the game did not pay you between stations   and paid you for real distance no matter how many stops
+2012-11-13T21:29:49.099480+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,y
+2012-11-13T21:30:08.631516+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,well its only a problem if you actively abuse it
+2012-11-13T21:30:37.499267+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"but yeah, coal 2 feet away form station, ship it all around the world and then to the factory..."
+2012-11-13T21:31:10.830403+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,and setup your route to bounce back and forth between the 2 same stations 50 times before it finally delivers :)
+2012-11-13T21:31:19.036880+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,y
+2012-11-13T21:32:09.484228+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,"(353,156)  slice -3"
+2012-11-13T21:32:23.212026+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,?
+2012-11-13T21:32:31.395217+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,you dip your coal line below your passenger line...
+2012-11-13T21:32:41.231381+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,yes....?
+2012-11-13T21:32:52.774516+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,could you dip longer ?
+2012-11-13T21:32:57.007044+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,ah lol
+2012-11-13T21:33:03.522664+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,didnt see your tracks xD
+2012-11-13T21:33:09.282256+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,I just made 'em
+2012-11-13T21:36:29.589971+00:00,sim128b[1451]:,chat,2,98.251.79.180,Client#3,9,A-Train Transport,thanks
+2012-11-13T21:37:32.371760+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,my profit went down by 2 mil?
+2012-11-13T21:37:41.717035+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,oh guess due to interrupting trains :S
+2012-11-13T21:38:24.368807+00:00,sim128b[1451]:,disconnect,4,91.16.88.122,Client#5
+2012-11-13T21:38:39.926889+00:00,sim128b[1451]:,connect,4,91.16.88.122,Client#5
+2012-11-13T21:43:32.774167+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"y, usage 99% i should do another mainloop for my first loop xD"
+2012-11-13T21:46:07.981557+00:00,sim128b[1451]:,disconnect,3,109.190.126.52,John
+2012-11-13T21:56:27.822434+00:00,sim128b[1451]:,disconnect,2,98.251.79.180,Client#3
+2012-11-13T21:56:43.429543+00:00,sim128b[1451]:,connect,2,98.251.79.180,Client#3
+2012-11-13T21:56:43.918835+00:00,sim128b[1451]:,chat,4,91.16.88.122,Client#5,7,German Trains Transport,"LoLing, afk for a bit"
+2012-11-13T21:56:49.720989+00:00,sim128b[1451]:,disconnect,4,91.16.88.122,Client#5
+2012-11-13T22:01:03.215953+00:00,sim128b[1451]:,disconnect,2,98.251.79.180,Client#3
+2012-11-13T22:01:17.164177+00:00,sim128b[1451]:,connect,3,98.251.79.180,Client#3
+2012-11-13T22:20:14.458602+00:00,sim128b[1451]:,disconnect,3,98.251.79.180,Client#3
+2012-11-13T23:19:44.626245+00:00,sim128b[1451]:,connect,2,98.251.79.180,Client#3

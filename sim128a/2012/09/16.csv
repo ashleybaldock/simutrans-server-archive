@@ -1,0 +1,257 @@
+2012-09-16T00:05:58.305299+00:00,sim128a[4273]:,disconnect,4,98.251.79.180,Client#4
+2012-09-16T00:06:43.418962+00:00,sim128a[4273]:,connect,4,98.251.79.180,Client#4
+2012-09-16T00:21:54.878053+00:00,sim128a[4273]:,disconnect,5,91.16.83.50,Jaridan
+2012-09-16T02:09:56.722781+00:00,sim128a[4273]:,connect,5,98.251.79.180,Client#4
+2012-09-16T02:18:15.481203+00:00,sim128a[4273]:,connect,6,98.251.79.180,Client#4
+2012-09-16T02:29:20.265633+00:00,sim128a[4273]:,connect,7,98.251.79.180,Client#4
+2012-09-16T02:48:17.601895+00:00,sim128a[4273]:,disconnect,4,98.251.79.180,Client#4
+2012-09-16T02:48:17.601951+00:00,sim128a[4273]:,disconnect,5,98.251.79.180,Client#4
+2012-09-16T02:48:17.601975+00:00,sim128a[4273]:,disconnect,6,98.251.79.180,Client#4
+2012-09-16T02:48:17.601996+00:00,sim128a[4273]:,disconnect,7,98.251.79.180,Client#4
+2012-09-16T02:48:48.723745+00:00,sim128a[4273]:,connect,4,98.251.79.180,Client#4
+2012-09-16T03:02:35.367432+00:00,sim128a[4273]:,connect,5,69.181.128.254,nebulon
+2012-09-16T03:02:38.341802+00:00,sim128a[4273]:,disconnect,5,69.181.128.254,nebulon
+2012-09-16T03:03:10.124549+00:00,sim128a[4273]:,connect,5,69.181.128.254,nebulon
+2012-09-16T03:03:10.640001+00:00,sim128a[4273]:,chat,4,98.251.79.180,Client#4,10,A-Train,hi
+2012-09-16T03:05:12.752396+00:00,sim128a[4273]:,chat,4,98.251.79.180,Client#4,10,A-Train,"hi nebulon -- use ""message centre"" > ""chat"" !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+2012-09-16T03:11:47.818182+00:00,sim128a[4273]:,disconnect,5,69.181.128.254,nebulon
+2012-09-16T04:32:56.622520+00:00,sim128a[4273]:,connect,5,220.245.52.25,Client#9
+2012-09-16T04:39:08.039640+00:00,sim128a[4273]:,disconnect,4,98.251.79.180,Client#4
+2012-09-16T04:39:08.039920+00:00,sim128a[4273]:,disconnect,5,220.245.52.25,Client#9
+2012-09-16T04:39:43.143887+00:00,sim128a[4273]:,connect,4,220.245.52.25,Client#9
+2012-09-16T04:41:26.324406+00:00,sim128a[4273]:,disconnect,4,220.245.52.25,Client#9
+2012-09-16T04:42:01.231730+00:00,sim128a[4273]:,connect,5,220.245.52.25,Client#9
+2012-09-16T04:46:56.621897+00:00,sim128a[4273]:,disconnect,5,220.245.52.25,Client#9
+2012-09-16T04:47:26.848322+00:00,sim128a[4273]:,connect,4,220.245.52.25,Client#9
+2012-09-16T04:55:12.623288+00:00,sim128a[4273]:,disconnect,4,220.245.52.25,Client#9
+2012-09-16T04:55:58.784477+00:00,sim128a[4273]:,connect,4,220.245.52.25,Client#9
+2012-09-16T05:06:47.283001+00:00,sim128a[4273]:,connect,5,220.245.52.25,Client#9
+2012-09-16T05:25:40.213643+00:00,sim128a[4273]:,connect,6,220.245.52.25,Client#9
+2012-09-16T05:39:19.199030+00:00,sim128a[4273]:,connect,7,220.245.52.25,Client#9
+2012-09-16T05:52:19.556946+00:00,sim128a[4273]:,connect,8,220.245.52.25,Client#22
+2012-09-16T06:03:47.253811+00:00,sim128a[4273]:,connect,9,90.176.13.101,Client#9
+2012-09-16T06:03:47.435897+00:00,sim128a[4273]:,disconnect,4,220.245.52.25,Client#9
+2012-09-16T06:03:47.435968+00:00,sim128a[4273]:,disconnect,5,220.245.52.25,Client#9
+2012-09-16T06:03:47.436217+00:00,sim128a[4273]:,disconnect,6,220.245.52.25,Client#9
+2012-09-16T06:03:47.436464+00:00,sim128a[4273]:,disconnect,7,220.245.52.25,Client#9
+2012-09-16T06:04:48.391349+00:00,sim128a[4273]:,disconnect,8,220.245.52.25,Client#22
+2012-09-16T06:05:27.936375+00:00,sim128a[4273]:,connect,4,220.245.52.25,Client#22
+2012-09-16T06:06:14.283617+00:00,sim128a[4273]:,connect,5,88.165.36.112,Client#5
+2012-09-16T06:10:23.147382+00:00,sim128a[4273]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,hey helloworld
+2012-09-16T06:10:40.854598+00:00,sim128a[4273]:,disconnect,4,220.245.52.25,Client#22
+2012-09-16T06:10:44.033899+00:00,sim128a[4273]:,chat,5,88.165.36.112,Client#5,8,Helloworld Ltd,"hi ! "
+2012-09-16T06:11:35.448930+00:00,sim128a[4273]:,connect,4,220.245.52.25,Client#22
+2012-09-16T06:11:56.325184+00:00,sim128a[4273]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,wasn't supposed to be on toda-y but couldnt resist :P
+2012-09-16T06:12:50.405940+00:00,sim128a[4273]:,chat,9,90.176.13.101,Client#9,15,,Hi all
+2012-09-16T06:13:00.878843+00:00,sim128a[4273]:,chat,5,88.165.36.112,Client#5,8,Helloworld Ltd,neither me ...
+2012-09-16T06:13:14.021856+00:00,sim128a[4273]:,chat,4,220.245.52.25,Client#22,5,Borella Moveables,hi client 9
+2012-09-16T06:13:18.458858+00:00,sim128a[4273]:,chat,5,88.165.36.112,Client#5,8,Helloworld Ltd,hello '9' :)
+2012-09-16T06:13:47.243946+00:00,sim128a[4273]:,chat,9,90.176.13.101,Client#9,15,,Wait i make rename
+2012-09-16T06:13:59.424099+00:00,sim128a[4273]:,disconnect,9,90.176.13.101,Client#9
+2012-09-16T06:14:40.687598+00:00,sim128a[4273]:,connect,6,90.176.13.101,DeznekCZ
+2012-09-16T06:15:13.259144+00:00,sim128a[4273]:,disconnect,4,220.245.52.25,Client#22
+2012-09-16T06:15:59.911937+00:00,sim128a[4273]:,connect,4,220.245.52.25,Alliance
+2012-09-16T06:17:00.765484+00:00,sim128a[4273]:,chat,6,90.176.13.101,DeznekCZ,15,,Is here admin?
+2012-09-16T06:17:42.248387+00:00,sim128a[4273]:,chat,4,220.245.52.25,Alliance,5,Borella Moveables,you can get in contact with admin on the forum [website at start up part on map]
+2012-09-16T06:20:13.959607+00:00,sim128a[4273]:,chat,5,88.165.36.112,Client#5,8,Helloworld Ltd,bye all :)
+2012-09-16T06:20:16.283808+00:00,sim128a[4273]:,disconnect,5,88.165.36.112,Client#5
+2012-09-16T06:20:40.263070+00:00,sim128a[4273]:,chat,4,220.245.52.25,Alliance,5,Borella Moveables,Why do you need to speak to admin?
+2012-09-16T06:23:29.570463+00:00,sim128a[4273]:,disconnect,4,220.245.52.25,Alliance
+2012-09-16T06:27:13.030188+00:00,sim128a[4273]:,connect,4,220.245.52.25,Alliance
+2012-09-16T06:27:53.005118+00:00,sim128a[4273]:,disconnect,4,220.245.52.25,Alliance
+2012-09-16T06:30:09.211039+00:00,sim128a[4273]:,connect,4,220.245.52.25,Alliance
+2012-09-16T06:30:53.506401+00:00,sim128a[4273]:,disconnect,4,220.245.52.25,Alliance
+2012-09-16T06:32:09.627547+00:00,sim128a[4273]:,connect,4,220.245.52.25,Alliance
+2012-09-16T06:35:39.964088+00:00,sim128a[4273]:,disconnect,4,220.245.52.25,Alliance
+2012-09-16T06:36:29.116062+00:00,sim128a[4273]:,connect,4,220.245.52.25,Alliance
+2012-09-16T06:48:40.419309+00:00,sim128a[4273]:,disconnect,4,220.245.52.25,Alliance
+2012-09-16T07:02:30.322484+00:00,sim128a[4273]:,connect,4,220.245.52.25,Alliance
+2012-09-16T07:03:53.776670+00:00,sim128a[4273]:,disconnect,4,220.245.52.25,Alliance
+2012-09-16T07:07:04.805824+00:00,sim128a[4273]:,connect,4,220.245.52.25,Alliance
+2012-09-16T07:07:46.319712+00:00,sim128a[4273]:,connect,5,0.0.0.0,mvw
+2012-09-16T07:10:04.537729+00:00,sim128a[4273]:,disconnect,4,220.245.52.25,Alliance
+2012-09-16T07:10:09.814164+00:00,sim128a[4273]:,disconnect,6,90.176.13.101,DeznekCZ
+2012-09-16T07:28:18.207842+00:00,sim128a[4273]:,connect,4,126.16.151.103,Client5
+2012-09-16T07:35:52.701780+00:00,sim128a[4273]:,disconnect,4,126.16.151.103,Client5
+2012-09-16T08:21:15.162942+00:00,sim128a[4273]:,disconnect,5,0.0.0.0,mvw
+2012-09-16T08:21:31.916050+00:00,sim128a[4273]:,connect,4,178.41.70.168,Client#12
+2012-09-16T08:28:07.659868+00:00,sim128a[4273]:,connect,5,92.245.194.234,mrk
+2012-09-16T08:39:29.273611+00:00,sim128a[4273]:,disconnect,5,92.245.194.234,mrk
+2012-09-16T08:52:07.445565+00:00,sim128a[4273]:,connect,5,109.211.119.76,Elole
+2012-09-16T09:00:30.821747+00:00,sim128a[4273]:,disconnect,5,109.211.119.76,Elole
+2012-09-16T09:05:02.405746+00:00,sim128a[4273]:,connect,5,92.245.194.234,mrk
+2012-09-16T09:05:58.981985+00:00,sim128a[4273]:,disconnect,5,92.245.194.234,mrk
+2012-09-16T09:07:16.418244+00:00,sim128a[4273]:,connect,5,92.245.194.234,mrk
+2012-09-16T09:10:06.395588+00:00,sim128a[4273]:,disconnect,4,178.41.70.168,Client#12
+2012-09-16T09:11:13.702034+00:00,sim128a[4273]:,connect,4,126.16.151.103,Client5
+2012-09-16T09:13:58.839266+00:00,sim128a[4273]:,disconnect,4,126.16.151.103,Client5
+2012-09-16T09:23:57.955145+00:00,sim128a[28322]:,connect,4,92.245.194.234,mrk
+2012-09-16T10:09:23.927997+00:00,sim128a[28322]:,connect,5,77.9.14.137,Client#5
+2012-09-16T10:11:31.463271+00:00,sim128a[28322]:,disconnect,5,77.9.14.137,Client#5
+2012-09-16T10:18:55.755185+00:00,sim128a[28322]:,connect,5,91.16.91.216,Jaridan
+2012-09-16T10:45:34.928438+00:00,sim128a[28322]:,disconnect,4,92.245.194.234,mrk
+2012-09-16T10:46:12.885624+00:00,sim128a[28322]:,connect,4,92.245.194.234,mrk
+2012-09-16T11:24:47.946160+00:00,sim128a[28322]:,connect,6,126.16.151.103,Client5
+2012-09-16T11:27:05.520710+00:00,sim128a[28322]:,disconnect,6,126.16.151.103,Client5
+2012-09-16T11:34:03.872507+00:00,sim128a[28322]:,connect,6,0.0.0.0,mvw
+2012-09-16T11:43:42.409683+00:00,sim128a[28322]:,disconnect,5,91.16.91.216,Jaridan
+2012-09-16T12:02:56.008065+00:00,sim128a[28322]:,disconnect,6,0.0.0.0,mvw
+2012-09-16T12:03:29.470465+00:00,sim128a[28322]:,connect,5,0.0.0.0,mvw
+2012-09-16T12:06:10.369392+00:00,sim128a[28322]:,disconnect,5,0.0.0.0,mvw
+2012-09-16T12:14:54.470505+00:00,sim128a[28322]:,connect,5,91.33.218.106,Client#5
+2012-09-16T12:16:19.954119+00:00,sim128a[28322]:,chat,5,91.33.218.106,Client#5,15,,HI
+2012-09-16T12:19:45.168020+00:00,sim128a[28322]:,disconnect,5,91.33.218.106,Client#5
+2012-09-16T13:22:17.603310+00:00,sim128a[28322]:,connect,5,109.212.23.42,Fr-N
+2012-09-16T13:32:13.016576+00:00,sim128a[28322]:,disconnect,5,109.212.23.42,Fr-N
+2012-09-16T13:44:46.414738+00:00,sim128a[28322]:,connect,5,79.184.120.132,Client#5
+2012-09-16T14:02:37.469661+00:00,sim128a[28322]:,disconnect,5,79.184.120.132,Client#5
+2012-09-16T14:25:59.856047+00:00,sim128a[28322]:,connect,5,92.245.194.234,mrk
+2012-09-16T14:33:24.801716+00:00,sim128a[28322]:,connect,6,106.3.63.178,fantix
+2012-09-16T14:33:24.890256+00:00,sim128a[28322]:,disconnect,4,92.245.194.234,mrk
+2012-09-16T14:37:28.411888+00:00,sim128a[28322]:,connect,4,81.187.132.54,Client#4
+2012-09-16T14:47:41.869127+00:00,sim128a[28322]:,disconnect,4,81.187.132.54,Client#4
+2012-09-16T14:51:03.947917+00:00,sim128a[28322]:,disconnect,6,106.3.63.178,fantix
+2012-09-16T15:03:34.204687+00:00,sim128a[28322]:,connect,4,220.245.52.25,Alliance
+2012-09-16T15:12:29.387887+00:00,sim128a[28322]:,disconnect,4,220.245.52.25,Alliance
+2012-09-16T15:13:26.518967+00:00,sim128a[28322]:,connect,4,220.245.52.25,Alliance
+2012-09-16T15:13:55.203888+00:00,sim128a[28322]:,connect,6,0.0.0.0,mvw
+2012-09-16T15:14:54.354369+00:00,sim128a[28322]:,connect,7,222.126.240.10,fantix
+2012-09-16T15:16:21.856114+00:00,sim128a[28322]:,disconnect,4,220.245.52.25,Alliance
+2012-09-16T15:19:14.967820+00:00,sim128a[28322]:,connect,4,220.245.52.25,Alliance
+2012-09-16T15:28:10.777373+00:00,sim128a[28322]:,chat,7,222.126.240.10,fantix,2,Fantix Enterprise,@A-Train can I help you?
+2012-09-16T15:28:33.496271+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Borella Moveables,@fantix- don't think A-Train is here at the moment
+2012-09-16T15:28:58.838874+00:00,sim128a[28322]:,chat,7,222.126.240.10,fantix,2,Fantix Enterprise,:) thx 4 the info
+2012-09-16T15:29:17.341962+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Borella Moveables,generally look for 'client#6' or just check his financials
+2012-09-16T15:29:22.455437+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Borella Moveables,that's how i tell someone is on
+2012-09-16T15:29:47.704416+00:00,sim128a[28322]:,chat,7,222.126.240.10,fantix,2,Fantix Enterprise,:D good to know
+2012-09-16T15:30:28.800251+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Borella Moveables,yeah if i see construction costs/vehicle purchases on their finance within the last month- u know they are around :P
+2012-09-16T15:30:34.303309+00:00,sim128a[28322]:,disconnect,6,0.0.0.0,mvw
+2012-09-16T15:37:40.542722+00:00,sim128a[28322]:,disconnect,5,92.245.194.234,mrk
+2012-09-16T15:47:39.103966+00:00,sim128a[28322]:,disconnect,7,222.126.240.10,fantix
+2012-09-16T15:58:24.612245+00:00,sim128a[28322]:,connect,5,220.245.52.25,Alliance
+2012-09-16T16:12:42.034951+00:00,sim128a[28322]:,connect,6,92.245.194.234,mrk
+2012-09-16T16:12:42.134766+00:00,sim128a[28322]:,disconnect,4,220.245.52.25,Alliance
+2012-09-16T16:21:34.135998+00:00,sim128a[28322]:,disconnect,5,220.245.52.25,Alliance
+2012-09-16T16:21:59.317869+00:00,sim128a[28322]:,connect,4,98.251.79.180,Client#4
+2012-09-16T16:22:44.419331+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,"(33,267)"
+2012-09-16T16:25:08.195763+00:00,sim128a[28322]:,connect,5,220.245.52.25,Alliance
+2012-09-16T16:25:43.124872+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,15,,@a-trains- frantix was after you
+2012-09-16T16:26:20.128994+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,"(544,155) i see you have a massive train line too"
+2012-09-16T16:26:57.389119+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,hey
+2012-09-16T16:27:17.634202+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,howdy (did u see chat below?)
+2012-09-16T16:27:21.883854+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,do you mean the long one to exchange?
+2012-09-16T16:27:56.683551+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,i mean 5 tracks next to each other- serious train line :P
+2012-09-16T16:28:16.284878+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,so leave a sign for frantix at starT? since he was asking for you
+2012-09-16T16:28:34.744838+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,one is a coal line.... and you must not have seen last game... you really should get the save for last game and look at my network :)
+2012-09-16T16:28:37.151737+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,"although i like (466,131) i look at that and drool :P"
+2012-09-16T16:28:51.327345+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,ha maybe i will next time
+2012-09-16T16:29:17.728819+00:00,sim128a[28322]:,disconnect,5,220.245.52.25,Alliance
+2012-09-16T16:29:29.389071+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,in that game you will find 6 lines next to each other .... all 400km electric ... and even several repeater lines undeground along same path
+2012-09-16T16:30:23.902911+00:00,sim128a[28322]:,connect,5,220.245.52.25,Alliance
+2012-09-16T16:30:49.923870+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,wow! that's nut
+2012-09-16T16:31:06.585585+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,and it still needed more... there were so many passengers & mail
+2012-09-16T16:31:09.911434+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,"the bext i can come up with is (501,72) and it hasn't even finished yet- wont be for a couple fo days"
+2012-09-16T16:31:25.466535+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,u must have been the biggest player last time :P
+2012-09-16T16:31:57.368788+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,suppose so..  seriously you really need to have a look at it .... it was a big network
+2012-09-16T16:32:13.830012+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,ok :P when i finish my freight network here ill d/l it
+2012-09-16T16:32:23.825907+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,"except, ignore the part where I built stations to cover the whole city... the game was lagging and thought that might reduce lag"
+2012-09-16T16:32:53.149618+00:00,sim128a[28322]:,connect,7,91.33.218.106,BOfH
+2012-09-16T16:33:04.731796+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,you can still see where the in - city trains were though
+2012-09-16T16:33:13.895993+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,welcome BOfH
+2012-09-16T16:33:51.844159+00:00,sim128a[28322]:,disconnect,5,220.245.52.25,Alliance
+2012-09-16T16:34:21.105815+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,"(166,362)"
+2012-09-16T16:35:56.197295+00:00,sim128a[28322]:,connect,5,220.245.52.25,Alliance
+2012-09-16T16:36:24.053191+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,what about that location?
+2012-09-16T16:36:37.400239+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,thanks for making publiuc the canal.... oh 4 clients!
+2012-09-16T16:36:54.664352+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,no probs- it was left long ago - pre-express train loop completion
+2012-09-16T16:37:20.970633+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,are there any car dealerships you are not shipping enough cars to?
+2012-09-16T16:37:39.642693+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,"na, guess not"
+2012-09-16T16:37:41.329420+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,nope they're all chock-ablock
+2012-09-16T16:38:03.132046+00:00,sim128a[28322]:,disconnect,6,92.245.194.234,mrk
+2012-09-16T16:38:53.226996+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,i wasnt supposed to come on - glad i did - i had a gridlock
+2012-09-16T16:39:28.748582+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,did you see germans massive gridlock though?
+2012-09-16T16:39:44.842677+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,"(184,356) take a look"
+2012-09-16T16:39:47.348698+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,today?  not today   was it the wood trains?
+2012-09-16T16:41:18.836230+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,wasn't he here not long ago?
+2012-09-16T16:41:52.868160+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,i dont know? and milk makes me a huge loss
+2012-09-16T16:42:05.473766+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,loss?  why a loss?
+2012-09-16T16:42:27.082555+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,i trialled in single player using a train - massive loss
+2012-09-16T16:42:48.226538+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,is there speed bonuses?  yeah I think there is
+2012-09-16T16:43:00.728206+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,rail is 210kph +
+2012-09-16T16:43:13.213867+00:00,sim128a[28322]:,disconnect,7,91.33.218.106,BOfH
+2012-09-16T16:43:16.222343+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,most freight is 110-130 kph tops - with piece goods 180kph
+2012-09-16T16:43:17.371827+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,"try a plane perhaps, they make big money"
+2012-09-16T16:43:29.939261+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,you can't move milk via a plane silly :P
+2012-09-16T16:45:11.739484+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,"i was moving it to (472,143) from (82,255) via rail"
+2012-09-16T16:45:20.101308+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,made a loss of -3K per trip
+2012-09-16T16:46:10.835118+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,milk is supposed to make big money I thought
+2012-09-16T16:46:42.531118+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,it used to in the older version
+2012-09-16T16:48:02.335260+00:00,sim128a[28322]:,disconnect,5,220.245.52.25,Alliance
+2012-09-16T16:51:44.467628+00:00,sim128a[28322]:,connect,5,220.245.52.25,Alliance
+2012-09-16T16:53:49.532146+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,oh btw spoke to alex [well via signs at start] the power contact was for anyone who wanted that power plant since he doesnt want it anymore basically
+2012-09-16T16:54:08.026831+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,anymore eye-candy i should be aware of too? lol
+2012-09-16T16:54:18.715163+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,in last map?
+2012-09-16T16:54:38.816512+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,what about last map?
+2012-09-16T16:54:49.259851+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,did you see the lakes and dam?
+2012-09-16T16:55:21.439822+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,yes i did :P im saying anymore here? since turrets and stuff seem to turn up out of nowhere :P helloworld has a little boat floating down there
+2012-09-16T16:56:12.757451+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,"oh, I made a small lake... I also cheated and made powerplants....  the simutrans people are soooo stubborn and demanding that there not be enough power in pak128 :("
+2012-09-16T16:56:13.583203+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,"(52,230) makes me laugh :P if u stare at it - looks like a moving UFO :P"
+2012-09-16T16:56:30.976405+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,i saw the 5000 + cola power plant :P
+2012-09-16T17:00:22.224703+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,consider this: 1 coal plant is approximately enough to only handle one auto factory chain + the coal for the power plant :(
+2012-09-16T17:00:56.512810+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,yeah because steel is a huge sucker for power
+2012-09-16T17:01:16.016633+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,"i have one asking for 910MW - lol stuff that "
+2012-09-16T17:01:25.956724+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,"point is this is a really bad design.... there should be plenty of power, not shortages"
+2012-09-16T17:02:07.138779+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,i concur
+2012-09-16T17:02:28.191978+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#4,10,A-Train,"ok, time to go.... bye"
+2012-09-16T17:02:35.540642+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Borella Moveables,ok cya :)
+2012-09-16T17:02:37.925975+00:00,sim128a[28322]:,disconnect,4,98.251.79.180,Client#4
+2012-09-16T17:04:53.442435+00:00,sim128a[28322]:,disconnect,5,220.245.52.25,Alliance
+2012-09-16T17:05:30.745084+00:00,sim128a[28322]:,connect,4,220.245.52.25,Alliance
+2012-09-16T17:06:15.511712+00:00,sim128a[28322]:,connect,5,91.16.91.216,Jaridan
+2012-09-16T17:08:30.729235+00:00,sim128a[28322]:,disconnect,4,220.245.52.25,Alliance
+2012-09-16T17:09:32.162889+00:00,sim128a[28322]:,connect,4,220.245.52.25,Alliance
+2012-09-16T17:16:39.982657+00:00,sim128a[28322]:,disconnect,4,220.245.52.25,Alliance
+2012-09-16T17:18:13.063430+00:00,sim128a[28322]:,connect,4,109.212.23.42,Fr-N
+2012-09-16T17:27:46.440901+00:00,sim128a[28322]:,disconnect,5,91.16.91.216,Jaridan
+2012-09-16T18:00:51.634956+00:00,sim128a[28322]:,connect,5,201.52.104.158,Client#6
+2012-09-16T18:10:41.736115+00:00,sim128a[28322]:,disconnect,5,201.52.104.158,Client#6
+2012-09-16T19:08:34.915362+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#5
+2012-09-16T19:27:46.950255+00:00,sim128a[28322]:,connect,6,85.216.243.188,mrk
+2012-09-16T19:28:55.410134+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#5
+2012-09-16T19:29:43.246667+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#5
+2012-09-16T19:32:28.983178+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#5
+2012-09-16T19:33:20.979284+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#5
+2012-09-16T19:53:06.154864+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#5
+2012-09-16T20:13:23.042434+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#5
+2012-09-16T20:25:09.140662+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#5
+2012-09-16T20:25:51.632008+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#5
+2012-09-16T20:28:17.607551+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#5
+2012-09-16T20:28:56.220838+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#5
+2012-09-16T20:36:38.361166+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#5
+2012-09-16T20:37:15.793131+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#5
+2012-09-16T20:38:24.093938+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#5
+2012-09-16T20:39:09.329158+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#5
+2012-09-16T20:40:27.065952+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#5
+2012-09-16T20:41:10.515888+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#5
+2012-09-16T20:45:44.770545+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#5
+2012-09-16T20:46:28.508162+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#5
+2012-09-16T20:51:14.045566+00:00,sim128a[28322]:,disconnect,6,85.216.243.188,mrk
+2012-09-16T20:51:40.477975+00:00,sim128a[28322]:,connect,6,85.216.243.188,mrk
+2012-09-16T20:56:56.379946+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#5
+2012-09-16T20:58:38.134395+00:00,sim128a[28322]:,connect,5,180.247.174.98,zx
+2012-09-16T21:00:18.471246+00:00,sim128a[28322]:,disconnect,5,180.247.174.98,zx
+2012-09-16T21:01:58.435896+00:00,sim128a[28322]:,connect,5,180.247.174.98,zx
+2012-09-16T21:13:09.173849+00:00,sim128a[28322]:,disconnect,5,180.247.174.98,zx
+2012-09-16T21:20:28.050944+00:00,sim128a[28322]:,disconnect,4,109.212.23.42,Fr-N
+2012-09-16T21:25:40.964450+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#5
+2012-09-16T21:58:52.179423+00:00,sim128a[28322]:,disconnect,6,85.216.243.188,mrk
+2012-09-16T22:03:59.833924+00:00,sim128a[28322]:,connect,5,109.212.23.42,Fr-N
+2012-09-16T22:06:19.328585+00:00,sim128a[28322]:,disconnect,5,109.212.23.42,Fr-N
+2012-09-16T22:38:08.008970+00:00,sim128a[28322]:,connect,5,98.251.79.180,Client#4
+2012-09-16T22:39:00.664937+00:00,sim128a[28322]:,chat,5,98.251.79.180,Client#4,15,,I know it's you helloworld :)
+2012-09-16T22:59:26.423945+00:00,sim128a[28322]:,disconnect,5,98.251.79.180,Client#4
+2012-09-16T22:59:47.172152+00:00,sim128a[28322]:,connect,5,98.251.79.180,Client#4
+2012-09-16T23:09:58.548582+00:00,sim128a[28322]:,disconnect,5,98.251.79.180,Client#4
+2012-09-16T23:10:17.146145+00:00,sim128a[28322]:,connect,5,98.251.79.180,Client#4
+2012-09-16T23:11:00.802612+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#5
+2012-09-16T23:26:28.983995+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#5

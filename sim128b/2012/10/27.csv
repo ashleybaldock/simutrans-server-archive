@@ -1,0 +1,86 @@
+2012-10-27T07:22:56.838848+00:00,sim128b[21423]:,connect,3,89.155.122.64,Client#4
+2012-10-27T07:30:23.810029+00:00,sim128b[21423]:,connect,4,85.216.236.24,Client#2
+2012-10-27T07:30:23.911443+00:00,sim128b[21423]:,disconnect,2,88.165.36.112,Client#4
+2012-10-27T07:42:43.746018+00:00,sim128b[21423]:,disconnect,4,85.216.236.24,Client#2
+2012-10-27T08:21:12.866052+00:00,sim128b[21423]:,connect,2,85.216.236.24,Client#2
+2012-10-27T09:20:44.042279+00:00,sim128b[21423]:,disconnect,2,85.216.236.24,Client#2
+2012-10-27T09:20:44.042336+00:00,sim128b[21423]:,disconnect,3,89.155.122.64,Client#4
+2012-10-27T09:22:01.046876+00:00,sim128b[21423]:,connect,2,85.216.236.24,Client#2
+2012-10-27T10:40:07.196802+00:00,sim128b[21423]:,connect,3,178.26.198.252,Client#3
+2012-10-27T10:42:40.853546+00:00,sim128b[21423]:,disconnect,2,85.216.236.24,Client#2
+2012-10-27T10:42:40.853852+00:00,sim128b[21423]:,disconnect,3,178.26.198.252,Client#3
+2012-10-27T10:58:56.222629+00:00,sim128b[21423]:,connect,2,89.155.122.64,Client#4
+2012-10-27T11:53:45.793588+00:00,sim128b[21423]:,connect,3,85.216.236.24,Client#2
+2012-10-27T12:09:51.771768+00:00,sim128b[21423]:,connect,4,89.155.122.64,Client#4
+2012-10-27T12:09:51.839207+00:00,sim128b[21423]:,disconnect,2,89.155.122.64,Client#4
+2012-10-27T12:20:16.947873+00:00,sim128b[21423]:,disconnect,4,89.155.122.64,Client#4
+2012-10-27T12:20:40.942541+00:00,sim128b[21423]:,connect,2,89.155.122.64,Client#4
+2012-10-27T12:38:53.958845+00:00,sim128b[21423]:,disconnect,3,85.216.236.24,Client#2
+2012-10-27T12:39:11.494136+00:00,sim128b[21423]:,connect,3,85.216.236.24,Client#2
+2012-10-27T12:39:20.681267+00:00,sim128b[21423]:,connect,4,89.155.122.64,Client#4
+2012-10-27T12:39:20.750927+00:00,sim128b[21423]:,disconnect,2,89.155.122.64,Client#4
+2012-10-27T12:56:38.018038+00:00,sim128b[21423]:,disconnect,4,89.155.122.64,Client#4
+2012-10-27T12:56:51.262856+00:00,sim128b[21423]:,connect,2,89.155.122.64,Client#4
+2012-10-27T13:25:34.236406+00:00,sim128b[21423]:,disconnect,2,89.155.122.64,Client#4
+2012-10-27T15:03:50.423553+00:00,sim128b[21423]:,disconnect,3,85.216.236.24,Client#2
+2012-10-27T15:04:00.198949+00:00,sim128b[21423]:,connect,2,80.101.235.54,danivenk
+2012-10-27T15:58:42.683412+00:00,sim128b[21423]:,disconnect,2,80.101.235.54,danivenk
+2012-10-27T15:58:53.242501+00:00,sim128b[21423]:,connect,3,98.251.79.180,Client#5
+2012-10-27T15:59:34.655143+00:00,sim128b[21423]:,connect,2,99.48.64.72,Jasperthecat1
+2012-10-27T15:59:50.494573+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,15,,hey
+2012-10-27T16:01:28.609764+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,hi jasper
+2012-10-27T16:01:31.499234+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",Hello?
+2012-10-27T16:01:42.619877+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,are you gonna build anything?
+2012-10-27T16:02:04.051299+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.","any free spots for anything, i dont mean players?"
+2012-10-27T16:02:32.870616+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,there's lots of cities if you want passenger & mail.... and there's lots of industry unused
+2012-10-27T16:04:45.144991+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,what are you looking for in particular?
+2012-10-27T16:04:57.492881+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",i have it no need for help
+2012-10-27T16:09:10.421251+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",i hope my buses don't get stuck in traffic
+2012-10-27T16:09:40.665953+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,it's usually not too bad
+2012-10-27T16:10:22.930680+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,I would not suggest using stop lights though... they just slow down vehicles
+2012-10-27T16:10:26.540975+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",how do i clone my buses?
+2012-10-27T16:10:48.606316+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,copy them inside the depot
+2012-10-27T16:11:27.534617+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,this other guy playing the map is very strange :(
+2012-10-27T16:11:59.444370+00:00,sim128b[21423]:,connect,4,85.216.236.24,Client#2
+2012-10-27T16:11:59.444533+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"he takes several of the accounts, but only builds roads :("
+2012-10-27T16:12:24.258700+00:00,sim128b[21423]:,disconnect,2,99.48.64.72,Jasperthecat1
+2012-10-27T16:12:26.974890+00:00,sim128b[21423]:,disconnect,4,85.216.236.24,Client#2
+2012-10-27T16:12:43.255924+00:00,sim128b[21423]:,connect,2,99.48.64.72,Jasperthecat1
+2012-10-27T16:15:09.389664+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",can your buses crash on impact?
+2012-10-27T16:15:17.586880+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",or road vehicles?
+2012-10-27T16:15:22.808373+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"no, no crashes in this game"
+2012-10-27T16:15:36.504792+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",lol i must be talking about OpenTTD
+2012-10-27T16:16:15.899082+00:00,sim128b[21423]:,connect,4,85.216.236.24,Client#2
+2012-10-27T16:16:26.233040+00:00,sim128b[21423]:,disconnect,2,99.48.64.72,Jasperthecat1
+2012-10-27T16:16:52.123389+00:00,sim128b[21423]:,connect,2,99.48.64.72,Jasperthecat1
+2012-10-27T16:19:30.961279+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",its windy today
+2012-10-27T16:19:42.378430+00:00,sim128b[21423]:,disconnect,3,98.251.79.180,Client#5
+2012-10-27T16:19:57.353690+00:00,sim128b[21423]:,connect,3,98.251.79.180,Client#5
+2012-10-27T16:20:06.438408+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",hi
+2012-10-27T16:20:28.548739+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,you can make some money from industries too
+2012-10-27T16:20:38.717149+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",i have to go
+2012-10-27T16:20:45.299969+00:00,sim128b[21423]:,chat,2,99.48.64.72,Jasperthecat1,6,"Jasperthecat1 LTD, and Co.",bye
+2012-10-27T16:20:47.564073+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,before you go....
+2012-10-27T16:20:48.767274+00:00,sim128b[21423]:,disconnect,2,99.48.64.72,Jasperthecat1
+2012-10-27T16:39:06.852024+00:00,sim128b[21423]:,disconnect,3,98.251.79.180,Client#5
+2012-10-27T16:39:35.269499+00:00,sim128b[21423]:,connect,2,98.251.79.180,Client#5
+2012-10-27T16:44:26.844980+00:00,sim128b[21423]:,disconnect,4,85.216.236.24,Client#2
+2012-10-27T16:47:53.509393+00:00,sim128b[21423]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,"password is ""2345"""
+2012-10-27T16:57:58.116380+00:00,sim128b[21423]:,connect,3,85.216.236.24,Client#2
+2012-10-27T17:00:38.571581+00:00,sim128b[21423]:,disconnect,3,85.216.236.24,Client#2
+2012-10-27T17:01:01.918611+00:00,sim128b[21423]:,connect,3,85.216.236.24,Client#2
+2012-10-27T17:10:37.652171+00:00,sim128b[21423]:,disconnect,3,85.216.236.24,Client#2
+2012-10-27T17:15:02.553545+00:00,sim128b[21423]:,connect,3,85.216.236.24,Client#2
+2012-10-27T17:15:43.851387+00:00,sim128b[21423]:,disconnect,3,85.216.236.24,Client#2
+2012-10-27T17:15:58.829712+00:00,sim128b[21423]:,connect,3,85.216.236.24,Client#2
+2012-10-27T17:17:51.202741+00:00,sim128b[21423]:,disconnect,3,85.216.236.24,Client#2
+2012-10-27T18:18:55.434459+00:00,sim128b[21423]:,connect,3,98.251.79.180,Client#5
+2012-10-27T18:25:30.670957+00:00,sim128b[21423]:,connect,4,98.251.79.180,Client#5
+2012-10-27T22:12:38.514145+00:00,sim128b[21423]:,connect,5,98.251.79.180,Client#5
+2012-10-27T22:44:58.965496+00:00,sim128b[21423]:,disconnect,2,98.251.79.180,Client#5
+2012-10-27T22:44:58.965548+00:00,sim128b[21423]:,disconnect,3,98.251.79.180,Client#5
+2012-10-27T22:44:58.965572+00:00,sim128b[21423]:,disconnect,4,98.251.79.180,Client#5
+2012-10-27T22:44:58.965599+00:00,sim128b[21423]:,disconnect,5,98.251.79.180,Client#5
+2012-10-27T22:45:09.638234+00:00,sim128b[21423]:,connect,6,98.251.79.180,Client#5
+2012-10-27T23:29:51.092294+00:00,sim128b[21423]:,disconnect,6,98.251.79.180,Client#5
+2012-10-27T23:30:14.621826+00:00,sim128b[21423]:,connect,2,98.251.79.180,Client#5

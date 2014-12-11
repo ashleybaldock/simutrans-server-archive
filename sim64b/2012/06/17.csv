@@ -1,0 +1,137 @@
+2012-06-17T00:22:39.729688+00:00,sim64b[23271]:,connect,2,98.119.121.135,Hi-Desert transport
+2012-06-17T01:06:40.282149+00:00,sim64b[23271]:,connect,3,124.150.102.246,Client#2
+2012-06-17T01:30:09.591997+00:00,sim64b[23271]:,connect,4,124.150.102.246,Client#2
+2012-06-17T06:10:49.393214+00:00,sim64b[23271]:,disconnect,2,98.119.121.135,Hi-Desert transport
+2012-06-17T06:10:49.393274+00:00,sim64b[23271]:,disconnect,3,124.150.102.246,Client#2
+2012-06-17T06:10:49.393298+00:00,sim64b[23271]:,disconnect,4,124.150.102.246,Client#2
+2012-06-17T06:10:49.393319+00:00,sim64b[23271]:,disconnect,6,87.151.236.10,.
+2012-06-17T06:11:07.767481+00:00,sim64b[23271]:,connect,5,80.132.162.223,Client#3
+2012-06-17T07:28:47.559917+00:00,sim64b[23271]:,connect,2,87.151.249.59,.
+2012-06-17T07:32:14.902056+00:00,sim64b[23271]:,disconnect,2,87.151.249.59,.
+2012-06-17T10:24:01.236826+00:00,sim64b[23271]:,connect,2,87.151.249.59,.
+2012-06-17T11:08:14.099889+00:00,sim64b[23271]:,disconnect,2,87.151.249.59,.
+2012-06-17T14:06:35.024077+00:00,sim64b[23271]:,disconnect,5,80.132.162.223,Client#3
+2012-06-17T14:06:53.381962+00:00,sim64b[23271]:,connect,2,80.132.149.77,Client#3
+2012-06-17T14:07:45.775825+00:00,sim64b[23271]:,connect,3,84.13.164.74,Client#3
+2012-06-17T14:18:59.034808+00:00,sim64b[23271]:,disconnect,3,84.13.164.74,Client#3
+2012-06-17T14:46:23.654565+00:00,sim64b[23271]:,connect,3,87.151.249.59,.
+2012-06-17T16:24:00.351009+00:00,sim64b[23271]:,connect,4,89.24.152.71,Client#2
+2012-06-17T17:22:30.556095+00:00,sim64b[23271]:,connect,5,80.132.149.77,Client#3
+2012-06-17T20:11:56.047287+00:00,sim64b[23271]:,connect,6,92.225.232.201,Client#6
+2012-06-17T20:11:56.244225+00:00,sim64b[23271]:,disconnect,2,80.132.149.77,Client#3
+2012-06-17T20:11:56.244377+00:00,sim64b[23271]:,disconnect,3,87.151.249.59,.
+2012-06-17T20:11:56.244403+00:00,sim64b[23271]:,disconnect,4,89.24.152.71,Client#2
+2012-06-17T21:09:22.551479+00:00,sim64b[23271]:,disconnect,5,80.132.149.77,Client#3
+2012-06-17T22:02:35.199129+00:00,sim64b[23271]:,connect,2,88.165.36.112,Client#7
+2012-06-17T22:14:12.923348+00:00,sim64b[23271]:,connect,3,87.151.249.59,.
+2012-06-17T22:14:13.121917+00:00,sim64b[23271]:,disconnect,6,92.225.232.201,Client#6
+2012-06-17T22:19:45.270555+00:00,sim64b[23271]:,disconnect,2,88.165.36.112,Client#7
+2012-06-17T22:20:12.003097+00:00,sim64b[23271]:,connect,2,88.165.36.112,Client#7
+2012-06-17T22:21:25.985151+00:00,sim64b[23271]:,disconnect,2,88.165.36.112,Client#7
+2012-06-17T22:21:50.745242+00:00,sim64b[23271]:,connect,2,88.165.36.112,Client#7
+2012-06-17T22:22:56.285786+00:00,sim64b[23271]:,disconnect,2,88.165.36.112,Client#7
+2012-06-17T22:22:56.964182+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,playtosor?
+2012-06-17T22:23:17.814963+00:00,sim64b[23271]:,connect,2,88.165.36.112,Client#7
+2012-06-17T22:23:30.730690+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,playtosor?
+2012-06-17T22:24:01.354303+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,yes ?
+2012-06-17T22:24:13.032005+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,just passing
+2012-06-17T22:24:25.197551+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,your route is cut @31.196
+2012-06-17T22:24:31.162726+00:00,sim64b[23271]:,disconnect,2,88.165.36.112,Client#7
+2012-06-17T22:24:53.522409+00:00,sim64b[23271]:,connect,2,88.165.36.112,Client#7
+2012-06-17T22:26:20.376955+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,looks like napik wants to rule this simutrans world^^
+2012-06-17T22:26:36.562063+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,15,,yeah
+2012-06-17T22:27:11.984754+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,"he pissed me invaded within a couple hours "
+2012-06-17T22:27:25.560252+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,every factory I started supplying
+2012-06-17T22:27:46.110408+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,15,,... that is really annoying
+2012-06-17T22:27:47.382155+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,"my cut route is to annoy him ... not very nice but ... heh "
+2012-06-17T22:28:09.015492+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,15,,lol :D
+2012-06-17T22:28:34.838395+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,oops I switched to napik :D
+2012-06-17T22:28:49.890480+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,lol
+2012-06-17T22:29:31.117190+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,anyway I'm very busy in RL right now ... so I kinda should thank him for pissing me :P
+2012-06-17T22:29:45.623683+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,"me2 "
+2012-06-17T22:30:02.512713+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,thats why I wasn't so much online last week
+2012-06-17T22:30:20.312213+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,yes I wondered if you had left
+2012-06-17T22:30:57.781340+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,I got pissed of because my passanger line 2 just do no win...
+2012-06-17T22:31:01.340505+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,:D
+2012-06-17T22:31:05.890317+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,yes
+2012-06-17T22:31:23.289718+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,did you see ? I replaced most of them with trams
+2012-06-17T22:31:39.693327+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,yeah I saw it :)
+2012-06-17T22:31:56.289699+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,and the plan was to add planes to help with the crowding
+2012-06-17T22:32:48.450392+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,"this pakset is unbalanced  "
+2012-06-17T22:32:54.780437+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,hmm I just made 3 big trains and my passanger line 1 do win with that
+2012-06-17T22:33:01.851325+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,yeah ...
+2012-06-17T22:33:06.117292+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,trying a pak128 now in solo
+2012-06-17T22:33:22.023597+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,pak128 is really bad with the years
+2012-06-17T22:33:34.632578+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,bad  with the years ?
+2012-06-17T22:33:34.909316+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,but in 1980 it makes a lot of fun
+2012-06-17T22:33:57.482283+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,ahm well if you will start in 1890 you do not have trains^^
+2012-06-17T22:34:07.899469+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,yes
+2012-06-17T22:34:26.157922+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,started in 1880 and ... uh ?
+2012-06-17T22:34:30.738205+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,but in pakbritain it works :)
+2012-06-17T22:34:35.264281+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,lol :D
+2012-06-17T22:34:58.215495+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,restarded in 1930 and so far love it
+2012-06-17T22:35:05.649633+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,haaaaard :D
+2012-06-17T22:35:18.345142+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,yeah
+2012-06-17T22:35:53.671606+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,I guess I'll try britain next
+2012-06-17T22:36:10.418843+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,"you can do so much losses you want, if your profit is positive you dont get bankrott lol"
+2012-06-17T22:36:31.653733+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,in Brittain ?
+2012-06-17T22:36:37.722122+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,no in pak128
+2012-06-17T22:36:57.360564+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,yes ... always in the red
+2012-06-17T22:37:17.152450+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,worse every year lol
+2012-06-17T22:37:18.613963+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,I had in the onlinegame of pak128 2million casualties
+2012-06-17T22:37:45.410754+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,1937 I'm at 4 millions minus
+2012-06-17T22:37:50.022980+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,lol :D
+2012-06-17T22:38:39.595933+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,the trains and so on are more  expensive than here
+2012-06-17T22:39:04.427311+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,yes and it's quite good
+2012-06-17T22:39:25.998136+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,but I really love their high maintenance
+2012-06-17T22:39:32.910527+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,"yeah, more realistic"
+2012-06-17T22:39:37.298646+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,you have to think and make choices
+2012-06-17T22:40:19.949362+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,I would be very glad if you can start there in the year 1800 or something like that^^
+2012-06-17T22:40:57.919325+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,me too
+2012-06-17T22:41:06.616364+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,if you will mix pak64+pak128=bestpak ever :D
+2012-06-17T22:41:20.288830+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,haha
+2012-06-17T22:41:34.852985+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,"more is not always better "
+2012-06-17T22:42:15.912531+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,"you play this game for a long time ,"
+2012-06-17T22:42:21.217109+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,?
+2012-06-17T22:42:32.058696+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,I started last year on ubuntu :)
+2012-06-17T22:43:18.182561+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,when did you start?
+2012-06-17T22:43:42.454015+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,one week before this server
+2012-06-17T22:43:48.337773+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,lol :D
+2012-06-17T22:43:57.530598+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,you learn really fast :)
+2012-06-17T22:44:01.910859+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,I had tried the game back when Hajo was alone
+2012-06-17T22:44:20.432804+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,but it was confusing as hell back then
+2012-06-17T22:44:29.952349+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,and left it quickly
+2012-06-17T22:44:41.273898+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,yes a quick learner :)
+2012-06-17T22:44:46.096901+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,:)
+2012-06-17T22:44:57.329375+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,but you were a great teacher lol
+2012-06-17T22:45:17.536402+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,thanks :=
+2012-06-17T22:45:40.703646+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,this is my 4th onlinegame
+2012-06-17T22:45:58.562259+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,always the same map right ?
+2012-06-17T22:46:15.554016+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,hmm no last year there was another map
+2012-06-17T22:46:42.242577+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,than I had a big pause so I started again on a france server
+2012-06-17T22:47:00.770344+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,france server ?
+2012-06-17T22:47:08.736691+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,wait
+2012-06-17T22:48:00.499109+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,the name is paretjes simutrans server
+2012-06-17T22:48:41.738197+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,"it is still in the list, but the server wasn't online since the last game"
+2012-06-17T22:48:57.753716+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,hmmm
+2012-06-17T22:49:47.333580+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,you aren't french are you ?
+2012-06-17T22:50:00.496314+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,no :)
+2012-06-17T22:50:18.750363+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,I'm german :)
+2012-06-17T22:50:28.273136+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,guten abend :P
+2012-06-17T22:50:33.417016+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,:D
+2012-06-17T22:50:41.777818+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,(and that's about all my german lol)
+2012-06-17T22:51:00.000059+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,"where are you from? "
+2012-06-17T22:51:02.871084+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,I'm from France
+2012-06-17T22:51:39.026227+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,I learned 10 years german ... and forgot almost everything :(
+2012-06-17T22:53:04.298552+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,"hmm I started learning france last year, but I canceled it.. france is a nice language but very hard"
+2012-06-17T22:53:39.281270+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,is it ?
+2012-06-17T22:54:10.703204+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,"yeah, the speech is the hardest, but the grammar is pretty easy :)"
+2012-06-17T22:54:23.239422+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,and my english is bad :P
+2012-06-17T22:54:39.055628+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,"my biggest problem in German was that I couldn't remember if a name was masculin, neutral or feminin"
+2012-06-17T22:54:55.385488+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,well I'm going sleeping now :) see you today lol^^
+2012-06-17T22:55:03.224434+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,"yeah me too "
+2012-06-17T22:55:19.330298+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,gute Nachte :D
+2012-06-17T22:55:34.576203+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,yeah that is hard too between france and german :)
+2012-06-17T22:55:49.386983+00:00,sim64b[23271]:,chat,3,87.151.249.59,.,12,Electrics.Ltd,bonne nuit
+2012-06-17T22:55:52.479071+00:00,sim64b[23271]:,chat,2,88.165.36.112,Client#7,9,Ileft SA,:)
+2012-06-17T22:56:02.112249+00:00,sim64b[23271]:,disconnect,3,87.151.249.59,.

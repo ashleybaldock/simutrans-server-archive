@@ -1,0 +1,74 @@
+2012-11-01T03:31:08.157269+00:00,sim128a[3798]:,connect,2,114.79.28.55,as
+2012-11-01T03:52:00.085568+00:00,sim128a[3798]:,connect,4,114.79.28.55,lOUNGER
+2012-11-01T05:57:45.793838+00:00,sim128a[3798]:,connect,5,90.33.92.223,Client#5
+2012-11-01T07:21:35.561502+00:00,sim128a[3798]:,connect,6,88.165.36.112,Client#1
+2012-11-01T07:21:35.699113+00:00,sim128a[3798]:,disconnect,2,114.79.28.55,as
+2012-11-01T07:21:35.699198+00:00,sim128a[3798]:,disconnect,3,98.251.79.180,Client#5
+2012-11-01T07:21:35.699221+00:00,sim128a[3798]:,disconnect,4,114.79.28.55,lOUNGER
+2012-11-01T07:21:55.848971+00:00,sim128a[3798]:,chat,5,90.33.92.223,Client#5,2,SNCFS,hi
+2012-11-01T07:22:27.851887+00:00,sim128a[3798]:,disconnect,6,88.165.36.112,Client#1
+2012-11-01T07:36:28.009705+00:00,sim128a[3798]:,disconnect,5,90.33.92.223,Client#5
+2012-11-01T07:36:45.199817+00:00,sim128a[3798]:,connect,2,90.33.92.223,Client#5
+2012-11-01T08:42:09.242774+00:00,sim128a[3798]:,disconnect,2,90.33.92.223,Client#5
+2012-11-01T08:42:13.448265+00:00,sim128a[3798]:,connect,3,90.33.92.223,Client#5
+2012-11-01T09:15:30.904282+00:00,sim128a[3798]:,namechange,3,90.33.92.223,Client#5,SNCFS
+2012-11-01T09:16:05.109195+00:00,sim128a[3798]:,namechange,3,90.33.92.223,SNCFS,Client#5
+2012-11-01T09:36:11.801869+00:00,sim128a[3798]:,connect,2,91.11.110.210,kalle
+2012-11-01T09:36:42.390757+00:00,sim128a[3798]:,chat,3,90.33.92.223,Client#5,2,SNCFS,Hi!
+2012-11-01T09:37:57.411370+00:00,sim128a[3798]:,disconnect,2,91.11.110.210,kalle
+2012-11-01T10:23:21.619939+00:00,sim128a[3798]:,connect,2,79.152.92.219,Client#2
+2012-11-01T10:26:09.629021+00:00,sim128a[3798]:,disconnect,2,79.152.92.219,Client#2
+2012-11-01T11:39:35.227968+00:00,sim128a[3798]:,disconnect,3,90.33.92.223,Client#5
+2012-11-01T11:39:48.483007+00:00,sim128a[3798]:,connect,2,90.33.92.223,Client#5
+2012-11-01T12:41:15.912515+00:00,sim128a[3798]:,connect,3,178.201.227.14,Kel Varnsen
+2012-11-01T12:55:09.304005+00:00,sim128a[3798]:,namechange,3,178.201.227.14,Kel Varnsen,Art Vandelay
+2012-11-01T13:54:10.974202+00:00,sim128a[3798]:,disconnect,2,90.33.92.223,Client#5
+2012-11-01T13:54:19.464608+00:00,sim128a[3798]:,connect,2,90.33.92.223,Client#5
+2012-11-01T15:40:57.684436+00:00,sim128a[3798]:,connect,4,80.101.235.54,danivenk
+2012-11-01T15:46:09.974628+00:00,sim128a[3798]:,disconnect,4,80.101.235.54,danivenk
+2012-11-01T16:28:38.455351+00:00,sim128a[3798]:,disconnect,3,178.201.227.14,Art Vandelay
+2012-11-01T16:28:54.377125+00:00,sim128a[3798]:,connect,3,90.33.92.223,Client#5
+2012-11-01T16:33:39.639518+00:00,sim128a[3798]:,connect,4,98.251.79.180,Client#4
+2012-11-01T16:33:39.696231+00:00,sim128a[3798]:,disconnect,2,90.33.92.223,Client#5
+2012-11-01T16:34:18.894040+00:00,sim128a[3798]:,chat,4,98.251.79.180,Client#4,15,,"sncfs, are you here?"
+2012-11-01T16:34:39.532480+00:00,sim128a[3798]:,chat,3,90.33.92.223,Client#5,2,SNCFS,yes !
+2012-11-01T16:34:53.296137+00:00,sim128a[3798]:,chat,4,98.251.79.180,Client#4,15,,do you have an account on server b?
+2012-11-01T16:35:14.055442+00:00,sim128a[3798]:,chat,3,90.33.92.223,Client#5,2,SNCFS,"yes but I think I'll left it, I didn't use it"
+2012-11-01T16:35:34.461977+00:00,sim128a[3798]:,chat,4,98.251.79.180,Client#4,15,,"oh, there's lots of slots free there....  I think I'm gonna play server b"
+2012-11-01T16:35:41.383765+00:00,sim128a[3798]:,chat,4,98.251.79.180,Client#4,15,,was wondering if maybe you wanteds to come too
+2012-11-01T16:35:53.827202+00:00,sim128a[3798]:,chat,3,90.33.92.223,Client#5,2,SNCFS,do you have a company on b ?
+2012-11-01T16:36:01.436252+00:00,sim128a[3798]:,chat,4,98.251.79.180,Client#4,15,,"yeah, I started one yesterday"
+2012-11-01T16:36:14.610979+00:00,sim128a[3798]:,chat,3,90.33.92.223,Client#5,2,SNCFS,"Ok, I may come"
+2012-11-01T16:36:22.993122+00:00,sim128a[3798]:,chat,3,90.33.92.223,Client#5,2,SNCFS,not a lot of people here
+2012-11-01T16:36:36.716412+00:00,sim128a[3798]:,chat,4,98.251.79.180,Client#4,15,,the other map was custom made
+2012-11-01T16:36:41.922305+00:00,sim128a[3798]:,chat,3,90.33.92.223,Client#5,2,SNCFS,indeed
+2012-11-01T16:36:58.906734+00:00,sim128a[3798]:,chat,3,90.33.92.223,Client#5,2,SNCFS,I'll start a company on b
+2012-11-01T16:37:13.387013+00:00,sim128a[3798]:,chat,3,90.33.92.223,Client#5,2,SNCFS,what company do you have on it ?
+2012-11-01T16:37:14.025103+00:00,sim128a[3798]:,chat,4,98.251.79.180,Client#4,15,,"ok, I'm there now..."
+2012-11-01T16:37:22.653029+00:00,sim128a[3798]:,chat,4,98.251.79.180,Client#4,15,,psk & Co KG
+2012-11-01T16:37:29.774352+00:00,sim128a[3798]:,chat,3,90.33.92.223,Client#5,2,SNCFS,ah the big one ;)
+2012-11-01T16:38:15.526152+00:00,sim128a[3798]:,disconnect,4,98.251.79.180,Client#4
+2012-11-01T17:07:41.440862+00:00,sim128a[3798]:,connect,2,178.201.227.14,Art Vandelay
+2012-11-01T18:59:16.569106+00:00,sim128a[3798]:,disconnect,2,178.201.227.14,Art Vandelay
+2012-11-01T18:59:16.569153+00:00,sim128a[3798]:,disconnect,3,90.33.92.223,Client#5
+2012-11-01T18:59:19.196835+00:00,sim128a[3798]:,connect,4,178.201.227.14,Art Vandelay
+2012-11-01T19:05:03.022495+00:00,sim128a[3798]:,connect,2,98.251.79.180,Client#4
+2012-11-01T19:05:19.682737+00:00,sim128a[3798]:,chat,2,98.251.79.180,Client#4,15,,"hi, who's here?"
+2012-11-01T19:11:27.342931+00:00,sim128a[3798]:,chat,2,98.251.79.180,Client#4,3,-empty-,"Go to ""message centre"" > ""chat"" to talk."
+2012-11-01T19:11:58.676781+00:00,sim128a[3798]:,chat,4,178.201.227.14,Art Vandelay,4,Vandelay Industries,Hi
+2012-11-01T19:12:12.024782+00:00,sim128a[3798]:,chat,2,98.251.79.180,Client#4,3,-empty-,"hi, do you play this game much?"
+2012-11-01T19:13:36.302369+00:00,sim128a[3798]:,chat,4,178.201.227.14,Art Vandelay,4,Vandelay Industries,"It depends. I've been playing it for a long time, but I've only started to play again recently."
+2012-11-01T19:13:39.777354+00:00,sim128a[3798]:,chat,2,98.251.79.180,Client#4,3,-empty-,do you want to come to Server B?  SNCFS built there too
+2012-11-01T19:13:48.578296+00:00,sim128a[3798]:,chat,2,98.251.79.180,Client#4,3,-empty-,I'm also on server B
+2012-11-01T19:14:09.113993+00:00,sim128a[3798]:,chat,4,178.201.227.14,Art Vandelay,4,Vandelay Industries,"Sure, why not. I'm as good as broke here, anyway."
+2012-11-01T19:14:21.547462+00:00,sim128a[3798]:,chat,2,98.251.79.180,Client#4,3,-empty-,"k, there's lots of free slots there"
+2012-11-01T19:14:46.580903+00:00,sim128a[3798]:,chat,4,178.201.227.14,Art Vandelay,4,Vandelay Industries,"Okay, I'll change servers now."
+2012-11-01T19:14:49.981109+00:00,sim128a[3798]:,chat,2,98.251.79.180,Client#4,3,-empty-,k
+2012-11-01T19:14:55.195065+00:00,sim128a[3798]:,disconnect,4,178.201.227.14,Art Vandelay
+2012-11-01T19:17:07.568110+00:00,sim128a[3798]:,connect,3,89.79.74.85,Przemek
+2012-11-01T20:39:48.946243+00:00,sim128a[3798]:,disconnect,2,98.251.79.180,Client#4
+2012-11-01T20:39:48.946283+00:00,sim128a[3798]:,disconnect,3,89.79.74.85,Przemek
+2012-11-01T20:39:52.873255+00:00,sim128a[3798]:,connect,4,69.138.176.94,Fifty
+2012-11-01T20:41:23.369644+00:00,sim128a[3798]:,connect,2,88.165.36.112,Client#1
+2012-11-01T20:42:02.060233+00:00,sim128a[3798]:,disconnect,2,88.165.36.112,Client#1
+2012-11-01T20:42:14.696874+00:00,sim128a[3798]:,disconnect,4,69.138.176.94,Fifty

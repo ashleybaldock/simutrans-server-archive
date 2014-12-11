@@ -1,0 +1,99 @@
+2013-01-13T00:01:35.660305+00:00,sim128b[20310]:,isconnect,3,71.200.128.99,Client#3
+2013-01-13T00:19:42.858745+00:00,sim128b[20310]:,isconnect,4,69.138.176.94,Fifty
+2013-01-13T00:30:51.762166+00:00,sim128b[20310]:,onnect,3,69.138.176.94,Fifty
+2013-01-13T00:38:02.258078+00:00,sim128b[20310]:,isconnect,3,69.138.176.94,Fifty
+2013-01-13T00:44:19.264287+00:00,sim128b[20310]:,onnect,3,69.138.176.94,Fifty
+2013-01-13T01:32:53.474398+00:00,sim128b[20310]:,isconnect,3,69.138.176.94,Fifty
+2013-01-13T01:45:05.603137+00:00,sim128b[20310]:,isconnect,2,71.200.128.99,Benjad
+2013-01-13T01:45:12.735365+00:00,sim128b[20310]:,onnect,3,71.200.128.99,Benjad
+2013-01-13T01:45:41.207609+00:00,sim128b[20310]:,onnect,2,71.200.128.99,Benjad
+2013-01-13T02:24:30.475609+00:00,sim128b[20310]:,onnect,4,14.199.13.214,Chung
+2013-01-13T02:24:30.604370+00:00,sim128b[20310]:,isconnect,3,71.200.128.99,Benjad
+2013-01-13T02:36:53.640917+00:00,sim128b[20310]:,isconnect,2,71.200.128.99,Benjad
+2013-01-13T02:37:15.106290+00:00,sim128b[20310]:,onnect,2,71.200.128.99,Benjad
+2013-01-13T02:48:48.272073+00:00,sim128b[20310]:,isconnect,4,14.199.13.214,Chung
+2013-01-13T03:59:53.082211+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,6,Planet Express,"CityTrans:   Can you remove roadblock @25,309"
+2013-01-13T07:44:17.885592+00:00,sim128b[20310]:,onnect,3,14.199.13.214,Chung
+2013-01-13T07:45:06.840789+00:00,sim128b[20310]:,hat,3,14.199.13.214,Chung,4,CityTrans,removed
+2013-01-13T10:55:49.060210+00:00,sim128b[20310]:,isconnect,2,71.200.128.99,Benjad
+2013-01-13T10:55:49.060342+00:00,sim128b[20310]:,isconnect,3,14.199.13.214,Chung
+2013-01-13T10:55:55.235740+00:00,sim128b[20310]:,onnect,4,62.238.177.205,Client#7
+2013-01-13T11:23:36.362335+00:00,sim128b[20310]:,isconnect,4,62.238.177.205,Client#7
+2013-01-13T11:24:47.813688+00:00,sim128b[20310]:,onnect,2,62.238.177.205,Client#7
+2013-01-13T13:05:39.619767+00:00,sim128b[20310]:,isconnect,2,62.238.177.205,Client#7
+2013-01-13T13:05:50.624399+00:00,sim128b[20310]:,onnect,2,62.238.177.205,Client#7
+2013-01-13T13:32:19.872127+00:00,sim128b[20310]:,isconnect,2,62.238.177.205,Client#7
+2013-01-13T15:14:25.047810+00:00,sim128b[20310]:,onnect,2,69.138.176.94,Fifty
+2013-01-13T16:51:55.408670+00:00,sim128b[20310]:,onnect,3,62.238.177.205,Client#7
+2013-01-13T18:13:35.443637+00:00,sim128b[20310]:,isconnect,2,69.138.176.94,Fifty
+2013-01-13T18:13:35.443786+00:00,sim128b[20310]:,isconnect,3,62.238.177.205,Client#7
+2013-01-13T18:13:41.545575+00:00,sim128b[20310]:,onnect,4,62.238.177.205,Client#7
+2013-01-13T18:51:17.645548+00:00,sim128b[20310]:,onnect,2,71.200.128.99,Benjad
+2013-01-13T18:53:01.371481+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,15,,"Ok, city trans is making money by flying passengers across the map, when they are only going nextdoor?  Is this fair play?  If so, I will be doing the same"
+2013-01-13T18:53:49.619243+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,15,,"Also, this is why all our other routes are one sided, the capacity of this is so low, all my (and abi) routes run to teh exchange full, but leave empty, bc there is nowhere near enought capacity"
+2013-01-13T18:54:21.533258+00:00,sim128b[20310]:,isconnect,2,71.200.128.99,Benjad
+2013-01-13T18:57:59.219152+00:00,sim128b[20310]:,hat,4,62.238.177.205,Client#7,8,Abellio,"Hmm.. Never saw that tactic before, its not fair indeed, as it has not anything to do with the reality.. Im not gonna do the same, as it just isnt factual. "
+2013-01-13T19:02:05.562246+00:00,sim128b[20310]:,onnect,2,71.200.128.99,Benjad
+2013-01-13T19:03:17.849533+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,15,,"Thats why we have no traffic from public service airport.  Each city goes to the big airport.  I am going to discontinue service to it, we should connect a different way, and stop running 1/2 full planes"
+2013-01-13T19:03:45.385899+00:00,sim128b[20310]:,hat,4,62.238.177.205,Client#7,8,Abellio,"Good idea, lets start a new public airport somewhere?"
+2013-01-13T19:04:35.996489+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,15,,"That will bring passenger loads to balance.. bc all his cities are overflowing with pax, bc the airlines can't handle the volume"
+2013-01-13T19:06:04.567482+00:00,sim128b[20310]:,hat,4,62.238.177.205,Client#7,8,Abellio,Indeed. We should just make our own exchange
+2013-01-13T19:06:35.205478+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,15,,Suggestions as to where?
+2013-01-13T19:07:07.160417+00:00,sim128b[20310]:,hat,4,62.238.177.205,Client#7,8,Abellio,Beween Rathdrum and Brookings? Or just a central place in the midst of the map?
+2013-01-13T19:09:06.857983+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,15,,"Or, we could do like him.. near @496,18"
+2013-01-13T19:09:44.613880+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,15,,"But I think that is bad, that is an exploit"
+2013-01-13T19:10:00.654795+00:00,sim128b[20310]:,hat,4,62.238.177.205,Client#7,8,Abellio,Yes.. Then we would do the same ;p
+2013-01-13T19:10:36.169943+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,15,,"Yeah, so shouldn't do that.  How about middle of the map, just south of @290, 231 of hte map "
+2013-01-13T19:10:58.375629+00:00,sim128b[20310]:,hat,4,62.238.177.205,Client#7,8,Abellio,Fine!
+2013-01-13T19:11:40.604078+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,15,,"I will build it.  This will bring you pax numbers down, but hopefully since long haul connections run full, it won't hurt"
+2013-01-13T19:12:02.315427+00:00,sim128b[20310]:,hat,4,62.238.177.205,Client#7,8,Abellio,Hopefully!
+2013-01-13T19:16:43.372336+00:00,sim128b[20310]:,isconnect,4,62.238.177.205,Client#7
+2013-01-13T19:16:53.069321+00:00,sim128b[20310]:,onnect,3,62.238.177.205,Client#7
+2013-01-13T19:18:19.891765+00:00,sim128b[20310]:,hat,3,62.238.177.205,Client#7,15,,"Rename it to ""Planet & Abellio private airport"" or something like that"
+2013-01-13T19:18:31.874874+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,6,Planet Express,Got it
+2013-01-13T19:18:57.572343+00:00,sim128b[20310]:,onnect,4,69.138.176.94,Fifty
+2013-01-13T19:20:57.937185+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,6,Planet Express,All set
+2013-01-13T19:21:07.702670+00:00,sim128b[20310]:,hat,3,62.238.177.205,Client#7,8,Abellio,Thanks!
+2013-01-13T19:21:11.193074+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,6,Planet Express,Rerouting with some wait orders
+2013-01-13T19:23:13.233025+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,6,Planet Express,All mine are off
+2013-01-13T19:23:23.615777+00:00,sim128b[20310]:,hat,3,62.238.177.205,Client#7,8,Abellio,Same
+2013-01-13T19:38:54.060532+00:00,sim128b[20310]:,isconnect,4,69.138.176.94,Fifty
+2013-01-13T19:39:20.452048+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,6,Planet Express,my monthly profit is skyrocketing
+2013-01-13T19:39:48.840904+00:00,sim128b[20310]:,hat,3,62.238.177.205,Client#7,8,Abellio,Mine either
+2013-01-13T19:39:57.469255+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,6,Planet Express,241k to 415k
+2013-01-13T19:40:30.406882+00:00,sim128b[20310]:,onnect,4,69.138.176.94,Fifty
+2013-01-13T19:40:31.240841+00:00,sim128b[20310]:,hat,3,62.238.177.205,Client#7,8,Abellio," 140-269, must be because of the airport"
+2013-01-13T19:40:56.616667+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,6,Planet Express,"Yup, bc the biggest money making routes were running 1/2 empty"
+2013-01-13T19:57:06.732678+00:00,sim128b[20310]:,isconnect,2,71.200.128.99,Benjad
+2013-01-13T19:57:22.912089+00:00,sim128b[20310]:,onnect,2,71.200.128.99,Benjad
+2013-01-13T19:58:41.321735+00:00,sim128b[20310]:,isconnect,4,69.138.176.94,Fifty
+2013-01-13T20:11:15.059499+00:00,sim128b[20310]:,onnect,4,69.138.176.94,Fifty
+2013-01-13T20:32:29.147428+00:00,sim128b[20310]:,isconnect,3,62.238.177.205,Client#7
+2013-01-13T21:18:40.956992+00:00,sim128b[20310]:,onnect,3,94.21.138.188,Client#2
+2013-01-13T21:23:51.884150+00:00,sim128b[20310]:,isconnect,2,71.200.128.99,Benjad
+2013-01-13T21:24:31.566653+00:00,sim128b[20310]:,isconnect,3,94.21.138.188,Client#2
+2013-01-13T21:24:49.634368+00:00,sim128b[20310]:,onnect,2,94.21.138.188,Client#2
+2013-01-13T21:31:02.125415+00:00,sim128b[20310]:,isconnect,2,94.21.138.188,Client#2
+2013-01-13T22:00:14.342127+00:00,sim128b[20310]:,isconnect,4,69.138.176.94,Fifty
+2013-01-13T22:00:21.278715+00:00,sim128b[20310]:,onnect,2,71.200.128.99,Benjad
+2013-01-13T22:11:37.665127+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,6,Planet Express,Not welcome back macbook
+2013-01-13T22:12:35.661353+00:00,sim128b[20310]:,onnect,3,69.138.176.94,Fifty
+2013-01-13T22:22:07.026230+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,6,Planet Express,"Fifty, u around?"
+2013-01-13T22:22:15.354654+00:00,sim128b[20310]:,hat,3,69.138.176.94,Fifty,12,RF&P,y
+2013-01-13T22:22:32.432570+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,6,Planet Express,You want some factories to connect.. loll
+2013-01-13T22:22:41.274618+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,6,Planet Express,can't believe `em all
+2013-01-13T22:23:02.017058+00:00,sim128b[20310]:,hat,3,69.138.176.94,Fifty,12,RF&P,need more freight players :)
+2013-01-13T22:23:14.393687+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,6,Planet Express,That never happens!
+2013-01-13T22:23:29.179586+00:00,sim128b[20310]:,hat,3,69.138.176.94,Fifty,12,RF&P,?
+2013-01-13T22:25:26.787975+00:00,sim128b[20310]:,isconnect,3,69.138.176.94,Fifty
+2013-01-13T22:25:43.872096+00:00,sim128b[20310]:,onnect,3,69.138.176.94,Fifty
+2013-01-13T22:29:55.468400+00:00,sim128b[20310]:,onnect,4,187.35.53.175,cleberson
+2013-01-13T22:30:35.993454+00:00,sim128b[20310]:,hat,3,69.138.176.94,Fifty,12,RF&P,but what do a lot of people not like doing freight?
+2013-01-13T22:31:03.154190+00:00,sim128b[20310]:,isconnect,2,71.200.128.99,Benjad
+2013-01-13T22:31:17.013650+00:00,sim128b[20310]:,onnect,2,71.200.128.99,Benjad
+2013-01-13T22:31:25.698556+00:00,sim128b[20310]:,isconnect,4,187.35.53.175,cleberson
+2013-01-13T22:31:40.070776+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,15,,"I think its timing, yesterday there were virtually no factories"
+2013-01-13T22:31:49.349930+00:00,sim128b[20310]:,hat,2,71.200.128.99,Benjad,15,,now they have exploded
+2013-01-13T22:32:18.513824+00:00,sim128b[20310]:,hat,3,69.138.176.94,Fifty,12,RF&P,"yes, a lot of cities reached 5k then."
+2013-01-13T22:37:28.900881+00:00,sim128b[20310]:,isconnect,2,71.200.128.99,Benjad
+2013-01-13T23:09:48.100561+00:00,sim128b[20310]:,isconnect,3,69.138.176.94,Fifty

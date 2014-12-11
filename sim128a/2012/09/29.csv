@@ -1,0 +1,372 @@
+2012-09-29T00:26:52.639852+00:00,sim128a[28322]:,disconnect,5,98.251.79.180,Client#5
+2012-09-29T00:38:35.578661+00:00,sim128a[28322]:,connect,4,98.251.79.180,Client#5
+2012-09-29T00:40:26.664098+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,who's here?  alliance?
+2012-09-29T01:05:15.891160+00:00,sim128a[28322]:,disconnect,4,98.251.79.180,Client#5
+2012-09-29T01:05:39.511411+00:00,sim128a[28322]:,connect,4,98.251.79.180,Client#5
+2012-09-29T01:16:11.562719+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,JUST ME
+2012-09-29T01:16:24.888832+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,do you ever talk to fr?
+2012-09-29T01:16:38.358080+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,i rarely see him
+2012-09-29T01:16:43.431128+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,why?
+2012-09-29T01:16:53.224125+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,I left him a message at start and near his city
+2012-09-29T01:17:09.467770+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"but if you talk to you him, you could probably explain it"
+2012-09-29T01:17:32.426584+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"(186,150) I got my ships out, but can't get out helloworld's ship :("
+2012-09-29T01:17:41.786556+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,he can't get that ship out either :(
+2012-09-29T01:17:49.701582+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"y, paichtis said"
+2012-09-29T01:17:57.535551+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,that one's stuck for good
+2012-09-29T01:18:07.958940+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,navy jam ftw xD
+2012-09-29T01:18:13.006579+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"I used ""withraw all"" command on my ships because they were empty"
+2012-09-29T01:18:20.916013+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,but his has passengers :(
+2012-09-29T01:18:38.306010+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,funny how 1 signal can cause so much problems^^
+2012-09-29T01:18:50.180063+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,well
+2012-09-29T01:19:01.390134+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,i doubt the passengers will just jump outta the window^^
+2012-09-29T01:19:15.676197+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,you can't withdraw full vehicles somehow can you?
+2012-09-29T01:19:31.976055+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,xDD imagine being trapped on a ship for over a decade xD
+2012-09-29T01:19:45.808192+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,withdraw``?
+2012-09-29T01:19:58.493803+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,well set a waypoint and send it toit
+2012-09-29T01:20:06.662903+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"go to ""line management"" each line has a ""withdraw all"" command"
+2012-09-29T01:20:31.311990+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"oh, no you can't  see the river isn't connected?"
+2012-09-29T01:20:41.785095+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,how did it get disconnected?
+2012-09-29T01:21:06.589487+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,no
+2012-09-29T01:21:11.890459+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,i think its connected
+2012-09-29T01:21:19.478514+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,its just a graphical glitch
+2012-09-29T01:21:29.188869+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,there were ships coming from both sides
+2012-09-29T01:21:34.746692+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"186,150 is not connected to 187 150"
+2012-09-29T01:22:08.641096+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,hmm true
+2012-09-29T01:22:10.445099+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,ut
+2012-09-29T01:22:26.077166+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"it was before, i guess paichtis was fiddling around with it"
+2012-09-29T01:22:38.786988+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,he couldnt get tat 1 ship outta there nonetheless
+2012-09-29T01:22:44.221945+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,*that
+2012-09-29T01:23:04.758326+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,if it was connected he could change schedule and it would come out probably
+2012-09-29T01:23:21.721864+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"oh, sorry"
+2012-09-29T01:23:30.940385+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,he was trying
+2012-09-29T01:23:32.031591+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,for saying that
+2012-09-29T01:23:39.118982+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"well, alliance is gone now?"
+2012-09-29T01:23:43.120486+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,nothing to be sorry about
+2012-09-29T01:23:45.558440+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,so it staying stuck
+2012-09-29T01:23:47.815544+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,just busy i guess
+2012-09-29T01:24:11.303934+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"i guess it will move once the trains are fixed, which caused the gridlock in the first place"
+2012-09-29T01:24:25.444818+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"well its 1 ship, not the end of the world"
+2012-09-29T01:24:36.119450+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"especially for paichtis, he has more than enough money xD"
+2012-09-29T01:24:37.267959+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,it's also all of alliances trains too
+2012-09-29T01:24:46.303199+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,isnt that just a few lines?
+2012-09-29T01:25:16.477026+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,follow the backed up trains... it backs up quite a few of them
+2012-09-29T01:25:29.195940+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,i know
+2012-09-29T01:25:38.490459+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,my gridlocks are bigger though^^
+2012-09-29T01:26:31.168042+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"btw about FR, there's one thing i gotta agree on with paichtis"
+2012-09-29T01:27:03.144091+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"it kinda sucks that he's connecting producer & consumer if by accident or not or just for the pax , dunno, in his region up there"
+2012-09-29T01:27:09.839910+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,it looks like a plague
+2012-09-29T01:27:37.649587+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"yeah, the basic problem is the 1 station; I explained it to him so he would understand"
+2012-09-29T01:28:01.087741+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"(77,41) I left a message"
+2012-09-29T01:28:26.889329+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,its only a problem if that station is enabled for goods aswell
+2012-09-29T01:28:43.693446+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,y just saw it
+2012-09-29T01:28:47.518479+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"maybe he is trying ot do goodes, I can't tell"
+2012-09-29T01:28:58.040383+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,doubt it
+2012-09-29T01:29:08.749268+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"I suggested he used a goods only station, not passenger & mail"
+2012-09-29T01:29:27.119432+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,??? you mean the other way around i guess
+2012-09-29T01:29:30.750627+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"although he might not want to do that, because of possible problems"
+2012-09-29T01:30:06.173048+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"I thought fr was trying to connect goods and not passenger (if it's the other way around, then that's a little different)"
+2012-09-29T01:30:20.398614+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,hes shipping pax
+2012-09-29T01:30:24.157377+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,& mail
+2012-09-29T01:30:41.225697+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"if he's trying to connect passenger only, then yes, he must make sure to remove all goods tiles"
+2012-09-29T01:31:07.536630+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,xD i like our public interchanges so much lol
+2012-09-29T01:31:13.397760+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,so eay and much generated money
+2012-09-29T01:32:12.561910+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,I wonder who started that
+2012-09-29T01:32:27.327984+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,what? the public interchanges?
+2012-09-29T01:32:28.190874+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,there was one the last 2 servers
+2012-09-29T01:32:53.948535+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,a central interchange both times  ... instead of exchanging at multiple locations
+2012-09-29T01:33:06.530851+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,isnt 1 station easier?
+2012-09-29T01:33:08.780609+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,well sometimes exchanging at other spots
+2012-09-29T01:33:24.750267+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,easier?  yes?   more realistic?  hmm not so much
+2012-09-29T01:33:35.086054+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,well realistic
+2012-09-29T01:33:51.373878+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,well it does affect the game too (makes some parts too easy)
+2012-09-29T01:33:51.612640+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"this ""world"" is not big, i mean we have like 20/30 cities"
+2012-09-29T01:34:02.485461+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,1/2 big airports is quite possible
+2012-09-29T01:34:17.418897+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,thats true in a way
+2012-09-29T01:34:19.951631+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,there is an alternatie solution
+2012-09-29T01:34:26.323017+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,which wuold be?
+2012-09-29T01:34:41.269213+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,1. no public stations
+2012-09-29T01:34:51.088061+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,well
+2012-09-29T01:34:57.999318+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,2. players can specify on each station who can exchange with them there
+2012-09-29T01:35:11.564891+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,so stations are always owned by a real player
+2012-09-29T01:35:15.738794+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,i can tell you flat out that without a public station i wouldnt be able to play online
+2012-09-29T01:35:31.403761+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,and people pick players they want to exchange with at specific stations
+2012-09-29T01:35:34.024221+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,because when i came only a few very tiny cities left and nearly no industry
+2012-09-29T01:36:18.282921+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,how does the pax&mail interchange work if you station is not public?
+2012-09-29T01:36:27.570849+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,*your
+2012-09-29T01:36:40.270093+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,basically this:  1. click on a station you own
+2012-09-29T01:36:49.080498+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,2. you get a list of all the players
+2012-09-29T01:37:06.106276+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,3. you check which players can connect to that station (exchange goods/passenger)
+2012-09-29T01:37:18.185928+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,other players can then stop there .... ore
+2012-09-29T01:37:34.652802+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,well that would be one soilution (though its not implemented yet)
+2012-09-29T01:37:37.245069+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,they can build their own station right next to it that connects (and acts like one big station)
+2012-09-29T01:38:15.410385+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,^^
+2012-09-29T01:38:29.376624+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"additionally, you could check which players can delete/add stops to the station"
+2012-09-29T01:39:03.224159+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"anyways, something like that might work if you didn't have public stations"
+2012-09-29T01:39:22.817244+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"although this would be quite nice, wouldnt this be a disadvantage for people that don't have/invest that much time + dont talk as much as we do?"
+2012-09-29T01:39:46.725444+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,that would shut them out nd make it significant harder for them
+2012-09-29T01:39:57.745808+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"yeah, probably so; but no it would not shut them out"
+2012-09-29T01:40:11.160523+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,i think it would
+2012-09-29T01:40:17.721711+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,you could designation one of yoru stations to allow all players to connect; thus it becomes like a public exchange
+2012-09-29T01:40:34.824360+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,so you get the same thing *almost*
+2012-09-29T01:40:45.861044+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"not much time/desire to talk : cant connect pax with other ppl, on a pubvlic interchange you just have create a line and connect it"
+2012-09-29T01:41:05.165278+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,this is the same thing
+2012-09-29T01:41:19.617149+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"well, it would be a lot more realistic than building a stop and then making it public"
+2012-09-29T01:41:37.230797+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"for example, lets say I still owned (23,57)... and let everyone connect to it"
+2012-09-29T01:41:47.123702+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,i think this is something on a grander scale
+2012-09-29T01:41:51.608209+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,the connecting stuff
+2012-09-29T01:41:56.282708+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,it would still work the same as it is working now (as public exchange)
+2012-09-29T01:42:05.546028+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,except a player actually owns it (me)
+2012-09-29T01:42:06.224539+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,io mean there should be something like that for roads/canals/tracks etc aswell
+2012-09-29T01:42:18.330427+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,that you can enable who can connect and who cant
+2012-09-29T01:42:31.724084+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,would make it quite interesting in some respect for people sharing tracks
+2012-09-29T01:42:43.730814+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"you can share tracks now, did you know?"
+2012-09-29T01:42:56.263307+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"yes, but they cant just connect "
+2012-09-29T01:43:21.589443+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,all you gotta do is make one train tile public and they can
+2012-09-29T01:43:21.997540+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"if youn make a tile public then yes, but what i mean is that you cant just connect your tracks with mine"
+2012-09-29T01:43:35.117459+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,but you can't use someoene's stations :(
+2012-09-29T01:43:45.548458+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"i hope we get the new elevated, bridges and tunnels soon for pak128"
+2012-09-29T01:44:09.324917+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,i wanna do my mole stuff and create a multitrain track underground and offering people to use it as well
+2012-09-29T01:44:46.399023+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"though people may not use it, but i still wanna try it , cause i like mah underground^^"
+2012-09-29T01:45:06.858340+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,you could do that now.... if you want to try it out somewhere?
+2012-09-29T01:45:22.196967+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,too expensive
+2012-09-29T01:45:42.350946+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"+ we only have 280 kmh tunnel , so no variety there"
+2012-09-29T01:46:16.248768+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,btw do you know why a 50kmh road tunnel is more expensive in terms of maintenance than a 280kmh train tunnel?
+2012-09-29T01:46:33.824022+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,nope.. mayge I can find a track to try it out on :)
+2012-09-29T01:46:54.086822+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,?
+2012-09-29T01:47:08.264371+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,what do you wanna try?
+2012-09-29T01:47:13.357825+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,me run a train on yoru track? :)
+2012-09-29T01:47:26.093708+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,oh y we can though i think it works erm
+2012-09-29T01:48:07.622936+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"(195,395) alot of space there"
+2012-09-29T01:48:19.517101+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,for?
+2012-09-29T01:48:48.230835+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"if you wanna try it , i created a short tack"
+2012-09-29T01:49:09.661822+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"no, I mean "
+2012-09-29T01:49:19.246836+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,?
+2012-09-29T01:49:21.294895+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,I mean let's do it for real... one of your real tracks
+2012-09-29T01:49:34.641705+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,wanna try? :)
+2012-09-29T01:49:39.124842+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"ah i c "
+2012-09-29T01:49:43.598555+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,let me look around first if so
+2012-09-29T01:49:48.947701+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,^^
+2012-09-29T01:50:48.744486+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"though i have to say flat out everything going from  (341,237) all the way to black gold cant be shared, cause there are already a lot of trains on it"
+2012-09-29T01:52:02.180597+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"also for reference, all tracks are 110kmh and the trains on it can run 110"
+2012-09-29T01:52:39.566463+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"underground, ones?  what do they run?"
+2012-09-29T01:53:03.267219+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,which ones do you mean exactly?
+2012-09-29T01:53:09.147963+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,do you run 110 trains underground too?
+2012-09-29T01:53:30.253687+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,oh 120
+2012-09-29T01:53:40.804469+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"(431,136)"
+2012-09-29T01:53:41.988919+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,depends where
+2012-09-29T01:54:08.746659+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,could I go from there to gresham on your rail?
+2012-09-29T01:54:18.790117+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"that one is up for 280 "
+2012-09-29T01:54:26.043672+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"don't change yet, let me do some stuff"
+2012-09-29T01:54:33.585870+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,though ofc my train's not faster than 120 due to waggons
+2012-09-29T01:54:34.997805+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"yes, but your trains run at 120 max"
+2012-09-29T01:54:38.327558+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,y
+2012-09-29T01:54:52.299913+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,so I should use a train that runs at 120
+2012-09-29T01:55:03.011606+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,how about it?  can we try?  :)  please :)
+2012-09-29T01:55:07.886947+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,sure
+2012-09-29T01:55:09.520565+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,also
+2012-09-29T01:55:19.909786+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,you can use a faster one if you like
+2012-09-29T01:55:22.879576+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"ok, let me do some work first, then I'll let you know where to connect ok?"
+2012-09-29T01:55:53.644360+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,that long tunnel has approxiamately 8-10 trains that run on it
+2012-09-29T01:56:17.755654+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"but there are quite some intervals , so dont feel limited to 120 only"
+2012-09-29T01:57:00.443828+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"well, I'll probably hit the 120 cap too.... 120 is max for goods right?"
+2012-09-29T01:57:15.146678+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,140
+2012-09-29T01:58:37.037031+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"well, cooled goods 200 and general cargo 180"
+2012-09-29T01:58:54.707429+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,and most others between 130-150
+2012-09-29T02:00:09.996985+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"look at (440,136) .... how does that look? :)"
+2012-09-29T02:00:11.564780+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"though of course, if you share stuff like rail tracks you have to have faith that both are capable and know what they'r doing , and ofc not grieving"
+2012-09-29T02:00:30.196494+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,looking good
+2012-09-29T02:00:38.604346+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,you want the wile next to it public?
+2012-09-29T02:00:45.307868+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"(440,136) and (440,137) as public?"
+2012-09-29T02:01:15.773294+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,y
+2012-09-29T02:02:20.107297+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"cool, thanks :)"
+2012-09-29T02:02:39.509418+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,now I gotta do the other side :)
+2012-09-29T02:02:51.248781+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,^^ np i like it when all pieces come together and complete a larger goal/stuff
+2012-09-29T02:03:21.655466+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,where you gonna ship that oil to?
+2012-09-29T02:04:00.652897+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"(620,105) is along your line"
+2012-09-29T02:04:43.942765+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"if you could modify your intersection at (627,136) with two north lines.... I could connect?"
+2012-09-29T02:05:13.861227+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,I don't think you want a rail crossing your lines earlier
+2012-09-29T02:05:21.383373+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,what exactly do you mean by 2 northlines?
+2012-09-29T02:05:35.822013+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,well you see your rail?  the power station is north of it
+2012-09-29T02:05:51.111516+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"y , ah ok 1sec"
+2012-09-29T02:06:12.669060+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,ah now i remeber FUCK XD
+2012-09-29T02:06:20.737566+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,1 sec i screwed something up
+2012-09-29T02:08:25.790543+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,isnt that refinery getting enough oil? (just asking)
+2012-09-29T02:08:53.906247+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"well, I can cancel one of my routes... but this is close to your line, so maybe an easy test?"
+2012-09-29T02:12:42.183187+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,what are those 2 new platforms for?  are you delivering stuff there?
+2012-09-29T02:14:30.992607+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,don't make the stop public
+2012-09-29T02:14:47.629472+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"yy dont worry, i was just too into building the connection myself xDD"
+2012-09-29T02:15:03.441167+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"maybe make (620,114) public, then delete everything north of that?"
+2012-09-29T02:15:22.185245+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,or I could build the ENTIRE north spur if you prefer
+2012-09-29T02:15:32.615794+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,its fine dont worry^^
+2012-09-29T02:15:56.049739+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,sure? you don't even use that part
+2012-09-29T02:16:51.733366+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,nice :)
+2012-09-29T02:17:27.000394+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,i dont use it cause i didnt think of creating a network like this
+2012-09-29T02:17:40.779249+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,if possible expect something 5times coller next map xD
+2012-09-29T02:19:17.744889+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"(431,153) started, if you want to watch"
+2012-09-29T02:20:12.127829+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,u need electricity mate
+2012-09-29T02:20:20.524536+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,^^
+2012-09-29T02:20:46.966636+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,nvm im dumb
+2012-09-29T02:20:53.223559+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"I have 3rd rail electric, but maybe it's not connected somewhere"
+2012-09-29T02:21:41.856574+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,used waypoints to find problem....
+2012-09-29T02:22:22.860878+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"well i have never done something like this, but trains should be able to use my tracks, otherwis eno ppoint in railgates"
+2012-09-29T02:22:42.041542+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,I think it was that missing electric
+2012-09-29T02:22:49.591581+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,where?
+2012-09-29T02:23:03.020253+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,on my track at tunnel entrance area
+2012-09-29T02:23:16.207968+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,or somewhere around there (not sure if underground or not
+2012-09-29T02:23:20.165533+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,oh ofuck
+2012-09-29T02:23:31.476869+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,train is running fine
+2012-09-29T02:23:48.252055+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,problem solved lol :S
+2012-09-29T02:24:15.136756+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,i nearly let them run through my choose signal^^
+2012-09-29T02:24:43.001988+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"btw, there's no track back yet"
+2012-09-29T02:25:21.484228+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"hmm, something is wrong"
+2012-09-29T02:25:32.525672+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,they did not turn into the north line
+2012-09-29T02:25:45.738418+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,maybe because i changed the tracks ?
+2012-09-29T02:26:05.945354+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,let's see what they do now
+2012-09-29T02:26:49.348016+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,xD?
+2012-09-29T02:26:55.446087+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,that train made profit already?
+2012-09-29T02:27:08.425299+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,don't ask me how
+2012-09-29T02:27:17.215983+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,xDD
+2012-09-29T02:27:19.596272+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,it must have when it stopped at your station
+2012-09-29T02:27:42.854440+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"but, I didn't set a stop at your station; this is weird, weird, weird"
+2012-09-29T02:28:01.706844+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"btw, can you finish the line back?"
+2012-09-29T02:28:13.770478+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"well, y, theyxdidnt go into it cause i deleted the track and changed the route with that"
+2012-09-29T02:28:17.085697+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,??
+2012-09-29T02:28:27.142309+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,the line is finished
+2012-09-29T02:28:39.710922+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,it is?
+2012-09-29T02:28:48.812008+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"oh, it goes under"
+2012-09-29T02:28:54.207694+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,y
+2012-09-29T02:29:14.538285+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"thought it would be easier that way, instead of connecting to the end of my station"
+2012-09-29T02:29:26.518453+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,where it could be delayed a little due to traffic
+2012-09-29T02:29:35.403697+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"i emphasize the could "
+2012-09-29T02:30:10.765614+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,working nice =)
+2012-09-29T02:30:12.758808+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"actually, you could improve speed, by changing (517,137)"
+2012-09-29T02:30:44.076800+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,?
+2012-09-29T02:30:49.596934+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"signals at (518,137) (517,138) (516,136) or a dip under"
+2012-09-29T02:31:36.916601+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"if a train is coming from the south, the east and west trains will wait a loooooooong time"
+2012-09-29T02:31:38.574594+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,like this?
+2012-09-29T02:31:45.505738+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,yup
+2012-09-29T02:31:57.278524+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,and the other 2 spots
+2012-09-29T02:32:24.590570+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,true dat
+2012-09-29T02:32:33.756054+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"well, was never really an issue due to low traffic"
+2012-09-29T02:32:44.031024+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"and 517,138.... that's important one too"
+2012-09-29T02:33:04.530665+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,that should make the chance of slowdowns less
+2012-09-29T02:33:23.888994+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"true, y didnt catch that thx"
+2012-09-29T02:33:45.895157+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"like i saidm  never really an issue, cause the train there comes like once every 2/3 months or so i think"
+2012-09-29T02:34:17.942800+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,chemicals & wood & planks?
+2012-09-29T02:34:40.746915+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,its a conection 1 wood forest
+2012-09-29T02:34:44.756070+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,*to
+2012-09-29T02:36:32.845296+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"now, I have too much oil (don't want to disconnect any of my lines)"
+2012-09-29T02:36:41.626117+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,xD
+2012-09-29T02:36:48.850379+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,but at least we got a train on a shared line :) :)
+2012-09-29T02:37:31.196313+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,I got to go very soon most likely
+2012-09-29T02:38:01.656339+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"thanks for trying it out.... if you come up with other ideas, leave me a message maybe or something :)"
+2012-09-29T02:38:28.396089+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,will do that ;)
+2012-09-29T02:45:27.803470+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,i'm looking forward to the next map
+2012-09-29T02:45:38.372215+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,this map again?
+2012-09-29T02:45:47.196255+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,?
+2012-09-29T02:46:17.557854+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"isnt there map rotation, as far as i know?"
+2012-09-29T02:46:30.361830+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"no, he used the same one till he got this one"
+2012-09-29T02:47:01.023296+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"ah okay, doesnt matter though, cause things work out different"
+2012-09-29T02:48:05.236649+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"its gonna be another map for the fact that the industry spawns in other places than they are now, thouh maybe the spots for public interchanges wont change"
+2012-09-29T02:48:53.100071+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"yeah, the gmae should turn out different; not likely to be the same"
+2012-09-29T02:50:46.321397+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,what do you think of the addition of the 30% toll fee?
+2012-09-29T02:51:34.028403+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,I don't see any affect on my income because I make so much.... but..
+2012-09-29T02:51:45.992287+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,we used to aggressively make water & roads public last game
+2012-09-29T02:52:03.707110+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,which meant you could change roads if there was problems and waterways
+2012-09-29T02:52:19.838122+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"but so far, with this big map, it's not a big problem"
+2012-09-29T02:52:43.759280+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,or maybe it never was a problem in the first place :)
+2012-09-29T02:52:53.187899+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,^^
+2012-09-29T02:53:27.279203+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,but I would suggest making the power percent much higher and lowering the industry growth drastically
+2012-09-29T02:53:35.255037+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"i think the idea behind it is good, and ofc it shouldnt impact your economy to the extent of making it so hard that you go bankrupt xD"
+2012-09-29T02:53:53.917225+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"y, oh btw no idea if you went to the forums"
+2012-09-29T02:54:23.170710+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"the industry growth applies to each city on it's own , if what dwachs said is right its like this"
+2012-09-29T02:54:55.699448+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"x = increase every number, if city reaches x,2x,4x,8,16,x etc. "
+2012-09-29T02:55:10.676881+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,I thought it was like every 5000 people per city?
+2012-09-29T02:55:15.328024+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,y 5k
+2012-09-29T02:55:29.165109+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,I thoguht that was the default setting
+2012-09-29T02:55:38.451331+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"but that seems kinda odd, ofc i dont know the code but for exampple 16 x 5k = 90 "
+2012-09-29T02:55:42.004710+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"90k, "
+2012-09-29T02:55:55.215061+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,but dont we have industry growths all over the place=
+2012-09-29T02:55:58.652767+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,?
+2012-09-29T02:56:33.678627+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"I'm not sure I understand....   many cities on this map have grown more than 5,000 people"
+2012-09-29T02:56:46.564380+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"that means for each city, sever industry chains were built"
+2012-09-29T02:56:55.929829+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,several chains*
+2012-09-29T02:57:08.237889+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,and a chain consists of several factories
+2012-09-29T02:57:23.309472+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"that's the way I thought it was, but I don't know for sure"
+2012-09-29T02:57:37.935652+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,hmm
+2012-09-29T02:58:08.711697+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"no thats right, if we go by that then it explains this"
+2012-09-29T02:58:33.682203+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"so that means, you probably want it set to like 40,000 instead of 5,000"
+2012-09-29T02:58:43.944710+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,look at how many cities are over 40k
+2012-09-29T02:58:49.598900+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,we have roughly 40 cities
+2012-09-29T02:59:08.522803+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,well
+2012-09-29T02:59:20.002878+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"even if all those cities over 40k produces just 1 chain, we would have quite a bit"
+2012-09-29T02:59:22.939602+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,40k is way too high for early on
+2012-09-29T02:59:42.039967+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"you ar right, which means the gmae needs something other than one number"
+2012-09-29T02:59:53.324115+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"but it's the only fix we have right now, unfortunately"
+2012-09-29T03:00:11.190476+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,unless!!!!! the server owner can change it after a few days to a high number?
+2012-09-29T03:00:56.605971+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"erm i dont think so, because it's in the setting when you start the map.... though it could be possible"
+2012-09-29T03:02:02.817192+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"it should have a timeline modifier , but this modifier should , in itself, be modified to act according to different amounts of populations, in example: the modifier should grow slower if the overall population is lower and faster if the overall"
+2012-09-29T03:02:09.116484+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,population is higher
+2012-09-29T03:02:09.522848+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"a better option *might* be to look at how full the map is, how many industry there are in use... and try not to make more the fuller the map is and the fewer that are used"
+2012-09-29T03:02:26.224235+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,thats true too
+2012-09-29T03:03:00.790229+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"what i found funny earlier was that (620,114) has no oil connection"
+2012-09-29T03:03:02.822921+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"basically, don't try and tweak the numbers.... but actually look at the game to see when it makes sense to stop spawning them"
+2012-09-29T03:03:24.512196+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"yes, I made a few factories and they had no connection (most I made the wrong way)"
+2012-09-29T03:03:34.698844+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"thats not easy aswell though, as you have to take the size of the map into consideration aswell"
+2012-09-29T03:04:13.069951+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"yes, but it's easy to do programmatically though (to an extent I am assuming)"
+2012-09-29T03:04:50.402654+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,although I guess figuring out how to do it all and the factors to take into account .... it might not be that easy
+2012-09-29T03:04:59.540942+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"ofc, what i dont understand, or well i do, but nonetheless, is that the industy growth only happens when a city itself reaches the number"
+2012-09-29T03:05:09.285632+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,and not the overall population
+2012-09-29T03:05:23.403296+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,though i guess its this way because then industry spawns near that city
+2012-09-29T03:06:17.556238+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,well one way of looking at it: they had to pick something to decide when to generete factories
+2012-09-29T03:06:32.660719+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,yeah
+2012-09-29T03:07:16.548846+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,i hope they rebalance wood in one of the patches
+2012-09-29T03:08:14.212290+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,you mean so you do't need somany forests?
+2012-09-29T03:08:42.146749+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"yes, i mean, i can understand up to 5-7 forsts, but 14by default is just wrong"
+2012-09-29T03:08:57.518968+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,ofc thy grow but that doesnt change the initial problem
+2012-09-29T03:09:34.829289+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"yeah, I agree with you...... maybe 2 per factory would be a little more fun"
+2012-09-29T03:10:26.131949+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"its wood so 5-7 are fine by me for one sawmill for example, but 14 is just too much"
+2012-09-29T03:10:35.276624+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,and also taking  up a lot of space
+2012-09-29T03:11:11.162253+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"yeah, that too"
+2012-09-29T03:11:17.975001+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"the next problem is, with 14 being needed and having such a low production the profit is not much i guess"
+2012-09-29T03:11:43.133514+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,and not forget rails/motorways maintenance
+2012-09-29T03:13:25.098986+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,yeah
+2012-09-29T03:13:43.358924+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"you could do like some games.... no forest factory, but you plant a factory near trees"
+2012-09-29T03:14:30.396573+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,that would be a nice approach by map design indeed
+2012-09-29T03:15:31.118275+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"ofc another co-op approach would be that 1 guy transports all the wood to an interchange "
+2012-09-29T03:17:48.311190+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"yeah, that would be fun.... someone should totally do that next game :)!"
+2012-09-29T03:18:05.164126+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,xD i'll see to it
+2012-09-29T03:18:12.863216+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"maybe, *cough* =)"
+2012-09-29T03:19:25.341015+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"if someone does it, he should put a sign @ start : ALL UR TREES R BELONG TO ME!"
+2012-09-29T03:19:28.688672+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,xD
+2012-09-29T03:19:43.248626+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,:)
+2012-09-29T03:24:51.361796+00:00,sim128a[28322]:,chat,4,98.251.79.180,Client#5,10,A-Train,"ok, I close simuntrans.... bye jaridan"
+2012-09-29T03:25:36.523885+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,cya
+2012-09-29T03:26:00.056231+00:00,sim128a[28322]:,disconnect,4,98.251.79.180,Client#5
+2012-09-29T05:41:53.709365+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#7
+2012-09-29T06:27:43.797691+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#7
+2012-09-29T09:51:33.164856+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#7
+2012-09-29T09:51:33.164937+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#7
+2012-09-29T09:51:33.165001+00:00,sim128a[28322]:,disconnect,8,91.16.78.127,Jaridan
+2012-09-29T09:52:13.981612+00:00,sim128a[28322]:,connect,7,88.165.36.112,Client#7
+2012-09-29T10:49:11.145614+00:00,sim128a[28322]:,disconnect,7,88.165.36.112,Client#7
+2012-09-29T13:10:05.404150+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#7
+2012-09-29T13:53:39.684321+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#7
+2012-09-29T13:54:24.282588+00:00,sim128a[28322]:,connect,5,91.16.109.234,Jaridan
+2012-09-29T14:03:49.409084+00:00,sim128a[28322]:,disconnect,5,91.16.109.234,Jaridan
+2012-09-29T14:04:37.082329+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#7
+2012-09-29T20:38:52.625057+00:00,sim128a[28322]:,connect,7,81.187.132.54,Client#4
+2012-09-29T20:39:39.581641+00:00,sim128a[28322]:,connect,5,81.187.132.54,Client#4
+2012-09-29T20:47:29.035662+00:00,sim128a[4509]:,connect,4,81.187.132.54,Client#4
+2012-09-29T20:50:38.892931+00:00,sim128a[4509]:,disconnect,4,81.187.132.54,Client#4
+2012-09-29T20:53:02.532916+00:00,sim128a[4509]:,connect,4,81.187.132.54,Client#4
+2012-09-29T22:27:34.744343+00:00,sim128a[4509]:,connect,5,91.16.109.234,Jaridan
+2012-09-29T22:29:30.964472+00:00,sim128a[4509]:,disconnect,4,81.187.132.54,Client#4
+2012-09-29T22:29:30.964738+00:00,sim128a[4509]:,disconnect,5,91.16.109.234,Jaridan
+2012-09-29T22:29:58.011275+00:00,sim128a[4509]:,connect,4,91.16.109.234,Jaridan
+2012-09-29T22:32:09.381905+00:00,sim128a[4509]:,connect,5,91.16.109.234,Jaridan
+2012-09-29T22:34:02.383500+00:00,sim128a[4509]:,disconnect,4,91.16.109.234,Jaridan
+2012-09-29T22:34:02.383581+00:00,sim128a[4509]:,disconnect,5,91.16.109.234,Jaridan
+2012-09-29T22:34:25.178246+00:00,sim128a[4509]:,connect,6,91.16.109.234,Jaridan
+2012-09-29T23:14:10.964713+00:00,sim128a[4509]:,connect,4,98.251.79.180,Client#5
+2012-09-29T23:18:34.058247+00:00,sim128a[4509]:,connect,5,88.165.36.112,Client#7

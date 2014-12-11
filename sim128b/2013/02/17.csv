@@ -1,0 +1,308 @@
+2013-02-17T00:22:03.826537+00:00,sim128b[11801]:,isconnect,2,98.141.195.201,Fifty
+2013-02-17T00:22:03.826590+00:00,sim128b[11801]:,isconnect,3,98.141.195.201,Fifty
+2013-02-17T00:22:10.468897+00:00,sim128b[11801]:,onnect,4,71.200.128.99,Benjad
+2013-02-17T01:57:00.125543+00:00,sim128b[11801]:,onnect,2,91.16.102.10,Jaridan
+2013-02-17T02:04:57.933833+00:00,sim128b[11801]:,isconnect,4,71.200.128.99,Benjad
+2013-02-17T02:05:13.634008+00:00,sim128b[11801]:,onnect,3,71.200.128.99,Benjad
+2013-02-17T02:07:28.169438+00:00,sim128b[11801]:,hat,3,71.200.128.99,Benjad,15,,"Ouch 12, major jam"
+2013-02-17T02:53:24.962594+00:00,sim128b[11801]:,isconnect,2,91.16.102.10,Jaridan
+2013-02-17T03:05:14.822636+00:00,sim128b[11801]:,onnect,2,71.200.128.99,Client#2
+2013-02-17T03:20:53.868538+00:00,sim128b[11801]:,isconnect,3,71.200.128.99,Benjad
+2013-02-17T10:17:28.095468+00:00,sim128b[11801]:,onnect,3,62.238.177.205,Client#5
+2013-02-17T10:20:47.543814+00:00,sim128b[11801]:,isconnect,2,71.200.128.99,Client#2
+2013-02-17T10:20:47.543897+00:00,sim128b[11801]:,isconnect,3,62.238.177.205,Client#5
+2013-02-17T11:49:27.781666+00:00,sim128b[11801]:,onnect,2,91.16.102.10,Jaridan
+2013-02-17T13:52:09.125911+00:00,sim128b[11801]:,onnect,3,62.238.177.205,Client#5
+2013-02-17T14:39:11.087681+00:00,sim128b[11801]:,onnect,4,71.200.128.99,Client#2
+2013-02-17T14:50:54.213387+00:00,sim128b[11801]:,isconnect,3,62.238.177.205,Client#5
+2013-02-17T14:55:49.023219+00:00,sim128b[11801]:,onnect,3,77.242.95.82,Client#7
+2013-02-17T14:56:22.225244+00:00,sim128b[11801]:,hat,4,71.200.128.99,Client#2,4,Planet Express,hi all
+2013-02-17T15:00:17.710324+00:00,sim128b[11801]:,isconnect,3,77.242.95.82,Client#7
+2013-02-17T15:17:43.082939+00:00,sim128b[11801]:,amechange,4,71.200.128.99,Client#2,Benjad
+2013-02-17T15:31:26.191391+00:00,sim128b[11801]:,isconnect,2,91.16.102.10,Jaridan
+2013-02-17T15:51:26.561327+00:00,sim128b[11801]:,onnect,2,91.16.102.10,Jaridan
+2013-02-17T15:53:01.459973+00:00,sim128b[11801]:,isconnect,2,91.16.102.10,Jaridan
+2013-02-17T15:53:19.493080+00:00,sim128b[11801]:,onnect,2,91.16.102.10,Jaridan
+2013-02-17T15:56:04.099524+00:00,sim128b[11801]:,isconnect,2,91.16.102.10,Jaridan
+2013-02-17T15:56:20.734858+00:00,sim128b[11801]:,onnect,2,91.16.102.10,Jaridan
+2013-02-17T16:00:53.303152+00:00,sim128b[11801]:,isconnect,2,91.16.102.10,Jaridan
+2013-02-17T16:01:08.406265+00:00,sim128b[11801]:,onnect,2,91.16.102.10,Jaridan
+2013-02-17T16:02:20.773671+00:00,sim128b[11801]:,isconnect,2,91.16.102.10,Jaridan
+2013-02-17T16:02:50.060155+00:00,sim128b[11801]:,onnect,2,91.16.102.10,Jaridan
+2013-02-17T16:04:07.832579+00:00,sim128b[11801]:,isconnect,2,91.16.102.10,Jaridan
+2013-02-17T16:04:28.037018+00:00,sim128b[11801]:,onnect,2,91.16.102.10,Jaridan
+2013-02-17T16:21:51.285109+00:00,sim128b[11801]:,isconnect,4,71.200.128.99,Benjad
+2013-02-17T16:48:15.272312+00:00,sim128b[11801]:,onnect,3,62.238.177.205,Client#5
+2013-02-17T16:49:51.440617+00:00,sim128b[11801]:,isconnect,2,91.16.102.10,Jaridan
+2013-02-17T16:52:52.582141+00:00,sim128b[11801]:,onnect,2,71.200.128.99,Benjad
+2013-02-17T17:30:27.524250+00:00,sim128b[11801]:,onnect,4,177.102.91.122,Client#4
+2013-02-17T17:30:36.212284+00:00,sim128b[11801]:,isconnect,2,71.200.128.99,Benjad
+2013-02-17T17:30:49.781640+00:00,sim128b[11801]:,onnect,2,71.200.128.99,Benjad
+2013-02-17T17:34:41.351208+00:00,sim128b[11801]:,isconnect,3,62.238.177.205,Client#5
+2013-02-17T17:34:50.130217+00:00,sim128b[11801]:,onnect,3,62.238.177.205,Client#5
+2013-02-17T17:40:31.107100+00:00,sim128b[11801]:,isconnect,4,177.102.91.122,Client#4
+2013-02-17T17:42:15.578118+00:00,sim128b[11801]:,isconnect,2,71.200.128.99,Benjad
+2013-02-17T17:42:28.223151+00:00,sim128b[11801]:,onnect,2,71.200.128.99,Benjad
+2013-02-17T17:53:44.031959+00:00,sim128b[11801]:,isconnect,2,71.200.128.99,Benjad
+2013-02-17T18:07:54.010037+00:00,sim128b[11801]:,onnect,2,98.141.195.201,Fifty
+2013-02-17T18:12:29.133024+00:00,sim128b[11801]:,onnect,4,91.16.102.10,Jaridan
+2013-02-17T18:12:29.134555+00:00,sim128b[11801]:,hat,3,62.238.177.205,Client#5,2,Abellio,"@pixel, you should connect to the public interchange, will increase your pax"
+2013-02-17T18:12:41.575574+00:00,sim128b[11801]:,hat,4,91.16.102.10,Jaridan,15,,evening
+2013-02-17T18:12:46.899831+00:00,sim128b[11801]:,hat,3,62.238.177.205,Client#5,15,,Hi
+2013-02-17T18:12:49.571043+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,hey
+2013-02-17T18:12:56.082834+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,long time no see :)
+2013-02-17T18:13:08.313163+00:00,sim128b[11801]:,hat,4,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,"y, though i think i left a message in chat back then"
+2013-02-17T18:13:15.650771+00:00,sim128b[11801]:,hat,4,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,that i would be ack after exams
+2013-02-17T18:13:40.128647+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,and I do want to get rid of some of my pax
+2013-02-17T18:13:40.133761+00:00,sim128b[11801]:,hat,4,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,how r ya doing rfp?
+2013-02-17T18:13:51.929278+00:00,sim128b[11801]:,hat,4,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,hehe^^ i know you dislike pax :P
+2013-02-17T18:15:03.920664+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,"sooo.... Contoocook, Howell, Frankfort, katy, eugene, and visalia are all yours"
+2013-02-17T18:15:56.407644+00:00,sim128b[11801]:,hat,4,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,ok
+2013-02-17T18:16:57.061184+00:00,sim128b[11801]:,isconnect,4,91.16.102.10,Jaridan
+2013-02-17T18:16:58.406205+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,"many thanks, my stops are being removed"
+2013-02-17T18:17:16.470500+00:00,sim128b[11801]:,onnect,4,91.16.102.10,Jaridan
+2013-02-17T18:20:07.183474+00:00,sim128b[11801]:,hat,4,91.16.102.10,Jaridan,15,,"finishing my sub(way) right now, then gonna set up the pax"
+2013-02-17T18:21:24.011428+00:00,sim128b[11801]:,hat,3,62.238.177.205,Client#5,2,Abellio,Your gonna do mail?
+2013-02-17T18:21:29.413926+00:00,sim128b[11801]:,hat,4,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,y
+2013-02-17T18:21:38.446357+00:00,sim128b[11801]:,hat,3,62.238.177.205,Client#5,2,Abellio,Nice
+2013-02-17T18:22:04.685003+00:00,sim128b[11801]:,hat,4,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,whenever i talk about pax (apart form  when the game just begun) i normally mean paax&mail
+2013-02-17T18:23:00.809187+00:00,sim128b[11801]:,hat,3,62.238.177.205,Client#5,2,Abellio,I understand
+2013-02-17T18:23:46.957610+00:00,sim128b[11801]:,isconnect,4,91.16.102.10,Jaridan
+2013-02-17T18:24:11.441309+00:00,sim128b[11801]:,onnect,4,91.16.102.10,Jaridan
+2013-02-17T18:26:40.889547+00:00,sim128b[11801]:,isconnect,3,62.238.177.205,Client#5
+2013-02-17T18:29:52.250357+00:00,sim128b[11801]:,isconnect,4,91.16.102.10,Jaridan
+2013-02-17T18:30:15.110703+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T18:30:37.637068+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T18:31:07.167324+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T18:32:45.132273+00:00,sim128b[11801]:,hat,3,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,rfp
+2013-02-17T18:32:55.162422+00:00,sim128b[11801]:,hat,3,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,can you make roads public in howell
+2013-02-17T18:33:19.480621+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,any more?
+2013-02-17T18:34:05.411262+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,i'm rebuilding roads south of eugene right now just fyi
+2013-02-17T18:36:20.795577+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,oh *&^%
+2013-02-17T18:36:36.915113+00:00,sim128b[11801]:,onnect,4,71.200.128.99,Benjad
+2013-02-17T18:37:58.802525+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T18:49:03.430863+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T18:49:52.814803+00:00,sim128b[11801]:,hat,3,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,"@469,502 can you make the roads there public pls?"
+2013-02-17T18:50:13.758402+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T18:50:47.236206+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T18:52:59.909260+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,sorry forgot what I built in those towns and also that I could use ownership to see what's mine
+2013-02-17T18:53:11.387048+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,everything should be public now
+2013-02-17T18:53:14.410469+00:00,sim128b[11801]:,hat,3,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,it's all good mate ;)
+2013-02-17T18:53:39.031596+00:00,sim128b[11801]:,hat,3,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,we all are just human ;)
+2013-02-17T18:55:09.347790+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,"can you move the stop @436,420 one to the south please?"
+2013-02-17T18:55:48.748606+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,many thanks
+2013-02-17T18:57:27.487780+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T18:57:54.567504+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:00:12.054351+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:00:38.868567+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:02:36.955535+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:03:07.715656+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:03:43.124425+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:04:04.948138+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:06:33.355673+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:06:57.382654+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:07:09.030853+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:07:32.512112+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:15:26.642191+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:16:59.170935+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:19:19.497917+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:19:47.658816+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:20:11.512092+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:20:38.480677+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:21:41.932898+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:24:39.288124+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:24:58.391284+00:00,sim128b[11801]:,onnect,5,62.238.177.205,Client#5
+2013-02-17T19:25:04.090023+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,"esyou seem to be having some desync issues, jaridau"
+2013-02-17T19:25:16.520798+00:00,sim128b[11801]:,hat,3,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,ya
+2013-02-17T19:25:22.161370+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:25:59.263371+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:25:59.265347+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,toare you playing on a laptop?
+2013-02-17T19:26:27.045723+00:00,sim128b[11801]:,hat,3,91.16.102.10,Jaridan,15,,i'm playing on a laptop
+2013-02-17T19:26:33.665398+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,is is plugged in?
+2013-02-17T19:27:05.432444+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:27:40.512835+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:27:52.004507+00:00,sim128b[11801]:,hat,3,91.16.102.10,Jaridan,15,,ye it is
+2013-02-17T19:28:08.543597+00:00,sim128b[11801]:,hat,3,91.16.102.10,Jaridan,15,,btw i've  been playing with my laptop all this time
+2013-02-17T19:28:15.467382+00:00,sim128b[11801]:,hat,3,91.16.102.10,Jaridan,15,,i mean all the past games
+2013-02-17T19:28:18.561276+00:00,sim128b[11801]:,isconnect,4,71.200.128.99,Benjad
+2013-02-17T19:28:28.234974+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,have you checked your power settings to make sure that it is not on a power saving or eco mode
+2013-02-17T19:29:03.681916+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,"I too play on a laptop, but sometimes it causes problems for those two reasons"
+2013-02-17T19:29:11.337939+00:00,sim128b[11801]:,hat,3,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,yes ;) i think the problem is either the server or my router
+2013-02-17T19:29:40.802097+00:00,sim128b[11801]:,hat,3,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,"my router is old, 5years+ "
+2013-02-17T19:29:41.480788+00:00,sim128b[11801]:,hat,2,98.141.195.201,Fifty,12,RF&P,"there's been a server issue with desyncs, but it affects all players"
+2013-02-17T19:30:03.469543+00:00,sim128b[11801]:,hat,3,91.16.102.10,Jaridan,6,German Vacations Train - reloaded,"and somewhere is malware i guess, used several AV programs and botchecker to check my comp :/"
+2013-02-17T19:30:19.365710+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:30:44.757879+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:30:53.400563+00:00,sim128b[11801]:,hat,3,91.16.102.10,Jaridan,15,,y
+2013-02-17T19:31:46.210818+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:32:21.080329+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:32:44.089440+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:33:12.732695+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:33:19.699324+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:33:55.460504+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:34:01.723835+00:00,sim128b[11801]:,hat,3,91.16.102.10,Jaridan,15,,jesus fucking christ-.-
+2013-02-17T19:35:02.733876+00:00,sim128b[11801]:,isconnect,5,62.238.177.205,Client#5
+2013-02-17T19:35:11.046604+00:00,sim128b[11801]:,onnect,4,62.238.177.205,Client#5
+2013-02-17T19:35:11.142431+00:00,sim128b[11801]:,isconnect,2,98.141.195.201,Fifty
+2013-02-17T19:35:11.142459+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:37:41.454248+00:00,sim128b[11801]:,onnect,2,98.141.195.201,Fifty
+2013-02-17T19:38:07.653329+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:38:20.539988+00:00,sim128b[11801]:,onnect,5,62.238.177.205,Client#5
+2013-02-17T19:38:20.670444+00:00,sim128b[11801]:,isconnect,4,62.238.177.205,Client#5
+2013-02-17T19:39:34.108683+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:39:56.207018+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:40:26.535923+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:40:56.615521+00:00,sim128b[11801]:,onnect,3,91.16.102.10,Jaridan
+2013-02-17T19:41:09.618459+00:00,sim128b[11801]:,hat,5,62.238.177.205,Client#5,2,Abellio,The game is sort of unplayable like this
+2013-02-17T19:42:03.583823+00:00,sim128b[11801]:,isconnect,3,91.16.102.10,Jaridan
+2013-02-17T19:59:09.943753+00:00,sim128b[11801]:,isconnect,2,98.141.195.201,Fifty
+2013-02-17T19:59:09.943783+00:00,sim128b[11801]:,isconnect,5,62.238.177.205,Client#5
+2013-02-17T19:59:28.046772+00:00,sim128b[11801]:,onnect,3,98.141.195.201,Fifty
+2013-02-17T19:59:49.048004+00:00,sim128b[11801]:,onnect,2,62.238.177.205,Client#5
+2013-02-17T20:06:17.642533+00:00,sim128b[11801]:,onnect,4,46.237.246.34,Jaridan
+2013-02-17T20:08:10.054661+00:00,sim128b[11801]:,isconnect,4,46.237.246.34,Jaridan
+2013-02-17T20:16:23.918962+00:00,sim128b[11801]:,onnect,4,91.16.38.180,Jaridan
+2013-02-17T20:17:13.247373+00:00,sim128b[11801]:,isconnect,4,91.16.38.180,Jaridan
+2013-02-17T20:17:35.632450+00:00,sim128b[11801]:,onnect,4,91.16.38.180,Jaridan
+2013-02-17T20:18:51.399271+00:00,sim128b[11801]:,isconnect,4,91.16.38.180,Jaridan
+2013-02-17T20:19:22.239586+00:00,sim128b[11801]:,onnect,4,91.16.38.180,Jaridan
+2013-02-17T20:20:49.774736+00:00,sim128b[11801]:,hat,4,91.16.38.180,Jaridan,6,German Vacations Train - reloaded,"i had no problems yesterday "
+2013-02-17T20:21:03.310380+00:00,sim128b[11801]:,hat,3,98.141.195.201,Fifty,12,RF&P,"hmm, strange"
+2013-02-17T20:21:13.915789+00:00,sim128b[11801]:,hat,4,91.16.38.180,Jaridan,6,German Vacations Train - reloaded,would be cool if they could increase the stability of server/network gaming
+2013-02-17T20:21:37.025517+00:00,sim128b[11801]:,hat,4,91.16.38.180,Jaridan,6,German Vacations Train - reloaded,"i mean, we have experienced this dozens of times throughout several game sessions"
+2013-02-17T20:21:59.238140+00:00,sim128b[11801]:,hat,3,98.141.195.201,Fifty,12,RF&P,"yep, there were a couple of bugs, some fixed again, some not"
+2013-02-17T20:22:45.430226+00:00,sim128b[11801]:,hat,4,91.16.38.180,Jaridan,6,German Vacations Train - reloaded,"jam @473,459"
+2013-02-17T20:22:57.731482+00:00,sim128b[11801]:,hat,3,98.141.195.201,Fifty,12,RF&P,?
+2013-02-17T20:23:06.175516+00:00,sim128b[11801]:,hat,4,91.16.38.180,Jaridan,6,German Vacations Train - reloaded,nvm
+2013-02-17T20:23:10.828187+00:00,sim128b[11801]:,hat,3,98.141.195.201,Fifty,12,RF&P,the plastic trains are supposed to queue there
+2013-02-17T20:25:37.047005+00:00,sim128b[11801]:,isconnect,2,62.238.177.205,Client#5
+2013-02-17T20:25:37.047124+00:00,sim128b[11801]:,isconnect,4,91.16.38.180,Jaridan
+2013-02-17T20:26:07.179830+00:00,sim128b[11801]:,onnect,2,91.16.38.180,Jaridan
+2013-02-17T20:26:20.026200+00:00,sim128b[11801]:,isconnect,2,91.16.38.180,Jaridan
+2013-02-17T20:26:47.676130+00:00,sim128b[11801]:,onnect,2,91.16.38.180,Jaridan
+2013-02-17T20:28:17.245911+00:00,sim128b[11801]:,isconnect,2,91.16.38.180,Jaridan
+2013-02-17T20:28:48.412328+00:00,sim128b[11801]:,onnect,2,91.16.38.180,Jaridan
+2013-02-17T20:28:58.819506+00:00,sim128b[11801]:,isconnect,2,91.16.38.180,Jaridan
+2013-02-17T20:31:19.065062+00:00,sim128b[11801]:,onnect,2,91.16.38.180,Jaridan
+2013-02-17T20:31:32.595963+00:00,sim128b[11801]:,isconnect,2,91.16.38.180,Jaridan
+2013-02-17T20:32:00.961457+00:00,sim128b[11801]:,onnect,2,91.16.38.180,Jaridan
+2013-02-17T20:32:20.128286+00:00,sim128b[11801]:,isconnect,2,91.16.38.180,Jaridan
+2013-02-17T20:33:05.285456+00:00,sim128b[11801]:,onnect,2,134.2.187.12,Jaridan
+2013-02-17T20:39:33.495171+00:00,sim128b[11801]:,hat,2,134.2.187.12,Jaridan,15,,hmm
+2013-02-17T20:39:40.586936+00:00,sim128b[11801]:,hat,2,134.2.187.12,Jaridan,15,,you still here rfp?
+2013-02-17T20:39:45.175559+00:00,sim128b[11801]:,hat,3,98.141.195.201,Fifty,12,RF&P,yep
+2013-02-17T20:40:14.370827+00:00,sim128b[11801]:,hat,2,134.2.187.12,Jaridan,6,German Vacations Train - reloaded,"hmmmmmmmm, i think i need a new router that can handle that stuff better :/"
+2013-02-17T20:40:45.055530+00:00,sim128b[11801]:,hat,3,98.141.195.201,Fifty,12,RF&P,maybe..
+2013-02-17T20:40:47.334786+00:00,sim128b[11801]:,hat,2,134.2.187.12,Jaridan,6,German Vacations Train - reloaded,"i think i have trojans/worms/rootkits that cause my router to do flood attacks against other routers, and because of that i'm getting fire in return"
+2013-02-17T20:41:16.897076+00:00,sim128b[11801]:,hat,2,134.2.187.12,Jaridan,6,German Vacations Train - reloaded,"i used a vpn to my university right now, and now i dont have any problems"
+2013-02-17T20:41:32.833992+00:00,sim128b[11801]:,hat,3,98.141.195.201,Fifty,12,RF&P,yep. seems like it
+2013-02-17T20:41:39.140599+00:00,sim128b[11801]:,hat,2,134.2.187.12,Jaridan,6,German Vacations Train - reloaded,"(because there security is way better, which just drop the paackages)"
+2013-02-17T20:42:43.742412+00:00,sim128b[11801]:,hat,2,134.2.187.12,Jaridan,6,German Vacations Train - reloaded,only problem is that i scanned with various AV programss and even bot searches etc.
+2013-02-17T20:42:52.217719+00:00,sim128b[11801]:,hat,3,98.141.195.201,Fifty,12,RF&P,"well, I wish you the best in sorting that all out: make sure you get a router with a good firewall (and turn it on!)"
+2013-02-17T20:42:55.032605+00:00,sim128b[11801]:,hat,2,134.2.187.12,Jaridan,6,German Vacations Train - reloaded,"anyway, gonna do the pax now"
+2013-02-17T20:43:37.684598+00:00,sim128b[11801]:,hat,2,134.2.187.12,Jaridan,6,German Vacations Train - reloaded,^^ i /we are still using a default router from arcor... i swear that thing is like 5-6 years+ old so yeah..
+2013-02-17T20:44:39.844678+00:00,sim128b[11801]:,hat,3,98.141.195.201,Fifty,12,RF&P,and if you live with someone clean out their comp too
+2013-02-17T20:45:39.936876+00:00,sim128b[11801]:,hat,2,134.2.187.12,Jaridan,6,German Vacations Train - reloaded,"anyway, lets focus on Simutrans now :P"
+2013-02-17T20:45:51.309893+00:00,sim128b[11801]:,hat,3,98.141.195.201,Fifty,12,RF&P,yes :)
+2013-02-17T20:46:11.828110+00:00,sim128b[11801]:,hat,2,134.2.187.12,Jaridan,6,German Vacations Train - reloaded,"ok.. i know i said that...but erm ye, brb getting something 2 drink xD"
+2013-02-17T20:48:00.284267+00:00,sim128b[11801]:,hat,2,134.2.187.12,Jaridan,6,German Vacations Train - reloaded,back
+2013-02-17T20:52:18.397681+00:00,sim128b[11801]:,hat,3,98.141.195.201,Fifty,12,RF&P,be back in a few
+2013-02-17T20:52:20.212789+00:00,sim128b[11801]:,isconnect,3,98.141.195.201,Fifty
+2013-02-17T20:52:58.008915+00:00,sim128b[11801]:,onnect,3,91.16.51.192,Client#3
+2013-02-17T20:57:06.536684+00:00,sim128b[11801]:,isconnect,3,91.16.51.192,Client#3
+2013-02-17T20:57:40.881886+00:00,sim128b[11801]:,onnect,3,91.16.51.192,Client#3
+2013-02-17T21:00:57.968797+00:00,sim128b[11801]:,isconnect,3,91.16.51.192,Client#3
+2013-02-17T21:01:21.592974+00:00,sim128b[11801]:,onnect,3,91.16.51.192,Client#3
+2013-02-17T21:01:39.900645+00:00,sim128b[11801]:,hat,3,91.16.51.192,Client#3,6,German Vacations Train - reloaded,.4
+2013-02-17T21:04:27.635215+00:00,sim128b[11801]:,onnect,4,98.141.195.201,Fifty
+2013-02-17T21:04:28.570531+00:00,sim128b[11801]:,isconnect,3,91.16.51.192,Client#3
+2013-02-17T21:04:56.009410+00:00,sim128b[11801]:,onnect,3,91.16.51.192,Client#3
+2013-02-17T21:05:23.337996+00:00,sim128b[11801]:,isconnect,2,134.2.187.12,Jaridan
+2013-02-17T21:05:59.820692+00:00,sim128b[11801]:,isconnect,3,91.16.51.192,Client#3
+2013-02-17T21:06:31.744257+00:00,sim128b[11801]:,onnect,2,91.16.51.192,Client#3
+2013-02-17T21:09:50.553159+00:00,sim128b[11801]:,isconnect,2,91.16.51.192,Client#3
+2013-02-17T21:11:17.236969+00:00,sim128b[11801]:,onnect,2,134.2.164.23,Client#3
+2013-02-17T21:12:08.582760+00:00,sim128b[11801]:,amechange,2,134.2.164.23,Client#3,Jaridan
+2013-02-17T21:12:27.591862+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,"bah, i dislike those 1station citie coverages-.-"
+2013-02-17T21:25:08.299419+00:00,sim128b[11801]:,hat,4,98.141.195.201,Fifty,12,RF&P,"are you going for another one of your crazy hubs, jaridan?"
+2013-02-17T21:25:16.733432+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,y
+2013-02-17T21:25:35.407664+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,though this was just for clearing the waterway underground
+2013-02-17T21:25:40.922959+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,a mere 3mil ~.~
+2013-02-17T21:25:57.233053+00:00,sim128b[11801]:,hat,4,98.141.195.201,Fifty,12,RF&P,doing freight? coal?
+2013-02-17T21:26:18.105191+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,"i'll do fright, the hub will be , as before for bulk stuff"
+2013-02-17T21:26:29.916732+00:00,sim128b[11801]:,hat,4,98.141.195.201,Fifty,12,RF&P,just curious
+2013-02-17T21:26:45.879892+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,i just really like those hubs
+2013-02-17T21:26:48.055458+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,:D
+2013-02-17T21:27:33.921214+00:00,sim128b[11801]:,hat,4,98.141.195.201,Fifty,12,RF&P,"I'm doing: steel, cannery, food facs, car shop chains"
+2013-02-17T21:28:24.634149+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,"i like steel related stuff... but the canneries are so friggin annoying to run in this game, i really dislike them, especially with fish ~.~"
+2013-02-17T21:28:48.051579+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,there should be a ship manufactor chain
+2013-02-17T21:28:55.521499+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,that would need lots of steel :P
+2013-02-17T21:29:25.856509+00:00,sim128b[11801]:,hat,4,98.141.195.201,Fifty,12,RF&P,I like food chain because it's a challenge
+2013-02-17T21:29:45.373158+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,"isn't every freight chain a ""challenge""?"
+2013-02-17T21:30:29.123882+00:00,sim128b[11801]:,hat,4,98.141.195.201,Fifty,12,RF&P,"sure, but food requires serious infrastructure if you don't move things by air"
+2013-02-17T21:31:38.944988+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,"isn't it the same for breweries printing works etc. the same? (i admit that coal is pretty straight forward, as it doesn't need to be manufactured most of the times)"
+2013-02-17T21:32:28.396001+00:00,sim128b[11801]:,hat,4,98.141.195.201,Fifty,12,RF&P,"Most chains can be done at low speeds <120 kmh, while food really needs 180-200 "
+2013-02-17T21:33:12.061968+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,"weeeeeeeeeeeeell, the thing is that most other chains just can't use higher speed due to wagon speedlimit"
+2013-02-17T21:33:43.149660+00:00,sim128b[11801]:,hat,4,98.141.195.201,Fifty,12,RF&P,but the speedbonus makes food unprofitable at other speeds
+2013-02-17T21:34:52.714163+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,"true, i wsih they would make the speedbonus on pax a little harder and lower the profit a bit for train and a lot for air"
+2013-02-17T21:35:05.870474+00:00,sim128b[11801]:,hat,4,98.141.195.201,Fifty,12,RF&P,agree
+2013-02-17T21:36:16.646404+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,"i mean, i'm not saying it should be damn near impossible to rack in profit, but pax is just way too easy.. i mean i had like a 5k city + a 7k city +2 <3k cities, not a huge distance to the PI and was still, initially , doing 70k/month"
+2013-02-17T21:37:06.298746+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,"later, i will change my system from air to underground highspeed trains anyway"
+2013-02-17T21:39:01.883413+00:00,sim128b[11801]:,hat,4,98.141.195.201,Fifty,12,RF&P,"hm, looks like benjad is tackling freight too"
+2013-02-17T21:39:14.642826+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,i'm always doing pax&freight
+2013-02-17T21:39:20.829624+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,"that's not a problem, is it?"
+2013-02-17T21:39:41.707296+00:00,sim128b[11801]:,hat,4,98.141.195.201,Fifty,12,RF&P,"no, i'm just interested in others' networks"
+2013-02-17T21:39:48.746507+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,i c :)
+2013-02-17T21:40:23.103527+00:00,sim128b[11801]:,hat,4,98.141.195.201,Fifty,12,RF&P,and since I always plan 50 steps ahead to make sure I don't need to change my plans
+2013-02-17T21:40:25.519566+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,though i don't think there's much to see/learn from my networks xD ( i don't consider my networks advanced tbh)
+2013-02-17T21:48:34.084547+00:00,sim128b[11801]:,isconnect,2,134.2.164.23,Jaridan
+2013-02-17T21:48:44.533594+00:00,sim128b[11801]:,onnect,2,134.2.164.23,Jaridan
+2013-02-17T21:49:47.978606+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,"pacman 101 @456,56"
+2013-02-17T21:50:06.532382+00:00,sim128b[11801]:,hat,4,98.141.195.201,Fifty,12,RF&P,:0
+2013-02-17T21:54:10.938500+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,i'm just so happy underground is not crashing anymore and that we can build underground stations again :)
+2013-02-17T21:54:25.527217+00:00,sim128b[11801]:,hat,4,98.141.195.201,Fifty,12,RF&P,yep
+2013-02-17T21:55:05.660818+00:00,sim128b[11801]:,hat,4,98.141.195.201,Fifty,12,RF&P,"off for now, cya"
+2013-02-17T21:55:08.791561+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,:D my maintenance costs tripled xD
+2013-02-17T21:55:14.080711+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,from 17k to over 50
+2013-02-17T21:55:23.341162+00:00,sim128b[11801]:,isconnect,4,98.141.195.201,Fifty
+2013-02-17T22:02:27.818824+00:00,sim128b[11801]:,hat,2,134.2.164.23,Jaridan,6,German Vacations Train - reloaded,brb
+2013-02-17T22:04:22.730258+00:00,sim128b[11801]:,onnect,3,134.2.164.23,Jaridan
+2013-02-17T22:04:38.002703+00:00,sim128b[11801]:,hat,3,134.2.164.23,Jaridan,15,,cya
+2013-02-17T22:06:48.960066+00:00,sim128b[11801]:,onnect,4,134.2.164.23,Jaridan
+2013-02-17T22:15:50.289890+00:00,sim128b[11801]:,onnect,5,91.16.51.192,Client#5
+2013-02-17T22:15:50.346249+00:00,sim128b[11801]:,isconnect,2,134.2.164.23,Jaridan
+2013-02-17T22:15:50.346296+00:00,sim128b[11801]:,isconnect,3,134.2.164.23,Jaridan
+2013-02-17T22:31:16.257223+00:00,sim128b[11801]:,isconnect,4,134.2.164.23,Jaridan
+2013-02-17T22:34:14.652899+00:00,sim128b[11801]:,onnect,2,177.3.104.213,Dreadnought1912
+2013-02-17T22:34:35.939719+00:00,sim128b[11801]:,isconnect,2,177.3.104.213,Dreadnought1912
+2013-02-17T22:51:42.428256+00:00,sim128b[11801]:,onnect,2,91.16.51.192,Jaridan
+2013-02-17T22:52:07.041237+00:00,sim128b[11801]:,onnect,3,91.16.51.192,Jaridan
+2013-02-17T22:55:38.246035+00:00,sim128b[11801]:,onnect,4,91.16.51.192,Jaridan
+2013-02-17T22:56:57.710151+00:00,sim128b[11801]:,onnect,6,134.2.167.2,Jaridan
+2013-02-17T22:57:49.548620+00:00,sim128b[11801]:,onnect,7,134.2.167.2,Jaridan
+2013-02-17T22:58:39.995419+00:00,sim128b[11801]:,isconnect,2,91.16.51.192,Jaridan
+2013-02-17T22:58:39.995539+00:00,sim128b[11801]:,isconnect,3,91.16.51.192,Jaridan
+2013-02-17T22:58:39.995649+00:00,sim128b[11801]:,isconnect,4,91.16.51.192,Jaridan
+2013-02-17T22:58:39.995760+00:00,sim128b[11801]:,isconnect,5,91.16.51.192,Client#5
+2013-02-17T22:58:39.995897+00:00,sim128b[11801]:,isconnect,6,134.2.167.2,Jaridan
+2013-02-17T22:58:39.996005+00:00,sim128b[11801]:,isconnect,7,134.2.167.2,Jaridan
+2013-02-17T22:58:50.955460+00:00,sim128b[11801]:,onnect,2,134.2.167.2,Jaridan
+2013-02-17T23:11:33.150147+00:00,sim128b[11801]:,onnect,3,46.30.236.254,DonPedro
+2013-02-17T23:25:24.565240+00:00,sim128b[11801]:,onnect,4,134.2.167.2,Jaridan
+2013-02-17T23:26:21.874988+00:00,sim128b[11801]:,onnect,5,134.2.167.2,Jaridan
+2013-02-17T23:27:55.062274+00:00,sim128b[11801]:,onnect,6,91.16.51.192,Jaridan
+2013-02-17T23:31:27.476215+00:00,sim128b[11801]:,onnect,7,91.16.51.192,Jaridan
+2013-02-17T23:40:21.268987+00:00,sim128b[11801]:,onnect,8,91.16.51.192,Jaridan
+2013-02-17T23:44:53.658475+00:00,sim128b[11801]:,onnect,9,91.16.48.197,Client#9
+2013-02-17T23:44:53.790022+00:00,sim128b[11801]:,isconnect,2,134.2.167.2,Jaridan
+2013-02-17T23:44:53.790149+00:00,sim128b[11801]:,isconnect,3,46.30.236.254,DonPedro
+2013-02-17T23:44:53.790171+00:00,sim128b[11801]:,isconnect,4,134.2.167.2,Jaridan
+2013-02-17T23:44:53.790195+00:00,sim128b[11801]:,isconnect,5,134.2.167.2,Jaridan
+2013-02-17T23:44:53.790217+00:00,sim128b[11801]:,isconnect,6,91.16.51.192,Jaridan
+2013-02-17T23:44:53.790251+00:00,sim128b[11801]:,isconnect,7,91.16.51.192,Jaridan
+2013-02-17T23:45:41.145973+00:00,sim128b[11801]:,isconnect,9,91.16.48.197,Client#9
+2013-02-17T23:45:53.928811+00:00,sim128b[11801]:,onnect,2,91.16.48.197,Client#9
+2013-02-17T23:46:45.216324+00:00,sim128b[11801]:,isconnect,2,91.16.48.197,Client#9
+2013-02-17T23:47:32.685717+00:00,sim128b[11801]:,onnect,2,91.16.48.197,Client#9
+2013-02-17T23:48:39.813511+00:00,sim128b[11801]:,isconnect,2,91.16.48.197,Client#9
+2013-02-17T23:57:09.093519+00:00,sim128b[11801]:,isconnect,8,91.16.51.192,Jaridan

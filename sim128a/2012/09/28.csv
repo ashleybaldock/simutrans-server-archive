@@ -1,0 +1,107 @@
+2012-09-28T02:20:50.059337+00:00,sim128a[28322]:,connect,4,67.187.211.220,Client#4
+2012-09-28T02:23:11.044088+00:00,sim128a[28322]:,connect,6,189.107.85.88,Diego
+2012-09-28T02:23:11.221388+00:00,sim128a[28322]:,disconnect,5,91.16.61.161,Client#5
+2012-09-28T02:23:36.956854+00:00,sim128a[28322]:,connect,5,98.251.79.180,Client#5
+2012-09-28T02:25:25.459708+00:00,sim128a[28322]:,disconnect,4,67.187.211.220,Client#4
+2012-09-28T02:26:34.899594+00:00,sim128a[28322]:,disconnect,6,189.107.85.88,Diego
+2012-09-28T02:27:24.788831+00:00,sim128a[28322]:,connect,4,189.107.85.88,Diego
+2012-09-28T02:32:31.056589+00:00,sim128a[28322]:,disconnect,4,189.107.85.88,Diego
+2012-09-28T02:41:23.953769+00:00,sim128a[28322]:,chat,5,98.251.79.180,Client#5,10,A-Train,german transport?
+2012-09-28T02:51:38.568859+00:00,sim128a[28322]:,disconnect,5,98.251.79.180,Client#5
+2012-09-28T04:10:52.586206+00:00,sim128a[28322]:,connect,4,91.16.61.161,Client#5
+2012-09-28T05:07:15.042399+00:00,sim128a[28322]:,disconnect,4,91.16.61.161,Client#5
+2012-09-28T05:07:38.005708+00:00,sim128a[28322]:,connect,5,91.16.78.127,Jaridan
+2012-09-28T05:44:05.148357+00:00,sim128a[28322]:,chat,5,91.16.78.127,Jaridan,9,German Transports,y?
+2012-09-28T05:44:13.148060+00:00,sim128a[28322]:,chat,5,91.16.78.127,Jaridan,9,German Transports,oh didnt see you sry^^
+2012-09-28T05:53:11.152519+00:00,sim128a[28322]:,disconnect,5,91.16.78.127,Jaridan
+2012-09-28T06:09:32.247906+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#7
+2012-09-28T06:15:03.930489+00:00,sim128a[28322]:,connect,5,98.221.194.117,Client#5
+2012-09-28T06:16:46.590419+00:00,sim128a[28322]:,disconnect,5,98.221.194.117,Client#5
+2012-09-28T07:20:19.468560+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#7
+2012-09-28T07:20:38.735842+00:00,sim128a[28322]:,connect,5,188.22.177.43,Hundling
+2012-09-28T07:24:28.666855+00:00,sim128a[28322]:,disconnect,5,188.22.177.43,Hundling
+2012-09-28T07:24:52.339675+00:00,sim128a[28322]:,connect,4,188.22.177.43,Hundling
+2012-09-28T07:27:12.861671+00:00,sim128a[28322]:,connect,5,188.22.177.43,Hundling
+2012-09-28T07:43:14.571807+00:00,sim128a[28322]:,connect,6,88.165.36.112,Client#7
+2012-09-28T08:54:46.295405+00:00,sim128a[28322]:,connect,7,88.165.36.112,Client#7
+2012-09-28T10:07:32.627343+00:00,sim128a[28322]:,connect,8,88.165.36.112,Client#7
+2012-09-28T10:17:41.817541+00:00,sim128a[28322]:,connect,9,88.165.36.112,Client#7
+2012-09-28T10:54:25.771689+00:00,sim128a[28322]:,connect,10,88.165.36.112,Client#7
+2012-09-28T12:33:04.151822+00:00,sim128a[28322]:,connect,11,88.165.36.112,Client#7
+2012-09-28T12:51:42.704234+00:00,sim128a[28322]:,connect,12,71.184.98.9,Client#12
+2012-09-28T12:51:42.811410+00:00,sim128a[28322]:,disconnect,4,188.22.177.43,Hundling
+2012-09-28T12:51:42.811692+00:00,sim128a[28322]:,disconnect,5,188.22.177.43,Hundling
+2012-09-28T12:51:42.811934+00:00,sim128a[28322]:,disconnect,6,88.165.36.112,Client#7
+2012-09-28T12:51:42.812183+00:00,sim128a[28322]:,disconnect,7,88.165.36.112,Client#7
+2012-09-28T12:51:42.812429+00:00,sim128a[28322]:,disconnect,8,88.165.36.112,Client#7
+2012-09-28T12:51:42.812897+00:00,sim128a[28322]:,disconnect,9,88.165.36.112,Client#7
+2012-09-28T12:51:42.812948+00:00,sim128a[28322]:,disconnect,10,88.165.36.112,Client#7
+2012-09-28T12:52:50.482250+00:00,sim128a[28322]:,disconnect,12,71.184.98.9,Client#12
+2012-09-28T15:10:25.775403+00:00,sim128a[28322]:,disconnect,11,88.165.36.112,Client#7
+2012-09-28T15:10:56.789046+00:00,sim128a[28322]:,connect,4,67.187.211.220,All For Fun
+2012-09-28T15:52:46.111886+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#7
+2012-09-28T15:56:35.942830+00:00,sim128a[28322]:,connect,6,98.251.79.180,Client#5
+2012-09-28T15:56:36.011648+00:00,sim128a[28322]:,disconnect,4,67.187.211.220,All For Fun
+2012-09-28T15:59:28.273271+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,who's online now?
+2012-09-28T16:00:21.533662+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,hi A-Train !
+2012-09-28T16:00:30.542618+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,hi
+2012-09-28T16:00:37.838196+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,"there is a new server "
+2012-09-28T16:00:51.399398+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,"saw it, it is yours ?"
+2012-09-28T16:00:55.878994+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,"probably that ""all for fun"" guy that was here earlier"
+2012-09-28T16:01:12.958182+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,oh ok
+2012-09-28T16:01:20.295457+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,"no, it says there's someone in it, but nobody talks"
+2012-09-28T16:02:11.600002+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,somebody not speaking english ?
+2012-09-28T16:02:52.399336+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,"well nobody is building anything, so maybe not there"
+2012-09-28T16:03:11.051059+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,probabbly the person who set it
+2012-09-28T16:03:25.603537+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,"I was hoping so, so I could talk to him :("
+2012-09-28T16:03:30.598844+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,online to check if it runs smoothly ?
+2012-09-28T16:05:47.267943+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,it looks like it might be 100% autogenerated map
+2012-09-28T16:07:13.769365+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,not that sexy I'd say
+2012-09-28T16:07:16.636039+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,"oh ooops, that 1 client is me... guess I misunderstood"
+2012-09-28T16:07:25.209823+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,you are connected on both right now ?
+2012-09-28T16:07:39.356209+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,"yes, not doing anything though"
+2012-09-28T16:07:45.838583+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,maybe someone will come
+2012-09-28T16:21:15.159288+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,"uh oh, guess what?"
+2012-09-28T16:26:43.427446+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,public server has no password there
+2012-09-28T16:27:52.853035+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,hmmm sweet lol
+2012-09-28T16:28:19.713163+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,"well,  lets just hope someong is learning how to run a server"
+2012-09-28T16:28:31.148648+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,and soon we'll have more choices
+2012-09-28T16:28:51.443025+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,"yeah, seems he *might* be testing...."
+2012-09-28T16:29:26.147721+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,do you know if server owner can change anyone's password?
+2012-09-28T16:30:01.137098+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,dunno
+2012-09-28T16:30:31.231022+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,I wouldn't put a serious password on a server like this
+2012-09-28T16:31:33.187439+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,"I mean like when I add a password to public service, the admin can still get in?"
+2012-09-28T16:32:03.892597+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,lol good question
+2012-09-28T16:32:17.919962+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,I hope so :)
+2012-09-28T16:36:32.482010+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#7
+2012-09-28T16:36:53.377081+00:00,sim128a[28322]:,chat,6,98.251.79.180,Client#5,10,A-Train,"oh, you just left didn't you"
+2012-09-28T16:42:24.675392+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#7
+2012-09-28T17:40:44.545338+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#7
+2012-09-28T18:06:47.872680+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,yeah I had lost synch with the server when connected to the other
+2012-09-28T18:07:05.927232+00:00,sim128a[28322]:,chat,5,88.165.36.112,Client#7,8,Trucmuches et cie,you had left when I came back
+2012-09-28T18:33:51.540308+00:00,sim128a[28322]:,connect,7,91.16.78.127,Jaridan
+2012-09-28T19:14:49.870852+00:00,sim128a[28322]:,connect,8,91.16.78.127,Jaridan
+2012-09-28T19:22:58.465521+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,i'm so lonely D:
+2012-09-28T19:32:23.359771+00:00,sim128a[28322]:,connect,9,88.165.36.112,Client#7
+2012-09-28T19:32:23.445625+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#7
+2012-09-28T19:32:23.445682+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#7
+2012-09-28T19:32:23.445706+00:00,sim128a[28322]:,disconnect,6,98.251.79.180,Client#5
+2012-09-28T19:32:23.445733+00:00,sim128a[28322]:,disconnect,7,91.16.78.127,Jaridan
+2012-09-28T19:32:42.416798+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,yo
+2012-09-28T19:33:14.026229+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,whos online ?
+2012-09-28T19:35:13.752423+00:00,sim128a[28322]:,chat,9,88.165.36.112,Client#7,8,Trucmuches et cie,hello Jaridan
+2012-09-28T19:55:01.662097+00:00,sim128a[28322]:,disconnect,9,88.165.36.112,Client#7
+2012-09-28T19:55:37.119201+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,yo
+2012-09-28T19:56:11.731280+00:00,sim128a[28322]:,chat,8,91.16.78.127,Jaridan,9,German Transports,"(276,218) you might wanna improve here paichtis"
+2012-09-28T20:19:08.621884+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#7
+2012-09-28T20:20:05.517398+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#7,8,Trucmuches et cie,hi again
+2012-09-28T20:20:39.966359+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#7,8,Trucmuches et cie,"what's wrong at (276,218) ?"
+2012-09-28T20:29:05.299959+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#7,8,Trucmuches et cie,lol missed you again
+2012-09-28T20:29:16.031214+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#7,8,Trucmuches et cie,"but saw the problem, thanks ! :)"
+2012-09-28T20:35:46.082909+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#7,8,Trucmuches et cie,bbl
+2012-09-28T20:35:49.844503+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#7
+2012-09-28T21:30:53.329905+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#7
+2012-09-28T21:35:34.872341+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#7
+2012-09-28T21:36:28.339904+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#7
+2012-09-28T22:07:45.541443+00:00,sim128a[28322]:,connect,5,98.251.79.180,Client#5
+2012-09-28T22:12:39.203069+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#7

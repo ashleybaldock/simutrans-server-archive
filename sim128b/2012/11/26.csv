@@ -1,0 +1,139 @@
+2012-11-26T00:21:18.090156+00:00,sim128b[29384]:,disconnect,2,91.16.87.160,Client#5
+2012-11-26T00:21:38.498825+00:00,sim128b[29384]:,connect,3,91.16.87.160,Client#5
+2012-11-26T01:28:26.774109+00:00,sim128b[29384]:,connect,2,98.251.79.180,Client#6
+2012-11-26T01:28:47.595293+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,15,,yo
+2012-11-26T01:30:38.751683+00:00,sim128b[29384]:,disconnect,2,98.251.79.180,Client#6
+2012-11-26T01:53:45.916001+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,yo
+2012-11-26T02:07:15.752304+00:00,sim128b[29384]:,connect,2,98.251.79.180,Client#6
+2012-11-26T02:07:27.829836+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,15,,yo
+2012-11-26T02:34:53.472008+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,yo
+2012-11-26T02:35:29.480096+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,you building anything atm?
+2012-11-26T02:36:40.746483+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,there is 1 min lag
+2012-11-26T02:36:55.293679+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,?
+2012-11-26T02:37:01.456647+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,i dont have any lag at all
+2012-11-26T02:37:21.215760+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,exit and come back
+2012-11-26T02:37:34.250586+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,...ok?
+2012-11-26T02:37:36.086997+00:00,sim128b[29384]:,disconnect,3,91.16.87.160,Client#5
+2012-11-26T02:38:05.765124+00:00,sim128b[29384]:,connect,3,91.16.87.160,Client#5
+2012-11-26T02:38:22.010017+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,try it
+2012-11-26T02:38:33.771703+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,try what? building something?
+2012-11-26T02:38:49.468045+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,exit game
+2012-11-26T02:39:02.103704+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,i closed the whole application
+2012-11-26T02:39:08.828037+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,restarted it and here i am
+2012-11-26T02:39:12.510733+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"no lag "
+2012-11-26T02:39:26.920527+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,"i mean now,can u?"
+2012-11-26T02:39:29.594195+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,well except that 0.3 s lag that you always have
+2012-11-26T02:39:38.320744+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,i just did? but i can again if you want
+2012-11-26T02:40:05.103808+00:00,sim128b[29384]:,disconnect,3,91.16.87.160,Client#5
+2012-11-26T02:40:35.011402+00:00,sim128b[29384]:,connect,3,91.16.87.160,Client#5
+2012-11-26T02:40:35.012901+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,it doesnt say you joined
+2012-11-26T02:40:59.277887+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,well i restarted twice so far
+2012-11-26T02:40:59.469919+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,it didn't save either
+2012-11-26T02:41:02.158498+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,no lag
+2012-11-26T02:41:02.547951+00:00,sim128b[29384]:,disconnect,2,98.251.79.180,Client#6
+2012-11-26T02:41:29.636443+00:00,sim128b[29384]:,connect,2,98.251.79.180,Client#6
+2012-11-26T02:41:33.774916+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,maybe i'm too good for the server :D
+2012-11-26T02:42:01.217393+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,maybe your isp is derping around?
+2012-11-26T02:43:04.285507+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,wich version you ot?
+2012-11-26T02:43:09.965025+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,wut?
+2012-11-26T02:43:20.482829+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,wingdi?
+2012-11-26T02:43:28.283425+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,sdl?
+2012-11-26T02:43:42.034897+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"ugh , sdl? the standard one for windows"
+2012-11-26T02:44:07.713821+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,maybe gdi has probs?
+2012-11-26T02:44:21.060020+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,why you think that?...
+2012-11-26T02:44:23.786127+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,i mean
+2012-11-26T02:44:30.794265+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,lag is not produced by the game
+2012-11-26T02:44:44.950513+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"there is ping""lag and fpslag for example"
+2012-11-26T02:45:15.303779+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,and so far your simutrans worked without a problem so i don't see how it could be responsible all of a sudden
+2012-11-26T02:45:34.144404+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,"your game wos on sdl, so aybe that's why"
+2012-11-26T02:45:50.862133+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,i have no idea what my simutrans is compiled with
+2012-11-26T02:46:21.129708+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,what simloops # do you get?
+2012-11-26T02:46:22.370498+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,which is a bit embarassing...considering i'm studying informatics...
+2012-11-26T02:46:30.844559+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,simloops #?
+2012-11-26T02:46:50.736849+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,in display settings
+2012-11-26T02:47:10.150236+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,oh i c
+2012-11-26T02:47:18.616778+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,watch it for a min
+2012-11-26T02:47:18.787526+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"2,4 smloops, "
+2012-11-26T02:47:22.195005+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"*2,5"
+2012-11-26T02:47:51.524123+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,oes it ever  go to 2 & red/?
+2012-11-26T02:48:09.632209+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,or < 2
+2012-11-26T02:48:12.541361+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,hmmm
+2012-11-26T02:48:35.527464+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"it got down to 2,2 and then up to 2,7, and is now again stable @ 2,5"
+2012-11-26T02:48:45.048430+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,but
+2012-11-26T02:49:01.061322+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"i just googled simloops, even 2,5 shouldnt be okay , should it?"
+2012-11-26T02:49:02.675418+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,try other spots
+2012-11-26T02:49:03.004004+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"imloops: Finished simulations loops during last second. Should be 3 or higher. "
+2012-11-26T02:49:12.088762+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,this is taken directly from the simuwiki
+2012-11-26T02:49:29.220241+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,okay lets take portland where a lot of stuff goes down
+2012-11-26T02:49:59.071671+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,check out fps :(
+2012-11-26T02:50:18.329413+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,my fps is stable @ 25
+2012-11-26T02:50:44.642561+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"well drops 1 or 2 fps if i scrollin out a lot, really fast "
+2012-11-26T02:50:54.340347+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,lets try underground view
+2012-11-26T02:51:31.741429+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,well
+2012-11-26T02:51:47.557464+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"underground & above stable 25 fps and 2,5simloops"
+2012-11-26T02:52:02.539604+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,areu fullscreen
+2012-11-26T02:52:09.291917+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,yes im fullscreen
+2012-11-26T02:52:34.203006+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,what res
+2012-11-26T02:53:19.363682+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,lower res increases fps & simloops
+2012-11-26T02:53:23.859091+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,laptop 1366 x 768
+2012-11-26T02:53:51.448492+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,"oh, no wonder its faster"
+2012-11-26T02:54:16.282079+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,you playing on hd?
+2012-11-26T02:54:21.088272+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,1920?
+2012-11-26T02:54:21.282469+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,no
+2012-11-26T02:54:35.132050+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,1920x1200
+2012-11-26T02:54:57.344104+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,well this means if you make your simutrans window smaller
+2012-11-26T02:55:09.763941+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"that your fps & simloops should increase, right?"
+2012-11-26T02:55:38.881824+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,and no lag
+2012-11-26T02:56:02.885631+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,did this happen last game aswell?
+2012-11-26T02:56:04.312938+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,bad simutrans rogramming :(
+2012-11-26T02:56:12.995118+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,that you had such bad lag?
+2012-11-26T02:56:18.132670+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,depends
+2012-11-26T02:56:26.702188+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,if it didn't occur last game
+2012-11-26T02:56:30.924394+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,"no, i was uig sdl i think"
+2012-11-26T02:56:34.682537+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,then i blame the no-graphic patch
+2012-11-26T02:56:51.870895+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,and now you are using gdi?
+2012-11-26T02:57:00.339477+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,ya
+2012-11-26T02:57:44.581978+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,whats the difference?
+2012-11-26T02:58:11.431197+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,gdi = native windows?
+2012-11-26T02:58:34.102807+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,sdl = ross os library?
+2012-11-26T02:58:38.421035+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"well i have no idea, what does it change or affect?"
+2012-11-26T02:58:44.261841+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"aaaaaaaah, ok i c"
+2012-11-26T02:58:45.485729+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,cross os
+2012-11-26T02:59:37.883987+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,guess opengl project might fix it all
+2012-11-26T02:59:51.743062+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,what do you mean by that?
+2012-11-26T03:00:16.662263+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,opengl = video card acceeration :)
+2012-11-26T03:00:27.012309+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,ah i'm dumb....
+2012-11-26T03:00:39.876932+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,i'm using emulators with plugins opengl stuff etc ~.~
+2012-11-26T03:00:47.092207+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,~.~
+2012-11-26T03:01:05.894843+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"just inbetween, something gamerelated"
+2012-11-26T03:01:16.364997+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,time to go; now i know cause :)
+2012-11-26T03:01:23.446493+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,do you have 1 min?
+2012-11-26T03:01:33.429573+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,where
+2012-11-26T03:01:37.852586+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"(435,6) why did you start sending steel?"
+2012-11-26T03:02:08.849742+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,not enough for canneries
+2012-11-26T03:02:16.116683+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,2x
+2012-11-26T03:02:34.094939+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,how much steel do you canneries need?
+2012-11-26T03:02:40.393399+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,tey onlhave1steel source
+2012-11-26T03:03:05.577368+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,but the goods had mreeelsrce
+2012-11-26T03:03:14.630149+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,more*
+2012-11-26T03:03:29.884562+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"ye, i just thought we have enough steel, because canneries need like no steel"
+2012-11-26T03:03:54.353848+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"my good needs 1,6k , we produce 2.1 or 2.3k steel"
+2012-11-26T03:04:33.169344+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,500-600 needed
+2012-11-26T03:05:18.430363+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"but doesnt this cover it perfectly? i need 1,6k and we produce 2.2"
+2012-11-26T03:05:42.821121+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,it didn't last time
+2012-11-26T03:06:10.731645+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,"besides, now wedon't have shotage"
+2012-11-26T03:06:52.901690+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,ok
+2012-11-26T03:06:57.602838+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,"if yodon't like my train, make pltforms yours and frun same route"
+2012-11-26T03:07:21.791209+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,&remove mine
+2012-11-26T03:07:23.757177+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"nah its fine, i was just wondering"
+2012-11-26T03:07:50.342273+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,its not like i'm in hard  need for money lol :D
+2012-11-26T03:08:22.243843+00:00,sim128b[29384]:,chat,2,98.251.79.180,Client#6,9,A-Train Transport,k tie ta go....  bye
+2012-11-26T03:08:25.635587+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,"okay, that was all i wanted to ask, don't wanna keep y"
+2012-11-26T03:08:28.805773+00:00,sim128b[29384]:,chat,3,91.16.87.160,Client#5,7,German Trains Transport,cya
+2012-11-26T03:08:34.972717+00:00,sim128b[29384]:,disconnect,2,98.251.79.180,Client#6
+2012-11-26T11:51:10.252797+00:00,sim128b[29384]:,disconnect,3,91.16.87.160,Client#5
+2012-11-26T11:51:27.186726+00:00,sim128b[29384]:,connect,2,91.16.74.124,Client#5
+2012-11-26T12:31:23.527037+00:00,sim128b[29384]:,disconnect,2,91.16.74.124,Client#5
+2012-11-26T13:27:51.793892+00:00,sim128b[29384]:,connect,2,80.144.97.119,Chris
+2012-11-26T17:41:05.336400+00:00,sim128b[29384]:,connect,3,91.16.74.124,Client#5
+2012-11-26T22:38:52.084882+00:00,sim128b[29384]:,connect,4,98.251.79.180,Client#6

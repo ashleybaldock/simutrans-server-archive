@@ -1,0 +1,51 @@
+2012-10-21T00:01:28.397914+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,3,"TransPortugal, SA",There are more public airports?
+2012-10-21T00:02:07.575153+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,"(267,490)  or I can make more if you need one"
+2012-10-21T00:04:32.065870+00:00,sim128b[8012]:,disconnect,3,89.155.122.64,Client#4
+2012-10-21T00:04:47.500247+00:00,sim128b[8012]:,connect,3,89.155.122.64,Client#4
+2012-10-21T00:26:08.953540+00:00,sim128b[8012]:,disconnect,2,98.251.79.180,Client#5
+2012-10-21T00:26:21.865255+00:00,sim128b[8012]:,connect,2,98.251.79.180,Client#5
+2012-10-21T00:36:26.621695+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,15,,"TransPortugal, did you try to use the brown account ... player 7 I think?"
+2012-10-21T00:37:21.078799+00:00,sim128b[8012]:,disconnect,3,89.155.122.64,Client#4
+2012-10-21T00:37:39.132113+00:00,sim128b[8012]:,connect,3,89.155.122.64,Client#4
+2012-10-21T00:40:15.132255+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,are you there?
+2012-10-21T00:40:21.838066+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,3,"TransPortugal, SA",yes
+2012-10-21T00:40:43.258379+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,did you try to log into player 7?  the password doesn't work on that account anymore
+2012-10-21T00:41:15.585349+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,3,"TransPortugal, SA",I would like to continue with this account
+2012-10-21T00:41:38.166795+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,"ok, do you know why player 7 is broken?"
+2012-10-21T00:42:19.488071+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,3,"TransPortugal, SA",no
+2012-10-21T00:42:23.667657+00:00,sim128b[8012]:,disconnect,2,98.251.79.180,Client#5
+2012-10-21T00:42:38.028797+00:00,sim128b[8012]:,connect,2,98.251.79.180,Client#5
+2012-10-21T00:43:18.054972+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,there are a lot of unused accounts
+2012-10-21T00:44:08.376382+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,"tyler transit, freight forwarder, read message, player 8 & 9 & (10?), SBB CFF FFS.... but they are locked up"
+2012-10-21T00:48:23.054846+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,"can you make a station near (299,272)? the passeger & mail will help the factory :)"
+2012-10-21T00:49:00.968236+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,you see the bakery?  (that's what I mean)
+2012-10-21T00:49:16.338054+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,3,"TransPortugal, SA","Yes, please wait"
+2012-10-21T00:49:26.024972+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,"sure, just checking"
+2012-10-21T01:04:21.112605+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,sometimes factories can give you a lot of passengers
+2012-10-21T01:04:48.857445+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,"look at (203,419)   if you had passenger in York, you would want to connect that factory :)"
+2012-10-21T01:05:15.935060+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,3,"TransPortugal, SA",thanks for help me
+2012-10-21T01:05:35.544116+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,sure
+2012-10-21T01:28:41.027130+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,"as long as ""net wealth"" above 0, you won't bankrupt"
+2012-10-21T01:40:25.083170+00:00,sim128b[8012]:,disconnect,3,89.155.122.64,Client#4
+2012-10-21T08:45:59.430632+00:00,sim128b[8012]:,connect,3,85.54.137.170,Client#5
+2012-10-21T11:05:36.334854+00:00,sim128b[8012]:,connect,4,89.155.122.64,Client#4
+2012-10-21T11:19:42.910421+00:00,sim128b[8012]:,connect,5,85.216.166.163,god of 50250
+2012-10-21T11:19:42.972146+00:00,sim128b[8012]:,disconnect,2,98.251.79.180,Client#5
+2012-10-21T11:19:42.972169+00:00,sim128b[8012]:,disconnect,3,85.54.137.170,Client#5
+2012-10-21T11:24:42.531071+00:00,sim128b[8012]:,connect,2,84.56.88.189,Client#2
+2012-10-21T11:25:26.902379+00:00,sim128b[8012]:,disconnect,5,85.216.166.163,god of 50250
+2012-10-21T11:29:16.826326+00:00,sim128b[8012]:,disconnect,2,84.56.88.189,Client#2
+2012-10-21T12:04:25.306275+00:00,sim128b[8012]:,connect,2,114.25.103.68,Client#6
+2012-10-21T12:06:18.360318+00:00,sim128b[8012]:,disconnect,2,114.25.103.68,Client#6
+2012-10-21T16:09:34.447965+00:00,sim128b[8012]:,connect,2,98.251.79.180,Client#5
+2012-10-21T16:11:35.846016+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,hi
+2012-10-21T16:14:19.462312+00:00,sim128b[8012]:,disconnect,4,89.155.122.64,Client#4
+2012-10-21T16:41:31.578118+00:00,sim128b[8012]:,disconnect,2,98.251.79.180,Client#5
+2012-10-21T16:41:41.783684+00:00,sim128b[8012]:,connect,3,81.167.153.49,Client#3
+2012-10-21T16:55:44.064187+00:00,sim128b[8012]:,connect,2,89.155.122.64,Client#4
+2012-10-21T20:00:22.549053+00:00,sim128b[21423]:,connect,2,89.155.122.64,Client#4
+2012-10-21T20:02:54.803355+00:00,sim128b[21423]:,disconnect,2,89.155.122.64,Client#4
+2012-10-21T20:23:05.416720+00:00,sim128b[21423]:,connect,2,98.251.79.180,Client#5
+2012-10-21T22:02:47.392154+00:00,sim128b[21423]:,connect,3,98.251.79.180,Client#5
+2012-10-21T22:38:49.315457+00:00,sim128b[21423]:,connect,4,98.251.79.180,Client#5
+2012-10-21T23:54:44.422845+00:00,sim128b[21423]:,connect,5,98.251.79.180,Client#5

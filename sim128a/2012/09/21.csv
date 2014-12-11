@@ -1,0 +1,212 @@
+2012-09-21T00:25:02.974848+00:00,sim128a[28322]:,disconnect,6,88.165.36.112,Client#5
+2012-09-21T00:25:20.762106+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#5
+2012-09-21T00:31:55.657907+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#5
+2012-09-21T01:42:43.075687+00:00,sim128a[28322]:,connect,4,189.107.25.147,Diego
+2012-09-21T04:25:21.041620+00:00,sim128a[28322]:,connect,5,188.120.227.220,Client#5
+2012-09-21T05:13:06.646335+00:00,sim128a[28322]:,connect,6,201.239.24.109,Client#4
+2012-09-21T05:13:06.746994+00:00,sim128a[28322]:,disconnect,4,189.107.25.147,Diego
+2012-09-21T05:22:58.104111+00:00,sim128a[28322]:,disconnect,6,201.239.24.109,Client#4
+2012-09-21T06:10:38.943864+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#5
+2012-09-21T06:38:33.610795+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#5
+2012-09-21T06:38:33.610839+00:00,sim128a[28322]:,disconnect,5,188.120.227.220,Client#5
+2012-09-21T07:03:38.001076+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#5
+2012-09-21T07:23:14.063609+00:00,sim128a[28322]:,connect,5,188.22.174.6,Hundling
+2012-09-21T07:23:23.203705+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#5
+2012-09-21T07:43:51.141149+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#5
+2012-09-21T07:58:32.874191+00:00,sim128a[28322]:,connect,6,220.245.52.25,Alliance
+2012-09-21T08:00:02.614044+00:00,sim128a[28322]:,disconnect,6,220.245.52.25,Alliance
+2012-09-21T08:00:44.833874+00:00,sim128a[28322]:,connect,6,220.245.52.25,Alliance
+2012-09-21T08:01:07.829854+00:00,sim128a[28322]:,chat,6,220.245.52.25,Alliance,5,Alliance,hey
+2012-09-21T08:01:12.370216+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#5
+2012-09-21T08:08:23.255777+00:00,sim128a[28322]:,disconnect,6,220.245.52.25,Alliance
+2012-09-21T08:09:30.534532+00:00,sim128a[28322]:,connect,4,220.245.52.25,Alliance
+2012-09-21T08:14:53.442137+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,"hey hundling - (347,105) can u delete plz? [plus it's costing you montly]"
+2012-09-21T08:15:24.063142+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,"as well as (344,102)-(344,104)"
+2012-09-21T08:16:59.668809+00:00,sim128a[28322]:,chat,5,188.22.174.6,Hundling,6,Hundling Trans,done
+2012-09-21T08:17:32.464640+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,thx hundling :) plus it saves u monthly costs-  how y been?
+2012-09-21T08:17:48.149816+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,u*
+2012-09-21T08:18:32.681041+00:00,sim128a[28322]:,chat,5,188.22.174.6,Hundling,6,Hundling Trans,well i liked the game before better ;) but nervermind haven't so much time at the moment anyway...
+2012-09-21T08:18:58.444478+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,game before- as in previous map or earlier in this version?
+2012-09-21T08:19:08.248442+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,yeah i havent been on 3 days - any everything changes already!
+2012-09-21T08:20:08.806917+00:00,sim128a[28322]:,chat,5,188.22.174.6,Hundling,6,Hundling Trans,"i meant the map running before this. "
+2012-09-21T08:20:51.930186+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,ah ok - i saw that one - crazy :P why did u like it better?
+2012-09-21T08:21:54.135486+00:00,sim128a[28322]:,chat,5,188.22.174.6,Hundling,6,Hundling Trans,"i hat more time at the beginning to save me some citys... i had no time to play at the beginning of this map... "
+2012-09-21T08:22:39.345810+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,true that - fair enough :) for once i was near the start of this map - but then i went bankrupt :S trying to buy a plane to connect to public :P
+2012-09-21T08:22:52.313511+00:00,sim128a[28322]:,disconnect,4,220.245.52.25,Alliance
+2012-09-21T08:23:42.819634+00:00,sim128a[28322]:,connect,4,220.245.52.25,Alliance
+2012-09-21T08:23:53.276102+00:00,sim128a[28322]:,disconnect,5,188.22.174.6,Hundling
+2012-09-21T08:24:14.120346+00:00,sim128a[28322]:,connect,5,188.22.174.6,Hundling
+2012-09-21T08:27:40.694386+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,i admit next map im using less cities- so time consuming
+2012-09-21T08:28:19.560184+00:00,sim128a[28322]:,chat,5,188.22.174.6,Hundling,6,Hundling Trans,hehe
+2012-09-21T08:28:34.563713+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,probably 4 cities max- or one big city should do it
+2012-09-21T08:28:47.036019+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,i could easily spend 1-2 hours on each city :P time i have less of each day :P
+2012-09-21T08:29:18.215466+00:00,sim128a[28322]:,chat,5,188.22.174.6,Hundling,6,Hundling Trans,i know... me to ;)
+2012-09-21T08:29:38.103825+00:00,sim128a[28322]:,chat,5,188.22.174.6,Hundling,6,Hundling Trans,have you ever tried simutrans experimental?
+2012-09-21T08:29:40.297225+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,and yet i see helloworld just keeps building :P he must have alot of time spare!
+2012-09-21T08:29:51.551870+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,havent tried experimental
+2012-09-21T08:33:45.499499+00:00,sim128a[28322]:,disconnect,5,188.22.174.6,Hundling
+2012-09-21T08:40:46.149781+00:00,sim128a[28322]:,connect,5,220.245.52.25,Alliance
+2012-09-21T08:44:58.334268+00:00,sim128a[28322]:,connect,6,220.245.52.25,Alliance
+2012-09-21T08:50:05.759594+00:00,sim128a[28322]:,connect,7,220.245.52.25,Alliance
+2012-09-21T08:54:22.698905+00:00,sim128a[28322]:,connect,8,220.245.52.25,Alliance
+2012-09-21T08:56:10.637364+00:00,sim128a[28322]:,disconnect,4,220.245.52.25,Alliance
+2012-09-21T08:56:10.637779+00:00,sim128a[28322]:,disconnect,5,220.245.52.25,Alliance
+2012-09-21T08:56:10.638110+00:00,sim128a[28322]:,disconnect,6,220.245.52.25,Alliance
+2012-09-21T08:56:10.638160+00:00,sim128a[28322]:,disconnect,7,220.245.52.25,Alliance
+2012-09-21T08:56:10.638185+00:00,sim128a[28322]:,disconnect,8,220.245.52.25,Alliance
+2012-09-21T08:57:04.085074+00:00,sim128a[28322]:,connect,4,220.245.52.25,Alliance
+2012-09-21T08:58:45.910244+00:00,sim128a[28322]:,disconnect,4,220.245.52.25,Alliance
+2012-09-21T08:59:27.515636+00:00,sim128a[28322]:,connect,5,220.245.52.25,Alliance
+2012-09-21T09:03:40.330415+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#5
+2012-09-21T09:10:01.055269+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Alliance,hey helloworld
+2012-09-21T09:10:23.307575+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,hi alliance
+2012-09-21T09:10:34.542176+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Alliance,what is with the name change? :P
+2012-09-21T09:10:51.508535+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,well why not ? :)
+2012-09-21T09:11:03.521086+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Alliance,what does it mean?
+2012-09-21T09:11:16.986348+00:00,sim128a[28322]:,disconnect,5,220.245.52.25,Alliance
+2012-09-21T09:12:19.365903+00:00,sim128a[28322]:,connect,5,220.245.52.25,Alliance
+2012-09-21T09:12:19.366535+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,hmmm my english lacks to explain
+2012-09-21T09:12:42.389023+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,15,,oh ok then
+2012-09-21T09:12:58.319894+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,trucmuche  = thingy ?
+2012-09-21T09:13:14.761655+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Alliance,i would have no idea :P
+2012-09-21T09:13:33.862674+00:00,sim128a[28322]:,disconnect,5,220.245.52.25,Alliance
+2012-09-21T09:14:26.641833+00:00,sim128a[28322]:,connect,5,220.245.52.25,Alliance
+2012-09-21T09:14:26.642510+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,"anyway, I had made an online business simulation"
+2012-09-21T09:14:27.891461+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,and you had to produce e-truchmuches
+2012-09-21T09:14:38.034997+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,back in 2000
+2012-09-21T09:14:51.780937+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Alliance,oh wow ok
+2012-09-21T09:15:05.589932+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Alliance,so a bit of history in the name :P
+2012-09-21T09:15:32.671689+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,yes :)
+2012-09-21T09:15:51.655447+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,and instead of playing I'm supposed to revive this old game
+2012-09-21T09:16:04.196649+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,can't sayI'm very efficient at that :D
+2012-09-21T09:16:23.937307+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Alliance,ha :P yet u seem to be the person who plays this map the most :P
+2012-09-21T09:16:43.819155+00:00,sim128a[28322]:,disconnect,5,220.245.52.25,Alliance
+2012-09-21T09:16:44.810933+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,sadly yes ... :P
+2012-09-21T09:17:40.942121+00:00,sim128a[28322]:,connect,5,220.245.52.25,Alliance
+2012-09-21T09:18:06.698396+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Alliance,i havent been on in 3 days :P lol i got so much lag last time i gave up
+2012-09-21T09:19:11.165386+00:00,sim128a[28322]:,disconnect,5,220.245.52.25,Alliance
+2012-09-21T09:19:59.957826+00:00,sim128a[28322]:,connect,5,220.245.52.25,Alliance
+2012-09-21T09:20:51.992693+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Alliance,when do u think it will get reset?
+2012-09-21T09:21:16.409281+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,probably this week-end
+2012-09-21T09:21:23.100212+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,or next one
+2012-09-21T09:21:53.242377+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Alliance,ah ok well im busy all weekend :P so hopefully the one after so i can still fix things :P make it look good for the save file lol
+2012-09-21T09:22:11.173641+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,haha
+2012-09-21T09:22:23.770983+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,saved for the posterity :)
+2012-09-21T09:22:48.238086+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Alliance,ha yeah :P and next time i wont go bankrupt for try :P i might way for the map to develop first
+2012-09-21T09:23:32.237668+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,heh next time I hope I'll have the sense to not be there...
+2012-09-21T09:23:49.122552+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,I need to get stuff done ! :)
+2012-09-21T09:24:09.788843+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Alliance,ha i know that feeling :P i didnt play last map for that reason - but yes - it can become quite addictive ;)
+2012-09-21T09:25:18.282957+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,ok i'm out
+2012-09-21T09:25:24.459451+00:00,sim128a[28322]:,chat,4,88.165.36.112,Client#5,8,Trucmuches et cie,see you later :)
+2012-09-21T09:25:26.528166+00:00,sim128a[28322]:,chat,5,220.245.52.25,Alliance,5,Alliance,ok cya :)
+2012-09-21T09:25:34.338066+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#5
+2012-09-21T09:29:34.002579+00:00,sim128a[28322]:,connect,4,220.245.52.25,Alliance
+2012-09-21T09:33:27.763372+00:00,sim128a[28322]:,connect,6,220.245.52.25,Alliance
+2012-09-21T09:36:39.465277+00:00,sim128a[28322]:,connect,7,220.245.52.25,Alliance
+2012-09-21T09:38:11.232354+00:00,sim128a[28322]:,connect,8,220.245.52.25,Alliance
+2012-09-21T09:45:55.329721+00:00,sim128a[28322]:,disconnect,4,220.245.52.25,Alliance
+2012-09-21T09:45:55.329760+00:00,sim128a[28322]:,disconnect,5,220.245.52.25,Alliance
+2012-09-21T09:45:55.329782+00:00,sim128a[28322]:,disconnect,6,220.245.52.25,Alliance
+2012-09-21T09:45:55.329805+00:00,sim128a[28322]:,disconnect,7,220.245.52.25,Alliance
+2012-09-21T09:45:55.329826+00:00,sim128a[28322]:,disconnect,8,220.245.52.25,Alliance
+2012-09-21T09:46:38.312322+00:00,sim128a[28322]:,connect,4,220.245.52.25,Alliance
+2012-09-21T09:48:00.712924+00:00,sim128a[28322]:,connect,5,220.245.52.25,Alliance
+2012-09-21T10:52:32.519789+00:00,sim128a[28322]:,connect,6,88.165.36.112,Client#5
+2012-09-21T11:30:37.196477+00:00,sim128a[28322]:,connect,7,188.22.174.6,Hundling
+2012-09-21T11:35:33.854786+00:00,sim128a[28322]:,connect,8,88.165.36.112,Client#5
+2012-09-21T11:35:33.962149+00:00,sim128a[28322]:,disconnect,4,220.245.52.25,Alliance
+2012-09-21T11:35:33.962177+00:00,sim128a[28322]:,disconnect,5,220.245.52.25,Alliance
+2012-09-21T11:35:33.962197+00:00,sim128a[28322]:,disconnect,6,88.165.36.112,Client#5
+2012-09-21T11:41:28.354668+00:00,sim128a[28322]:,disconnect,7,188.22.174.6,Hundling
+2012-09-21T12:31:50.081940+00:00,sim128a[28322]:,disconnect,8,88.165.36.112,Client#5
+2012-09-21T12:32:06.673963+00:00,sim128a[28322]:,connect,4,188.22.174.6,Hundling
+2012-09-21T13:25:44.820061+00:00,sim128a[28322]:,disconnect,4,188.22.174.6,Hundling
+2012-09-21T13:26:27.825721+00:00,sim128a[28322]:,connect,5,220.245.52.25,Alliance
+2012-09-21T13:46:01.900841+00:00,sim128a[28322]:,connect,4,220.245.52.25,Alliance
+2012-09-21T14:01:02.938140+00:00,sim128a[28322]:,connect,6,88.165.36.112,Client#5
+2012-09-21T14:01:03.125877+00:00,sim128a[28322]:,disconnect,5,220.245.52.25,Alliance
+2012-09-21T14:12:04.076271+00:00,sim128a[28322]:,disconnect,4,220.245.52.25,Alliance
+2012-09-21T14:12:52.499756+00:00,sim128a[28322]:,connect,4,220.245.52.25,Alliance
+2012-09-21T14:14:17.747090+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,hey again helloworld
+2012-09-21T14:14:54.706661+00:00,sim128a[28322]:,chat,6,88.165.36.112,Client#5,8,Trucmuches et cie,hi
+2012-09-21T14:15:08.510707+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,"(354,16) from last time :P"
+2012-09-21T14:15:13.654484+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,surprised to see you back :P
+2012-09-21T14:15:56.968095+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,what? u were supposed to delete it :S
+2012-09-21T14:16:04.465188+00:00,sim128a[28322]:,chat,6,88.165.36.112,Client#5,8,Trucmuches et cie,damn wrong button :(
+2012-09-21T14:16:25.178111+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,how can u confuse make public with remove? :S
+2012-09-21T14:16:43.489110+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,oh wells guess ill have to live with it now :P
+2012-09-21T14:16:54.223512+00:00,sim128a[28322]:,chat,6,88.165.36.112,Client#5,8,Trucmuches et cie,public and change station
+2012-09-21T14:17:06.185407+00:00,sim128a[28322]:,chat,6,88.165.36.112,Client#5,8,Trucmuches et cie,next to each other :(
+2012-09-21T14:17:11.144521+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,oh ok
+2012-09-21T14:17:51.849275+00:00,sim128a[28322]:,chat,6,88.165.36.112,Client#5,8,Trucmuches et cie,"well, I deleted what i still can :\"
+2012-09-21T14:18:17.186542+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,no point really now - ill just have to go underground :P surprised u came back though
+2012-09-21T14:18:38.944794+00:00,sim128a[28322]:,chat,6,88.165.36.112,Client#5,8,Trucmuches et cie,lol me too :P
+2012-09-21T14:19:14.095417+00:00,sim128a[28322]:,chat,6,88.165.36.112,Client#5,8,Trucmuches et cie,"btw (367,28) needs some PAX"
+2012-09-21T14:19:40.424284+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,ok - my sign at start screen - leave a sign under it
+2012-09-21T14:19:44.786214+00:00,sim128a[28322]:,chat,6,88.165.36.112,Client#5,8,Trucmuches et cie,nothing urgent though
+2012-09-21T14:19:48.965855+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,ill try to get to it within the next day
+2012-09-21T14:23:15.669608+00:00,sim128a[28322]:,chat,6,88.165.36.112,Client#5,8,Trucmuches et cie,"ok, I'll do that next time I connect, see you later !"
+2012-09-21T14:23:19.880659+00:00,sim128a[28322]:,disconnect,6,88.165.36.112,Client#5
+2012-09-21T14:23:31.050791+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,ok cya
+2012-09-21T14:27:33.107453+00:00,sim128a[28322]:,connect,5,220.245.52.25,Alliance
+2012-09-21T14:45:15.555726+00:00,sim128a[28322]:,connect,6,220.245.52.25,Alliance
+2012-09-21T14:54:04.355563+00:00,sim128a[28322]:,connect,7,220.245.52.25,Alliance
+2012-09-21T15:00:29.606546+00:00,sim128a[28322]:,connect,8,220.245.52.25,Alliance
+2012-09-21T15:28:58.426460+00:00,sim128a[28322]:,connect,9,88.165.36.112,Client#5
+2012-09-21T15:28:58.575524+00:00,sim128a[28322]:,disconnect,4,220.245.52.25,Alliance
+2012-09-21T15:28:58.575553+00:00,sim128a[28322]:,disconnect,5,220.245.52.25,Alliance
+2012-09-21T15:28:58.575574+00:00,sim128a[28322]:,disconnect,6,220.245.52.25,Alliance
+2012-09-21T15:28:58.575595+00:00,sim128a[28322]:,disconnect,7,220.245.52.25,Alliance
+2012-09-21T15:29:49.928566+00:00,sim128a[28322]:,disconnect,8,220.245.52.25,Alliance
+2012-09-21T15:30:37.043274+00:00,sim128a[28322]:,connect,4,220.245.52.25,Alliance
+2012-09-21T15:38:29.334799+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,one day you'll escape here :P
+2012-09-21T15:39:17.741591+00:00,sim128a[28322]:,chat,9,88.165.36.112,Client#5,8,Trucmuches et cie,lol
+2012-09-21T15:39:33.972391+00:00,sim128a[28322]:,chat,9,88.165.36.112,Client#5,8,Trucmuches et cie,trying to fix some congestion
+2012-09-21T15:39:44.705143+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,ah ok
+2012-09-21T15:40:00.878560+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,im leaving soon - so im just buying lots of buses- hoping they can last until next time im here :P
+2012-09-21T15:40:31.721103+00:00,sim128a[28322]:,chat,9,88.165.36.112,Client#5,8,Trucmuches et cie,and week-ends are busy
+2012-09-21T15:40:45.447669+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,yes :P i agree
+2012-09-21T15:41:49.502707+00:00,sim128a[28322]:,disconnect,4,220.245.52.25,Alliance
+2012-09-21T15:44:24.484122+00:00,sim128a[28322]:,connect,4,220.245.52.25,Alliance
+2012-09-21T15:47:25.649521+00:00,sim128a[28322]:,chat,9,88.165.36.112,Client#5,8,Trucmuches et cie,it gets bigger by the minute lol
+2012-09-21T15:47:37.791449+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,i had a huge backlog of plane
+2012-09-21T15:47:44.102321+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,so my airport is overcrowding
+2012-09-21T15:47:50.537506+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,i had no choice but to expand it :P
+2012-09-21T15:50:44.332798+00:00,sim128a[28322]:,chat,9,88.165.36.112,Client#5,8,Trucmuches et cie,well time to go to my duties again :)
+2012-09-21T15:50:54.173197+00:00,sim128a[28322]:,chat,4,220.245.52.25,Alliance,5,Alliance,lol ok cya
+2012-09-21T15:50:59.489186+00:00,sim128a[28322]:,chat,9,88.165.36.112,Client#5,8,Trucmuches et cie,cya :)
+2012-09-21T15:51:09.066712+00:00,sim128a[28322]:,disconnect,9,88.165.36.112,Client#5
+2012-09-21T17:20:57.659368+00:00,sim128a[28322]:,disconnect,4,220.245.52.25,Alliance
+2012-09-21T17:21:33.017746+00:00,sim128a[28322]:,connect,5,0.0.0.0,mvw
+2012-09-21T17:24:42.209789+00:00,sim128a[28322]:,connect,4,0.0.0.0,mvw
+2012-09-21T17:33:53.864594+00:00,sim128a[28322]:,connect,6,88.165.36.112,Client#5
+2012-09-21T17:33:54.008316+00:00,sim128a[28322]:,disconnect,5,0.0.0.0,mvw
+2012-09-21T17:44:26.323276+00:00,sim128a[28322]:,disconnect,4,0.0.0.0,mvw
+2012-09-21T17:45:16.561941+00:00,sim128a[28322]:,connect,4,0.0.0.0,mvw
+2012-09-21T17:46:24.139940+00:00,sim128a[28322]:,disconnect,6,88.165.36.112,Client#5
+2012-09-21T17:47:12.901437+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#5
+2012-09-21T18:05:44.476988+00:00,sim128a[28322]:,connect,6,91.16.79.210,Jaridan
+2012-09-21T18:12:06.655455+00:00,sim128a[28322]:,disconnect,6,91.16.79.210,Jaridan
+2012-09-21T18:12:19.139735+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#5
+2012-09-21T19:21:36.572930+00:00,sim128a[28322]:,connect,5,91.16.79.210,Jaridan
+2012-09-21T19:24:45.329329+00:00,sim128a[28322]:,connect,6,88.165.36.112,Client#5
+2012-09-21T19:24:45.470460+00:00,sim128a[28322]:,disconnect,4,0.0.0.0,mvw
+2012-09-21T19:31:05.818558+00:00,sim128a[28322]:,disconnect,5,91.16.79.210,Jaridan
+2012-09-21T19:33:11.389592+00:00,sim128a[28322]:,disconnect,6,88.165.36.112,Client#5
+2012-09-21T19:34:38.964343+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#5
+2012-09-21T19:40:10.420215+00:00,sim128a[28322]:,connect,5,91.16.79.210,Jaridan
+2012-09-21T19:40:11.565433+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#5
+2012-09-21T19:41:16.722967+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#5
+2012-09-21T19:43:14.144847+00:00,sim128a[28322]:,disconnect,5,91.16.79.210,Jaridan
+2012-09-21T20:00:09.183267+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#5
+2012-09-21T20:01:20.687880+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#5
+2012-09-21T20:04:12.362509+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#5
+2012-09-21T20:19:36.670037+00:00,sim128a[28322]:,connect,6,91.16.79.210,Jaridan
+2012-09-21T20:19:36.818608+00:00,sim128a[28322]:,disconnect,4,88.165.36.112,Client#5
+2012-09-21T20:27:39.848797+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#5
+2012-09-21T20:59:14.327813+00:00,sim128a[28322]:,connect,4,0.0.0.0,mvw
+2012-09-21T21:00:02.589120+00:00,sim128a[28322]:,disconnect,6,91.16.79.210,Jaridan
+2012-09-21T21:31:26.948034+00:00,sim128a[28322]:,connect,5,88.165.36.112,Client#5
+2012-09-21T21:35:49.406417+00:00,sim128a[28322]:,disconnect,4,0.0.0.0,mvw
+2012-09-21T23:42:26.638432+00:00,sim128a[28322]:,disconnect,5,88.165.36.112,Client#5
+2012-09-21T23:42:43.932579+00:00,sim128a[28322]:,connect,4,88.165.36.112,Client#5

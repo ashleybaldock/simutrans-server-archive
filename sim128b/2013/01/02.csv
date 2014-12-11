@@ -1,0 +1,57 @@
+2013-01-02T01:34:02.465070+00:00,sim128b[27991]:,isconnect,4,69.138.176.94,Fifty
+2013-01-02T01:34:09.048418+00:00,sim128b[27991]:,onnect,2,71.200.128.99,Benjad
+2013-01-02T02:01:28.582874+00:00,sim128b[27991]:,isconnect,2,71.200.128.99,Benjad
+2013-01-02T02:01:34.597413+00:00,sim128b[27991]:,onnect,3,69.138.176.94,Fifty
+2013-01-02T03:09:36.442363+00:00,sim128b[27991]:,onnect,2,71.200.128.99,Benjad
+2013-01-02T07:55:00.525937+00:00,sim128b[27991]:,onnect,4,114.79.29.233,Client#7
+2013-01-02T08:34:59.413260+00:00,sim128b[27991]:,isconnect,2,71.200.128.99,Benjad
+2013-01-02T08:34:59.413308+00:00,sim128b[27991]:,isconnect,3,69.138.176.94,Fifty
+2013-01-02T08:34:59.413329+00:00,sim128b[27991]:,isconnect,4,114.79.29.233,Client#7
+2013-01-02T08:35:16.600192+00:00,sim128b[27991]:,onnect,5,114.79.29.233,Client#7
+2013-01-02T09:52:38.426851+00:00,sim128b[27991]:,isconnect,5,114.79.29.233,Client#7
+2013-01-02T09:52:43.942824+00:00,sim128b[27991]:,onnect,2,62.238.177.205,Client#7
+2013-01-02T13:00:49.020489+00:00,sim128b[27991]:,onnect,3,189.46.92.226,Felicio
+2013-01-02T13:01:48.466439+00:00,sim128b[27991]:,isconnect,3,189.46.92.226,Felicio
+2013-01-02T15:32:59.123816+00:00,sim128b[27991]:,onnect,3,69.138.176.94,Fifty
+2013-01-02T16:12:44.603867+00:00,sim128b[27991]:,onnect,4,88.112.160.217,Coldron
+2013-01-02T16:16:09.330059+00:00,sim128b[27991]:,isconnect,4,88.112.160.217,Coldron
+2013-01-02T17:37:10.452208+00:00,sim128b[27991]:,isconnect,2,62.238.177.205,Client#7
+2013-01-02T17:38:45.877182+00:00,sim128b[27991]:,onnect,2,62.238.177.205,Client#7
+2013-01-02T17:54:27.281895+00:00,sim128b[27991]:,isconnect,3,69.138.176.94,Fifty
+2013-01-02T19:53:49.103803+00:00,sim128b[27991]:,onnect,3,69.138.176.94,Fifty
+2013-01-02T20:13:43.509844+00:00,sim128b[27991]:,isconnect,3,69.138.176.94,Fifty
+2013-01-02T20:15:24.891659+00:00,sim128b[27991]:,onnect,3,69.138.176.94,Fifty
+2013-01-02T21:09:32.724795+00:00,sim128b[27991]:,onnect,4,84.25.230.50,jjasloot
+2013-01-02T21:10:20.050129+00:00,sim128b[27991]:,isconnect,4,84.25.230.50,jjasloot
+2013-01-02T21:27:45.175341+00:00,sim128b[27991]:,isconnect,2,62.238.177.205,Client#7
+2013-01-02T21:58:27.126885+00:00,sim128b[27991]:,onnect,2,89.248.248.59,smalljbt
+2013-01-02T21:59:22.172160+00:00,sim128b[27991]:,isconnect,2,89.248.248.59,smalljbt
+2013-01-02T22:12:49.712602+00:00,sim128b[27991]:,onnect,2,79.0.155.226,Client#2
+2013-01-02T22:14:02.279063+00:00,sim128b[27991]:,isconnect,2,79.0.155.226,Client#2
+2013-01-02T22:24:51.967157+00:00,sim128b[27991]:,onnect,2,71.200.128.99,Benjad
+2013-01-02T22:25:01.006557+00:00,sim128b[27991]:,hat,3,69.138.176.94,Fifty,12,RF&P,hi benjad
+2013-01-02T22:25:13.806436+00:00,sim128b[27991]:,hat,2,71.200.128.99,Benjad,15,,evening  here for a bit only
+2013-01-02T22:25:37.251594+00:00,sim128b[27991]:,hat,3,69.138.176.94,Fifty,12,RF&P,"ok, I am ready to give you steel and coal."
+2013-01-02T22:25:46.576070+00:00,sim128b[27991]:,hat,2,71.200.128.99,Benjad,15,,ok
+2013-01-02T22:29:19.822256+00:00,sim128b[27991]:,hat,3,69.138.176.94,Fifty,12,RF&P,so is more coal going north or coming south? (how many mines up north?)
+2013-01-02T22:29:49.409393+00:00,sim128b[27991]:,hat,2,71.200.128.99,Benjad,6,Planet Express,hrm  need to count
+2013-01-02T22:30:15.585767+00:00,sim128b[27991]:,hat,2,71.200.128.99,Benjad,6,Planet Express,3 go south on my network
+2013-01-02T22:30:37.629730+00:00,sim128b[27991]:,hat,3,69.138.176.94,Fifty,12,RF&P,"ok, only 2 of mine go north, so net flow is south"
+2013-01-02T22:31:09.585454+00:00,sim128b[27991]:,hat,2,71.200.128.99,Benjad,6,Planet Express,"we will see, they do have some different productions, and some service some industries, and not others"
+2013-01-02T22:32:39.898726+00:00,sim128b[27991]:,hat,3,69.138.176.94,Fifty,12,RF&P,"ok, they're set to load at the interchange for now, we'll see"
+2013-01-02T22:34:02.284347+00:00,sim128b[27991]:,hat,3,69.138.176.94,Fifty,12,RF&P,steel is going to you now too
+2013-01-02T22:34:13.864778+00:00,sim128b[27991]:,hat,2,71.200.128.99,Benjad,6,Planet Express,got that line set up
+2013-01-02T22:34:45.251779+00:00,sim128b[27991]:,hat,3,69.138.176.94,Fifty,12,RF&P,"great. Can you remove your line @232, 479 to the food fac?"
+2013-01-02T22:35:14.064583+00:00,sim128b[27991]:,hat,2,71.200.128.99,Benjad,6,Planet Express,"sure, and that is cool... jus saw teh popup with the graphic inset"
+2013-01-02T22:35:36.838419+00:00,sim128b[27991]:,hat,3,69.138.176.94,Fifty,12,RF&P,?
+2013-01-02T22:36:09.257521+00:00,sim128b[27991]:,hat,3,69.138.176.94,Fifty,12,RF&P,oh! yes if you put @ plus the coords you can click and get there
+2013-01-02T22:36:14.549272+00:00,sim128b[27991]:,hat,2,71.200.128.99,Benjad,6,Planet Express,"set chat messages to popup in a window... when it pops ip, it gives u a mini-view at the coordianates"
+2013-01-02T22:36:32.047067+00:00,sim128b[27991]:,hat,2,71.200.128.99,Benjad,6,Planet Express,and a view pops up in chat...
+2013-01-02T22:37:30.183061+00:00,sim128b[27991]:,hat,3,69.138.176.94,Fifty,12,RF&P,"FYI your steel train has no wait to load, it's running away empty"
+2013-01-02T22:37:45.305670+00:00,sim128b[27991]:,hat,2,71.200.128.99,Benjad,6,Planet Express,was wondering where it went
+2013-01-02T22:37:53.574242+00:00,sim128b[27991]:,hat,2,71.200.128.99,Benjad,6,Planet Express,loll
+2013-01-02T22:38:08.184020+00:00,sim128b[27991]:,hat,3,69.138.176.94,Fifty,12,RF&P,"moreover, its station is not public"
+2013-01-02T22:39:22.826106+00:00,sim128b[27991]:,hat,2,71.200.128.99,Benjad,6,Planet Express,"ok, gotta run.. will work on capacity issues later tonight"
+2013-01-02T22:39:36.031657+00:00,sim128b[27991]:,hat,3,69.138.176.94,Fifty,12,RF&P,cya
+2013-01-02T22:39:43.535798+00:00,sim128b[27991]:,isconnect,2,71.200.128.99,Benjad
+2013-01-02T23:57:45.458668+00:00,sim128b[27991]:,onnect,2,201.26.99.173,Victor

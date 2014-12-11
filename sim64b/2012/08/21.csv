@@ -1,0 +1,162 @@
+2012-08-21T00:08:07.423159+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#2
+2012-08-21T00:41:52.824097+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#2
+2012-08-21T00:41:52.824151+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#2
+2012-08-21T00:42:26.371694+00:00,sim64b[1447]:,connect,4,122.148.146.34,Client#2
+2012-08-21T00:43:51.106799+00:00,sim64b[1447]:,connect,2,98.141.195.146,Fifty
+2012-08-21T00:44:01.253234+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,15,,g'day
+2012-08-21T00:44:18.483552+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,"or should i say, g'day"
+2012-08-21T00:44:56.764778+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Oh, hey, how are things in aussieland?"
+2012-08-21T00:45:18.086656+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,"hopefully ok, i haven't gone outside yet..."
+2012-08-21T00:45:34.653003+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,still got good weather over there?
+2012-08-21T00:46:15.872753+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Uh, its raining, but yeah. BTW, I was happy because summer is over, not here ;)"
+2012-08-21T00:46:30.027667+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,Summer is so hot and humid here you can't move
+2012-08-21T00:46:43.881417+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,"yeah, you guys get it tough over there"
+2012-08-21T00:47:25.557292+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,am looking at Heppbury-Brentham trains
+2012-08-21T00:47:32.793623+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,"we need more of them, i just added 2"
+2012-08-21T00:47:53.761317+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,Yeah. Please use high speed trains (not sd40
+2012-08-21T00:47:56.716908+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,"we will end up with congestion of these trains at Brentham, i'm sure"
+2012-08-21T00:48:10.778900+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,"oh, ok, i'll replace the sd40's"
+2012-08-21T00:48:36.806675+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"sd40s are good only on 120 kmh lines, where i've got higher speeds let's use "
+2012-08-21T00:48:46.876657+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,'em
+2012-08-21T00:49:15.114613+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Brentham should be fine, I spent a long time untangling it this afternoon"
+2012-08-21T00:49:26.368644+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,"of course, i'm not familiar with the vehicles in this pakset so am trying to follow you"
+2012-08-21T00:49:26.526730+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,I had to undo most of your work there.
+2012-08-21T00:49:52.034180+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,i noticed! my work was only a patch job
+2012-08-21T00:50:23.850645+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Well, I took at least an hour to redo it, It's good for the next million ton-miles ;)"
+2012-08-21T00:50:25.145893+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,i'll have 3 spare sd40's if you want them sent to any particular depots
+2012-08-21T00:51:07.168851+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,just send 'em wherever. Maybe put a sign so we know we have stabled power?
+2012-08-21T00:51:22.697418+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,i find them using a filtered search
+2012-08-21T00:51:43.578454+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,you've probably seen my depot routes for sending them to the depots i want
+2012-08-21T00:52:24.226207+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,it's also fun seeing light engines running around the map
+2012-08-21T00:52:51.587084+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Yeah, I try really hard not to delete useful convoys, Instead sending them around..."
+2012-08-21T00:53:14.460516+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"like the switchers at 234, 121"
+2012-08-21T00:53:34.682869+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,press details and you'll see there 1957 power
+2012-08-21T00:53:51.003700+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,They used to switch the northwest chemical plants!
+2012-08-21T00:55:09.461183+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,"hang on, just replacing the sd40s"
+2012-08-21T00:57:44.096170+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,do we have any spare brose234's?
+2012-08-21T00:58:01.375335+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,Not that I know of.
+2012-08-21T00:58:51.577336+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,the 218's are the same speed anyway
+2012-08-21T00:59:05.281800+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"No, use 234"
+2012-08-21T00:59:23.011559+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,"oh, ok, i'll bring in an existing consist and duplicate"
+2012-08-21T00:59:38.082386+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,?? 234s are still in productions
+2012-08-21T00:59:47.592949+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,*production
+2012-08-21T01:00:04.222140+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,"of course, i'm just blind"
+2012-08-21T01:00:31.833374+00:00,sim64b[1447]:,chat,4,122.148.146.34,Client#2,12,RF&P,i thought we were using sd40's to get the extra mail car on
+2012-08-21T01:01:18.044736+00:00,sim64b[1447]:,disconnect,4,122.148.146.34,Client#2
+2012-08-21T01:01:58.450320+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#2
+2012-08-21T01:02:25.379372+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"I did some calculations, and I think I found that it is more profitable to use a 234 at 139 kmh with 6 cars than an sd40-2 with 7 at 119 kmh"
+2012-08-21T01:02:41.978079+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"You know about the speedbonus change, right?"
+2012-08-21T01:03:13.506035+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Of course, still better to use an sd40-2 where track speed is only 120kmh"
+2012-08-21T01:04:15.108510+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Oh, that's a nice jam"
+2012-08-21T01:04:41.395915+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,i don't take $ quite seriously enough to do speedbonus calculations
+2012-08-21T01:04:53.455931+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,or even bother to understand how it works
+2012-08-21T01:05:29.049551+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"I don't *really* care, but I just love doing the math sometimes..."
+2012-08-21T01:06:12.238419+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,"fair enough, i haven't got that bored yet :)"
+2012-08-21T01:06:18.856846+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"But the change is now that speedbonus is based on actual maximum speed, not theoretical"
+2012-08-21T01:06:54.946543+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,"excellent, that's a step in the right direction"
+2012-08-21T01:07:00.789557+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"So, a 234 will make less money running on a 120kmh track than an sd40, but the opposite is true on higher speed track"
+2012-08-21T01:07:10.568809+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,towards calculating it on average speed
+2012-08-21T01:07:37.354340+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"So, it gives a little more strategy to convoy creation"
+2012-08-21T01:08:20.867599+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#2
+2012-08-21T01:09:00.166409+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#2
+2012-08-21T01:11:05.385625+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#2
+2012-08-21T01:11:52.423014+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#2
+2012-08-21T01:13:20.134813+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,indeed. did you say we have a jam somewhere?
+2012-08-21T01:13:34.800311+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,Fixed already :)
+2012-08-21T01:13:50.437628+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,More of my shoddy signaling
+2012-08-21T01:14:16.454206+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,That has gone unnoticed since 1960...
+2012-08-21T01:14:58.975025+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,it probably didn't matter until the line got busy
+2012-08-21T01:15:22.642405+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Isn't that the truth,"
+2012-08-21T01:16:05.492215+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"By the way, the jam at Appingchester steel mill that you mentioned to me was not an issue of signaling, but seemed to be a bug of some sort"
+2012-08-21T01:16:25.191066+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,The presignal did not trigger the choose signal and treated it like a normal signal
+2012-08-21T01:16:52.041465+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,I will investigate in a nightly to see if I can repeat the behavior
+2012-08-21T01:17:07.939958+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,"i didn't look at the signalling, i just found a short-term fix and figured i'd leave the proper fix to you"
+2012-08-21T01:18:43.235225+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Oh, yeah, you got the quick patch right on. Just sometimes, like at brentham, there is not easy patch because it is so convoluted an interchange"
+2012-08-21T01:19:29.369284+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,"yes, and i don't know where all the trains are going"
+2012-08-21T01:19:41.714026+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,i had to do something because it was jammed to a stop
+2012-08-21T01:19:57.760919+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,Right now it is a four-level stack interchange! But it began in 1935ish as a terminus if you can imagine...
+2012-08-21T01:20:26.487762+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,And I just kept adding and other people's lines got in my way more and more
+2012-08-21T01:20:30.430799+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,"yes, i looked"
+2012-08-21T01:21:02.572174+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,i'm wating for the function where the player with the most money can dynamite others' infrastructure...
+2012-08-21T01:21:49.351082+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,Yeah! i can drop a cool 30 billion on that!
+2012-08-21T01:22:13.922045+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Hell, I could buy out every other player on the map!"
+2012-08-21T01:22:17.193397+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,"getting to the $1m a day target is proving a challenge, i must say"
+2012-08-21T01:22:27.694033+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,"mmm, buying out players"
+2012-08-21T01:23:30.578449+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Oh, but we're in shooting distance, only 25 million off..."
+2012-08-21T01:23:34.613501+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,should i get a mail network happening on the northern edge?
+2012-08-21T01:23:57.876194+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,Before that: @177273
+2012-08-21T01:24:09.191643+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"* @177, 273"
+2012-08-21T01:24:27.983345+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,ok
+2012-08-21T01:24:45.933519+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"A new station & line are at the ready, I think maybe use that instead of trucking all the way to Mailiton"
+2012-08-21T01:25:07.222830+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,And many other lines need more trucks...
+2012-08-21T01:25:25.910883+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,good. i add trucks as i find lines that need them
+2012-08-21T01:25:37.564532+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,there might be a case for a rail line NE from Heppwick too
+2012-08-21T01:26:18.792557+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Maybe, but roads are good there, not nearly at capacity"
+2012-08-21T01:27:11.613860+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,"ok, we'll just keep adding trucks then"
+2012-08-21T01:27:41.202928+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"For what it's worth, there is a place @86, 78 that a northern line can go underground to connect to Appingden/Ashfield"
+2012-08-21T01:29:07.487143+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,good. i'll try to leave new rail line construction to you as you have the master plan in your head and i don't
+2012-08-21T01:30:15.445368+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"I don't think we could really go much further north than my northern mainline, though..."
+2012-08-21T01:31:17.602969+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,"sure, i just want to make sure i don't load up lines that may already be at capacity"
+2012-08-21T01:31:46.269445+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,And master plan calls for a new wood line in the same areas....
+2012-08-21T01:32:12.637855+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"At the very least, i need new junctions."
+2012-08-21T01:37:54.588649+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Ok, where are the nearest sd40s to Oakstead?"
+2012-08-21T01:39:27.810105+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,"probably 416,274"
+2012-08-21T01:39:38.644245+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#2,12,RF&P,"i've got to go, catch you later"
+2012-08-21T01:39:50.372742+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,Bye!
+2012-08-21T01:39:55.966902+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#2
+2012-08-21T01:46:32.439576+00:00,sim64b[1447]:,disconnect,2,98.141.195.146,Fifty
+2012-08-21T01:47:34.248617+00:00,sim64b[1447]:,connect,3,98.141.195.146,Fifty
+2012-08-21T02:05:13.491291+00:00,sim64b[1447]:,connect,2,98.141.195.146,Fifty
+2012-08-21T02:09:00.141117+00:00,sim64b[1447]:,connect,4,98.141.195.146,Fifty
+2012-08-21T03:21:01.831465+00:00,sim64b[1447]:,connect,5,60.246.191.3,Client#5
+2012-08-21T05:19:15.009496+00:00,sim64b[1447]:,connect,6,78.55.251.249,Client#6
+2012-08-21T06:00:03.381180+00:00,sim64b[1447]:,connect,7,80.132.149.29,Client#7
+2012-08-21T06:21:52.161890+00:00,sim64b[1447]:,connect,8,80.132.149.29,Client#7
+2012-08-21T06:23:20.418417+00:00,sim64b[1447]:,connect,9,122.148.146.34,Client#2
+2012-08-21T06:23:20.621943+00:00,sim64b[1447]:,disconnect,2,98.141.195.146,Fifty
+2012-08-21T06:23:20.621980+00:00,sim64b[1447]:,disconnect,3,98.141.195.146,Fifty
+2012-08-21T06:23:20.622007+00:00,sim64b[1447]:,disconnect,4,98.141.195.146,Fifty
+2012-08-21T06:23:20.622028+00:00,sim64b[1447]:,disconnect,5,60.246.191.3,Client#5
+2012-08-21T06:23:20.622048+00:00,sim64b[1447]:,disconnect,6,78.55.251.249,Client#6
+2012-08-21T06:23:20.622069+00:00,sim64b[1447]:,disconnect,7,80.132.149.29,Client#7
+2012-08-21T07:14:33.654144+00:00,sim64b[1447]:,connect,2,87.12.59.180,Client#2
+2012-08-21T07:16:40.516260+00:00,sim64b[1447]:,disconnect,2,87.12.59.180,Client#2
+2012-08-21T07:17:00.435377+00:00,sim64b[1447]:,connect,2,87.12.59.180,Client#2
+2012-08-21T07:17:28.615473+00:00,sim64b[1447]:,disconnect,2,87.12.59.180,Client#2
+2012-08-21T07:19:46.055404+00:00,sim64b[1447]:,disconnect,9,122.148.146.34,Client#2
+2012-08-21T08:45:31.407275+00:00,sim64b[22284]:,connect,2,122.148.146.34,Client#2
+2012-08-21T08:52:39.670462+00:00,sim64b[22284]:,disconnect,2,122.148.146.34,Client#2
+2012-08-21T09:23:47.031007+00:00,sim64b[22284]:,connect,2,80.132.149.29,Client#4
+2012-08-21T10:14:39.280498+00:00,sim64b[22284]:,connect,3,122.148.146.34,Client#2
+2012-08-21T10:19:35.416404+00:00,sim64b[22284]:,disconnect,3,122.148.146.34,Client#2
+2012-08-21T10:20:18.242520+00:00,sim64b[22284]:,connect,3,122.148.146.34,Client#2
+2012-08-21T10:33:57.461323+00:00,sim64b[22284]:,disconnect,3,122.148.146.34,Client#2
+2012-08-21T10:35:27.952277+00:00,sim64b[22284]:,connect,3,122.148.146.34,Client#2
+2012-08-21T10:46:13.454646+00:00,sim64b[22284]:,disconnect,3,122.148.146.34,Client#2
+2012-08-21T10:46:56.139776+00:00,sim64b[22284]:,connect,3,122.148.146.34,Client#2
+2012-08-21T11:04:32.918496+00:00,sim64b[22284]:,disconnect,3,122.148.146.34,Client#2
+2012-08-21T11:05:24.900379+00:00,sim64b[22284]:,connect,3,122.148.146.34,moblet
+2012-08-21T11:16:01.377090+00:00,sim64b[22284]:,disconnect,3,122.148.146.34,moblet
+2012-08-21T11:16:46.781280+00:00,sim64b[22284]:,connect,3,122.148.146.34,moblet
+2012-08-21T11:20:16.361322+00:00,sim64b[22284]:,disconnect,2,80.132.149.29,Client#4
+2012-08-21T11:38:27.113579+00:00,sim64b[22284]:,connect,2,78.128.195.151,Client#10
+2012-08-21T11:40:12.655949+00:00,sim64b[22284]:,disconnect,2,78.128.195.151,Client#10
+2012-08-21T11:55:55.528779+00:00,sim64b[22284]:,disconnect,3,122.148.146.34,moblet
+2012-08-21T13:24:27.633602+00:00,sim64b[22284]:,connect,2,87.12.59.180,Client#2
+2012-08-21T14:06:20.604732+00:00,sim64b[22284]:,connect,3,84.73.56.206,Client#3
+2012-08-21T14:13:35.545134+00:00,sim64b[22284]:,disconnect,2,87.12.59.180,Client#2
+2012-08-21T16:17:18.167360+00:00,sim64b[22284]:,connect,2,98.141.195.146,Fifty
+2012-08-21T17:29:16.210687+00:00,sim64b[22284]:,connect,4,80.132.168.80,Client#4
+2012-08-21T17:40:26.775304+00:00,sim64b[22284]:,connect,5,78.128.195.151,Client#10
+2012-08-21T17:40:26.957110+00:00,sim64b[22284]:,disconnect,2,98.141.195.146,Fifty
+2012-08-21T17:40:26.957422+00:00,sim64b[22284]:,disconnect,3,84.73.56.206,Client#3
+2012-08-21T17:44:12.118691+00:00,sim64b[22284]:,disconnect,5,78.128.195.151,Client#10
+2012-08-21T17:58:26.701404+00:00,sim64b[22284]:,connect,2,78.128.195.151,Client#10
+2012-08-21T18:19:33.684723+00:00,sim64b[22284]:,disconnect,2,78.128.195.151,Client#10
+2012-08-21T22:09:34.160517+00:00,sim64b[22284]:,disconnect,4,80.132.168.80,Client#4
+2012-08-21T22:09:51.226333+00:00,sim64b[22284]:,connect,2,151.55.27.223,Rudi!
+2012-08-21T22:58:01.927634+00:00,sim64b[22284]:,disconnect,2,151.55.27.223,Rudi!
+2012-08-21T22:58:38.016994+00:00,sim64b[22284]:,connect,3,122.148.146.34,moblet
+2012-08-21T23:01:09.822007+00:00,sim64b[22284]:,disconnect,3,122.148.146.34,moblet
+2012-08-21T23:01:43.306244+00:00,sim64b[22284]:,connect,2,122.148.146.34,moblet
+2012-08-21T23:37:20.004989+00:00,sim64b[22284]:,connect,3,78.128.195.151,Client#10

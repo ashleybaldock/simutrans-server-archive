@@ -1,0 +1,701 @@
+2012-11-03T00:49:11.366802+00:00,sim128b[3834]:,connect,4,98.251.79.180,Client#2
+2012-11-03T01:04:38.088549+00:00,sim128b[3834]:,connect,5,69.138.176.94,Fifty
+2012-11-03T01:04:38.221185+00:00,sim128b[3834]:,disconnect,2,134.3.161.174,Jaridan
+2012-11-03T01:04:38.221221+00:00,sim128b[3834]:,disconnect,3,98.251.79.180,Client#2
+2012-11-03T01:11:18.603481+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"Hi folks, just fyi prissi has patched the tunnel-in-station bug, to be seen what will be done with the servers atm"
+2012-11-03T01:11:46.446412+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,you mean patch in a newer build?
+2012-11-03T01:12:01.283024+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"yes, in a nightly"
+2012-11-03T01:12:28.137119+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,i just sent an email to timothy about the no-graphics patch bug
+2012-11-03T01:12:54.798660+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,which is?
+2012-11-03T01:12:56.724003+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,are you familiar with that patch?
+2012-11-03T01:13:25.705420+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"I know the patch, but what's the bug?"
+2012-11-03T01:13:46.894858+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,someone said timothy patched this server with the no-graphics patch to reduce memory... but the problem is....
+2012-11-03T01:14:04.285417+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,the patch causes the server to drastically destabilize for ALL players
+2012-11-03T01:14:23.521773+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,is that not fixed in this new revision?
+2012-11-03T01:14:24.443558+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"basically, when the map gets big enough, nobody can stay synced (and I mean nobody)"
+2012-11-03T01:14:53.243728+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"well, perhaps I should explain... since I don't know what has or has not been fixed"
+2012-11-03T01:15:06.045592+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,you remember server A before this reset? the one you played?
+2012-11-03T01:15:33.030173+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"I know what timothy did, he applied a nightly patch to an older stable"
+2012-11-03T01:15:53.334853+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,And that caused some instability which I thought was fixed now
+2012-11-03T01:16:00.685269+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"after you left, the map grew quite a bit.... and it ran very stable for everyone"
+2012-11-03T01:16:21.462393+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,then timothy applied that no graphics patch and instantly ALL players could not stay connected anymore
+2012-11-03T01:16:33.565939+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,everyone had to stop playing for weeks till he reset
+2012-11-03T01:16:57.761394+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"Yea, but no issues so far, right?"
+2012-11-03T01:17:22.078119+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"actually, to test if there are problems, timothy should run the old server a on this build"
+2012-11-03T01:17:38.326323+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"I cannot tell if there are problems, because this map is not developed, so it's not a fair test :("
+2012-11-03T01:18:10.921876+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"I think that whole mess should be solved really, I understood the instability to be due to the executable being different on server and client"
+2012-11-03T01:18:29.606179+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,now clients contain the no graphics code too
+2012-11-03T01:19:14.964352+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,well... do you think someone should ask timothy to run the old map for a few minutes/hour or whatever just to test this build?
+2012-11-03T01:20:28.084162+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"yeah, I might as well. since that's the only way to be certain :)"
+2012-11-03T01:21:01.569362+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"I mean, he can, but I think it's fixed. I'd much rather him try to upgrade so we don't have the tunnel bug anymore"
+2012-11-03T01:21:39.679661+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,are you gonna play some?  you could always play a small company if you don't have tons of time
+2012-11-03T01:21:54.085142+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,i'm on 64 :)
+2012-11-03T01:22:21.839013+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,do you know the guy that's working on the 3d version?
+2012-11-03T01:22:39.119332+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,Markohs or something like that was his game company
+2012-11-03T01:22:50.021594+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"markhos? netgamed with him once, but no."
+2012-11-03T01:23:21.513882+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"oh, I haven't heard from him recently. he said he was gonna start major work on it in a few months"
+2012-11-03T01:24:24.091429+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"Yeah, that'll be interesting. Anyway, i need to go, cya, and please feel free to PM me if there are any issues"
+2012-11-03T01:24:34.237103+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,bye
+2012-11-03T01:25:03.063481+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"oh, and if you see SNCFS, ask him if he is who I think he is (if he knows me I said hello!)"
+2012-11-03T01:25:10.377761+00:00,sim128b[3834]:,disconnect,5,69.138.176.94,Fifty
+2012-11-03T03:00:33.488892+00:00,sim128b[3834]:,connect,2,98.251.79.180,Client#2
+2012-11-03T03:24:15.406959+00:00,sim128b[3834]:,connect,3,110.137.151.207,player
+2012-11-03T03:24:34.835552+00:00,sim128b[3834]:,connect,5,98.251.79.180,Client#2
+2012-11-03T03:24:35.007996+00:00,sim128b[3834]:,disconnect,2,98.251.79.180,Client#2
+2012-11-03T03:24:35.008053+00:00,sim128b[3834]:,disconnect,4,98.251.79.180,Client#2
+2012-11-03T03:25:31.928949+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"hi, which player are you?"
+2012-11-03T03:39:39.392510+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,do you know how to play???
+2012-11-03T03:42:40.124372+00:00,sim128b[3834]:,disconnect,3,110.137.151.207,player
+2012-11-03T05:09:34.525416+00:00,sim128b[3834]:,connect,2,90.33.92.223,SNCFS
+2012-11-03T05:11:28.836297+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,15,,Fifty I remember you of course ! Long time ag we played on the swiss map ;)
+2012-11-03T05:21:43.892384+00:00,sim128b[3834]:,connect,3,90.33.92.223,SNCFS
+2012-11-03T06:21:55.500802+00:00,sim128b[3834]:,disconnect,2,90.33.92.223,SNCFS
+2012-11-03T06:21:55.500832+00:00,sim128b[3834]:,disconnect,3,90.33.92.223,SNCFS
+2012-11-03T06:21:55.501019+00:00,sim128b[3834]:,disconnect,5,98.251.79.180,Client#2
+2012-11-03T06:22:06.084149+00:00,sim128b[3834]:,connect,2,90.33.92.223,SNCFS
+2012-11-03T08:55:23.745082+00:00,sim128b[3834]:,disconnect,2,90.33.92.223,SNCFS
+2012-11-03T08:55:29.107283+00:00,sim128b[3834]:,connect,3,134.3.161.174,Jaridan
+2012-11-03T09:24:32.317443+00:00,sim128b[3834]:,disconnect,3,134.3.161.174,Jaridan
+2012-11-03T09:24:43.652029+00:00,sim128b[3834]:,connect,2,134.3.161.174,Jaridan
+2012-11-03T09:42:09.634939+00:00,sim128b[3834]:,connect,3,90.33.92.223,SNCFS
+2012-11-03T09:42:13.605197+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,yo
+2012-11-03T09:42:23.826196+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,15,,Hi
+2012-11-03T09:43:24.035208+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,Hi
+2012-11-03T09:44:41.026399+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,i'm kinda trying to get my pax rolling but not easy with small cities :P
+2012-11-03T09:45:19.780217+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,"Indeed, even for me it's difficult for small cities, in fact a lot of my lines aren't making money..."
+2012-11-03T09:45:55.260358+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,"right now, half of my (bus) lines are black atleast :P"
+2012-11-03T09:47:09.395401+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,Maybe it would be easier for you if you can connect to our networks
+2012-11-03T09:47:23.469309+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,;)
+2012-11-03T09:47:27.853891+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,doing that already
+2012-11-03T09:47:32.342272+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,Were to ?
+2012-11-03T09:47:38.388636+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,*where
+2012-11-03T09:47:43.465213+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,see that airport near chimney? it connects to newberg bottom left
+2012-11-03T09:48:10.460798+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,Ok ;)
+2012-11-03T09:49:33.485375+00:00,sim128b[3834]:,disconnect,3,90.33.92.223,SNCFS
+2012-11-03T09:49:44.131425+00:00,sim128b[3834]:,connect,3,90.33.92.223,SNCFS
+2012-11-03T09:51:01.894716+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,"btw, are we not allowed to build buildings anymore?"
+2012-11-03T09:51:42.475940+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,What do you mean ? Which buildings ?
+2012-11-03T09:51:58.735925+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,city houses
+2012-11-03T09:52:24.295538+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,No more :/
+2012-11-03T09:52:42.050778+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,Only public player
+2012-11-03T09:52:57.273272+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,"well, its not like i wanted to ""cheat"" just replace houses that were in my way due to building >.>"
+2012-11-03T09:53:04.337623+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,well w/e :P
+2012-11-03T09:53:14.790585+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,city founding public player only aswell?
+2012-11-03T09:53:30.440561+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,indeed
+2012-11-03T09:56:13.060985+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,btw are you and a-train friends or something? i'm kinda surprised by the instant network you 2 created :D
+2012-11-03T09:56:48.343681+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,I like trains :)
+2012-11-03T09:56:58.810280+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,And I like building something nice
+2012-11-03T09:57:04.334080+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,and realistic
+2012-11-03T09:57:28.076797+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,"Hey Look at Hillsdale city, see its growth !"
+2012-11-03T09:58:23.121208+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,how does that happen btw? always growing kinda slow and then jumps here and there?
+2012-11-03T09:58:35.632132+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,is it due to new city buildings popping up?
+2012-11-03T09:58:39.895376+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,"Indeed... strange "
+2012-11-03T09:59:16.372151+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,Don't know
+2012-11-03T10:09:32.539933+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,WOW a Concorde
+2012-11-03T10:09:43.145681+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,?^^
+2012-11-03T10:10:11.146613+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,Your airplane is a Concorde
+2012-11-03T10:10:53.249831+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,lo
+2012-11-03T10:11:05.624737+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,3 concordes now ;)
+2012-11-03T10:11:19.512323+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,they make insane profit if you have a long distance travel for them
+2012-11-03T10:11:37.419273+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,"Indeed, but you are nearly bankrupt..."
+2012-11-03T10:12:21.565800+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,lawl
+2012-11-03T10:12:32.125296+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,gg xD
+2012-11-03T10:13:05.335682+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,"but i'm surprised right now, im 800k in the minus, even thoug i just bought stuff"
+2012-11-03T10:13:14.928003+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,shouldnt their value cover it?
+2012-11-03T10:13:28.804889+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,If you sell them yes
+2012-11-03T10:13:34.939357+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,no
+2012-11-03T10:13:44.860723+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,you can be in the red by 100million or more
+2012-11-03T10:13:56.484750+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,if your vehicle worth covers it
+2012-11-03T10:14:21.946437+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,"Ok, I never understood completely the economy in simutrans"
+2012-11-03T10:15:22.784214+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,6,We r back baby!,fuck xD
+2012-11-03T10:15:30.727954+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,?
+2012-11-03T10:16:22.856629+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,Ah...
+2012-11-03T10:16:32.305637+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,indeed
+2012-11-03T10:17:04.357048+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,haha the reborn company
+2012-11-03T10:20:06.624362+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,"You should make longer trains, faster to get the bonus of speef"
+2012-11-03T10:20:26.160991+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",coal has no speedbonus ;)
+2012-11-03T10:20:41.108169+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,"ah yes, I forgot it"
+2012-11-03T10:23:00.691046+00:00,sim128b[3834]:,connect,4,46.223.117.138,Client#4
+2012-11-03T10:23:34.366474+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,Hi
+2012-11-03T10:25:57.568111+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,"If you want something from me, just ask"
+2012-11-03T10:26:23.102027+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","nah i'm fine, was just overconfident in buying xD"
+2012-11-03T10:26:34.184957+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",as you can see i got my stuff back up more or less
+2012-11-03T10:26:54.342260+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,I see ^^
+2012-11-03T10:27:05.075206+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",hmm i'm trying something offline for a few min
+2012-11-03T10:27:15.340332+00:00,sim128b[3834]:,disconnect,2,134.3.161.174,Jaridan
+2012-11-03T10:27:30.542419+00:00,sim128b[3834]:,connect,2,134.3.161.174,Jaridan
+2012-11-03T10:27:48.590021+00:00,sim128b[3834]:,disconnect,2,134.3.161.174,Jaridan
+2012-11-03T10:32:04.750820+00:00,sim128b[3834]:,disconnect,4,46.223.117.138,Client#4
+2012-11-03T10:37:54.108961+00:00,sim128b[3834]:,connect,2,134.3.161.174,Jaridan
+2012-11-03T10:38:03.002315+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,15,,well i know my mistake now
+2012-11-03T10:38:11.508235+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,It was ?
+2012-11-03T10:38:27.263369+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",ofc the vehicle value covers debt
+2012-11-03T10:38:43.831998+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",but as soon as something goes outta the depot/hangar etc.
+2012-11-03T10:38:49.521429+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",it loses some obviously
+2012-11-03T10:39:04.300866+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,Ah I saw that too
+2012-11-03T10:39:22.362095+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","which was prolly 2x400k, i had around 150 or so and was 760 in ddebt after"
+2012-11-03T10:40:08.470816+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,so the total cost was superior to the price ?
+2012-11-03T10:40:13.464057+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","normally you dont have a problem with this, because stuff is not that ""expensive"""
+2012-11-03T10:40:30.824437+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",no
+2012-11-03T10:40:40.917590+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","you have to look at it like this "
+2012-11-03T10:41:38.441540+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","i was plann to play in the red, by having the debt covered by the vehicle cost, but since those droppped a little as soon as they went to work i was (totally speaking) 760 in the red, which insta killed me"
+2012-11-03T10:42:08.112551+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,Ah ok understood
+2012-11-03T10:44:10.604659+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","i'll be ""afk"" for 4-6min, gotta get my buslines back on"
+2012-11-03T10:44:24.573786+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,Ok
+2012-11-03T10:50:35.639319+00:00,sim128b[3834]:,disconnect,2,134.3.161.174,Jaridan
+2012-11-03T10:55:44.997102+00:00,sim128b[3834]:,connect,2,134.3.161.174,Jaridan
+2012-11-03T11:05:19.411743+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",good thing i went offline
+2012-11-03T11:05:44.424411+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,I think too ;)
+2012-11-03T11:05:54.632484+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",i wouldve killed myself again... i didnt rebuild my coal line properly
+2012-11-03T11:06:12.860927+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,lol
+2012-11-03T11:06:31.631885+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","y, the lack of money from there wouldve killed me due to pax "
+2012-11-03T11:06:54.796253+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,indeed
+2012-11-03T11:07:20.084374+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",and pax will only increase once i have that airport back'n'running
+2012-11-03T11:07:31.615136+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",i'll play it safe this time though lol xD
+2012-11-03T11:07:39.156849+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,"ok, good luck haha"
+2012-11-03T11:08:22.926009+00:00,sim128b[3834]:,disconnect,3,90.33.92.223,SNCFS
+2012-11-03T11:08:34.303358+00:00,sim128b[3834]:,connect,3,90.33.92.223,SNCFS
+2012-11-03T11:08:45.115784+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","btw, where r u from?"
+2012-11-03T11:08:56.858997+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,France
+2012-11-03T11:09:01.050692+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,And you ?
+2012-11-03T11:09:04.428494+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",Germany
+2012-11-03T11:10:50.009954+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,I still have in use my only and first steam locomotive :)
+2012-11-03T11:11:03.510978+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",^^
+2012-11-03T11:12:28.032101+00:00,sim128b[3834]:,chat,3,90.33.92.223,SNCFS,12,SNCFS,"Have to go, see you later"
+2012-11-03T11:12:45.357472+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",cya
+2012-11-03T11:12:46.515989+00:00,sim128b[3834]:,disconnect,3,90.33.92.223,SNCFS
+2012-11-03T11:16:27.308240+00:00,sim128b[3834]:,connect,3,134.3.161.174,Jaridan
+2012-11-03T11:22:00.621057+00:00,sim128b[3834]:,disconnect,2,134.3.161.174,Jaridan
+2012-11-03T11:22:00.621090+00:00,sim128b[3834]:,disconnect,3,134.3.161.174,Jaridan
+2012-11-03T11:22:06.626492+00:00,sim128b[3834]:,connect,4,90.33.92.223,SNCFS
+2012-11-03T11:23:15.577943+00:00,sim128b[3834]:,connect,2,134.3.161.174,Jaridan
+2012-11-03T11:26:27.506169+00:00,sim128b[3834]:,disconnect,2,134.3.161.174,Jaridan
+2012-11-03T11:28:46.982262+00:00,sim128b[3834]:,connect,2,134.3.161.174,Jaridan
+2012-11-03T11:28:54.243719+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,15,,yo
+2012-11-03T11:31:57.868022+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",anyone there?D:
+2012-11-03T11:32:09.580869+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,"Yes me, for several minutes"
+2012-11-03T11:32:21.159354+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",xD :S sry^^
+2012-11-03T11:34:43.307450+00:00,sim128b[3834]:,disconnect,2,134.3.161.174,Jaridan
+2012-11-03T11:35:53.555605+00:00,sim128b[3834]:,connect,2,134.3.161.174,Jaridan
+2012-11-03T11:41:02.082965+00:00,sim128b[3834]:,disconnect,2,134.3.161.174,Jaridan
+2012-11-03T11:43:30.304990+00:00,sim128b[3834]:,connect,2,134.3.161.174,Jaridan
+2012-11-03T11:54:29.073799+00:00,sim128b[3834]:,disconnect,4,90.33.92.223,SNCFS
+2012-11-03T12:33:06.530604+00:00,sim128b[3834]:,connect,3,178.201.227.14,Art Vandelay
+2012-11-03T12:36:20.942081+00:00,sim128b[3834]:,connect,4,90.33.92.223,SNCFS
+2012-11-03T12:36:49.844887+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,Is there anyone ?
+2012-11-03T12:37:01.792809+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,I'm here
+2012-11-03T12:37:06.575880+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,Hi
+2012-11-03T12:37:16.948935+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Hey
+2012-11-03T12:38:52.947026+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,Where are you on the map ?
+2012-11-03T12:39:07.997069+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,"Ah i found, Confluence"
+2012-11-03T12:39:20.257672+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,I've just started rebuilding since I went broke last time.
+2012-11-03T12:39:44.178184+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,Ah ok it was Bau eco or something like that
+2012-11-03T12:40:17.660492+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,"If you want something where I can help, just ask"
+2012-11-03T12:40:32.820467+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Nope, I kept the name, Vandelay Industries, just changed the player's spot."
+2012-11-03T12:40:57.248289+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,Ok sorry ^^
+2012-11-03T12:41:30.850192+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"No problem, it's confusing with players changing names all the time."
+2012-11-03T12:41:39.369415+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,Indeed
+2012-11-03T12:42:29.351240+00:00,sim128b[3834]:,disconnect,4,90.33.92.223,SNCFS
+2012-11-03T12:42:42.202928+00:00,sim128b[3834]:,connect,4,90.33.92.223,SNCFS
+2012-11-03T12:43:16.597212+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,"I'm trying to make the cities growing up, in order to have more industries"
+2012-11-03T12:44:55.095008+00:00,sim128b[3834]:,disconnect,4,90.33.92.223,SNCFS
+2012-11-03T12:45:05.936607+00:00,sim128b[3834]:,connect,4,90.33.92.223,SNCFS
+2012-11-03T12:48:34.829313+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"That's good. I remember a game where I just build a grid of dirt roads on an empty plain next to a city ,build a couple of bus stops, send bus through the whole thing and houses keep popping up like crazy. "
+2012-11-03T12:48:58.446503+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,^^
+2012-11-03T12:52:30.306605+00:00,sim128b[3834]:,disconnect,2,134.3.161.174,Jaridan
+2012-11-03T12:52:30.306779+00:00,sim128b[3834]:,disconnect,3,178.201.227.14,Art Vandelay
+2012-11-03T12:52:41.847794+00:00,sim128b[3834]:,connect,2,178.201.227.14,Art Vandelay
+2012-11-03T12:53:53.402776+00:00,sim128b[3834]:,connect,3,134.3.161.174,Jaridan
+2012-11-03T12:54:48.229695+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,15,,hehe
+2012-11-03T12:54:53.994865+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,?
+2012-11-03T12:56:51.774276+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"@Jaridan I know, you were right. But it was to laid to turn it around, anyway."
+2012-11-03T13:03:41.622236+00:00,sim128b[3834]:,connect,5,89.155.122.64,Client#4
+2012-11-03T13:03:50.640213+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,4 players !
+2012-11-03T13:04:33.042914+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,The more the merrier.
+2012-11-03T13:12:17.709910+00:00,sim128b[3834]:,disconnect,4,90.33.92.223,SNCFS
+2012-11-03T13:12:39.412313+00:00,sim128b[3834]:,connect,4,90.33.92.223,SNCFS
+2012-11-03T13:18:08.621087+00:00,sim128b[3834]:,disconnect,3,134.3.161.174,Jaridan
+2012-11-03T13:27:22.700244+00:00,sim128b[3834]:,disconnect,4,90.33.92.223,SNCFS
+2012-11-03T13:27:34.341846+00:00,sim128b[3834]:,connect,3,90.33.92.223,SNCFS
+2012-11-03T13:52:49.069253+00:00,sim128b[3834]:,disconnect,2,178.201.227.14,Art Vandelay
+2012-11-03T13:52:49.069566+00:00,sim128b[3834]:,disconnect,3,90.33.92.223,SNCFS
+2012-11-03T13:52:58.973158+00:00,sim128b[3834]:,connect,2,89.155.122.64,Client#4
+2012-11-03T13:53:05.547965+00:00,sim128b[3834]:,connect,4,90.33.92.223,SNCFS
+2012-11-03T13:53:05.717310+00:00,sim128b[3834]:,disconnect,5,89.155.122.64,Client#4
+2012-11-03T13:53:13.410084+00:00,sim128b[3834]:,connect,3,178.201.227.14,Art Vandelay
+2012-11-03T13:56:55.559272+00:00,sim128b[3834]:,connect,5,89.155.122.64,Client#5
+2012-11-03T14:03:43.272081+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Looks like I'm in the garbage business now. Let's hope it flies.
+2012-11-03T14:04:02.122015+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,haha
+2012-11-03T14:04:54.836260+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,No garbage business possible where I am :(
+2012-11-03T14:06:13.706709+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,That's bad. I like businesses without a huge supply line.
+2012-11-03T14:06:54.544185+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,"Indeed, it's very easy a the start of the map to do it"
+2012-11-03T14:07:47.895605+00:00,sim128b[3834]:,connect,6,134.3.161.174,Jaridan
+2012-11-03T14:07:58.087286+00:00,sim128b[3834]:,chat,4,90.33.92.223,SNCFS,12,SNCFS,I like my small train lines :D
+2012-11-03T14:08:37.597179+00:00,sim128b[3834]:,chat,6,134.3.161.174,Jaridan,15,,^^
+2012-11-03T14:10:45.665193+00:00,sim128b[3834]:,disconnect,3,178.201.227.14,Art Vandelay
+2012-11-03T14:12:13.346710+00:00,sim128b[3834]:,disconnect,2,89.155.122.64,Client#4
+2012-11-03T14:17:48.862585+00:00,sim128b[3834]:,connect,2,178.201.227.14,Art Vandelay
+2012-11-03T14:22:16.953078+00:00,sim128b[3834]:,disconnect,6,134.3.161.174,Jaridan
+2012-11-03T14:32:11.942775+00:00,sim128b[3834]:,connect,3,134.3.161.174,Jaridan
+2012-11-03T14:38:22.868343+00:00,sim128b[3834]:,disconnect,4,90.33.92.223,SNCFS
+2012-11-03T14:38:35.094279+00:00,sim128b[3834]:,connect,4,90.33.92.223,SNCFS
+2012-11-03T14:38:42.621015+00:00,sim128b[3834]:,connect,6,89.155.122.64,Client#5
+2012-11-03T14:38:42.710634+00:00,sim128b[3834]:,disconnect,5,89.155.122.64,Client#5
+2012-11-03T14:38:50.868398+00:00,sim128b[3834]:,disconnect,3,134.3.161.174,Jaridan
+2012-11-03T14:39:13.278168+00:00,sim128b[3834]:,connect,3,134.3.161.174,Jaridan
+2012-11-03T14:39:29.324385+00:00,sim128b[3834]:,disconnect,3,134.3.161.174,Jaridan
+2012-11-03T14:45:55.590911+00:00,sim128b[3834]:,connect,3,134.3.161.174,Jaridan
+2012-11-03T15:24:21.321951+00:00,sim128b[3834]:,disconnect,4,90.33.92.223,SNCFS
+2012-11-03T15:24:37.076937+00:00,sim128b[3834]:,connect,4,90.33.92.223,SNCFS
+2012-11-03T15:39:34.669443+00:00,sim128b[3834]:,connect,5,89.155.122.64,Client#5
+2012-11-03T15:54:33.635173+00:00,sim128b[3834]:,disconnect,6,89.155.122.64,Client#5
+2012-11-03T16:00:16.508518+00:00,sim128b[3834]:,connect,6,89.155.122.64,Client#5
+2012-11-03T16:00:16.564267+00:00,sim128b[3834]:,disconnect,2,178.201.227.14,Art Vandelay
+2012-11-03T16:00:16.564305+00:00,sim128b[3834]:,disconnect,3,134.3.161.174,Jaridan
+2012-11-03T16:00:16.564328+00:00,sim128b[3834]:,disconnect,4,90.33.92.223,SNCFS
+2012-11-03T16:00:16.564349+00:00,sim128b[3834]:,disconnect,5,89.155.122.64,Client#5
+2012-11-03T16:00:23.078662+00:00,sim128b[3834]:,connect,2,90.33.92.223,SNCFS
+2012-11-03T16:00:30.880670+00:00,sim128b[3834]:,connect,3,134.3.161.174,Jaridan
+2012-11-03T16:00:37.285405+00:00,sim128b[3834]:,connect,4,178.201.227.14,Art Vandelay
+2012-11-03T16:14:08.995624+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",aaaaaaaaaaaaaaaaargh i need more ppl that want to go to chimney airport :/
+2012-11-03T16:17:27.181387+00:00,sim128b[3834]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,@SNCF I was just about to suggest this. ;-)
+2012-11-03T16:17:35.538660+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,hehe
+2012-11-03T16:17:52.527502+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,thanks
+2012-11-03T16:18:00.019386+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",suggest what? making that dock public?
+2012-11-03T16:18:22.733279+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,"yes, so 2 cities from here are connected to my network"
+2012-11-03T16:18:39.799028+00:00,sim128b[3834]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,@Jaridan To connect the bus line to it.
+2012-11-03T16:39:17.874854+00:00,sim128b[3834]:,connect,5,89.155.122.64,Client#5
+2012-11-03T16:42:10.937333+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","btw, is there still 30% toll like last game?"
+2012-11-03T16:42:24.249338+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,indeed
+2012-11-03T16:43:21.617759+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","nice ( i like the toll, cause it' realistic , and its not breaking you or something)"
+2012-11-03T16:50:59.651649+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","transdev, i think your system would create a lot of money if you were to connect it with other ppl , for example via atrain/snfc's public station at hilsboro or the public airport at newberg"
+2012-11-03T16:51:56.400005+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,He's already connected at Hilsboro
+2012-11-03T16:52:29.320159+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","ah, y i c now"
+2012-11-03T16:54:42.083546+00:00,sim128b[3834]:,disconnect,6,89.155.122.64,Client#5
+2012-11-03T17:13:23.524482+00:00,sim128b[3834]:,disconnect,2,90.33.92.223,SNCFS
+2012-11-03T17:39:23.649959+00:00,sim128b[3834]:,connect,2,90.33.92.223,SNCFS
+2012-11-03T17:41:12.978612+00:00,sim128b[3834]:,disconnect,2,90.33.92.223,SNCFS
+2012-11-03T17:54:52.417686+00:00,sim128b[3834]:,connect,2,71.102.65.108,Client#2
+2012-11-03T17:57:22.947410+00:00,sim128b[3834]:,disconnect,5,89.155.122.64,Client#5
+2012-11-03T17:57:34.821545+00:00,sim128b[3834]:,connect,5,89.155.122.64,Client#5
+2012-11-03T17:59:32.829941+00:00,sim128b[3834]:,disconnect,2,71.102.65.108,Client#2
+2012-11-03T18:01:07.715058+00:00,sim128b[3834]:,disconnect,3,134.3.161.174,Jaridan
+2012-11-03T18:01:07.715259+00:00,sim128b[3834]:,disconnect,4,178.201.227.14,Art Vandelay
+2012-11-03T18:01:20.442324+00:00,sim128b[3834]:,connect,2,178.201.227.14,Art Vandelay
+2012-11-03T18:11:09.524752+00:00,sim128b[3834]:,connect,3,134.3.161.174,Jaridan
+2012-11-03T18:13:21.850985+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,15,,"maybe you should pax the gas station @ (274,372) sncfs"
+2012-11-03T18:13:33.443465+00:00,sim128b[3834]:,connect,4,79.207.140.149,Client#4
+2012-11-03T18:13:39.803690+00:00,sim128b[3834]:,connect,6,89.155.122.64,Client#6
+2012-11-03T18:13:40.296426+00:00,sim128b[3834]:,disconnect,4,79.207.140.149,Client#4
+2012-11-03T18:13:57.275135+00:00,sim128b[3834]:,connect,4,79.207.140.149,Client#4
+2012-11-03T18:14:24.859949+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",would make it more profitable (but you know that ofc i guess lol :S)
+2012-11-03T18:18:10.445356+00:00,sim128b[3834]:,disconnect,5,89.155.122.64,Client#5
+2012-11-03T18:28:29.432655+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",concorde on the run again <3
+2012-11-03T18:31:27.382206+00:00,sim128b[3834]:,connect,5,98.251.79.180,Client#2
+2012-11-03T18:33:12.997511+00:00,sim128b[3834]:,connect,7,90.33.92.223,SNCFS
+2012-11-03T18:37:58.915316+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,"Thanks Jaridan, I thought it was already done"
+2012-11-03T18:38:07.477475+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,what's done?
+2012-11-03T18:38:23.131190+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,"Hi, to deliver pax to the gas station"
+2012-11-03T18:40:17.929007+00:00,sim128b[3834]:,chat,6,89.155.122.64,Client#6,5,"Transdev, SA","the station stop (54,224,-1) can transfer for public stop?"
+2012-11-03T18:40:28.064978+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,"A train, I'm slowly doing the mail network"
+2012-11-03T18:40:50.666123+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,I'm upgrading the trains ... hopefully I got time before I leave
+2012-11-03T18:41:18.870002+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"@Transdev Sure, why not?"
+2012-11-03T18:41:32.080568+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",that sounds lovely a-train =)
+2012-11-03T18:42:17.588661+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,you gotta be careful which stations you make public though .... they can never be deleted and they might disrupt your entire network
+2012-11-03T18:42:43.284927+00:00,sim128b[3834]:,disconnect,5,98.251.79.180,Client#2
+2012-11-03T18:43:02.885113+00:00,sim128b[3834]:,connect,5,98.251.79.180,Client#2
+2012-11-03T18:43:16.821044+00:00,sim128b[3834]:,chat,6,89.155.122.64,Client#6,5,"Transdev, SA","and (54,224,-1) yes?"
+2012-11-03T18:43:58.606021+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"transdev, you don't need to make that public.... you coud...."
+2012-11-03T18:44:06.508179+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,Why do you need 2 public stops in one city?
+2012-11-03T18:44:17.674519+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"(62,156) is a public bus station"
+2012-11-03T18:44:34.979143+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",wut? how ca u oax that?....
+2012-11-03T18:44:47.315356+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",thats like half way over the map... in his city...?
+2012-11-03T18:44:58.033372+00:00,sim128b[3834]:,chat,6,89.155.122.64,Client#6,5,"Transdev, SA","I would like connect the (54,224,-1) with my cities"
+2012-11-03T18:45:29.857950+00:00,sim128b[3834]:,chat,6,89.155.122.64,Client#6,5,"Transdev, SA","because, (54,224,-1) connect with 2 cities"
+2012-11-03T18:45:33.599943+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"use  (62,156) it's already in use for buses"
+2012-11-03T18:46:12.301436+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,maybe VBK can send his busses there instead?
+2012-11-03T18:46:23.788009+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,I can make a road if he wants to
+2012-11-03T18:47:37.478054+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",you gotta read the backlog once you have time atrain :P
+2012-11-03T18:47:40.879342+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,vbk is not even here??
+2012-11-03T18:47:49.678019+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,oh
+2012-11-03T18:48:03.859702+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",quite funny how i went bankrupt xD
+2012-11-03T18:48:08.235365+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"@Transdev If VBK sends his busses there and you do to, you have a connection."
+2012-11-03T18:48:14.854608+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"did you know "
+2012-11-03T18:48:36.654061+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"I also went bankrupt after building the 2 major cities, major rail lines, and goods?"
+2012-11-03T18:48:49.959757+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",^^
+2012-11-03T18:49:13.829397+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","well long story short, i bought 2 concordes , and the 10% drop by departing killed me"
+2012-11-03T18:49:25.666336+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",*drop in their value
+2012-11-03T18:49:42.985096+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",insta 800k in the red (in total)
+2012-11-03T18:49:43.322560+00:00,sim128b[3834]:,chat,6,89.155.122.64,Client#6,5,"Transdev, SA","yes, but VBK go to bankrupt... becase he has 1 line..."
+2012-11-03T18:50:28.232682+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",trnseric will go bankrupt aswell i presume
+2012-11-03T18:50:39.418097+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",*transeric
+2012-11-03T18:51:09.880597+00:00,sim128b[3834]:,chat,6,89.155.122.64,Client#6,5,"Transdev, SA",Transeric go to bankrupt in ten years
+2012-11-03T18:51:27.162198+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,transeric plays mostly the other server ... at least he did
+2012-11-03T18:51:42.314241+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"If he goes bankrupt you can build a line in Centralia. Who else would you have wanted to connect to up there, anyway?"
+2012-11-03T18:51:56.055966+00:00,sim128b[3834]:,disconnect,4,79.207.140.149,Client#4
+2012-11-03T18:52:01.018811+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"btw, if someone else wants to make a rail exchange like (376,159) let me know"
+2012-11-03T18:52:13.904936+00:00,sim128b[3834]:,connect,4,79.207.140.149,Client#4
+2012-11-03T18:52:28.865702+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,I wanna try exchanging stuff more locally/realistic instead of one big airport :)
+2012-11-03T18:53:15.243255+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","thats not a bad idea, though i myself can't really realize that atm, due to no big cities"
+2012-11-03T18:54:01.593632+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"well you do got a few, we could exchange somewhere...."
+2012-11-03T18:54:27.951545+00:00,sim128b[3834]:,disconnect,4,79.207.140.149,Client#4
+2012-11-03T18:54:47.016335+00:00,sim128b[3834]:,connect,4,79.207.140.149,Client#4
+2012-11-03T18:54:47.017734+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",well all except 1 are below 5k
+2012-11-03T18:55:08.876483+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",and only thing racking in money from pax was the addition of good'n'cheap planes
+2012-11-03T18:55:29.502847+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,all I did was take the free accounts and put a number on it... it's sems to work pretty well. not many abandoned accounts
+2012-11-03T18:55:53.028348+00:00,sim128b[3834]:,disconnect,4,79.207.140.149,Client#4
+2012-11-03T18:56:26.329011+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"I understand, ..... if you want to do something fun.... we could meet far away and you get to build a long rail line for money.... or you could just shuffle planes around before meeting me :)"
+2012-11-03T18:57:09.429063+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","i'll see to it, prolly gonna keeping the planes for now, as long as there is not enough solid income from fright"
+2012-11-03T18:58:14.063518+00:00,sim128b[3834]:,connect,4,79.207.140.149,Client#4
+2012-11-03T18:58:42.514686+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"SNCFS, if you feel like it: passenger & mail: (398,241)  no worries if you can't"
+2012-11-03T18:59:47.953565+00:00,sim128b[3834]:,disconnect,5,98.251.79.180,Client#2
+2012-11-03T19:00:06.329635+00:00,sim128b[3834]:,connect,5,98.251.79.180,Client#2
+2012-11-03T19:00:07.768342+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,Why changing?
+2012-11-03T19:00:33.027535+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,15,,"jaridan, how about.... when you come online go through the list and substations to any free power?"
+2012-11-03T19:00:51.272532+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,then anyone can just ask for one as they need
+2012-11-03T19:00:52.305745+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",that wa my plan
+2012-11-03T19:01:21.304411+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"hopefully, it means they will acdtuallaay want to use it and not just plop a transformer and never play the game again"
+2012-11-03T19:01:36.843397+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,"A train, why making a new station for pax at 398,241 ?"
+2012-11-03T19:01:38.095139+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",was planning ask intercontinental if he can free his coal power plant since he's not using it anyway
+2012-11-03T19:01:51.621293+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"(398,241)"
+2012-11-03T19:02:42.224063+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"why passenger & mail?  if you send passenger & mail there, it could boost production by as much as 60%  or 1.6x"
+2012-11-03T19:02:58.669140+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,some factories get even bigger bosts from passenger & mail
+2012-11-03T19:03:07.435209+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,"Ah ok, I understood making a new public station for pax there"
+2012-11-03T19:03:07.514613+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","sncfs just misunderstood you, he thought you wanted to  ubild a whole new exchange station"
+2012-11-03T19:03:20.073312+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",when all you want is pax&mail to boost its efficiency
+2012-11-03T19:03:21.269928+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,no no need for public :)
+2012-11-03T19:03:32.209490+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"I mean, you could just connect yoru bus lines there if you want"
+2012-11-03T19:03:33.858916+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,"Ok, no problem, sorry for my mistake"
+2012-11-03T19:04:15.924710+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,as long as one player connects their passenger & mail to a factory it usually works pretty well
+2012-11-03T19:04:34.300858+00:00,sim128b[3834]:,disconnect,5,98.251.79.180,Client#2
+2012-11-03T19:04:52.050735+00:00,sim128b[3834]:,connect,5,98.251.79.180,Client#2
+2012-11-03T19:04:54.981399+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,Indeed
+2012-11-03T19:05:04.859713+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,15,,I think typing parenthesis in game crashes it :(
+2012-11-03T19:05:24.319031+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",OP^^
+2012-11-03T19:05:25.957521+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,15,,well the other parenthesis maybe .... oh... no it doesn't :)  not sure what then
+2012-11-03T19:05:41.610863+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",maybe the server just doesnt like us
+2012-11-03T19:05:51.452608+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",just like the patch on the last server hehe
+2012-11-03T19:06:45.355678+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,I guess you are gonna build newberg?  that player bankrupts soon
+2012-11-03T19:07:07.478207+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","""You: alright...connect ,  Server""Whatcha think you'r doing here pal?"" , You""uuuuuuuuh........aaaaaaaaaahhhh...................playing?"" , Server:""OH NO YOU DONT!!!"" Desynced :D"
+2012-11-03T19:07:31.604862+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",you mean me atrain?
+2012-11-03T19:07:52.122251+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"yeah, I guess that player is almost gone"
+2012-11-03T19:08:13.062052+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",hmm y i prolly will
+2012-11-03T19:08:21.233750+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",decent city and connected anyway
+2012-11-03T19:09:11.946087+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","anyone knows how long 1 year (ingame) takes , in terms of time"
+2012-11-03T19:10:29.445361+00:00,sim128b[3834]:,connect,8,89.155.122.64,Client#8
+2012-11-03T19:10:29.501426+00:00,sim128b[3834]:,disconnect,4,79.207.140.149,Client#4
+2012-11-03T19:10:53.442977+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,"Atrain, be carefull , your TGVs aren't making money, upgrade the speed "
+2012-11-03T19:11:33.887660+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,thanks.... some are new too
+2012-11-03T19:11:54.381782+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,"I hate the postal TGV, it's awful :/"
+2012-11-03T19:12:09.005145+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,FYI I've just connected my network to Newberg Airport by ship.
+2012-11-03T19:12:12.389596+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",are you here intercontinental???
+2012-11-03T19:13:29.525657+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","just saying, as long as you dock is not public, its not connected"
+2012-11-03T19:13:49.170296+00:00,sim128b[3834]:,disconnect,8,89.155.122.64,Client#8
+2012-11-03T19:14:00.277874+00:00,sim128b[3834]:,connect,4,89.155.122.64,Client#8
+2012-11-03T19:14:02.223546+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",oh ahahah ok scratch that
+2012-11-03T19:14:08.727650+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",didnt see the bus connection
+2012-11-03T19:16:56.748583+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"transdev, sa.... are you feros/srac/gazda?"
+2012-11-03T19:17:21.690015+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#8,5,"Transdev, SA",i don't understanf
+2012-11-03T19:17:36.006343+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#8,5,"Transdev, SA",*understand
+2012-11-03T19:17:37.357436+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,did you play as feros or srac or gazda?
+2012-11-03T19:18:28.721242+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#8,5,"Transdev, SA","I'm sorry, but I don't understand.."
+2012-11-03T19:18:53.148921+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,oh... what was your name last game?
+2012-11-03T19:19:37.542357+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#8,5,"Transdev, SA",I can use Transdev or Transportugal
+2012-11-03T19:19:48.659434+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"oh, hi portugal! :)"
+2012-11-03T19:20:34.833553+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"thanks jaridan, let's see if trains make money now"
+2012-11-03T19:20:42.900026+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Lol, you could make a drinking game out of all the name changing that's going on around here."
+2012-11-03T19:21:06.321427+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",^^
+2012-11-03T19:21:17.314966+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",thnks for what btw atrain? i didnt do anything
+2012-11-03T19:21:19.408093+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"SNCFS, do you know Fifty?  he said to tell you hello or something like that "
+2012-11-03T19:21:29.522709+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","oh and it should be noted, quite lively today <3"
+2012-11-03T19:21:32.646235+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,I played with Fifty a long time ago indeed
+2012-11-03T19:21:51.315710+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"oh, he said, to ask are you who he thinks you are ... I think"
+2012-11-03T19:21:54.474616+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,On the first custom map : the swiss map
+2012-11-03T19:22:06.907664+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,And he's right ;)
+2012-11-03T19:22:15.673949+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,who are you? :)
+2012-11-03T19:22:48.926624+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"thanks jaridan, they are making money now....(you are the one that told me)"
+2012-11-03T19:23:00.710406+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",it was sncfs who told you ;)
+2012-11-03T19:23:07.826137+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,Yes it was me ;)
+2012-11-03T19:23:11.993651+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,really?  hm let me check
+2012-11-03T19:23:33.008180+00:00,sim128b[3834]:,disconnect,2,178.201.227.14,Art Vandelay
+2012-11-03T19:23:33.008392+00:00,sim128b[3834]:,disconnect,3,134.3.161.174,Jaridan
+2012-11-03T19:23:33.008594+00:00,sim128b[3834]:,disconnect,7,90.33.92.223,SNCFS
+2012-11-03T19:23:43.007806+00:00,sim128b[3834]:,connect,2,134.3.161.174,Jaridan
+2012-11-03T19:23:50.173737+00:00,sim128b[3834]:,connect,7,90.33.92.223,SNCFS
+2012-11-03T19:23:56.619247+00:00,sim128b[3834]:,connect,3,178.201.227.14,Art Vandelay
+2012-11-03T19:24:00.287193+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,thanks sncfs
+2012-11-03T19:24:10.216242+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"sorry, how I got it mixed up"
+2012-11-03T19:24:14.669937+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,Do you know if Fifty is or will be playing ?
+2012-11-03T19:24:29.613617+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"not here, he said he's on 64 server"
+2012-11-03T19:24:30.644978+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",fifty said he's playing the 64 mostly atm
+2012-11-03T19:24:36.746824+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,Ah ok :(
+2012-11-03T19:24:54.502484+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,I hate pak64...
+2012-11-03T19:25:01.097670+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,unless he's avoiding me....  but if you see him you can try and ask him again ... maybe he'll listen to you
+2012-11-03T19:25:07.505081+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",i like both versions
+2012-11-03T19:25:22.029141+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",why should he avoid you?lol
+2012-11-03T19:25:32.823935+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,I'll try ;)
+2012-11-03T19:26:10.309685+00:00,sim128b[3834]:,disconnect,6,89.155.122.64,Client#6
+2012-11-03T19:26:24.844199+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","OH CMON , i was 300 money left of making my first million/year D:"
+2012-11-03T19:26:35.230606+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,haha
+2012-11-03T19:26:46.345316+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","*short, not left"
+2012-11-03T19:26:47.019178+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"jaridan, I know this is not realisitc, but we could meet railway stations near liltown or washhougal so you have space to run a line for money"
+2012-11-03T19:26:48.646433+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,HE you did it
+2012-11-03T19:27:30.570509+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"oh, transdev.... do you have time to rebuild?"
+2012-11-03T19:27:41.291511+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"oh no, you are good!!!!! :) yay"
+2012-11-03T19:27:45.536663+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",where is liltown?
+2012-11-03T19:28:01.734702+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,although I was gonna offer to rebuild your company so you have it when you come back tomorrow :)
+2012-11-03T19:28:21.055526+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,like the North East corner of map maybe
+2012-11-03T19:28:48.000880+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"or.... if you want more realism and don't mind less income, we could meet near marshville"
+2012-11-03T19:29:11.039051+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",well i could also join you in suburbia...
+2012-11-03T19:29:26.371781+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",well going for railway means i should/have to abandon the planes right?
+2012-11-03T19:29:32.828743+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,yes that is also a possibility... I will need to add space for 2 more platforms then
+2012-11-03T19:29:54.066877+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",i think you can always connect underground
+2012-11-03T19:29:58.625492+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",so no biggy there
+2012-11-03T19:29:59.311775+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#8,5,"Transdev, SA","in Real life, Transdev is the company that control the transports of region center and north of Portugal :P"
+2012-11-03T19:30:05.945025+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"no, undeground is broken :( no underground stations"
+2012-11-03T19:30:15.206427+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",waaaaaaaaaaaaaaaaaaaaaaaaaaait
+2012-11-03T19:30:21.526659+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",i cant build underground?
+2012-11-03T19:30:27.081809+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",i mean stations
+2012-11-03T19:30:29.393748+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,No stations at least
+2012-11-03T19:30:34.176438+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,I have to go ... hopefully I can come back in a few hourse... will anyone still be here?
+2012-11-03T19:30:38.600763+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",NUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+2012-11-03T19:30:43.739516+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,"Not me, so bye ;)"
+2012-11-03T19:30:44.517795+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",k cya later mate
+2012-11-03T19:30:52.786301+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,how about you jaridan?
+2012-11-03T19:31:01.896038+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",my life is not worth living anymore
+2012-11-03T19:31:12.756878+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",i'll see maybe i'm on maybe not
+2012-11-03T19:31:19.974193+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",oh its 8pm
+2012-11-03T19:31:24.633776+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",y i should be on
+2012-11-03T19:31:25.019076+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,hope so.... then maybe we can talk about connecting
+2012-11-03T19:31:39.072363+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","8pm, im online for atleast 6more or hours "
+2012-11-03T19:31:45.895394+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,good :)
+2012-11-03T19:31:48.442287+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",maybe a little more dunno
+2012-11-03T19:31:53.798306+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",ok cya mate ;)
+2012-11-03T19:32:07.056028+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,"well, SNCFS, leave any messages with jaridan.... if we need to coordinate something or whatever"
+2012-11-03T19:32:17.191715+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,Ok
+2012-11-03T19:32:24.018951+00:00,sim128b[3834]:,chat,5,98.251.79.180,Client#2,9,A-Train Transport,bye
+2012-11-03T19:32:28.695616+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,bye
+2012-11-03T19:32:33.348682+00:00,sim128b[3834]:,disconnect,5,98.251.79.180,Client#2
+2012-11-03T19:32:34.466701+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,See ya
+2012-11-03T19:33:16.588673+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,"Jaridan, if you want something from me, it's now, I'll not be anymore here in few minutes"
+2012-11-03T19:33:34.717786+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","nah i'm fine, thx though"
+2012-11-03T19:33:42.970778+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","im just sad, no underground stations"
+2012-11-03T19:33:56.909073+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,"Indeed, that's a bad thing"
+2012-11-03T19:33:56.935845+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",jaridan is the same as a synonym for underground
+2012-11-03T19:34:12.067423+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",i wanted to do so much underground once i have enough income
+2012-11-03T19:34:16.690457+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,Ah ! In which language ?
+2012-11-03T19:34:31.373307+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",i was speaking figuratively ;)
+2012-11-03T19:34:39.266204+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",it's not a real synonym
+2012-11-03T19:34:54.253779+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,"Ok ;) I don't understand well english, excuse me ;)"
+2012-11-03T19:35:00.214027+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","i meant that when you, a player, see's my name, Jaridan, that the first thing he thinks of is underground"
+2012-11-03T19:35:12.352411+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","no problem, i'm not a native english speaker aswell"
+2012-11-03T19:35:37.068413+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","i'm from germany, which is why i wouldve called myself Germans Mole industry at some point this time D,"
+2012-11-03T19:35:50.049181+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",gotta think of something else since there is no underground :/
+2012-11-03T19:36:12.608305+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,It also a problem for me
+2012-11-03T19:36:27.435327+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,No big cities with underground lines...
+2012-11-03T19:36:53.637855+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","well, on the other hand it'll be interesting to see how the map develops without underground stations"
+2012-11-03T19:37:08.024140+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,Ah ! It'll be a nightmare !
+2012-11-03T19:37:19.016056+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","i mean underground stations were not possible, let alone change the direction of a tunnel, before 88.10 or so"
+2012-11-03T19:37:19.643975+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"@Jaridan That makes at least to Germans in this game. "
+2012-11-03T19:37:29.091233+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",^^
+2012-11-03T19:37:59.218244+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,Guessing from where I am is not hard ^^
+2012-11-03T19:38:52.836363+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"From the country with the best train system in the world, I guess."
+2012-11-03T19:39:05.546144+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,Maybe ;)
+2012-11-03T19:39:33.138616+00:00,sim128b[3834]:,connect,5,69.138.176.94,Fifty
+2012-11-03T19:39:49.415840+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",yo fifty
+2012-11-03T19:39:51.936395+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,Fifty !
+2012-11-03T19:40:08.883339+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,There he is.
+2012-11-03T19:40:14.570766+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,Hey! all good here?
+2012-11-03T19:40:28.051744+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",NO
+2012-11-03T19:40:34.205617+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",I NEED MAH UNDERGROUND!
+2012-11-03T19:40:37.666322+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",*sniff*
+2012-11-03T19:40:40.408598+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,haha
+2012-11-03T19:41:13.691342+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"Fixed in the nightly, just need to convince timothy to upgrade servers"
+2012-11-03T19:41:34.464895+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,"If he upgrades the server, the map will be reset ?"
+2012-11-03T19:42:06.576323+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"No G, he can use the same map. Nice to hear from you again"
+2012-11-03T19:42:17.886552+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,Nice to hear you too
+2012-11-03T19:42:25.874921+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,So you remember me well
+2012-11-03T19:42:42.028714+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,Moblet's out wandering around the aussie backcountry now
+2012-11-03T19:42:51.552200+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",hehe
+2012-11-03T19:43:22.793592+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,So I decided to let my map for the moblet server loose on here.
+2012-11-03T19:43:23.322880+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",is there a reason for you going to the 64server? or just for a change of pace?
+2012-11-03T19:43:58.338732+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"I don't like 128's overproducing industries,"
+2012-11-03T19:44:10.186026+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"I'm a freight player, so industry is important to me."
+2012-11-03T19:44:24.250179+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"second, it tends to be a little slower since I'm busy"
+2012-11-03T19:44:32.210242+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","...? isnt it the same for 64? (i like fright more aswell, though i do like to do pax too)"
+2012-11-03T19:44:57.343238+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,Well you know we all have a lot of work
+2012-11-03T19:45:41.887472+00:00,sim128b[3834]:,chat,7,90.33.92.223,SNCFS,12,SNCFS,"Hmm I have to go, bye all !"
+2012-11-03T19:45:44.617719+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"No, it's much better in 64. Even when numbers look the same, they are not because 64 runs at 20 bits per month and 128 19"
+2012-11-03T19:45:54.445985+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",cya man
+2012-11-03T19:45:55.179425+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Bye SNCF
+2012-11-03T19:46:13.892757+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,bye G!
+2012-11-03T19:46:16.706424+00:00,sim128b[3834]:,disconnect,7,90.33.92.223,SNCFS
+2012-11-03T19:46:31.202669+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",i'm not that good when it comes to those settings.. i know what it does...roughly atleast
+2012-11-03T19:46:55.774803+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,lower numbers mean that a month is faster
+2012-11-03T19:46:56.703587+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",whats the exact difference? and why not just let this map run on 20  aswell?
+2012-11-03T19:47:31.858567+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"it can be run on 20, but industry scales accordingly. 19 is 128 default, 20 64s default"
+2012-11-03T19:48:22.790371+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","can't you ""hard code"" it for a map by adding the simuconf , changed accordingly?"
+2012-11-03T19:49:19.426284+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"Yes, but as I was saying, it doesn't fix industry, as industry generated increases production according to how fast the month is"
+2012-11-03T19:49:47.078128+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",meh i c
+2012-11-03T19:56:26.785928+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,"Please tell a-train that I have put in a request for better chat at the fourm, and also that I am not avoiding him :)"
+2012-11-03T19:56:44.379750+00:00,sim128b[3834]:,chat,5,69.138.176.94,Fifty,15,,bye have fun guys
+2012-11-03T19:56:46.946929+00:00,sim128b[3834]:,disconnect,5,69.138.176.94,Fifty
+2012-11-03T19:56:52.641433+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Bye
+2012-11-03T19:56:56.364217+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",cya
+2012-11-03T20:06:39.131282+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"@Jaridan Would you like to connect your tram line in Newberg to the dock? I'm not making any money off of the shuttle bus, anyway."
+2012-11-03T20:08:53.951880+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",uhm i can do that if you want but you would need to make it public (+have a tramline in your busstation) and i dont know
+2012-11-03T20:09:09.468902+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",if its not just ending up connecting it to the airport anyway
+2012-11-03T20:10:20.265165+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"hhmm, I'm making the station public and we'll see what happens."
+2012-11-03T20:10:55.874346+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","no tramline one the street;) "
+2012-11-03T20:11:57.549085+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",just
+2012-11-03T20:12:16.165493+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",make the road public or delete it
+2012-11-03T20:12:54.761964+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Oh, I see. How do I make the road public? I never figuered that one out."
+2012-11-03T20:13:14.425834+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",same as with stations
+2012-11-03T20:13:20.003296+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",you just click on the road :S
+2012-11-03T20:14:40.794239+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"That's odd, I tried it before, but it didn't work."
+2012-11-03T20:15:37.183995+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Cutting corners? That doesn't look nice.
+2012-11-03T20:16:08.744305+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",lol
+2012-11-03T20:16:10.715968+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",xD
+2012-11-03T20:16:18.520825+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",wasnt my intention...
+2012-11-03T20:16:38.647759+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Much better ;-)
+2012-11-03T20:16:59.058994+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","not really, took the wrong tram rail"
+2012-11-03T20:17:06.188776+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",now i have brown and green lol
+2012-11-03T20:17:50.601143+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,No one willl notice that. I won't tell anyone if you don't. :-)
+2012-11-03T20:18:03.951655+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",the can see the chatlog :S
+2012-11-03T20:21:34.669696+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","wow :D i made , within half a yar, as much profit as the whole year before :D"
+2012-11-03T20:22:10.457399+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Wow, not bad."
+2012-11-03T20:26:11.750632+00:00,sim128b[3834]:,disconnect,4,89.155.122.64,Client#8
+2012-11-03T20:26:21.128185+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,My profit hasn't really improved since I've started the passenger ships.
+2012-11-03T20:26:38.859014+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",well pax is hard early on with small cities
+2012-11-03T20:27:07.201566+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",best bet are planes and a global airport where several ppl are connected to
+2012-11-03T20:27:59.591291+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"It's also a bit risky, isn't it?"
+2012-11-03T20:28:12.467076+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn"," where are your cities?"
+2012-11-03T20:29:54.981600+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"I'm running a little bus line in sheffield, but it's mostly ships."
+2012-11-03T20:30:45.749227+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,I've also started a little project in Lord Mhz.
+2012-11-03T20:31:01.968653+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",well yeah sheffield is too close for planes to rack in a  lot of proofit
+2012-11-03T20:31:30.634099+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,I've tried that at a game a couple of years ago and it seemed to work.
+2012-11-03T20:31:46.587348+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","what, exactly, do you mean?"
+2012-11-03T20:32:36.732974+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"In order to make the city grow quickly, I've build a grid of dirt roads and ran a bus line through it."
+2012-11-03T20:33:10.600925+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","i tried it a little in chimney after reading it "
+2012-11-03T20:33:28.192852+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",as in sville aswell
+2012-11-03T20:34:12.126134+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"It works well, you've got new buildings popping up all over the place in Chimney."
+2012-11-03T20:34:39.360912+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn","i think, for it to work "
+2012-11-03T20:34:44.202249+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",well fast i mean
+2012-11-03T20:34:59.375410+00:00,sim128b[3834]:,chat,2,134.3.161.174,Jaridan,7,"We r back baby, reborn",it's best if the new roads are within the city borders aswell
+2012-11-03T20:38:59.862478+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Yep, if it's a good spot it doesn't take long before the first building shows up."
+2012-11-03T21:00:54.468625+00:00,sim128b[3834]:,disconnect,2,134.3.161.174,Jaridan
+2012-11-03T21:01:07.566725+00:00,sim128b[3834]:,connect,2,134.3.161.174,Jaridan
+2012-11-03T21:29:29.984837+00:00,sim128b[3834]:,connect,4,95.91.33.202,erwin
+2012-11-03T21:30:09.832449+00:00,sim128b[3834]:,disconnect,4,95.91.33.202,erwin
+2012-11-03T21:52:39.913451+00:00,sim128b[3834]:,disconnect,2,134.3.161.174,Jaridan
+2012-11-03T21:52:39.913630+00:00,sim128b[3834]:,disconnect,3,178.201.227.14,Art Vandelay
+2012-11-03T21:52:52.345047+00:00,sim128b[3834]:,connect,2,178.201.227.14,Art Vandelay
+2012-11-03T22:21:19.352679+00:00,sim128b[3834]:,connect,3,89.155.122.64,Client#8
+2012-11-03T23:05:08.375312+00:00,sim128b[3834]:,connect,4,98.251.79.180,Client#2
+2012-11-03T23:05:45.333900+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,15,,did someone electrify roads?
+2012-11-03T23:06:12.850199+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,uh oh sncfs is stuck (trains)
+2012-11-03T23:06:20.991463+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,I don't know. I haven't paid attention.
+2012-11-03T23:06:31.205541+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,I saw a sign saying not too
+2012-11-03T23:07:13.929756+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"I saw that, I hope he's coming back soon to take care of his trains."
+2012-11-03T23:08:40.851810+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,did jaridan leave?
+2012-11-03T23:09:25.481816+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Yes, but he didn't say anything, so he might be back."
+2012-11-03T23:10:14.541665+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,I've connected two cities by plane to Newberg.
+2012-11-03T23:10:23.914194+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,did portugal bankrupt or you? or both?
+2012-11-03T23:11:10.860860+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,I didn't just Portugal and that guy from Newberg.
+2012-11-03T23:11:28.348277+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,was portugal here when he bankrupted?
+2012-11-03T23:11:58.859848+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"is transportugal here now?  someone is building "
+2012-11-03T23:13:21.544697+00:00,sim128b[3834]:,disconnect,4,98.251.79.180,Client#2
+2012-11-03T23:13:28.665118+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,I guess after his Transdev player went bankrupt he changed back to TransPortugal.
+2012-11-03T23:13:40.318241+00:00,sim128b[3834]:,connect,4,98.251.79.180,Client#2
+2012-11-03T23:15:50.332083+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,It seems like the TransPortugal player is going bankrupt as well.
+2012-11-03T23:16:14.391432+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"not the new one, he's building"
+2012-11-03T23:17:00.815404+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"I see, his profit margin is improving rapidly"
+2012-11-03T23:18:16.309309+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,soo..... do you want to connect trains somewhere?
+2012-11-03T23:19:31.305899+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,we could connect somewhere like government island... and you can build rail lines to connect your cities west
+2012-11-03T23:19:32.255552+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,Not at the moment.
+2012-11-03T23:20:48.860170+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,Which ones? I only got some in the south and the two at the edges.
+2012-11-03T23:21:09.753378+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,what?  don't you have a lot of cities up north?
+2012-11-03T23:21:30.761165+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"oh, that's jaridan..... sorry"
+2012-11-03T23:21:39.190305+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,let me find your cities ....
+2012-11-03T23:21:46.088965+00:00,sim128b[3834]:,disconnect,2,178.201.227.14,Art Vandelay
+2012-11-03T23:21:58.027492+00:00,sim128b[3834]:,connect,2,178.201.227.14,Art Vandelay
+2012-11-03T23:22:32.917951+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,15,,"I used to, but that was two days ago, before I screwed around with the monorail and went bankrupt."
+2012-11-03T23:22:44.207013+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"oh, I see your cities.... I guess you could just run your own rail line to that big airport"
+2012-11-03T23:23:17.416693+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,or I could run a rail to your cities in the south... but then you don't get income from making your own train line (so your choice)
+2012-11-03T23:24:22.057809+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,15,,I'm already connected at Newberg. That's pretty much my hub for the two cities up north and the ones in the south.
+2012-11-03T23:25:34.466309+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,15,,your PS02 wilsonville line is not connected right
+2012-11-03T23:25:45.391994+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,15,,Before I get into more passenger lines I have to do more goods to boost my profit. The passengers have brought it down to much.
+2012-11-03T23:26:03.264440+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,it's connected to newberb east dock.... not airport
+2012-11-03T23:26:07.407591+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,15,,PS02 is going to Newberg
+2012-11-03T23:26:45.500637+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,doyou want me to connect a dock to the airport so you can make the line go there?
+2012-11-03T23:27:00.464323+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,15,,But Jaridan connected his tram line.
+2012-11-03T23:27:24.935753+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"yes, but it adds an extra stop.  the game only goes a max of 6 or 7 lines before it doesn't connect anymore"
+2012-11-03T23:28:11.716925+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,15,,I used to run a shuttle there but since the tram was already there I turned it over to Jaridans
+2012-11-03T23:28:33.475724+00:00,sim128b[3834]:,disconnect,3,89.155.122.64,Client#8
+2012-11-03T23:29:03.464761+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,15,,What's your closest city in the north east?
+2012-11-03T23:29:30.378711+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"around portland I guess, but I could run a line to like government island"
+2012-11-03T23:30:00.456343+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,15,,Who is in Washhougal?
+2012-11-03T23:30:13.339326+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,jaridan?
+2012-11-03T23:30:46.026425+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,15,,"Right, the colors all look alike. I wasn't sure about that."
+2012-11-03T23:31:12.002708+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,1 - zeno to zeno dock; 2 dock to newberg doc; 3 newberg tram to airport; 4 airport to suburbia; 5 suburbia - gresham; 6 gresham - rock creek; 7 rock - fort simu; 8 fort simu - stations
+2012-11-03T23:31:59.174486+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,were you just wondering about washhougal or did you want me to run a railroad?
+2012-11-03T23:32:37.132059+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,15,,Since I'm in Sheeps now Washhougal would be the closest city.
+2012-11-03T23:33:14.372713+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"well, do you want to meet on government island maybe?"
+2012-11-03T23:33:22.988680+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,15,,Or I could take a train down to Lil' Town and than we meet at Government Island
+2012-11-03T23:33:55.160988+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,15,,"Okay, let's do it."
+2012-11-03T23:34:10.514408+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,east or west side of the city?
+2012-11-03T23:34:46.011118+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,15,,"East, I guess since I'm coming from Lil' Town"
+2012-11-03T23:35:04.225480+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,k
+2012-11-03T23:35:41.013265+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,run your track on the east side of this station... then jaridan can put a station west side if he want to... is that ok?
+2012-11-03T23:36:09.480417+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Okay, can you put up a sign for me?"
+2012-11-03T23:36:20.030659+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,a sign? what do you mean?
+2012-11-03T23:37:13.780245+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Like this (600,17)"
+2012-11-03T23:37:19.302511+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,well just run your rails right next to the sign... and we can discuss what tiles to put the exact platforms
+2012-11-03T23:37:33.998098+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,^^
+2012-11-03T23:37:34.746238+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"yeah, but what is the sign for?  what should it say?"
+2012-11-03T23:38:22.718551+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Whatever you like, something like ""Put your station here"""
+2012-11-03T23:38:57.701450+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"look at (506,90)"
+2012-11-03T23:39:19.371452+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,here's what I might suggst... see the rail I just made?
+2012-11-03T23:39:38.334724+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,maybe build it like that then we can add platforms later so it's one big station
+2012-11-03T23:39:46.360948+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"yep, I can do that."
+2012-11-03T23:40:58.904297+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,so maybe you run your rail line from the north... maybe under washhougal
+2012-11-03T23:41:31.136527+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"you could go straight down to lil town and make a station at that city, then maybe west to below washhougal and cross the water.... maybe"
+2012-11-03T23:42:13.281423+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,are you kind of short on cash?   you don't have much net wealth left....   careful!?
+2012-11-03T23:42:40.219075+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,I can left terrain if you need somewhere to save you cash
+2012-11-03T23:42:58.689264+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"I know, this is why I wanted to find a new connection for goods first"
+2012-11-03T23:43:15.377686+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"oh.....   ok, well if you will be online for a while... go ahead and do goods or whatever"
+2012-11-03T23:43:16.179351+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Okay, do you see my tracks?"
+2012-11-03T23:43:31.858820+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,I can probably wait a few hours if you will still be here
+2012-11-03T23:43:44.414733+00:00,sim128b[3834]:,connect,3,134.3.161.174,Jaridan
+2012-11-03T23:43:47.065233+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,maybe
+2012-11-03T23:43:52.722433+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,hi jaridan!
+2012-11-03T23:43:55.667240+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,15,,yo
+2012-11-03T23:44:02.918729+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,welcome back
+2012-11-03T23:44:06.625814+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,15,,felll asleep a bit lol
+2012-11-03T23:44:13.129907+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"jaridan, we are gonna make a public station (506,89)"
+2012-11-03T23:44:21.205895+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,just for our railroads
+2012-11-03T23:45:13.406976+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"vandelay, will you be around for a few hours?  feel free to get more income first if so"
+2012-11-03T23:45:57.583672+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,I think I'm going to be around for the next 3 hours or so.
+2012-11-03T23:46:12.141323+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"oh that's good, feel free to try and get more income first if you want"
+2012-11-03T23:46:57.320970+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Okay, I'll do that."
+2012-11-03T23:47:45.497786+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Too bad, a lot of the businesses are not connected to anything."
+2012-11-03T23:48:08.883861+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"why, what do you need connected?"
+2012-11-03T23:49:34.489451+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,"What I mean is, they don't have the rest of the supply line anywhere. You have a lot of Quarries and stuff like that, but you can't use them."
+2012-11-03T23:49:50.732949+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"oh yeah, the mapmaker did that on purpose"
+2012-11-03T23:50:08.565416+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"they should connect eventually when new industry appears... but yeah, there is not very many industry now"
+2012-11-03T23:50:08.847593+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,Brilliant idea.
+2012-11-03T23:50:29.167537+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"do you want to connect milk again (398,241)?"
+2012-11-03T23:51:35.991555+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"jaridan, ya there?"
+2012-11-03T23:51:58.586297+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,15,,"y, sry, was reading the backlog a little"
+2012-11-03T23:52:02.328878+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,15,,wups
+2012-11-03T23:52:12.867964+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",there we go
+2012-11-03T23:52:42.489715+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"I don't kow if (506,90) is a good spot for you, but me and vandelay were considering it to connect "
+2012-11-03T23:52:43.642316+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,13,Vandelay Industries,I've hoped to find something on my own without taking away from someone elses business.  But it almost looks like there is nothing else available.
+2012-11-03T23:53:42.445685+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"well, the yellow player is not doing the car assembly plant right :)   but he might fix that when he comes back soo not an option...."
+2012-11-03T23:53:48.849313+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn",oh erm
+2012-11-03T23:54:16.589188+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","to clear things up, i just put the sign there because i remembered it from last game, no one electrified anything ...yet4"
+2012-11-03T23:56:44.355473+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","wow... its kinda a bad idea of sncfs to switch lines there for like 7 tiles and then it goes back the same way anyway... "
+2012-11-03T23:56:55.821594+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","fuck me, so back to buisness"
+2012-11-03T23:57:41.967434+00:00,sim128b[3834]:,chat,3,134.3.161.174,Jaridan,7,"We r back baby, reborn","what do you mean by me to connect the roads, you think i shouldnt run a trainline a-train?"
+2012-11-03T23:58:04.213658+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"no, I mean do you want to run a train to that same station  or some other station?"
+2012-11-03T23:58:59.599257+00:00,sim128b[3834]:,chat,4,98.251.79.180,Client#2,9,A-Train Transport,"vandelay, send your ship line to (34,378) maybe?"

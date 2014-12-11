@@ -1,0 +1,44 @@
+2012-10-15T00:18:49.790641+00:00,sim128b[8012]:,connect,2,90.15.2.16,Client#4
+2012-10-15T00:23:49.459617+00:00,sim128b[8012]:,connect,3,186.216.31.108,Johann Lott
+2012-10-15T00:23:50.276786+00:00,sim128b[8012]:,disconnect,2,90.15.2.16,Client#4
+2012-10-15T00:26:18.325800+00:00,sim128b[8012]:,chat,3,186.216.31.108,Johann Lott,15,,theres any account to be freed?
+2012-10-15T00:26:31.378608+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"yeah, would you like an account?"
+2012-10-15T00:26:51.784888+00:00,sim128b[8012]:,chat,3,186.216.31.108,Johann Lott,15,,Please!
+2012-10-15T00:27:25.363099+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"ok, which one.... player 7 is a new account but has not much money....."
+2012-10-15T00:27:52.764552+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"Markohs & Tyler Transit are available, but they have some some stuff built already (got lots of money too)"
+2012-10-15T00:28:29.777969+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,Markohs & Tyler used to play; I built their account but they never came back
+2012-10-15T00:28:58.125128+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,so.... which one ya want? :)
+2012-10-15T00:30:03.416371+00:00,sim128b[8012]:,chat,3,186.216.31.108,Johann Lott,15,,"aaah, too difficult! haha Tyler  Transit, please!"
+2012-10-15T00:30:17.852332+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"ok, one second.... let me change something"
+2012-10-15T00:31:08.217046+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,4,Tyler Transit,"ok, the password is ""tylerpass""  change it after you login if you want to"
+2012-10-15T00:32:12.692128+00:00,sim128b[8012]:,chat,3,186.216.31.108,Johann Lott,15,,Thank you!
+2012-10-15T00:32:33.526592+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"sure, I gues tyler isn't coming back... so you get an account with lots of money :)"
+2012-10-15T00:33:35.210336+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,did you do that think to make chat messages pop up?
+2012-10-15T00:36:46.852691+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"Everyone: Go to ""message centre"" > ""options"" > and check the 3rd box next to ""chat"".  This will make it easy to see chat messages."
+2012-10-15T00:37:17.956202+00:00,sim128b[8012]:,disconnect,3,186.216.31.108,Johann Lott
+2012-10-15T02:01:58.752702+00:00,sim128b[8012]:,disconnect,4,98.251.79.180,Client#5
+2012-10-15T03:08:30.632097+00:00,sim128b[8012]:,connect,2,200.171.251.22,Client#1
+2012-10-15T03:12:25.643730+00:00,sim128b[8012]:,disconnect,2,200.171.251.22,Client#1
+2012-10-15T06:55:13.163735+00:00,sim128b[8012]:,connect,2,84.20.187.160,Hundling
+2012-10-15T06:58:13.297053+00:00,sim128b[8012]:,disconnect,2,84.20.187.160,Hundling
+2012-10-15T06:58:26.957329+00:00,sim128b[8012]:,connect,2,84.20.187.160,Hundling
+2012-10-15T07:21:24.588652+00:00,sim128b[8012]:,connect,3,84.20.187.160,Hundling
+2012-10-15T09:53:42.888520+00:00,sim128b[8012]:,connect,4,84.20.187.160,Hundling
+2012-10-15T10:16:05.858543+00:00,sim128b[8012]:,connect,5,195.176.113.96,XBB Transportation
+2012-10-15T10:17:54.068372+00:00,sim128b[8012]:,disconnect,2,84.20.187.160,Hundling
+2012-10-15T10:17:54.068406+00:00,sim128b[8012]:,disconnect,3,84.20.187.160,Hundling
+2012-10-15T10:17:54.068430+00:00,sim128b[8012]:,disconnect,4,84.20.187.160,Hundling
+2012-10-15T10:17:54.068464+00:00,sim128b[8012]:,disconnect,5,195.176.113.96,XBB Transportation
+2012-10-15T10:45:46.591765+00:00,sim128b[8012]:,connect,2,88.165.36.112,Client#2
+2012-10-15T10:55:55.640239+00:00,sim128b[8012]:,connect,3,84.20.187.160,Hundling
+2012-10-15T12:01:00.982099+00:00,sim128b[8012]:,connect,4,114.25.109.119,Client#6
+2012-10-15T12:49:53.799232+00:00,sim128b[8012]:,connect,5,79.199.187.105,Client#1
+2012-10-15T16:18:56.715860+00:00,sim128b[8012]:,disconnect,2,88.165.36.112,Client#2
+2012-10-15T16:18:56.715895+00:00,sim128b[8012]:,disconnect,3,84.20.187.160,Hundling
+2012-10-15T16:18:56.715919+00:00,sim128b[8012]:,disconnect,4,114.25.109.119,Client#6
+2012-10-15T16:18:56.715941+00:00,sim128b[8012]:,disconnect,5,79.199.187.105,Client#1
+2012-10-15T16:19:05.151323+00:00,sim128b[8012]:,connect,6,82.202.65.26,Hanz
+2012-10-15T17:41:31.468523+00:00,sim128b[8012]:,connect,2,88.117.76.212,Client#7
+2012-10-15T18:48:17.678513+00:00,sim128b[8012]:,connect,3,81.83.114.136,SuperRaiderX
+2012-10-15T21:45:13.043708+00:00,sim128b[8012]:,connect,4,98.251.79.180,Client#5
+2012-10-15T22:11:41.168638+00:00,sim128b[8012]:,connect,5,98.251.79.180,Client#5

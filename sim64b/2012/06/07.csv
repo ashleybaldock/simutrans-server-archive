@@ -1,0 +1,168 @@
+2012-06-07T00:27:15.689689+00:00,sim64b[6457]:,connect,3,75.172.128.186,fatfat
+2012-06-07T00:41:28.482069+00:00,sim64b[6457]:,disconnect,2,88.165.36.112,paichtis
+2012-06-07T00:41:28.482105+00:00,sim64b[6457]:,disconnect,3,75.172.128.186,fatfat
+2012-06-07T02:29:15.887325+00:00,sim64b[6457]:,connect,2,189.106.243.144,Cesar
+2012-06-07T02:51:30.201527+00:00,sim64b[6457]:,connect,3,75.172.128.186,fatfat
+2012-06-07T02:54:06.210337+00:00,sim64b[6457]:,connect,4,27.109.185.53,penhong
+2012-06-07T02:54:06.390688+00:00,sim64b[6457]:,disconnect,2,189.106.243.144,Cesar
+2012-06-07T02:55:19.989881+00:00,sim64b[6457]:,disconnect,4,27.109.185.53,penhong
+2012-06-07T02:55:57.369354+00:00,sim64b[6457]:,connect,2,27.109.185.53,penhong
+2012-06-07T03:00:41.746069+00:00,sim64b[6457]:,disconnect,2,27.109.185.53,penhong
+2012-06-07T03:00:41.746415+00:00,sim64b[6457]:,disconnect,3,75.172.128.186,fatfat
+2012-06-07T03:43:08.329657+00:00,sim64b[6457]:,connect,2,75.172.128.186,fatfat
+2012-06-07T05:17:15.436511+00:00,sim64b[6457]:,connect,3,80.132.162.19,Client#3
+2012-06-07T05:17:45.417664+00:00,sim64b[6457]:,connect,4,88.165.36.112,paichtis
+2012-06-07T05:17:45.551273+00:00,sim64b[6457]:,disconnect,2,75.172.128.186,fatfat
+2012-06-07T05:30:06.118177+00:00,sim64b[6457]:,disconnect,4,88.165.36.112,paichtis
+2012-06-07T05:30:29.292975+00:00,sim64b[6457]:,connect,2,88.165.36.112,paichtis
+2012-06-07T05:46:53.872920+00:00,sim64b[6457]:,disconnect,2,88.165.36.112,paichtis
+2012-06-07T05:47:12.280617+00:00,sim64b[6457]:,connect,2,88.165.36.112,paichtis
+2012-06-07T06:31:12.901987+00:00,sim64b[6457]:,disconnect,2,88.165.36.112,paichtis
+2012-06-07T06:57:44.823724+00:00,sim64b[6457]:,connect,2,80.132.162.19,Client#3
+2012-06-07T07:29:39.918731+00:00,sim64b[6457]:,connect,4,88.165.36.112,paichtis
+2012-06-07T07:29:40.099962+00:00,sim64b[6457]:,disconnect,3,80.132.162.19,Client#3
+2012-06-07T08:19:41.216296+00:00,sim64b[6457]:,disconnect,4,88.165.36.112,paichtis
+2012-06-07T08:32:38.985311+00:00,sim64b[6457]:,connect,3,88.165.36.112,paichtis
+2012-06-07T09:12:17.051835+00:00,sim64b[6457]:,connect,4,92.226.234.209,Client#4
+2012-06-07T09:22:32.233563+00:00,sim64b[6457]:,disconnect,3,88.165.36.112,paichtis
+2012-06-07T09:53:21.350818+00:00,sim64b[6457]:,disconnect,4,92.226.234.209,Client#4
+2012-06-07T09:53:39.646667+00:00,sim64b[6457]:,connect,3,92.226.234.209,Client#4
+2012-06-07T09:56:16.432058+00:00,sim64b[6457]:,disconnect,3,92.226.234.209,Client#4
+2012-06-07T10:08:55.357906+00:00,sim64b[6457]:,connect,3,92.226.234.209,Client#3
+2012-06-07T10:22:46.431895+00:00,sim64b[6457]:,connect,4,92.226.234.209,Client#4
+2012-06-07T10:33:30.765630+00:00,sim64b[6457]:,connect,5,91.51.232.43,moni8363
+2012-06-07T10:34:11.976839+00:00,sim64b[6457]:,connect,6,79.249.99.116,Client#7
+2012-06-07T10:34:19.957767+00:00,sim64b[6457]:,disconnect,3,92.226.234.209,Client#3
+2012-06-07T10:35:02.565484+00:00,sim64b[6457]:,chat,5,91.51.232.43,moni8363,15,,can I play too?
+2012-06-07T10:35:27.816005+00:00,sim64b[6457]:,chat,5,91.51.232.43,moni8363,15,,I'm new at this board.
+2012-06-07T10:36:13.994506+00:00,sim64b[6457]:,chat,5,91.51.232.43,moni8363,15,,"i search for a long time a online-game, where i can play too."
+2012-06-07T10:36:39.294693+00:00,sim64b[6457]:,chat,2,80.132.162.19,Client#3,7,The Waste Co.,Unfortunately there is no free slot availale. I'm very sorry.
+2012-06-07T10:36:50.904326+00:00,sim64b[6457]:,chat,5,91.51.232.43,moni8363,15,,"can someone help me, please?"
+2012-06-07T10:36:54.677249+00:00,sim64b[6457]:,disconnect,5,91.51.232.43,moni8363
+2012-06-07T10:54:55.637220+00:00,sim64b[6457]:,disconnect,6,79.249.99.116,Client#7
+2012-06-07T10:55:13.673162+00:00,sim64b[6457]:,connect,3,79.249.99.116,Client#7
+2012-06-07T10:56:57.532329+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,playtosor?
+2012-06-07T11:00:18.853846+00:00,sim64b[6457]:,disconnect,3,79.249.99.116,Client#7
+2012-06-07T11:00:44.709472+00:00,sim64b[6457]:,connect,3,116.86.198.59,Client#3
+2012-06-07T11:02:32.449881+00:00,sim64b[6457]:,disconnect,3,116.86.198.59,Client#3
+2012-06-07T11:19:12.290592+00:00,sim64b[6457]:,disconnect,2,80.132.162.19,Client#3
+2012-06-07T11:19:34.389669+00:00,sim64b[6457]:,connect,2,80.132.162.19,Client#3
+2012-06-07T11:41:11.565271+00:00,sim64b[6457]:,connect,3,79.249.99.116,Client#7
+2012-06-07T11:47:28.779862+00:00,sim64b[6457]:,chat,4,92.226.234.209,Client#4,2,Napik 128 AS,Hi-Desert?
+2012-06-07T11:54:48.910065+00:00,sim64b[6457]:,connect,5,88.165.36.112,paichtis
+2012-06-07T12:05:16.488892+00:00,sim64b[6457]:,disconnect,3,79.249.99.116,Client#7
+2012-06-07T12:05:40.318260+00:00,sim64b[6457]:,connect,3,79.249.99.116,Client#7
+2012-06-07T12:37:35.535333+00:00,sim64b[6457]:,disconnect,2,80.132.162.19,Client#3
+2012-06-07T12:38:05.822565+00:00,sim64b[6457]:,connect,2,80.132.162.19,Client#3
+2012-06-07T12:43:33.519828+00:00,sim64b[6457]:,disconnect,5,88.165.36.112,paichtis
+2012-06-07T12:46:46.405210+00:00,sim64b[6457]:,connect,5,88.165.36.112,paichtis
+2012-06-07T12:54:41.249714+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,electrics?
+2012-06-07T12:55:38.179005+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,"tell me if you're ready to take over 505,229"
+2012-06-07T13:04:15.426562+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,I'm ready playtosor
+2012-06-07T13:05:25.384303+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,it's yours :)
+2012-06-07T13:05:38.340898+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,I see
+2012-06-07T13:05:51.662568+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,napik remove your substation
+2012-06-07T13:06:09.385989+00:00,sim64b[6457]:,chat,4,92.226.234.209,Client#4,2,Napik 128 AS,where?
+2012-06-07T13:06:29.792391+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,"504,232"
+2012-06-07T13:06:50.290724+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,yes I freed it for electrics
+2012-06-07T13:06:52.020324+00:00,sim64b[6457]:,chat,4,92.226.234.209,Client#4,2,Napik 128 AS,"I thought i could have this, because it was free"
+2012-06-07T13:07:19.839062+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,thanks :)
+2012-06-07T13:07:44.534635+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,:)
+2012-06-07T13:09:10.103615+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,thanks again playtosor lol :D
+2012-06-07T13:09:59.014974+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,well much easier for you to use it there
+2012-06-07T13:10:15.741182+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,I apprised that :)
+2012-06-07T13:11:05.023341+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,I mein appreciate^^
+2012-06-07T13:11:22.557303+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,lol
+2012-06-07T13:11:33.222501+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,mean* lol :D
+2012-06-07T13:11:50.549833+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,I can't write :P
+2012-06-07T13:11:59.091812+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,btw would you mind if I extend my line to Ashlam town hall ?
+2012-06-07T13:12:30.884243+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,no :)
+2012-06-07T13:12:46.135946+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,I mean you can build a bus line there
+2012-06-07T13:13:02.957098+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,nah I planned to bring the train
+2012-06-07T13:13:20.891332+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,the one from malliwell
+2012-06-07T13:13:25.070991+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,ok you can do this too^^
+2012-06-07T13:13:54.001913+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,"ok at some point ... first try to reduce congestion in ""my area"""
+2012-06-07T13:24:07.175237+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,wow my ICE do 2
+2012-06-07T13:24:13.459990+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,ops
+2012-06-07T13:24:23.948720+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,wow my ICE do 2
+2012-06-07T13:24:41.276578+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,2 millions ?
+2012-06-07T13:24:49.031360+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,yeah lol
+2012-06-07T13:25:12.815519+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,yes mine are not too far from it too
+2012-06-07T13:25:22.053458+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,"I pressd strg, not shift..."
+2012-06-07T13:26:14.503068+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,hmm where are your ICEs?
+2012-06-07T13:27:06.196936+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,Springfield-Pollingden a new underground line
+2012-06-07T13:27:32.334778+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,aah there
+2012-06-07T13:27:40.453737+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,mail and industry goods still use the old line
+2012-06-07T13:28:13.170624+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,"well, you can connect ashfield too :)"
+2012-06-07T13:28:42.205717+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,yes in the plans
+2012-06-07T13:28:57.790442+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,:D
+2012-06-07T13:29:22.363553+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,the electrics income has dropped sharply though
+2012-06-07T13:29:49.532406+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,the trains that go at 220
+2012-06-07T13:30:16.574310+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,ah ok
+2012-06-07T13:30:50.876054+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,well the ICE is the best speed Train
+2012-06-07T13:31:48.310141+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,"you can't make win with the tigeress, I tried everything"
+2012-06-07T13:32:17.115427+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,tigeress ?
+2012-06-07T13:32:46.577571+00:00,sim64b[6457]:,chat,3,79.249.99.116,Client#7,12,Electrics.Ltd,the train will be released :D
+2012-06-07T13:32:46.868620+00:00,sim64b[6457]:,chat,4,92.226.234.209,Client#4,2,Napik 128 AS,meow
+2012-06-07T13:33:09.972501+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,lol napik
+2012-06-07T13:36:44.355288+00:00,sim64b[6457]:,disconnect,3,79.249.99.116,Client#7
+2012-06-07T13:41:54.546119+00:00,sim64b[6457]:,chat,5,88.165.36.112,paichtis,9,Playtosor S.A.,ciao see you later
+2012-06-07T13:42:05.783956+00:00,sim64b[6457]:,disconnect,5,88.165.36.112,paichtis
+2012-06-07T14:08:59.870713+00:00,sim64b[6457]:,connect,3,88.165.36.112,paichtis
+2012-06-07T14:19:35.968918+00:00,sim64b[6457]:,disconnect,3,88.165.36.112,paichtis
+2012-06-07T14:19:54.225475+00:00,sim64b[6457]:,connect,3,88.165.36.112,paichtis
+2012-06-07T14:56:27.564457+00:00,sim64b[6457]:,disconnect,2,80.132.162.19,Client#3
+2012-06-07T15:14:52.204838+00:00,sim64b[6457]:,disconnect,3,88.165.36.112,paichtis
+2012-06-07T15:15:17.650381+00:00,sim64b[6457]:,connect,2,88.165.36.112,paichtis
+2012-06-07T15:20:04.475625+00:00,sim64b[6457]:,disconnect,2,88.165.36.112,paichtis
+2012-06-07T15:47:26.324191+00:00,sim64b[6457]:,connect,2,88.165.36.112,paichtis
+2012-06-07T15:47:58.065437+00:00,sim64b[6457]:,connect,3,80.132.162.19,Client#3
+2012-06-07T15:51:12.402718+00:00,sim64b[6457]:,disconnect,3,80.132.162.19,Client#3
+2012-06-07T16:11:22.011913+00:00,sim64b[23271]:,connect,2,88.165.36.112,paichtis
+2012-06-07T16:16:47.050544+00:00,sim64b[23271]:,connect,3,98.119.121.135,Hi-Desert transport
+2012-06-07T16:21:00.672533+00:00,sim64b[23271]:,disconnect,3,98.119.121.135,Hi-Desert transport
+2012-06-07T16:23:58.675931+00:00,sim64b[23271]:,connect,3,98.119.121.135,Hi-Desert transport
+2012-06-07T16:24:46.531177+00:00,sim64b[23271]:,disconnect,3,98.119.121.135,Hi-Desert transport
+2012-06-07T16:26:09.928445+00:00,sim64b[23271]:,connect,3,98.119.121.135,Hi-Desert transport
+2012-06-07T16:35:18.725531+00:00,sim64b[23271]:,connect,4,98.119.121.135,Hi-Desert transport
+2012-06-07T16:37:48.798570+00:00,sim64b[23271]:,connect,5,98.119.121.135,Hi-Desert transport
+2012-06-07T16:45:45.490104+00:00,sim64b[23271]:,disconnect,2,88.165.36.112,paichtis
+2012-06-07T16:45:45.490312+00:00,sim64b[23271]:,disconnect,3,98.119.121.135,Hi-Desert transport
+2012-06-07T16:45:45.490432+00:00,sim64b[23271]:,disconnect,4,98.119.121.135,Hi-Desert transport
+2012-06-07T16:45:45.490550+00:00,sim64b[23271]:,disconnect,5,98.119.121.135,Hi-Desert transport
+2012-06-07T16:47:11.370547+00:00,sim64b[23271]:,connect,6,98.119.121.135,Hi-Desert transport
+2012-06-07T17:10:29.553653+00:00,sim64b[23271]:,disconnect,6,98.119.121.135,Hi-Desert transport
+2012-06-07T17:10:45.090018+00:00,sim64b[23271]:,connect,2,80.132.162.19,Client#3
+2012-06-07T17:12:48.248203+00:00,sim64b[23271]:,connect,3,79.249.99.116,Client#7
+2012-06-07T17:23:25.269200+00:00,sim64b[23271]:,disconnect,2,80.132.162.19,Client#3
+2012-06-07T17:31:30.792673+00:00,sim64b[23271]:,connect,2,80.132.162.19,Client#3
+2012-06-07T17:32:01.559166+00:00,sim64b[23271]:,disconnect,3,79.249.99.116,Client#7
+2012-06-07T17:48:42.338452+00:00,sim64b[23271]:,disconnect,2,80.132.162.19,Client#3
+2012-06-07T17:49:02.685017+00:00,sim64b[23271]:,connect,2,80.132.162.19,Client#3
+2012-06-07T18:44:50.911558+00:00,sim64b[23271]:,connect,3,98.119.121.135,Hi-Desert transport
+2012-06-07T19:08:46.142284+00:00,sim64b[23271]:,connect,4,121.54.13.57,Joseph[PH]
+2012-06-07T19:11:44.055354+00:00,sim64b[23271]:,disconnect,4,121.54.13.57,Joseph[PH]
+2012-06-07T19:15:21.801763+00:00,sim64b[23271]:,disconnect,2,80.132.162.19,Client#3
+2012-06-07T19:38:30.408397+00:00,sim64b[23271]:,connect,2,92.226.234.209,Client#2
+2012-06-07T19:47:41.747737+00:00,sim64b[23271]:,disconnect,3,98.119.121.135,Hi-Desert transport
+2012-06-07T19:59:45.755230+00:00,sim64b[23271]:,connect,3,92.227.113.68,Client#3
+2012-06-07T20:11:07.261326+00:00,sim64b[23271]:,disconnect,2,92.226.234.209,Client#2
+2012-06-07T20:30:13.648273+00:00,sim64b[23271]:,connect,2,79.249.99.116,Client#7
+2012-06-07T20:33:13.597627+00:00,sim64b[23271]:,connect,4,80.132.162.19,Client#4
+2012-06-07T20:36:07.398083+00:00,sim64b[23271]:,connect,6,88.165.36.112,paichtis
+2012-06-07T20:39:34.178436+00:00,sim64b[23271]:,disconnect,2,79.249.99.116,Client#7
+2012-06-07T20:39:56.226274+00:00,sim64b[23271]:,connect,2,79.249.99.116,Client#7
+2012-06-07T20:41:13.661965+00:00,sim64b[23271]:,chat,6,88.165.36.112,paichtis,9,Playtosor S.A.,hi all ! Anything that needs checking quickly ?
+2012-06-07T20:42:25.942600+00:00,sim64b[23271]:,chat,2,79.249.99.116,Client#7,12,Electrics.Ltd,no :)
+2012-06-07T20:43:36.192385+00:00,sim64b[23271]:,chat,6,88.165.36.112,paichtis,9,Playtosor S.A.,good :)
+2012-06-07T21:28:08.810435+00:00,sim64b[23271]:,disconnect,2,79.249.99.116,Client#7
+2012-06-07T21:32:14.890144+00:00,sim64b[23271]:,disconnect,6,88.165.36.112,paichtis
+2012-06-07T21:43:48.967070+00:00,sim64b[23271]:,disconnect,4,80.132.162.19,Client#4
+2012-06-07T21:44:30.357584+00:00,sim64b[23271]:,connect,2,88.165.36.112,paichtis
+2012-06-07T21:45:07.613614+00:00,sim64b[23271]:,chat,2,88.165.36.112,paichtis,9,Playtosor S.A.,hi-desert you're here ?
+2012-06-07T22:19:45.139043+00:00,sim64b[23271]:,disconnect,3,92.227.113.68,Client#3
+2012-06-07T22:38:13.126103+00:00,sim64b[23271]:,connect,3,92.227.113.68,Client#3
+2012-06-07T23:00:16.345821+00:00,sim64b[23271]:,disconnect,3,92.227.113.68,Client#3
+2012-06-07T23:18:01.180795+00:00,sim64b[23271]:,disconnect,2,88.165.36.112,paichtis
+2012-06-07T23:18:24.877947+00:00,sim64b[23271]:,connect,2,88.165.36.112,paichtis
+2012-06-07T23:56:31.413629+00:00,sim64b[23271]:,connect,3,88.165.36.112,paichtis

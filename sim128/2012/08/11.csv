@@ -1,0 +1,229 @@
+2012-08-11T00:03:06.724391+00:00,sim128[18680]:,connect,4,87.18.225.164,Client#5
+2012-08-11T00:08:23.902620+00:00,sim128[18680]:,connect,6,87.18.225.164,Client#5
+2012-08-11T00:14:49.582255+00:00,sim128[18680]:,connect,8,98.251.79.180,Client#4
+2012-08-11T00:14:50.326624+00:00,sim128[18680]:,disconnect,4,87.18.225.164,Client#5
+2012-08-11T00:14:50.326753+00:00,sim128[18680]:,disconnect,5,87.18.225.164,Client#5
+2012-08-11T00:17:54.495971+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,hi yorkeiser
+2012-08-11T00:18:43.757467+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,hi a-t
+2012-08-11T00:19:02.210095+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,are you kevin on the forum?
+2012-08-11T00:19:07.709846+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,should I make you some more cities?   (maybe in the middle or something?)
+2012-08-11T00:19:31.147914+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,yes
+2012-08-11T00:20:19.917961+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"you.ve good reasons about the chat, I often thought the same things"
+2012-08-11T00:20:27.548494+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,however
+2012-08-11T00:20:59.993854+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"thanks for your help, but I can make cities with the non-taken accounts"
+2012-08-11T00:21:29.329459+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"but it'd need some time to floor the land, and I have not now"
+2012-08-11T00:22:16.006954+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"Zielona Gora, Sofia, Salisbury, Exeter, Rijeka... do you see those cities?"
+2012-08-11T00:22:39.371465+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,I wonder if we should leave messages to those 2 players asking if someone else can build passenger & mail there
+2012-08-11T00:22:56.828381+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,do those 2 people even play anymore
+2012-08-11T00:23:09.859489+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,also Aalborg
+2012-08-11T00:23:22.714767+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"yes, there are many cities with no real network, only the city hall station"
+2012-08-11T00:23:23.615850+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"all those cities only have 1 station, but the rest unused"
+2012-08-11T00:23:57.398832+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"i noticed it, but didn't build anything according to the rules of this map"
+2012-08-11T00:24:23.310832+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,maybe they're on holydays
+2012-08-11T00:24:28.528018+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"Well, I try to check player's ""new vehicles"" construction costs, and stuff for the past few years to see if they stopped playing"
+2012-08-11T00:26:28.712453+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,mmh yellow and light blue players didn't do anything in the last 10 years
+2012-08-11T00:26:33.177083+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"Heres's one option:  if they don't come back by later this week, you could build passenger & mail in those cities BUT!"
+2012-08-11T00:26:54.410691+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,leave a big message saying you will remove your stops if they come back or if they want you to
+2012-08-11T00:27:10.169909+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"ok, we'll do so"
+2012-08-11T00:27:55.525092+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,put a big text message in any cities you do that.... (that way they won't be upset can tell you if you want to build instead)
+2012-08-11T00:28:17.809074+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,Do you think that might be reasonable or a nice way to do it?
+2012-08-11T00:29:08.092567+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"it colud be good, however there's still much land on which build new towns"
+2012-08-11T00:29:18.047701+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,(i think you arose it)
+2012-08-11T00:29:27.648084+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"oh yeah, sure if you want to build new towns instead, feel free to do that"
+2012-08-11T00:29:29.521295+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,so I'll build there before
+2012-08-11T00:29:58.241485+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"next step, we cable the cities of those 2 players, if they won't return"
+2012-08-11T00:30:05.227467+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,think of it as generating a map with more cities (other players need cities too :) )
+2012-08-11T00:35:07.329931+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,I'm not sure how to convince TRANSERIC that sending all his trucks to one station is a bad idea....
+2012-08-11T00:35:32.534844+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"hmm, maybe he could just fix it by separating his lines instead... maybe I'll suggest that :)"
+2012-08-11T00:36:22.910476+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"i don't know what he's making, however don't they jam?"
+2012-08-11T00:36:48.843398+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,road traffic is really unstable in simutrans
+2012-08-11T00:36:57.692701+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"he sends all his materials to 1 single station first, instead of connecting directly to a factory from it's source"
+2012-08-11T00:37:27.991446+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,you need to have a really big station to do such a thing
+2012-08-11T00:37:47.969084+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"i'd prefer to use some distributed hubs, not a single station"
+2012-08-11T00:37:56.060380+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"actually, I think the bigger problem may be that he is mixing two lines on the same station... so one line (like glass) is waiting and the other line (like sand) can never drop off"
+2012-08-11T00:39:00.921614+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,in those case input stops must be separated from outputs that must wait 100%
+2012-08-11T00:39:17.392539+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,otherwise it deadlocks
+2012-08-11T00:39:34.268130+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"yeah, I'm gonna suggest that he separate all the lines"
+2012-08-11T00:39:53.969792+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"however, I think the whole concept is wrong"
+2012-08-11T00:40:05.227689+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,road traffic must be distributed
+2012-08-11T00:40:21.116688+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"on  various stations, otherwise he'll always jam"
+2012-08-11T00:40:32.331811+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"you mean a shared station for everything?  yes, it's not very efficient, but if it's fun it don't really matter"
+2012-08-11T00:40:46.194037+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"better, he'd move freight traffic on railroads..."
+2012-08-11T00:41:17.879998+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"actualy he once had a very nice passenger system in several cities, then made a mistake and lost his company"
+2012-08-11T00:41:46.565464+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,one little mistake and you can lose it all :(
+2012-08-11T00:41:47.130255+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,isn't he very experienced in simutrans?
+2012-08-11T00:42:09.076376+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,mmh on a solid pax network it's hard to loose everything
+2012-08-11T00:42:36.853490+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"one time it was a plane.... I had that happen to me... built one and bam, all lost"
+2012-08-11T00:43:02.697702+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"ah, then you were at the beginning"
+2012-08-11T00:43:16.251121+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"on a great network, a plane is not so much"
+2012-08-11T00:43:29.090510+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"no, I was just trying to do as much as possible in the time I was on, so went to the limit of my budget"
+2012-08-11T00:43:54.477973+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"however, I often see players risk spending all money and going under zero, but inside the net wealth"
+2012-08-11T00:44:06.442692+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,you often loose playing like this :)
+2012-08-11T00:44:43.033885+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,from how much time do u play st?
+2012-08-11T00:44:57.268750+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,it only happened because of planes; it was unexpected ... I had been using trains up to that point with no downsides
+2012-08-11T00:48:16.051981+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"another problem is TRANSERIC has a bad internet connection, so it's hard for him to probably get a lot done"
+2012-08-11T00:49:02.508220+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"of course, I don't mind, I like to help him out when I can... and would prefer he have fun playing"
+2012-08-11T00:49:11.513036+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,mmh the main problem is that there are no active players
+2012-08-11T00:49:59.456883+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,I always wonder why simutrans online has not the same success of openttd
+2012-08-11T00:50:00.627157+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"well, the connection problem can be frustration, but that's another topic... I wonder why the game is so bad in that area"
+2012-08-11T00:50:17.515392+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"well, maybe a better chat would help"
+2012-08-11T00:50:31.201960+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,openttd has it?
+2012-08-11T00:50:44.393622+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"but if the connection problems keep like they are now, then I think people won't want to play with all the synchronization issues"
+2012-08-11T00:51:05.296774+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,I don't play openttd.....
+2012-08-11T00:51:39.313338+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"synchro was a HUGE problem in the first times of multiplayer, 2 years ago less or more"
+2012-08-11T00:51:51.875755+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,now online game is really stable
+2012-08-11T00:52:21.475066+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,I noticed TRANSERIC still has major problems with syncronization.... and then that affects everyone else too
+2012-08-11T00:52:40.076775+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"yes, I noticed it too"
+2012-08-11T00:52:43.828806+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"oddly, with just me and you it's fine... but sometimes others come online and there's big problems"
+2012-08-11T00:52:50.642902+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,but the problem is on his connection
+2012-08-11T00:53:30.956553+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,what simutrans would have to be better is that other players wouldn't have to be influenced by another player's connection problems
+2012-08-11T00:53:52.012173+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"yeah, in a way perhaps, but I also wonder if maybe this game is a little less forgiving than others (I don't know) ... some games might not requires as strict a connection"
+2012-08-11T00:54:11.418949+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"yeah, exactly :)  "
+2012-08-11T00:54:15.232518+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,you're right
+2012-08-11T00:54:26.478094+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,online game is still a new feature
+2012-08-11T00:54:44.287212+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,I guess we could report our experience on the forums
+2012-08-11T00:54:45.317306+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,2 years ago this was not imagineable
+2012-08-11T00:55:04.343045+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,the part about other people's connections not affecting other players would be great to have :)
+2012-08-11T00:55:18.394500+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"coders have done GREAT things, and I hope they'll still make things better"
+2012-08-11T00:55:48.559860+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,I sincerely never understood why one's connection must affect other ones
+2012-08-11T00:56:10.916321+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"on the end, there's a server that decides, it's not a peer to peer multiplayer"
+2012-08-11T00:56:36.555662+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"boh, i'll ask to isidoro or other developers, they surely know why"
+2012-08-11T00:56:41.407124+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,it appears as though everytime a new player comes it needs to save the game.... (and maybe reload the save for everyone?)
+2012-08-11T00:57:11.917113+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"yes, that's what the game says"
+2012-08-11T00:57:20.351413+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,but I wonder why
+2012-08-11T00:57:45.968534+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"server would have to save when IT decides, not when players come in"
+2012-08-11T00:58:47.054391+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"my guess might be that it is a very, very strict synchronization... everyone has to receive everything exactly or something   ... probably was the easiests way to add multiplayer or something"
+2012-08-11T00:58:57.092091+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,maybe the problem is that server can't send the game to the new player and synchronize with other players at the same moment
+2012-08-11T00:59:33.341617+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"yeah, although I have noticed that the game is very slow right after you join.... almost like it is catching up with synchronization or something"
+2012-08-11T00:59:52.075239+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"as far as i know, synchro is driven by a paramter"
+2012-08-11T01:00:04.154979+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,so st can synchro every N frames
+2012-08-11T01:00:47.972900+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"however, i'll open a thread asking for explanations about this"
+2012-08-11T01:01:03.938868+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,simutrans is probably a lot harder to do multiplayer than something like minecraft.... with minecraft you only need to send chuncks that are near the player
+2012-08-11T01:01:17.856578+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"with simuntrans, you gotta keep the ENTIRE map in sync"
+2012-08-11T01:01:36.530660+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,I don't know minecraft
+2012-08-11T01:01:56.017223+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,block building game
+2012-08-11T01:02:02.244406+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,but st's synchro has the same problems of every real time game
+2012-08-11T01:02:22.492002+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"yeah, simutrans is more like an RTS.... than minecraft"
+2012-08-11T01:02:24.313108+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"as starcraft, red alert or others"
+2012-08-11T01:02:37.134318+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,miencraft is actually a lot lot easier to sync than an RTS probably
+2012-08-11T01:03:00.371877+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"i don't know it, but i don't think sybchro is such a tremendous task"
+2012-08-11T01:03:17.364286+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"i played many rts online, and never saw st's problems"
+2012-08-11T01:03:28.936708+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,think of all the items on this map that must be sent basically
+2012-08-11T01:03:58.369394+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,they're sent only the first time
+2012-08-11T01:04:16.812934+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"well, my guess is they just *tweaked* single player save games into some form of multiplayer instead of doing a major rewrite speciall made for multiplayer"
+2012-08-11T01:04:20.793549+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"after that, only changes are communicated to clients"
+2012-08-11T01:05:07.232885+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"yeah, you a probably right, in fact, your suggestion is probably how they actually do it, which doesn't sound bad at all"
+2012-08-11T01:05:47.028246+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"in that case, maybe it really is a very, very bad connection.... still..."
+2012-08-11T01:05:54.369883+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,the problem is that simutrans was projected as a single player game
+2012-08-11T01:06:08.672755+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,multiplayer was put inside with brute force
+2012-08-11T01:06:22.633088+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"still, this might be a chance to let some of these players run a special debugging version so developers can figure out ways to reduce sync problems for such players"
+2012-08-11T01:06:34.913927+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"i wrote some code on simutrans, and I imagine what a tremendous task it has been..."
+2012-08-11T01:07:02.124889+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,I mean putting inside multiplayer
+2012-08-11T01:07:24.232186+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"I'd tell you about two free/open source block building games, but if I did you'd get lost in those and never come back here :)"
+2012-08-11T01:07:50.476154+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,ahahahaha I don't think so :)
+2012-08-11T01:07:59.593945+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,I played many GREAT games
+2012-08-11T01:08:22.611227+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"but felt in love with ST in 2006, and from then we married :)"
+2012-08-11T01:08:23.641062+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"well if you don't like building games, then maybe not, but if you do like exploring and building, then you can get lots in them for a loooong time :)"
+2012-08-11T01:08:57.129308+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,do you mean civilization-like games?
+2012-08-11T01:09:23.977656+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"here you can google these 2:  ""ManicDigger"" (public domain) and ""Minetest"" (LGPL)"
+2012-08-11T01:09:47.476217+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,I'll give a look ;)
+2012-08-11T01:10:12.236064+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"do you mean now or later?  (if now, let me know when :) )"
+2012-08-11T01:10:20.611446+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"but no pain, when i've time to connect to play, i'm on simutrans :)"
+2012-08-11T01:10:41.114394+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"now surely not, I'm gonna sleep"
+2012-08-11T01:10:56.268531+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"oh, and Sim City 5 comes out next year or late this year :)"
+2012-08-11T01:11:06.640005+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"but tomorrow, if i have some time before revising my programmers' code, i'll give a look :)"
+2012-08-11T01:11:07.460460+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,I hope that's gonna be good enough to play :)
+2012-08-11T01:11:25.837556+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"ah, sim city, great series"
+2012-08-11T01:11:30.267722+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"wait, before you leave"
+2012-08-11T01:11:38.300882+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"(345,80)"
+2012-08-11T01:12:08.481752+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,do you see that sign?  don't type it into the chat though
+2012-08-11T01:12:24.676475+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,yes i read
+2012-08-11T01:12:33.468449+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"ok, you can contact me there if you want to outside game"
+2012-08-11T01:13:01.316915+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"but don't worry, i can also contact you on the forum, there are private messages"
+2012-08-11T01:13:15.320684+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,or are you planning to abandon the community? :)
+2012-08-11T01:13:25.228228+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"yeah, I just wanted to give a way, in case something happens that we don't meet up again or for a while"
+2012-08-11T01:13:58.494904+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"well, I'm guessing I won't play simutrans forever"
+2012-08-11T01:13:59.076735+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"oh, don't worry"
+2012-08-11T01:14:08.526775+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"k, now i'll sleep"
+2012-08-11T01:14:13.445761+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,"see ya "
+2012-08-11T01:14:16.044297+00:00,sim128[18680]:,chat,8,98.251.79.180,Client#4,9,A-Train,"k, bye, night"
+2012-08-11T01:14:17.832293+00:00,sim128[18680]:,chat,6,87.18.225.164,Client#5,5,yorkeiser,'night
+2012-08-11T01:14:22.158223+00:00,sim128[18680]:,disconnect,6,87.18.225.164,Client#5
+2012-08-11T10:09:32.707875+00:00,sim128[18680]:,disconnect,8,98.251.79.180,Client#4
+2012-08-11T10:09:48.467594+00:00,sim128[18680]:,connect,4,201.92.191.193,proedes
+2012-08-11T10:30:43.695551+00:00,sim128[18680]:,connect,5,201.92.191.193,proedes
+2012-08-11T11:39:59.590550+00:00,sim128[18680]:,disconnect,4,201.92.191.193,proedes
+2012-08-11T11:39:59.590609+00:00,sim128[18680]:,disconnect,5,201.92.191.193,proedes
+2012-08-11T11:40:49.179567+00:00,sim128[18680]:,connect,6,93.159.150.1,Arek
+2012-08-11T12:22:14.885952+00:00,sim128[18680]:,connect,4,92.157.104.118,Fr-N
+2012-08-11T12:34:02.466690+00:00,sim128[18680]:,connect,5,86.88.13.45,Client#5
+2012-08-11T12:34:03.206202+00:00,sim128[18680]:,disconnect,6,93.159.150.1,Arek
+2012-08-11T12:35:57.529434+00:00,sim128[18680]:,disconnect,5,86.88.13.45,Client#5
+2012-08-11T13:41:11.047101+00:00,sim128[18680]:,connect,5,81.83.114.136,SuperRaiderX
+2012-08-11T13:54:54.018073+00:00,sim128[18680]:,connect,6,87.18.225.164,Client#5
+2012-08-11T13:56:06.273450+00:00,sim128[18680]:,disconnect,5,81.83.114.136,SuperRaiderX
+2012-08-11T14:09:29.956917+00:00,sim128[18680]:,disconnect,6,87.18.225.164,Client#5
+2012-08-11T14:11:59.955464+00:00,sim128[18680]:,connect,5,87.18.225.164,Client#5
+2012-08-11T14:31:19.333074+00:00,sim128[18680]:,disconnect,4,92.157.104.118,Fr-N
+2012-08-11T14:46:38.842861+00:00,sim128[18680]:,connect,4,186.54.255.104,Client#4
+2012-08-11T14:56:07.939915+00:00,sim128[18680]:,disconnect,4,186.54.255.104,Client#4
+2012-08-11T14:57:12.062930+00:00,sim128[18680]:,connect,4,186.54.255.104,Calababum
+2012-08-11T15:01:22.681122+00:00,sim128[18680]:,disconnect,4,186.54.255.104,Calababum
+2012-08-11T15:20:25.881960+00:00,sim128[18680]:,disconnect,5,87.18.225.164,Client#5
+2012-08-11T15:38:44.394048+00:00,sim128[18680]:,connect,4,122.178.234.24,sooraj
+2012-08-11T15:58:19.676382+00:00,sim128[18680]:,connect,5,80.201.93.75,Client#5
+2012-08-11T16:40:08.212990+00:00,sim128[18680]:,connect,6,92.157.104.118,Fr-N
+2012-08-11T16:50:44.712368+00:00,sim128[18680]:,connect,8,178.191.64.47,Client#7
+2012-08-11T16:50:45.516467+00:00,sim128[18680]:,disconnect,4,122.178.234.24,sooraj
+2012-08-11T16:50:45.516621+00:00,sim128[18680]:,disconnect,5,80.201.93.75,Client#5
+2012-08-11T16:55:08.649724+00:00,sim128[18680]:,disconnect,8,178.191.64.47,Client#7
+2012-08-11T17:23:30.536463+00:00,sim128[18680]:,connect,4,87.18.225.164,Client#5
+2012-08-11T17:24:47.838103+00:00,sim128[18680]:,disconnect,4,87.18.225.164,Client#5
+2012-08-11T17:29:04.514254+00:00,sim128[18680]:,connect,4,98.251.79.180,Client#4
+2012-08-11T17:30:57.520046+00:00,sim128[18680]:,chat,4,98.251.79.180,Client#4,9,A-Train,"new players, if you nee an account to play, read the message at (500,0) on the map"
+2012-08-11T17:49:15.322751+00:00,sim128[18680]:,connect,5,187.62.44.83,luis
+2012-08-11T17:49:16.503757+00:00,sim128[18680]:,disconnect,4,98.251.79.180,Client#4
+2012-08-11T17:49:34.113726+00:00,sim128[18680]:,connect,4,98.251.79.180,Client#4
+2012-08-11T17:51:18.770123+00:00,sim128[18680]:,disconnect,5,187.62.44.83,luis
+2012-08-11T17:52:13.333403+00:00,sim128[18680]:,disconnect,6,92.157.104.118,Fr-N
+2012-08-11T17:52:49.263426+00:00,sim128[18680]:,connect,5,92.157.104.118,Fr-N
+2012-08-11T17:53:33.972359+00:00,sim128[18680]:,chat,4,98.251.79.180,Client#4,9,A-Train,"hey fr, should I fill in the water at (420,148)?  or do you still hope they will bridge?"
+2012-08-11T18:02:31.325413+00:00,sim128[18680]:,connect,6,187.62.44.83,luis
+2012-08-11T18:02:32.429682+00:00,sim128[18680]:,disconnect,4,98.251.79.180,Client#4
+2012-08-11T18:02:52.001997+00:00,sim128[18680]:,connect,4,98.251.79.180,Client#4
+2012-08-11T18:13:46.017303+00:00,sim128[18680]:,chat,4,98.251.79.180,Client#4,9,A-Train,"hello, luis, do you have an account?"
+2012-08-11T18:16:51.534597+00:00,sim128[18680]:,connect,8,46.47.99.30,LZ
+2012-08-11T18:17:06.410581+00:00,sim128[18680]:,chat,4,98.251.79.180,Client#4,9,A-Train,hi lz
+2012-08-11T18:19:21.115403+00:00,sim128[18680]:,disconnect,6,187.62.44.83,luis
+2012-08-11T18:19:27.512319+00:00,sim128[18680]:,disconnect,8,46.47.99.30,LZ
+2012-08-11T18:20:35.326003+00:00,sim128[18680]:,connect,6,187.62.44.83,luis
+2012-08-11T18:26:37.143923+00:00,sim128[18680]:,disconnect,5,92.157.104.118,Fr-N
+2012-08-11T18:26:37.301086+00:00,sim128[18680]:,disconnect,4,98.251.79.180,Client#4
+2012-08-11T18:26:54.309772+00:00,sim128[18680]:,connect,4,98.251.79.180,Client#4
+2012-08-11T18:27:39.483721+00:00,sim128[18680]:,connect,5,92.157.104.118,Fr-N
+2012-08-11T18:27:41.623550+00:00,sim128[18680]:,disconnect,6,187.62.44.83,luis
+2012-08-11T18:28:29.369536+00:00,sim128[18680]:,chat,4,98.251.79.180,Client#4,15,,hi luis did you get an account yet?
+2012-08-11T18:30:02.464046+00:00,sim128[18680]:,disconnect,5,92.157.104.118,Fr-N
+2012-08-11T18:30:06.649079+00:00,sim128[18680]:,disconnect,4,98.251.79.180,Client#4
+2012-08-11T18:30:22.208363+00:00,sim128[18680]:,connect,5,98.251.79.180,Client#4
+2012-08-11T18:30:35.876220+00:00,sim128[18680]:,connect,4,92.157.104.118,Fr-N
+2012-08-11T18:39:17.935510+00:00,sim128[18680]:,disconnect,5,98.251.79.180,Client#4
+2012-08-11T18:39:34.597601+00:00,sim128[18680]:,connect,5,98.251.79.180,Client#4
+2012-08-11T19:20:43.336604+00:00,sim128[18680]:,disconnect,4,92.157.104.118,Fr-N
+2012-08-11T19:21:20.971275+00:00,sim128[18680]:,connect,4,92.157.104.118,Fr-N
+2012-08-11T19:36:37.305925+00:00,sim128[18680]:,disconnect,5,98.251.79.180,Client#4
+2012-08-11T19:37:07.666535+00:00,sim128[18680]:,connect,5,98.251.79.180,Client#4
+2012-08-11T19:41:14.966246+00:00,sim128[18680]:,disconnect,4,92.157.104.118,Fr-N
+2012-08-11T19:41:15.762540+00:00,sim128[18680]:,disconnect,5,98.251.79.180,Client#4
+2012-08-11T19:41:32.366885+00:00,sim128[18680]:,connect,4,98.251.79.180,Client#4
+2012-08-11T19:41:45.696569+00:00,sim128[18680]:,connect,5,92.157.104.118,Fr-N
+2012-08-11T19:42:53.636059+00:00,sim128[18680]:,disconnect,5,92.157.104.118,Fr-N
+2012-08-11T19:43:14.127727+00:00,sim128[18680]:,connect,5,92.157.104.118,Fr-N
+2012-08-11T19:44:10.227138+00:00,sim128[18680]:,disconnect,5,92.157.104.118,Fr-N
+2012-08-11T19:44:55.494712+00:00,sim128[18680]:,connect,5,92.157.104.118,Fr-N
+2012-08-11T19:53:19.569626+00:00,sim128[18680]:,chat,4,98.251.79.180,Client#4,9,A-Train,can you read this fr?
+2012-08-11T20:08:58.594897+00:00,sim128[18680]:,disconnect,4,98.251.79.180,Client#4
+2012-08-11T20:54:05.820931+00:00,sim128[18680]:,connect,4,189.31.196.77,Client#4
+2012-08-11T21:10:51.688059+00:00,sim128[18680]:,disconnect,4,189.31.196.77,Client#4
+2012-08-11T22:41:52.487482+00:00,sim128[18680]:,connect,4,87.18.225.164,Client#5
+2012-08-11T23:25:01.828255+00:00,sim128[18680]:,disconnect,4,87.18.225.164,Client#5

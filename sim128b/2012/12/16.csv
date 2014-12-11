@@ -1,0 +1,253 @@
+2012-12-16T00:11:36.651296+00:00,sim128b[12837]:,disconnect,2,69.138.176.94,Fifty
+2012-12-16T00:11:36.651472+00:00,sim128b[12837]:,disconnect,3,69.138.176.94,Fifty
+2012-12-16T00:11:36.652693+00:00,sim128b[12837]:,disconnect,4,69.138.176.94,Fifty
+2012-12-16T00:11:36.652730+00:00,sim128b[12837]:,disconnect,5,69.138.176.94,Fifty
+2012-12-16T00:11:59.647427+00:00,sim128b[12837]:,connect,2,69.138.176.94,Fifty
+2012-12-16T00:33:29.223768+00:00,sim128b[12837]:,disconnect,2,69.138.176.94,Fifty
+2012-12-16T00:33:39.148089+00:00,sim128b[12837]:,connect,3,69.138.176.94,Fifty
+2012-12-16T01:19:03.229458+00:00,sim128b[12837]:,disconnect,3,69.138.176.94,Fifty
+2012-12-16T01:19:19.868813+00:00,sim128b[12837]:,connect,2,71.200.128.99,Client#2
+2012-12-16T02:28:20.358933+00:00,sim128b[12837]:,disconnect,2,71.200.128.99,Client#2
+2012-12-16T03:34:10.116701+00:00,sim128b[12837]:,connect,2,71.200.128.99,Client#2
+2012-12-16T03:40:27.520059+00:00,sim128b[12837]:,connect,3,71.200.128.99,Client#2
+2012-12-16T04:06:25.866882+00:00,sim128b[12837]:,disconnect,2,71.200.128.99,Client#2
+2012-12-16T04:06:25.866909+00:00,sim128b[12837]:,disconnect,3,71.200.128.99,Client#2
+2012-12-16T04:06:34.391629+00:00,sim128b[12837]:,connect,4,69.138.176.94,Fifty
+2012-12-16T04:46:21.528310+00:00,sim128b[12837]:,connect,2,69.138.176.94,Fifty
+2012-12-16T04:55:35.338733+00:00,sim128b[12837]:,disconnect,2,69.138.176.94,Fifty
+2012-12-16T04:55:35.338901+00:00,sim128b[12837]:,disconnect,4,69.138.176.94,Fifty
+2012-12-16T05:12:13.567301+00:00,sim128b[12837]:,connect,2,71.200.128.99,Client#2
+2012-12-16T05:56:50.629503+00:00,sim128b[12837]:,connect,3,115.177.49.207,dtsu
+2012-12-16T08:58:52.817686+00:00,sim128b[12837]:,connect,4,88.165.36.112,Client#3
+2012-12-16T09:13:51.125679+00:00,sim128b[12837]:,connect,5,218.45.117.96,Client#5
+2012-12-16T09:13:51.182948+00:00,sim128b[12837]:,disconnect,2,71.200.128.99,Client#2
+2012-12-16T09:13:51.182985+00:00,sim128b[12837]:,disconnect,3,115.177.49.207,dtsu
+2012-12-16T09:15:32.297401+00:00,sim128b[12837]:,disconnect,5,218.45.117.96,Client#5
+2012-12-16T10:00:20.643987+00:00,sim128b[12837]:,connect,2,88.165.36.112,Client#3
+2012-12-16T11:08:12.370208+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#3
+2012-12-16T11:47:44.655834+00:00,sim128b[12837]:,connect,5,87.11.50.177,Client#4
+2012-12-16T12:07:33.496817+00:00,sim128b[12837]:,connect,6,88.165.36.112,Client#3
+2012-12-16T12:26:12.945755+00:00,sim128b[12837]:,connect,7,134.3.161.174,Jaridan
+2012-12-16T12:26:30.686305+00:00,sim128b[12837]:,connect,8,88.165.36.112,Client#3
+2012-12-16T12:26:30.782489+00:00,sim128b[12837]:,disconnect,2,88.165.36.112,Client#3
+2012-12-16T12:26:30.782525+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#3
+2012-12-16T12:26:30.782548+00:00,sim128b[12837]:,disconnect,4,88.165.36.112,Client#3
+2012-12-16T12:26:30.782570+00:00,sim128b[12837]:,disconnect,5,87.11.50.177,Client#4
+2012-12-16T12:26:30.782591+00:00,sim128b[12837]:,disconnect,6,88.165.36.112,Client#3
+2012-12-16T12:30:12.376391+00:00,sim128b[12837]:,disconnect,7,134.3.161.174,Jaridan
+2012-12-16T12:36:24.441190+00:00,sim128b[12837]:,connect,2,134.3.161.174,Jaridan
+2012-12-16T12:47:12.133604+00:00,sim128b[12837]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-16T12:52:09.093325+00:00,sim128b[12837]:,disconnect,8,88.165.36.112,Client#3
+2012-12-16T12:52:17.169355+00:00,sim128b[12837]:,connect,2,134.3.161.174,Jaridan
+2012-12-16T12:52:29.579141+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#3
+2012-12-16T12:58:00.792118+00:00,sim128b[12837]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-16T12:58:17.855962+00:00,sim128b[12837]:,connect,2,134.3.161.174,Jaridan
+2012-12-16T13:11:17.067466+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#3
+2012-12-16T13:23:36.681037+00:00,sim128b[12837]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-16T13:23:47.690965+00:00,sim128b[12837]:,connect,3,134.3.161.174,Jaridan
+2012-12-16T13:31:35.085533+00:00,sim128b[12837]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-16T13:31:46.478194+00:00,sim128b[12837]:,connect,2,134.3.161.174,Jaridan
+2012-12-16T14:30:25.827766+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-16T14:35:08.880781+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-16T14:36:40.159813+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-16T14:40:55.936194+00:00,sim128b[12837]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-16T14:41:10.705754+00:00,sim128b[12837]:,connect,2,134.3.161.174,Jaridan
+2012-12-16T14:41:27.250272+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,hi Jaridan
+2012-12-16T14:41:32.731934+00:00,sim128b[12837]:,chat,2,134.3.161.174,Jaridan,15,,hi
+2012-12-16T14:41:58.161081+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-16T14:42:16.226282+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-16T14:45:38.527909+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,"btw when you have time can you PAX @172,424"
+2012-12-16T14:45:45.070948+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,?
+2012-12-16T14:45:57.185150+00:00,sim128b[12837]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,sure!
+2012-12-16T14:46:21.822311+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,thanks :)
+2012-12-16T14:49:02.913236+00:00,sim128b[12837]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,argh friggin jesus
+2012-12-16T14:49:18.150593+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,?
+2012-12-16T14:51:10.651715+00:00,sim128b[12837]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"i need to deliver steel myself now to the car plant, because rfp still isnt delivering enough"
+2012-12-16T14:51:32.410514+00:00,sim128b[12837]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,and becaue of that my plastic trains are blocking some part of a main railway
+2012-12-16T14:52:05.752541+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,oh I see
+2012-12-16T14:52:15.021798+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,micromanagement...
+2012-12-16T14:52:45.799204+00:00,sim128b[12837]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-16T14:52:58.259695+00:00,sim128b[12837]:,connect,2,134.3.161.174,Jaridan
+2012-12-16T14:53:38.070097+00:00,sim128b[12837]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-16T14:53:50.713672+00:00,sim128b[12837]:,connect,2,134.3.161.174,Jaridan
+2012-12-16T14:54:51.059386+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,which factory is it ?
+2012-12-16T14:55:27.792059+00:00,sim128b[12837]:,chat,2,134.3.161.174,Jaridan,15,,"(116,460), i'll just deliver left over steel from my mill"
+2012-12-16T14:56:46.752243+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,"if it helps I can deliver some from @43,404"
+2012-12-16T14:57:05.918978+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,or you can deliver some yourself if you'd better
+2012-12-16T14:57:22.583692+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,I just need some steel for the electronics
+2012-12-16T14:59:06.230413+00:00,sim128b[12837]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"y, just deliver steel pls"
+2012-12-16T15:04:43.926853+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-16T15:04:59.230769+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-16T15:05:57.957724+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,"done, I'll check later if it is enough and don't slows down your cars"
+2012-12-16T15:09:52.006257+00:00,sim128b[12837]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-16T15:09:52.007428+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-16T15:10:06.812869+00:00,sim128b[12837]:,connect,2,134.3.161.174,Jaridan
+2012-12-16T15:10:46.652367+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-16T15:15:29.724083+00:00,sim128b[12837]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"<ou have a problem @428,348"
+2012-12-16T15:16:07.807866+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,oh ! thanks :)
+2012-12-16T15:19:05.703158+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-16T15:19:29.737806+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-16T15:22:16.588075+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-16T15:22:51.154760+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-16T15:27:06.966137+00:00,sim128b[12837]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-16T15:27:18.328687+00:00,sim128b[12837]:,connect,2,134.3.161.174,Jaridan
+2012-12-16T15:27:19.104149+00:00,sim128b[12837]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-16T15:28:42.293396+00:00,sim128b[12837]:,connect,2,134.3.161.174,Jaridan
+2012-12-16T15:30:16.504243+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-16T15:30:32.314447+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-16T15:39:26.298908+00:00,sim128b[12837]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,l8er
+2012-12-16T15:40:12.284669+00:00,sim128b[12837]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-16T15:50:03.062373+00:00,sim128b[12837]:,connect,2,88.165.36.112,Client#2
+2012-12-16T16:45:46.264086+00:00,sim128b[12837]:,connect,4,88.165.36.112,Client#2
+2012-12-16T17:10:37.503791+00:00,sim128b[12837]:,connect,5,88.165.36.112,Client#2
+2012-12-16T17:46:06.450339+00:00,sim128b[12837]:,connect,6,69.138.176.94,Fifty
+2012-12-16T17:54:09.006804+00:00,sim128b[12837]:,connect,7,88.165.36.112,Client#2
+2012-12-16T17:54:09.143919+00:00,sim128b[12837]:,disconnect,2,88.165.36.112,Client#2
+2012-12-16T17:54:09.143970+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-16T17:54:09.144015+00:00,sim128b[12837]:,disconnect,4,88.165.36.112,Client#2
+2012-12-16T17:54:09.144039+00:00,sim128b[12837]:,disconnect,5,88.165.36.112,Client#2
+2012-12-16T18:14:26.579135+00:00,sim128b[12837]:,disconnect,6,69.138.176.94,Fifty
+2012-12-16T18:14:47.324795+00:00,sim128b[12837]:,connect,2,69.138.176.94,Fifty
+2012-12-16T18:23:11.299135+00:00,sim128b[12837]:,disconnect,7,88.165.36.112,Client#2
+2012-12-16T18:23:28.546854+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-16T18:25:25.344452+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,15,,thanks fifty
+2012-12-16T18:25:33.854494+00:00,sim128b[12837]:,chat,2,69.138.176.94,Fifty,4,RF&P,np
+2012-12-16T18:29:25.199731+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-16T18:29:42.293729+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-16T18:51:52.586184+00:00,sim128b[12837]:,disconnect,2,69.138.176.94,Fifty
+2012-12-16T18:52:04.580510+00:00,sim128b[12837]:,connect,2,69.138.176.94,Fifty
+2012-12-16T19:09:13.870965+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-16T19:09:31.629169+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-16T19:23:47.665211+00:00,sim128b[12837]:,connect,4,69.138.176.94,Fifty
+2012-12-16T19:23:47.724816+00:00,sim128b[12837]:,disconnect,2,69.138.176.94,Fifty
+2012-12-16T19:23:47.725099+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-16T19:23:59.088589+00:00,sim128b[12837]:,connect,5,88.165.36.112,Client#2
+2012-12-16T19:24:15.421677+00:00,sim128b[12837]:,disconnect,5,88.165.36.112,Client#2
+2012-12-16T19:24:31.857224+00:00,sim128b[12837]:,connect,2,88.165.36.112,Client#2
+2012-12-16T19:33:09.388475+00:00,sim128b[12837]:,disconnect,4,69.138.176.94,Fifty
+2012-12-16T19:45:25.886648+00:00,sim128b[12837]:,connect,3,88.15.171.253,albgimCAT
+2012-12-16T19:48:47.657981+00:00,sim128b[12837]:,disconnect,3,88.15.171.253,albgimCAT
+2012-12-16T20:48:38.823532+00:00,sim128b[12837]:,connect,3,69.138.176.94,Fifty
+2012-12-16T21:42:56.113797+00:00,sim128b[12837]:,connect,4,88.165.36.112,Client#2
+2012-12-16T21:43:09.054141+00:00,sim128b[12837]:,connect,5,91.16.47.25,Jaridan
+2012-12-16T21:43:09.192148+00:00,sim128b[12837]:,disconnect,2,88.165.36.112,Client#2
+2012-12-16T21:43:24.994020+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,hey
+2012-12-16T21:43:43.831372+00:00,sim128b[12837]:,chat,5,91.16.47.25,Jaridan,15,,yo
+2012-12-16T21:44:01.481948+00:00,sim128b[12837]:,chat,5,91.16.47.25,Jaridan,7,German Drunken Train Transport,how do you need the powerlines in valrico?
+2012-12-16T21:44:46.993777+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"first remove 298,478"
+2012-12-16T21:44:56.898865+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"@298,478"
+2012-12-16T21:45:53.938503+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"Now from @373,471 "
+2012-12-16T21:46:36.647898+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"...I'll create the southern fence to @333,488"
+2012-12-16T21:47:42.476964+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"then please remove @338,473 to @336,476"
+2012-12-16T21:49:27.233078+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"and after that I'll become the fence from @194,469 to 440"
+2012-12-16T21:50:46.560756+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,thanks!
+2012-12-16T21:52:30.049473+00:00,sim128b[12837]:,connect,2,71.200.128.99,benjad
+2012-12-16T21:52:44.733396+00:00,sim128b[12837]:,chat,5,91.16.47.25,Jaridan,7,German Drunken Train Transport,full house lol
+2012-12-16T21:53:13.826368+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,I've also fixed my steel problem at the car factory...
+2012-12-16T21:53:39.313863+00:00,sim128b[12837]:,chat,2,71.200.128.99,benjad,9,Planet Express,Evening all
+2012-12-16T21:53:54.420467+00:00,sim128b[12837]:,disconnect,2,71.200.128.99,benjad
+2012-12-16T21:54:10.650527+00:00,sim128b[12837]:,connect,2,71.200.128.99,benjad
+2012-12-16T21:55:04.438827+00:00,sim128b[12837]:,chat,5,91.16.47.25,Jaridan,7,German Drunken Train Transport,"@386,368"
+2012-12-16T21:55:11.735775+00:00,sim128b[12837]:,chat,5,91.16.47.25,Jaridan,7,German Drunken Train Transport,"@430,394"
+2012-12-16T21:55:18.874239+00:00,sim128b[12837]:,chat,5,91.16.47.25,Jaridan,7,German Drunken Train Transport,"@426,364"
+2012-12-16T21:55:25.736073+00:00,sim128b[12837]:,chat,5,91.16.47.25,Jaridan,7,German Drunken Train Transport,"@416,366"
+2012-12-16T21:55:28.512087+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,power?
+2012-12-16T21:55:31.444305+00:00,sim128b[12837]:,chat,5,91.16.47.25,Jaridan,7,German Drunken Train Transport,could you power those?
+2012-12-16T21:55:47.997164+00:00,sim128b[12837]:,chat,4,88.165.36.112,Client#2,14,playtosor,evening guys :)
+2012-12-16T21:56:09.749704+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,2 of them don't seem to need it?
+2012-12-16T21:56:22.421202+00:00,sim128b[12837]:,disconnect,4,88.165.36.112,Client#2
+2012-12-16T21:56:22.582439+00:00,sim128b[12837]:,disconnect,3,69.138.176.94,Fifty
+2012-12-16T21:56:22.582610+00:00,sim128b[12837]:,disconnect,5,91.16.47.25,Jaridan
+2012-12-16T21:56:41.863459+00:00,sim128b[12837]:,connect,3,91.16.47.25,Jaridan
+2012-12-16T21:56:50.825631+00:00,sim128b[12837]:,connect,5,69.138.176.94,Fifty
+2012-12-16T21:57:22.554807+00:00,sim128b[12837]:,connect,4,88.165.36.112,Client#2
+2012-12-16T21:58:46.166363+00:00,sim128b[12837]:,disconnect,4,88.165.36.112,Client#2
+2012-12-16T21:59:05.382615+00:00,sim128b[12837]:,connect,4,88.165.36.112,Client#2
+2012-12-16T21:59:21.133320+00:00,sim128b[12837]:,chat,4,88.165.36.112,Client#2,15,,"@327,394 needs power too"
+2012-12-16T22:00:55.597368+00:00,sim128b[12837]:,chat,5,69.138.176.94,Fifty,4,RF&P,k done
+2012-12-16T22:01:29.418685+00:00,sim128b[12837]:,chat,4,88.165.36.112,Client#2,14,playtosor,thnaks alot
+2012-12-16T22:02:32.314813+00:00,sim128b[12837]:,disconnect,2,71.200.128.99,benjad
+2012-12-16T22:02:49.018592+00:00,sim128b[12837]:,connect,2,71.200.128.99,benjad
+2012-12-16T22:03:26.071295+00:00,sim128b[12837]:,disconnect,3,91.16.47.25,Jaridan
+2012-12-16T22:03:26.551664+00:00,sim128b[12837]:,disconnect,4,88.165.36.112,Client#2
+2012-12-16T22:03:42.682008+00:00,sim128b[12837]:,connect,3,91.16.47.25,Jaridan
+2012-12-16T22:03:42.741824+00:00,sim128b[12837]:,disconnect,2,71.200.128.99,benjad
+2012-12-16T22:03:42.741848+00:00,sim128b[12837]:,disconnect,5,69.138.176.94,Fifty
+2012-12-16T22:03:54.992729+00:00,sim128b[12837]:,connect,4,88.165.36.112,Client#2
+2012-12-16T22:04:42.229198+00:00,sim128b[12837]:,connect,2,69.138.176.94,Fifty
+2012-12-16T22:10:04.522936+00:00,sim128b[12837]:,disconnect,2,69.138.176.94,Fifty
+2012-12-16T22:10:04.860026+00:00,sim128b[12837]:,disconnect,4,88.165.36.112,Client#2
+2012-12-16T22:10:22.754853+00:00,sim128b[12837]:,connect,2,91.16.47.25,Jaridan
+2012-12-16T22:13:05.476206+00:00,sim128b[12837]:,connect,4,69.138.176.94,Fifty
+2012-12-16T22:13:05.650961+00:00,sim128b[12837]:,disconnect,3,91.16.47.25,Jaridan
+2012-12-16T22:15:03.901189+00:00,sim128b[12837]:,disconnect,2,91.16.47.25,Jaridan
+2012-12-16T22:15:20.227825+00:00,sim128b[12837]:,connect,2,91.16.47.25,Jaridan
+2012-12-16T22:15:29.665728+00:00,sim128b[12837]:,connect,3,69.138.176.94,Fifty
+2012-12-16T22:15:29.842350+00:00,sim128b[12837]:,disconnect,4,69.138.176.94,Fifty
+2012-12-16T22:16:03.178357+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,15,,you forgot to power 2 of the four i listed fifty :P
+2012-12-16T22:16:19.919769+00:00,sim128b[12837]:,disconnect,2,91.16.47.25,Jaridan
+2012-12-16T22:16:36.386178+00:00,sim128b[12837]:,connect,2,91.16.47.25,Jaridan
+2012-12-16T22:16:48.240877+00:00,sim128b[12837]:,disconnect,2,91.16.47.25,Jaridan
+2012-12-16T22:17:05.206519+00:00,sim128b[12837]:,connect,2,91.16.47.25,Jaridan
+2012-12-16T22:18:01.859230+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"yeah, they're not producing much of anything!"
+2012-12-16T22:18:17.216509+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,German Drunken Train Transport,they will soon ;)
+2012-12-16T22:18:54.094759+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,k. Have you thought about moving some of your goods to the other shopping mall yet?
+2012-12-16T22:20:50.294452+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,German Drunken Train Transport,"well, someone is delivering goods there aswell"
+2012-12-16T22:21:29.853713+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"yes, but according to goods chart is supplying less than full demand"
+2012-12-16T22:21:29.934771+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,German Drunken Train Transport,"but y, i can rerioute there"
+2012-12-16T22:21:56.775143+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"I don't think reroute everything, but maybe 60% to there"
+2012-12-16T22:24:02.820940+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"Long-term, I am also going for the electronics plant @272,273 "
+2012-12-16T22:24:24.116241+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,German Drunken Train Transport,"im not doing, or planning, to do electronics so"
+2012-12-16T22:24:53.216386+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"This means I will power and pull more plastic from the refinery @482,307"
+2012-12-16T22:25:41.195450+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,German Drunken Train Transport,"just boost my 2 oil yards, i think they are abvle to handle it"
+2012-12-16T22:26:02.617192+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"of c, I'm going to need more oil, so I've figured I can bring oil from @163,423 without being tangled in my hubbed system"
+2012-12-16T22:26:25.789487+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,German Drunken Train Transport,you could just boost the 2 oil yards delivering to it
+2012-12-16T22:26:26.744372+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"If I pull as much as I hope to, I'm going to need that oil too"
+2012-12-16T22:26:33.890035+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,German Drunken Train Transport,or wont that be rnough?=
+2012-12-16T22:26:43.918073+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,German Drunken Train Transport,ok
+2012-12-16T22:27:23.947338+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"But as long as I keep it seperate from my hubs, your trains will still run regularly"
+2012-12-16T22:29:37.225892+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"are you still going to use your unused freight tracks around @273,304?"
+2012-12-16T22:29:46.721917+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,German Drunken Train Transport,not rly
+2012-12-16T22:30:20.297753+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,"thanks, I'll need the space"
+2012-12-16T22:30:49.531808+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,German Drunken Train Transport we live @ -3,name upgrade ftw
+2012-12-16T22:32:02.462338+00:00,sim128b[12837]:,connect,4,201.68.106.158,Eric Costa Marques
+2012-12-16T22:32:08.692342+00:00,sim128b[12837]:,chat,3,69.138.176.94,Fifty,4,RF&P,name not only running off of player box but off f player list ftw!
+2012-12-16T22:32:22.999662+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,German Drunken Train Transport we live @ -3,welcome elic costa marques
+2012-12-16T22:33:01.365629+00:00,sim128b[12837]:,disconnect,4,201.68.106.158,Eric Costa Marques
+2012-12-16T22:38:31.916259+00:00,sim128b[12837]:,disconnect,3,69.138.176.94,Fifty
+2012-12-16T22:39:03.739515+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-16T22:40:19.666065+00:00,sim128b[12837]:,connect,4,69.138.176.94,Fifty
+2012-12-16T22:43:04.038380+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-16T22:43:09.003831+00:00,sim128b[12837]:,disconnect,4,69.138.176.94,Fifty
+2012-12-16T22:43:22.125867+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-16T22:44:10.097660+00:00,sim128b[12837]:,disconnect,3,88.165.36.112,Client#2
+2012-12-16T22:44:29.976869+00:00,sim128b[12837]:,connect,3,88.165.36.112,Client#2
+2012-12-16T22:57:28.312383+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,German Drunken Train Transport we live @ -3,who's here?
+2012-12-16T22:58:01.115244+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,me
+2012-12-16T22:58:33.809660+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,need something ?
+2012-12-16T22:59:32.097643+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,"German Drunken Train Transport we live @ (-3) ",just about powering
+2012-12-16T23:00:42.410909+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,"German Drunken Train Transport we live @ (-3) ","btw, is there a reason why you use planes only? or is it just that you like transporting stuff mainly via planes?"
+2012-12-16T23:01:33.572037+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,both easier and more profitable
+2012-12-16T23:02:05.986922+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,"German Drunken Train Transport we live @ (-3) ","y, but isn't it less fun? (i like complex train sytems)"
+2012-12-16T23:02:39.510506+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,complex networks is for pak64 :D
+2012-12-16T23:02:51.946266+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,"German Drunken Train Transport we live @ (-3) ",? what do you mean by that?
+2012-12-16T23:03:04.879795+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,"German Drunken Train Transport we live @ (-3) ",ecause fright is more profitable in 64 ?
+2012-12-16T23:03:28.361282+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,nah not much planes so I have to use trains
+2012-12-16T23:04:54.388755+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,but even here I use trains
+2012-12-16T23:11:32.439620+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,"German Drunken Train Transport we live @ (-3) ",btw... why are you using 50 fright/cargo max planes only?
+2012-12-16T23:12:06.836948+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,they were the only ones I could afford when I started
+2012-12-16T23:12:20.241356+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,now I use the larger ones
+2012-12-16T23:13:04.696462+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor," the small one are very nice but need huge stations"
+2012-12-16T23:13:32.473467+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,"German Drunken Train Transport we live @ (-3) ","bigger are better, more speed bonus"
+2012-12-16T23:14:19.319822+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,I didn't do the math but you have to look at running cost too
+2012-12-16T23:14:43.376658+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,and the small one's have a very very small one
+2012-12-16T23:15:11.798377+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,"German Drunken Train Transport we live @ (-3) ","but, as you said, you need way bigger stations, which means more space and more maintenance cost"
+2012-12-16T23:15:41.101460+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,yep that's why now I use the bigger ones
+2012-12-16T23:16:12.640498+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,the rule is : short distance or low volume -> use the small ones
+2012-12-16T23:16:31.359586+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,otherwise the large
+2012-12-16T23:19:24.605838+00:00,sim128b[12837]:,chat,3,88.165.36.112,Client#2,14,playtosor,btw A-Train is no more playing ?
+2012-12-16T23:19:49.203691+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,"German Drunken Train Transport we live @ (-3) ",he was here the last 2 or 3 games
+2012-12-16T23:21:08.589603+00:00,sim128b[12837]:,disconnect,2,91.16.47.25,Jaridan
+2012-12-16T23:21:25.004493+00:00,sim128b[12837]:,connect,2,91.16.47.25,Jaridan
+2012-12-16T23:35:57.351580+00:00,sim128b[12837]:,chat,2,91.16.47.25,Jaridan,7,"German Drunken Train Transport we live @ (-3) ",gn8
+2012-12-16T23:35:59.935916+00:00,sim128b[12837]:,disconnect,2,91.16.47.25,Jaridan

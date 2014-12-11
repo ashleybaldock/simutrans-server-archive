@@ -1,0 +1,78 @@
+2012-11-18T00:24:21.521724+00:00,sim128b[29142]:,connect,4,134.3.161.174,Client#5
+2012-11-18T00:24:21.622820+00:00,sim128b[29142]:,disconnect,2,70.26.14.234,Client#2
+2012-11-18T00:24:34.661364+00:00,sim128b[29142]:,chat,4,134.3.161.174,Client#5,15,,yo
+2012-11-18T00:25:09.226992+00:00,sim128b[29142]:,chat,4,134.3.161.174,Client#5,7,German Trains Transport,you here?
+2012-11-18T00:27:29.293930+00:00,sim128b[29142]:,disconnect,4,134.3.161.174,Client#5
+2012-11-18T00:28:13.032712+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-18T00:28:53.084659+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-18T00:31:44.852178+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-18T00:51:31.803734+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,15,,hi
+2012-11-18T00:51:40.091114+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,15,,I left it open in case you came
+2012-11-18T00:53:33.008316+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,im here
+2012-11-18T00:54:25.679838+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,15,,hi
+2012-11-18T00:54:38.239121+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,15,,did you get to visit those pages I gave you a link to?
+2012-11-18T00:55:14.060116+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"y, im downloading the first one ( didnt  buy it though *cough cough*)"
+2012-11-18T00:55:57.336135+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,15,,"no, don't do that :("
+2012-11-18T01:19:51.544390+00:00,sim128b[29142]:,disconnect,3,98.251.79.180,Client#6
+2012-11-18T01:20:23.994298+00:00,sim128b[29142]:,connect,3,98.251.79.180,Client#6
+2012-11-18T01:21:20.606125+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-18T04:25:27.606522+00:00,sim128b[29142]:,disconnect,3,98.251.79.180,Client#6
+2012-11-18T04:25:41.818856+00:00,sim128b[29142]:,connect,2,98.251.79.180,Client#6
+2012-11-18T10:40:55.329103+00:00,sim128b[29142]:,connect,3,134.3.161.174,Client#5
+2012-11-18T11:17:48.591276+00:00,sim128b[29142]:,disconnect,2,98.251.79.180,Client#6
+2012-11-18T11:17:48.591302+00:00,sim128b[29142]:,disconnect,3,134.3.161.174,Client#5
+2012-11-18T11:17:59.766615+00:00,sim128b[29142]:,connect,4,134.3.161.174,Client#5
+2012-11-18T12:03:05.898389+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-18T12:46:54.346321+00:00,sim128b[29142]:,connect,3,82.113.121.171,Lukas
+2012-11-18T12:46:54.406098+00:00,sim128b[29142]:,disconnect,4,134.3.161.174,Client#5
+2012-11-18T12:48:32.802004+00:00,sim128b[29142]:,disconnect,3,82.113.121.171,Lukas
+2012-11-18T13:06:55.288825+00:00,sim128b[29142]:,connect,3,81.173.149.202,trian just watching
+2012-11-18T13:10:36.781861+00:00,sim128b[29142]:,disconnect,3,81.173.149.202,trian just watching
+2012-11-18T13:20:04.999037+00:00,sim128b[29142]:,connect,3,81.173.149.202,trian just watching
+2012-11-18T13:20:04.999303+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,hi
+2012-11-18T13:20:37.737400+00:00,sim128b[29142]:,chat,3,81.173.149.202,trian just watching,15,,Hi there!
+2012-11-18T13:21:21.192160+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,is there something i can help you with?^^
+2012-11-18T13:22:13.634265+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,you want to play on this server or you just gonna watch (as your name implies :P)
+2012-11-18T13:22:22.042523+00:00,sim128b[29142]:,chat,3,81.173.149.202,trian just watching,15,,Not sure. :-)
+2012-11-18T13:22:37.145162+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,new ppl are always welcome ;)
+2012-11-18T13:23:32.574313+00:00,sim128b[29142]:,chat,3,81.173.149.202,trian just watching,15,,"I'm ""really"" playing on one of the pak64-servers, but since I did some heavy developing during the last days I want to lay off a little bit."
+2012-11-18T13:23:33.249994+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,there are some cities to get started and lots of fright
+2012-11-18T13:24:18.391694+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"i c , that's fine aswell ;)"
+2012-11-18T13:25:31.742319+00:00,sim128b[29142]:,chat,3,81.173.149.202,trian just watching,15,,"But now, I'm kinda bored and feel tempted to play again. So I'm not sure, if it's a good idea to start here. ;-)"
+2012-11-18T13:27:05.885550+00:00,sim128b[29142]:,chat,3,81.173.149.202,trian just watching,15,,I probably don't have time to continue playing on to servers and I don't want to block a server slot.
+2012-11-18T13:27:17.465852+00:00,sim128b[29142]:,chat,3,81.173.149.202,trian just watching,15,,to=two
+2012-11-18T13:28:04.595291+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"ofc it's up to you^^ "
+2012-11-18T13:28:51.905377+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"most slots are just blocked more or less, its just me and atrain who are pretty active and intercontinental sometime"
+2012-11-18T13:29:12.390274+00:00,sim128b[29142]:,chat,3,81.173.149.202,trian just watching,15,,"I might start a company but leave the password as is, so that it can be taken over."
+2012-11-18T13:30:24.177794+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"a good idea for a stable income would be to pax a little @ (400,273) , connect em to an airport and connect the airport to the public airport @ newberg (26,371)"
+2012-11-18T13:30:40.533395+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"from there it goes into atrains (and through him) into my pax system "
+2012-11-18T13:31:22.956312+00:00,sim128b[29142]:,chat,3,81.173.149.202,trian just watching,15,,"Hey, no helping me! ;-) (If I go bankrupt, I wanna do it all by myself. ;-)"
+2012-11-18T13:31:43.422045+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,hehe^^
+2012-11-18T13:32:04.457792+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,afk for a bit (LoL game starting)
+2012-11-18T13:34:26.559073+00:00,sim128b[29142]:,chat,3,81.173.149.202,trian just watching,15,,"Allright, I'll have a look at the public stations. So yeah, I might connect to Newberg."
+2012-11-18T14:08:16.658208+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-18T14:08:32.149956+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-18T14:10:14.923710+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-18T14:10:31.018359+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-18T14:17:35.122499+00:00,sim128b[29142]:,connect,4,81.173.157.86,Client#4
+2012-11-18T14:18:12.730430+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,hi
+2012-11-18T14:18:23.286526+00:00,sim128b[29142]:,chat,4,81.173.157.86,Client#4,15,,Trian again
+2012-11-18T14:32:28.216338+00:00,sim128b[29142]:,disconnect,3,81.173.149.202,trian just watching
+2012-11-18T15:12:01.336104+00:00,sim128b[29142]:,disconnect,4,81.173.157.86,Client#4
+2012-11-18T15:12:44.907552+00:00,sim128b[29142]:,connect,3,81.173.157.86,trian
+2012-11-18T15:28:02.260210+00:00,sim128b[29142]:,chat,3,81.173.157.86,trian,8,Trian Travels,"Och, Menno!"
+2012-11-18T15:30:38.426958+00:00,sim128b[29142]:,chat,3,81.173.157.86,trian,15,,"Ah well, I might try again later."
+2012-11-18T15:31:02.018308+00:00,sim128b[29142]:,disconnect,3,81.173.157.86,trian
+2012-11-18T15:53:26.379172+00:00,sim128b[29142]:,connect,3,69.138.176.94,Client#3
+2012-11-18T15:59:21.071525+00:00,sim128b[29142]:,disconnect,3,69.138.176.94,Client#3
+2012-11-18T17:43:08.543102+00:00,sim128b[29142]:,connect,3,81.162.216.13,Client#1
+2012-11-18T17:46:02.875938+00:00,sim128b[29142]:,disconnect,3,81.162.216.13,Client#1
+2012-11-18T19:08:46.145976+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-18T19:09:00.388071+00:00,sim128b[29142]:,connect,3,91.16.55.129,Client#5
+2012-11-18T19:56:19.785557+00:00,sim128b[29142]:,connect,2,46.149.222.73,Client#2
+2012-11-18T19:59:28.800802+00:00,sim128b[29142]:,disconnect,2,46.149.222.73,Client#2
+2012-11-18T19:59:28.801007+00:00,sim128b[29142]:,disconnect,3,91.16.55.129,Client#5
+2012-11-18T20:16:55.946433+00:00,sim128b[29142]:,connect,2,98.251.79.180,Client#6
+2012-11-18T20:51:18.158485+00:00,sim128b[29142]:,disconnect,2,98.251.79.180,Client#6
+2012-11-18T23:52:45.062222+00:00,sim128b[29142]:,connect,2,194.213.220.147,rejnok
+2012-11-18T23:59:08.875523+00:00,sim128b[29142]:,disconnect,2,194.213.220.147,rejnok

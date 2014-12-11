@@ -1,0 +1,488 @@
+2012-11-01T02:20:27.512528+00:00,sim128b[3834]:,disconnect,2,98.251.79.180,Client#5
+2012-11-01T02:23:34.163528+00:00,sim128b[3834]:,connect,2,98.251.79.180,Client#5
+2012-11-01T03:53:12.511970+00:00,sim128b[3834]:,connect,3,114.79.28.55,lOUNGER
+2012-11-01T03:53:25.509367+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,hi!!!!!!!!
+2012-11-01T03:54:27.241371+00:00,sim128b[3834]:,disconnect,3,114.79.28.55,lOUNGER
+2012-11-01T03:54:58.368914+00:00,sim128b[3834]:,connect,3,114.79.28.55,lOUNGER
+2012-11-01T03:55:00.555733+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,hi again
+2012-11-01T03:58:56.976398+00:00,sim128b[3834]:,disconnect,3,114.79.28.55,lOUNGER
+2012-11-01T03:59:17.816820+00:00,sim128b[3834]:,connect,3,114.79.28.55,lOUNGER
+2012-11-01T03:59:39.823289+00:00,sim128b[3834]:,disconnect,3,114.79.28.55,lOUNGER
+2012-11-01T04:00:08.868740+00:00,sim128b[3834]:,connect,3,114.79.28.55,lOUNGER
+2012-11-01T04:00:36.120134+00:00,sim128b[3834]:,disconnect,3,114.79.28.55,lOUNGER
+2012-11-01T04:00:59.623814+00:00,sim128b[3834]:,connect,3,114.79.28.55,lOUNGER
+2012-11-01T04:01:07.069377+00:00,sim128b[3834]:,disconnect,3,114.79.28.55,lOUNGER
+2012-11-01T04:01:35.951522+00:00,sim128b[3834]:,connect,3,114.79.28.55,lOUNGER
+2012-11-01T04:01:42.999507+00:00,sim128b[3834]:,disconnect,2,98.251.79.180,Client#5
+2012-11-01T04:02:03.490166+00:00,sim128b[3834]:,connect,2,98.251.79.180,Client#5
+2012-11-01T04:02:55.580311+00:00,sim128b[3834]:,disconnect,3,114.79.28.55,lOUNGER
+2012-11-01T04:03:46.241294+00:00,sim128b[3834]:,connect,3,114.79.28.55,lOUNGER
+2012-11-01T04:04:43.729797+00:00,sim128b[3834]:,disconnect,3,114.79.28.55,lOUNGER
+2012-11-01T04:05:21.425071+00:00,sim128b[3834]:,connect,3,114.79.28.55,lOUNGER
+2012-11-01T04:05:33.334487+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,do you have connections problems?
+2012-11-01T04:06:10.555055+00:00,sim128b[3834]:,chat,3,114.79.28.55,lOUNGER,2,1,iNDONESIAN
+2012-11-01T04:07:55.969513+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,have you played the game much?
+2012-11-01T04:08:30.314843+00:00,sim128b[3834]:,disconnect,3,114.79.28.55,lOUNGER
+2012-11-01T04:09:24.023297+00:00,sim128b[3834]:,connect,3,114.79.28.55,lOUNGER
+2012-11-01T04:11:18.191253+00:00,sim128b[3834]:,disconnect,3,114.79.28.55,lOUNGER
+2012-11-01T04:11:51.906794+00:00,sim128b[3834]:,connect,3,114.79.28.55,lOUNGER
+2012-11-01T04:12:01.994854+00:00,sim128b[3834]:,disconnect,3,114.79.28.55,lOUNGER
+2012-11-01T04:12:29.597508+00:00,sim128b[3834]:,connect,3,114.79.28.55,lOUNGER
+2012-11-01T04:12:47.683004+00:00,sim128b[3834]:,disconnect,3,114.79.28.55,lOUNGER
+2012-11-01T04:13:02.893493+00:00,sim128b[3834]:,connect,3,114.79.28.55,lOUNGER
+2012-11-01T04:13:12.816419+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,maybe you shoulkd try the server in Germany too
+2012-11-01T04:14:29.023859+00:00,sim128b[3834]:,disconnect,3,114.79.28.55,lOUNGER
+2012-11-01T04:30:45.640062+00:00,sim128b[3834]:,connect,3,98.251.79.180,Client#5
+2012-11-01T04:40:38.367664+00:00,sim128b[3834]:,disconnect,2,98.251.79.180,Client#5
+2012-11-01T04:40:38.367715+00:00,sim128b[3834]:,disconnect,3,98.251.79.180,Client#5
+2012-11-01T05:11:00.617550+00:00,sim128b[3834]:,connect,2,182.13.88.52,DADIK
+2012-11-01T05:16:23.287050+00:00,sim128b[3834]:,disconnect,2,182.13.88.52,DADIK
+2012-11-01T05:16:31.070880+00:00,sim128b[3834]:,connect,3,182.13.88.52,DADIK
+2012-11-01T05:17:47.028751+00:00,sim128b[3834]:,connect,2,182.13.88.52,DADIK
+2012-11-01T05:20:17.039894+00:00,sim128b[3834]:,disconnect,2,182.13.88.52,DADIK
+2012-11-01T05:20:17.040081+00:00,sim128b[3834]:,disconnect,3,182.13.88.52,DADIK
+2012-11-01T05:45:14.408395+00:00,sim128b[3834]:,connect,2,182.13.88.52,DADIK
+2012-11-01T05:52:39.822111+00:00,sim128b[3834]:,connect,3,182.13.88.52,DADIK
+2012-11-01T05:54:36.664129+00:00,sim128b[3834]:,disconnect,2,182.13.88.52,DADIK
+2012-11-01T05:54:36.664174+00:00,sim128b[3834]:,disconnect,3,182.13.88.52,DADIK
+2012-11-01T05:54:46.743271+00:00,sim128b[3834]:,connect,4,182.13.88.52,DADIK
+2012-11-01T06:19:52.524934+00:00,sim128b[3834]:,connect,2,90.33.92.223,Client#2
+2012-11-01T06:59:06.296785+00:00,sim128b[3834]:,disconnect,2,90.33.92.223,Client#2
+2012-11-01T06:59:06.296827+00:00,sim128b[3834]:,disconnect,4,182.13.88.52,DADIK
+2012-11-01T06:59:11.614402+00:00,sim128b[3834]:,connect,3,58.188.128.73,Client#3
+2012-11-01T07:22:49.788595+00:00,sim128b[3834]:,disconnect,3,58.188.128.73,Client#3
+2012-11-01T07:22:53.931922+00:00,sim128b[3834]:,connect,2,88.165.36.112,Client#1
+2012-11-01T08:54:07.821126+00:00,sim128b[3834]:,disconnect,2,88.165.36.112,Client#1
+2012-11-01T08:54:15.307012+00:00,sim128b[3834]:,connect,3,39.214.30.36,DADIK
+2012-11-01T08:55:35.138939+00:00,sim128b[3834]:,disconnect,3,39.214.30.36,DADIK
+2012-11-01T08:55:42.256740+00:00,sim128b[3834]:,connect,2,39.214.30.36,DADIK
+2012-11-01T08:56:25.145863+00:00,sim128b[3834]:,disconnect,2,39.214.30.36,DADIK
+2012-11-01T08:58:51.767578+00:00,sim128b[3834]:,connect,2,39.214.30.36,DADIK
+2012-11-01T09:01:37.727486+00:00,sim128b[3834]:,disconnect,2,39.214.30.36,DADIK
+2012-11-01T09:01:45.587645+00:00,sim128b[3834]:,connect,3,39.214.30.36,DADIK
+2012-11-01T09:08:37.598179+00:00,sim128b[3834]:,disconnect,3,39.214.30.36,DADIK
+2012-11-01T09:08:58.154961+00:00,sim128b[3834]:,connect,2,39.214.30.36,DADIK
+2012-11-01T09:09:50.425073+00:00,sim128b[3834]:,disconnect,2,39.214.30.36,DADIK
+2012-11-01T09:09:58.235522+00:00,sim128b[3834]:,connect,3,39.214.30.36,DADIK
+2012-11-01T09:30:34.246907+00:00,sim128b[3834]:,disconnect,3,39.214.30.36,DADIK
+2012-11-01T09:38:14.659747+00:00,sim128b[3834]:,connect,2,91.11.110.210,kalle
+2012-11-01T09:46:56.325829+00:00,sim128b[3834]:,connect,3,90.33.92.223,Client#5
+2012-11-01T10:12:11.695312+00:00,sim128b[3834]:,disconnect,3,90.33.92.223,Client#5
+2012-11-01T10:45:36.102608+00:00,sim128b[3834]:,connect,3,90.33.92.223,Client#5
+2012-11-01T10:48:41.353629+00:00,sim128b[3834]:,disconnect,3,90.33.92.223,Client#5
+2012-11-01T10:51:38.487201+00:00,sim128b[3834]:,connect,3,39.209.85.131,DADIK
+2012-11-01T10:55:07.536178+00:00,sim128b[3834]:,disconnect,3,39.209.85.131,DADIK
+2012-11-01T10:55:35.130791+00:00,sim128b[3834]:,connect,3,39.209.85.131,DADIK
+2012-11-01T10:56:34.536523+00:00,sim128b[3834]:,disconnect,2,91.11.110.210,kalle
+2012-11-01T11:11:44.712497+00:00,sim128b[3834]:,connect,2,39.209.85.131,DADIK
+2012-11-01T11:24:55.561733+00:00,sim128b[3834]:,connect,4,39.210.40.142,Client#4
+2012-11-01T11:24:55.614591+00:00,sim128b[3834]:,disconnect,3,39.209.85.131,DADIK
+2012-11-01T11:28:52.570445+00:00,sim128b[3834]:,disconnect,2,39.209.85.131,DADIK
+2012-11-01T11:39:51.145349+00:00,sim128b[3834]:,connect,2,39.210.40.142,Client#4
+2012-11-01T11:56:59.533865+00:00,sim128b[3834]:,disconnect,2,39.210.40.142,Client#4
+2012-11-01T11:56:59.533905+00:00,sim128b[3834]:,disconnect,4,39.210.40.142,Client#4
+2012-11-01T11:57:06.760090+00:00,sim128b[3834]:,connect,3,39.210.40.142,Client#4
+2012-11-01T12:09:50.515582+00:00,sim128b[3834]:,disconnect,3,39.210.40.142,Client#4
+2012-11-01T12:09:58.759063+00:00,sim128b[3834]:,connect,2,39.210.40.142,Client#4
+2012-11-01T12:19:16.476001+00:00,sim128b[3834]:,connect,3,145.120.118.91,danivenk
+2012-11-01T12:39:13.457378+00:00,sim128b[3834]:,connect,4,90.33.92.223,Client#5
+2012-11-01T12:39:13.549364+00:00,sim128b[3834]:,disconnect,2,39.210.40.142,Client#4
+2012-11-01T12:41:58.026876+00:00,sim128b[3834]:,disconnect,3,145.120.118.91,danivenk
+2012-11-01T15:16:44.464982+00:00,sim128b[3834]:,connect,2,80.101.235.54,danivenk
+2012-11-01T16:34:41.888666+00:00,sim128b[3834]:,connect,3,98.251.79.180,Client#3
+2012-11-01T16:37:54.841939+00:00,sim128b[3834]:,connect,5,90.33.92.223,Client#5
+2012-11-01T16:37:54.972842+00:00,sim128b[3834]:,disconnect,2,80.101.235.54,danivenk
+2012-11-01T16:37:54.972872+00:00,sim128b[3834]:,disconnect,4,90.33.92.223,Client#5
+2012-11-01T16:38:10.454551+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,hi sncfs
+2012-11-01T16:38:21.751563+00:00,sim128b[3834]:,chat,5,90.33.92.223,Client#5,15,,hi
+2012-11-01T16:38:32.614574+00:00,sim128b[3834]:,namechange,5,90.33.92.223,Client#5,SNCFS
+2012-11-01T16:40:37.625238+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,I think I'll start by passengers on the east
+2012-11-01T16:44:17.678100+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,we should exchange passenger & mail somewhere
+2012-11-01T16:44:30.117318+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,indeed
+2012-11-01T16:44:40.169154+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,Near suburbia ?
+2012-11-01T16:45:30.315798+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"well, the further you can transport them, the more money you make... but... if you want to do more realistic instead..."
+2012-11-01T16:46:22.917437+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,I would like to play a game having several public stations around the map... but the only problem is not everyone plays fair
+2012-11-01T16:46:44.704278+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,indeed; but I play fair :)
+2012-11-01T16:47:29.828205+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,what cities will you build in?
+2012-11-01T16:47:58.570432+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,"Gresham, Rock Creek, Suburbia"
+2012-11-01T16:48:26.428850+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,then I guess it makes sense to exchange in suburbia...
+2012-11-01T16:48:33.977886+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,"for the start, maybe in the north in the future"
+2012-11-01T16:48:48.461879+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,Are you ok with Suburbia ?
+2012-11-01T16:49:20.305714+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"I can do that, but we will need to coordinate so other players can't take advantage....  let me show ya"
+2012-11-01T16:49:50.738061+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"(369,148) pretend the dirt road is the public station we make"
+2012-11-01T16:50:07.117885+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,ok
+2012-11-01T16:50:11.117365+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,then one of use would place a non-public station around it like the black road
+2012-11-01T16:50:29.681119+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,that way anotehr player can't expand the station and take passenger & mail with a bunch of planes
+2012-11-01T16:50:42.384867+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,airplanes... I hate it
+2012-11-01T16:52:51.048680+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,I need like a 10x2 area for my station system... where should I put it?
+2012-11-01T16:53:00.782626+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,near
+2012-11-01T16:53:04.664005+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,how many platforms do you need?
+2012-11-01T16:53:16.988102+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,"For the start, not a lot ;)"
+2012-11-01T16:53:20.740009+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"here, next to it?"
+2012-11-01T16:53:26.064651+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,I don't have unlimited money
+2012-11-01T16:53:28.828732+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,ok
+2012-11-01T16:53:36.579872+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"I can make the station, I got money"
+2012-11-01T16:53:42.034216+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,ok thanks
+2012-11-01T16:54:02.783530+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"I'll just add some plaforms when I'm ready I guess, for now I should build a rail line"
+2012-11-01T16:54:11.430826+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,ok
+2012-11-01T16:55:32.631778+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,I like to use 400km trains later... so gotta plan ahead for a route that can handle them :)
+2012-11-01T16:55:49.392662+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,"ok, I prefer standard trains ;)"
+2012-11-01T16:55:53.224218+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,the lack of 400km tunnels or roads is really disappointing :(
+2012-11-01T16:56:14.440297+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,"ah yes, I used to have a lot of addons for it in my own games"
+2012-11-01T16:57:04.716694+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,did you know there are tolls on public roads?
+2012-11-01T16:57:26.587391+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,"no, I never understood how it works in my games :("
+2012-11-01T16:57:54.578110+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,if you travel over roads/rivers owned by another player you pay a toll (including public roads) :(
+2012-11-01T16:58:08.811112+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,ah !
+2012-11-01T16:58:23.866991+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,I'll have to replan my network..
+2012-11-01T16:58:50.244450+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"I usually like ot make all my roads public so they don't bother other players, but not sure what to do with tolls"
+2012-11-01T16:59:18.792593+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,"indeed, we'll see the costs :)"
+2012-11-01T16:59:35.783267+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,we could use one of the throwaway accounts and build roads.... then when it bankrupts the road has no owner
+2012-11-01T16:59:57.029027+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,"it's a solution , but it's cheating ^^"
+2012-11-01T17:03:30.421008+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,hmm not sure... sometimes I do things to fix a really bad flaw in the game (something I find unfun)
+2012-11-01T17:04:02.708278+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,"As you want, we can try"
+2012-11-01T17:04:46.017464+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,I don't use road vehicles much anyways....
+2012-11-01T17:05:16.467737+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,"I like to do huge hubs of long trains, with a local network of road vehicles"
+2012-11-01T17:06:01.916295+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,well ya gotta remember that speed is very important to how much money they make
+2012-11-01T17:06:16.771857+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,yes
+2012-11-01T17:06:33.704891+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,did you know a slower tram makes more money than a faster train?
+2012-11-01T17:07:12.905891+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,"Impossible, or it has more passengers into it"
+2012-11-01T17:07:29.621368+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"no, actually the game gives different bonus amounts for each vehicle type"
+2012-11-01T17:07:46.249128+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,go to lists > goods list
+2012-11-01T17:08:12.346890+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,ah indeed you're right
+2012-11-01T17:08:17.802593+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"right now in 1965, a 106km train == a 32km ship  == 393km plane"
+2012-11-01T17:08:28.672163+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"it might be "
+2012-11-01T17:08:38.668239+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,I don't kow if all paks do this or only pak128
+2012-11-01T17:09:04.085738+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,"all, or at least 64 too"
+2012-11-01T17:10:54.794726+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,No 70km/h roads in 1965... This a problem
+2012-11-01T17:11:20.078428+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,I rather like the way 70km bridges look :)
+2012-11-01T17:11:30.384769+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,Oh yes
+2012-11-01T17:11:42.987090+00:00,sim128b[3834]:,chat,5,90.33.92.223,SNCFS,12,SNCFS,Fabio did a very good work
+2012-11-01T17:14:10.173643+00:00,sim128b[3834]:,disconnect,5,90.33.92.223,SNCFS
+2012-11-01T17:14:19.226300+00:00,sim128b[3834]:,connect,2,90.33.92.223,SNCFS
+2012-11-01T17:19:53.003716+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,I usually run my rain trains constantly -- no wait amounts
+2012-11-01T17:20:22.060234+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,"me too, but I have to preserve my money ;)"
+2012-11-01T17:20:35.775273+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"yeah, starting out you gotta be careful"
+2012-11-01T17:20:51.099362+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"in that case, a limit probably is good"
+2012-11-01T17:21:00.729688+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,"Oh and please excuse my english, I may do mistakes"
+2012-11-01T17:21:06.378444+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,are you doing mail too or only passenger?
+2012-11-01T17:21:19.820727+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"it's ok, you speak very good; I could not tell"
+2012-11-01T17:21:22.668770+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,I'm french ^^
+2012-11-01T17:21:48.077323+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,"Passenger only now, and when I'll enough money I'll do mail"
+2012-11-01T17:22:44.216026+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,hmm do you want a specific look to the station?
+2012-11-01T17:22:55.870519+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,No don't worry
+2012-11-01T17:25:57.747413+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,"Is there other players ? I stops without lines or buses "
+2012-11-01T17:26:35.227860+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"do you mean #1?   yeah, that' is someone else, but he's not doing too well; he might bankrupt"
+2012-11-01T17:26:52.184143+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,"yes, him"
+2012-11-01T17:30:17.192952+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,What a nice train ;)
+2012-11-01T17:30:37.980327+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"thanks, it's an interesting one :)"
+2012-11-01T17:31:14.050625+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"(370,159)  see the road?  I can make that a station and nobody can expand ""suburbia north station"""
+2012-11-01T17:31:34.639895+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,"Oh ok, but if I need to make it bigger ?"
+2012-11-01T17:31:34.849221+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,it works because another player cannot build a station over same tile as another player's station
+2012-11-01T17:31:41.398989+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,ah ok
+2012-11-01T17:32:14.183626+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"you can't delete public stations, so don't make mistakes on it :)"
+2012-11-01T17:32:20.280082+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,I know ^^
+2012-11-01T17:32:32.966291+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,will you need room for a 2nd platform?
+2012-11-01T17:32:50.546244+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,In the fsurely
+2012-11-01T17:32:57.625944+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,future*
+2012-11-01T17:33:02.012026+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,where will you put it?
+2012-11-01T17:33:11.466197+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,Under
+2012-11-01T17:33:44.581226+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,underground?  or east?
+2012-11-01T17:33:58.707837+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,here
+2012-11-01T17:34:07.967290+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,underground?  ok
+2012-11-01T17:34:15.051387+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,ok thanks
+2012-11-01T17:37:11.072497+00:00,sim128b[3834]:,disconnect,3,98.251.79.180,Client#3
+2012-11-01T17:37:19.521329+00:00,sim128b[3834]:,connect,3,98.251.79.180,Client#3
+2012-11-01T17:37:40.648836+00:00,sim128b[3834]:,disconnect,3,98.251.79.180,Client#3
+2012-11-01T17:37:49.921077+00:00,sim128b[3834]:,connect,3,98.251.79.180,Client#3
+2012-11-01T17:38:01.714076+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,15,,the game does not like me building that station
+2012-11-01T17:38:03.700830+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,Do you ave problems of connection ?
+2012-11-01T17:38:10.722750+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,ah ;)
+2012-11-01T17:38:22.247559+00:00,sim128b[3834]:,disconnect,3,98.251.79.180,Client#3
+2012-11-01T17:38:31.985785+00:00,sim128b[3834]:,connect,3,98.251.79.180,Client#3
+2012-11-01T17:38:47.117528+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,15,,"no, when I try to build station underground it acts weird"
+2012-11-01T17:39:46.476389+00:00,sim128b[3834]:,disconnect,3,98.251.79.180,Client#3
+2012-11-01T17:39:55.348430+00:00,sim128b[3834]:,connect,3,98.251.79.180,Client#3
+2012-11-01T17:40:37.920494+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,it won't let be build underground... guess I have to build above ground (but it won't look as pretty) :(
+2012-11-01T17:40:57.999837+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,Ok that's not really a problem
+2012-11-01T17:42:12.282916+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"(370,162)  can you delete that train track?"
+2012-11-01T17:43:18.392469+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,I was going ot make it underground so it would look nice
+2012-11-01T17:43:28.069607+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,I know ^^
+2012-11-01T17:43:53.248685+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"(371,162) can you make public that road tile?"
+2012-11-01T17:44:27.443801+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,Done
+2012-11-01T17:44:31.296036+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,now nobody can add to the station....  thanks
+2012-11-01T17:44:38.966350+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,let me try underground again :)
+2012-11-01T17:44:43.820411+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,Yes thanks a lot
+2012-11-01T17:44:48.003472+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,haha
+2012-11-01T17:44:57.987487+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,and I can move it if you need more station area
+2012-11-01T17:45:05.146841+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,hopefully I can
+2012-11-01T17:45:42.083983+00:00,sim128b[3834]:,disconnect,3,98.251.79.180,Client#3
+2012-11-01T17:45:51.893410+00:00,sim128b[3834]:,connect,3,98.251.79.180,Client#3
+2012-11-01T17:46:03.631724+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,Hmm it won't let you to do what you want
+2012-11-01T17:46:20.821799+00:00,sim128b[3834]:,disconnect,3,98.251.79.180,Client#3
+2012-11-01T17:46:30.541090+00:00,sim128b[3834]:,connect,3,98.251.79.180,Client#3
+2012-11-01T17:46:52.323131+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,I think this version has a bug... I cannot build stations underground :(
+2012-11-01T17:47:34.150660+00:00,sim128b[3834]:,disconnect,3,98.251.79.180,Client#3
+2012-11-01T17:47:42.885021+00:00,sim128b[3834]:,connect,3,98.251.79.180,Client#3
+2012-11-01T17:47:56.024504+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,15,,not good... we can't build any underground stations!!!!!! :(
+2012-11-01T17:48:10.254568+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,No metros...
+2012-11-01T17:53:34.022915+00:00,sim128b[3834]:,connect,4,89.226.160.17,Marky
+2012-11-01T17:57:22.092519+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"the factories provide passenger & mail too (561,145)"
+2012-11-01T17:57:50.152643+00:00,sim128b[3834]:,disconnect,4,89.226.160.17,Marky
+2012-11-01T17:58:01.120783+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,"ah yes, I forgot it"
+2012-11-01T18:14:56.155772+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,This map is not easy at all to begin
+2012-11-01T18:15:23.699021+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,because there's not many industries or why?
+2012-11-01T18:15:38.165133+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,Yes and the cities are small
+2012-11-01T18:17:35.110222+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,Do you think I can take another player to construct roads between cities ? It would help me
+2012-11-01T18:18:03.203313+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"yes, then let the player go bankrupt so the roads have no owner"
+2012-11-01T18:18:12.940319+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,ok
+2012-11-01T18:18:31.810246+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,which player will you use.... I guess I can use it too
+2012-11-01T18:18:44.876604+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,13,12,12
+2012-11-01T18:18:51.087066+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,13,12,k
+2012-11-01T18:31:38.538619+00:00,sim128b[3834]:,chat,2,90.33.92.223,SNCFS,12,SNCFS,"I hva to go, I'll be back soon ;)"
+2012-11-01T18:31:57.351416+00:00,sim128b[3834]:,disconnect,2,90.33.92.223,SNCFS
+2012-11-01T19:16:00.617719+00:00,sim128b[3834]:,connect,2,178.201.227.14,Art Vandelay
+2012-11-01T19:16:17.049048+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"hi vandelay, it's me"
+2012-11-01T19:17:01.892828+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,Hi again
+2012-11-01T19:17:23.847489+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"Also...  Go to ""message centre"" > ""options"" > ""chat"" and check the 3rd box next to chat.  This will make it easier to see chat messages."
+2012-11-01T19:17:37.934497+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,it makes chat pop up
+2012-11-01T19:17:45.231134+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,Done
+2012-11-01T19:18:12.124531+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"there's not a lot of industry right now, but should be a few you can get income from"
+2012-11-01T19:19:23.917730+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,"I'm still looking for the right strategy, haven't had much luck lately."
+2012-11-01T19:19:30.815243+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"there's a meat plant (346,250)"
+2012-11-01T19:20:07.335163+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"oh, well here's a few things to note.. watch out for maintenance costs on everything... that'll get ya"
+2012-11-01T19:20:56.490228+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,industry is a nice easy way to get income to start.... but if you want to do passenger & mail.... you can make money that way too
+2012-11-01T19:21:16.936321+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,you can pick one city and do passenger & mail then exchange with me so you make money
+2012-11-01T19:22:51.056131+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"(490,249) there's a food factory"
+2012-11-01T19:23:07.291722+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,What I'd like to try is not to build the entire supply line myself. It is too much money to invest and it take a long time to generate any profit. Maybe I can chip in at some elses supply line.
+2012-11-01T19:23:45.328728+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"hmm, I know what you mean... let me have a look"
+2012-11-01T19:23:59.589658+00:00,sim128b[3834]:,connect,4,89.79.74.85,Przemek
+2012-11-01T19:25:23.535924+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,most of the food factory is easy if you use ships for it or trucks
+2012-11-01T19:25:40.026386+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,connecting all those farms though could be an issue
+2012-11-01T19:26:12.700792+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,garbage power and coal power are 2 easy ones (only 1 chain)
+2012-11-01T19:26:50.103408+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,Maybe I'll start there until I start earning some money
+2012-11-01T19:27:45.940040+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,hello przemek??
+2012-11-01T19:28:38.158579+00:00,sim128b[3834]:,disconnect,4,89.79.74.85,Przemek
+2012-11-01T19:29:04.614914+00:00,sim128b[3834]:,connect,4,89.79.74.85,Przemek
+2012-11-01T19:29:25.734731+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"(255,185) the dairy is an easy one with ships"
+2012-11-01T19:29:38.454205+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"I have income now, I could cancel if you want to deliver"
+2012-11-01T19:30:18.091206+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"delivering milk by ship, for example, is good income"
+2012-11-01T19:30:41.065867+00:00,sim128b[3834]:,disconnect,4,89.79.74.85,Przemek
+2012-11-01T19:30:59.183437+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,"If you would do that, I'm in"
+2012-11-01T19:31:18.214456+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"first, I should explain something"
+2012-11-01T19:31:38.147460+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,you get paid the distance between two stations in a straight line
+2012-11-01T19:31:59.608030+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"so, if the river winds a lot, you lose money because ship travels farther than the straight line"
+2012-11-01T19:32:20.371295+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"but.... you can solve this by having stations along the way "
+2012-11-01T19:32:30.249478+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,you then get paid between each station
+2012-11-01T19:32:55.008497+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,"Oh, I didn't know that. "
+2012-11-01T19:33:07.142876+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,can you see on the map?  I send milk from cowboy in straight line to salford
+2012-11-01T19:33:16.692457+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,I have a stop near salford
+2012-11-01T19:33:27.814805+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,then I send in straight line from salford to beaverton
+2012-11-01T19:33:49.875677+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,it's all the same line (not two lines/ships)
+2012-11-01T19:34:07.014643+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,understand what I mean?
+2012-11-01T19:35:08.827111+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,"Yes, I'll just have to build a couple of stops on the way"
+2012-11-01T19:35:37.924466+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"look at this (405,218)"
+2012-11-01T19:35:48.968475+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,let's say the river is the dirt road :)
+2012-11-01T19:36:08.527992+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,I see
+2012-11-01T19:36:10.763026+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,you only need one waypoint / middle station to make straight lines
+2012-11-01T19:37:00.643019+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,Thanks a lot for the tipps
+2012-11-01T19:37:08.606598+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"ok, I will tell the milk line to retire so yours will work"
+2012-11-01T19:37:30.373420+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,"Okay, I'll start building."
+2012-11-01T19:39:06.984949+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"here's where I put my waypoint, btw: (278,259)"
+2012-11-01T19:39:44.873231+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,"Thanks, I was just looking for that"
+2012-11-01T19:41:19.649863+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,you can put more if you want straighter routes.... but it can get complicated when you have a lot of lines later
+2012-11-01T19:42:47.032095+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,"I know, once you start making a decent profit and you start building a lot of lines it's hard to keep track."
+2012-11-01T19:50:03.433131+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,another benefit... you will make money each station they pass through instead of waiting till the very end
+2012-11-01T19:51:13.723267+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"btw, I also had a waypoint here (234,194)"
+2012-11-01T19:52:16.030330+00:00,sim128b[3834]:,connect,4,69.138.176.94,Fifty
+2012-11-01T19:53:10.650275+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,Beaverton is pretty crowded. I put one at the first bridge.
+2012-11-01T19:53:49.178868+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,if you could build on curves it might help some
+2012-11-01T19:55:09.591915+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,"If you have enough cash it you can straighten the curves, but I won't waste my money on something like this right now."
+2012-11-01T19:55:10.949671+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"fifty, you might be interested in knowing this build has a major bug"
+2012-11-01T19:56:59.789525+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,hmm... I thought fifty would read the chat :(
+2012-11-01T19:57:36.815454+00:00,sim128b[3834]:,chat,4,69.138.176.94,Fifty,15,,I Just so happen to be here... what is needed?
+2012-11-01T19:57:42.117052+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,It's easy to miss if you haven't checked that box for the pop-ups
+2012-11-01T19:57:50.386892+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,there is a major bug on build 6000
+2012-11-01T19:57:57.992245+00:00,sim128b[3834]:,chat,4,69.138.176.94,Fifty,15,,Which is?
+2012-11-01T19:58:00.908510+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,you can't build underground stations
+2012-11-01T19:58:24.785338+00:00,sim128b[3834]:,chat,4,69.138.176.94,Fifty,15,,"ugh, this is actually intentional: this pakset has not yet been updated"
+2012-11-01T19:59:14.492461+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,I don't know what that means
+2012-11-01T19:59:42.923081+00:00,sim128b[3834]:,chat,4,69.138.176.94,Fifty,15,,"the program has made a change to underground stations, and pak 128 is not updated to deal with that change"
+2012-11-01T20:00:46.508215+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"I'm guessing it's something internal then, since you can build stations still, the game just kicks you after you build a few"
+2012-11-01T20:02:14.073712+00:00,sim128b[3834]:,chat,4,69.138.176.94,Fifty,15,,"hmm, just a sec"
+2012-11-01T20:04:05.755408+00:00,sim128b[3834]:,disconnect,4,69.138.176.94,Fifty
+2012-11-01T20:04:11.381233+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,what industry will you pick next vandelay? :)
+2012-11-01T20:04:31.534737+00:00,sim128b[3834]:,connect,4,69.138.176.94,Fifty
+2012-11-01T20:05:11.787028+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,I thought about shipping the cattle since I already have a dock at the cattle farm and a waypoint I can use for both lines.
+2012-11-01T20:05:34.451387+00:00,sim128b[3834]:,connect,5,109.212.39.218,Client#2
+2012-11-01T20:05:43.698171+00:00,sim128b[3834]:,disconnect,4,69.138.176.94,Fifty
+2012-11-01T20:05:55.138627+00:00,sim128b[3834]:,connect,4,69.138.176.94,Fifty
+2012-11-01T20:06:16.758706+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,you'll need iron though right?
+2012-11-01T20:06:38.396574+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,"yep, for the cans"
+2012-11-01T20:07:01.795444+00:00,sim128b[3834]:,chat,4,69.138.176.94,Fifty,13,12,"Ah, I'm sorry, this is a different bug than the one I thought you were talking about"
+2012-11-01T20:07:29.370562+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"to elaborate, I build a road underground, then a station on it"
+2012-11-01T20:07:30.348259+00:00,sim128b[3834]:,disconnect,4,69.138.176.94,Fifty
+2012-11-01T20:07:42.823310+00:00,sim128b[3834]:,connect,4,69.138.176.94,Fifty
+2012-11-01T20:08:03.795759+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,sometimes I can build several stations before the server desyncs and it's not there when I come back
+2012-11-01T20:08:37.068235+00:00,sim128b[3834]:,chat,4,69.138.176.94,Fifty,13,12,"yeah, I just did that with this player. I am going to see if this occurs on 64 and report to the forum"
+2012-11-01T20:08:41.734656+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,you could probably handle that food factory with ships vandelay
+2012-11-01T20:08:53.327804+00:00,sim128b[3834]:,chat,4,69.138.176.94,Fifty,13,12,thanks for bringing this up!
+2012-11-01T20:09:03.619540+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,fifty do you have a chance to suggest something?
+2012-11-01T20:09:09.243205+00:00,sim128b[3834]:,chat,4,69.138.176.94,Fifty,13,12,what?
+2012-11-01T20:09:09.250625+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,to the devs
+2012-11-01T20:09:24.858196+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,can they make chat a permanent pop up by default... it helps so much to communicate
+2012-11-01T20:09:40.741347+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,otherwise there is a complicdated process trying to explain it to newcomers
+2012-11-01T20:09:59.953573+00:00,sim128b[3834]:,disconnect,5,109.212.39.218,Client#2
+2012-11-01T20:10:54.345432+00:00,sim128b[3834]:,chat,4,69.138.176.94,Fifty,13,12,iirc already brought up. really needs to be addressed with a larger UI overhaul
+2012-11-01T20:11:16.812527+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"oh, not that part, I mean just have the settings so the pop up is default setting not scroll"
+2012-11-01T20:12:39.602400+00:00,sim128b[3834]:,chat,4,69.138.176.94,Fifty,13,12,Only issue there is that everyone's chat will pop up. what needs to happen is that popups occur with an operation like coords
+2012-11-01T20:12:51.908325+00:00,sim128b[3834]:,chat,4,69.138.176.94,Fifty,13,12,like you say @Fifty and it pops in my face
+2012-11-01T20:13:22.616244+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"exactly, you want everyone's chat to pop up.... that's what we suggest all players do first thing when they join"
+2012-11-01T20:13:41.177576+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,but it's complicated trying to explain to newcomers who don't understand it all yet
+2012-11-01T20:13:52.299355+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,making it the default setting woudl help
+2012-11-01T20:14:35.217627+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,basically a temporary solution till a proper chat can be made
+2012-11-01T20:14:59.615489+00:00,sim128b[3834]:,chat,4,69.138.176.94,Fifty,13,12,"Ok, something like that is on my list of suggestions. I'm very busy, so I'm just going to get the bug report in right now, but thanks for your input"
+2012-11-01T20:15:18.819969+00:00,sim128b[3834]:,chat,4,69.138.176.94,Fifty,13,12,"it's important because the devels don't netgame anymore, so they need to hear from us"
+2012-11-01T20:15:29.741193+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,it would take someone a few minutes to tweak that since it's a mere setting :)
+2012-11-01T20:15:34.430259+00:00,sim128b[3834]:,chat,4,69.138.176.94,Fifty,13,12,cya for now!
+2012-11-01T20:15:39.473742+00:00,sim128b[3834]:,disconnect,4,69.138.176.94,Fifty
+2012-11-01T20:16:26.092329+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,Why is that damn steel mill so far away :-(
+2012-11-01T20:17:19.604516+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,13,12,"go to ""lists"" > ""goods lists"""
+2012-11-01T20:17:28.323039+00:00,sim128b[3834]:,connect,4,89.155.122.64,Client#4
+2012-11-01T20:17:40.007173+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,13,12,the ones with high pay you want to be far away (to make big money) :)
+2012-11-01T20:18:19.754952+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,"good point, but you need a lot of ships to keep the good coming"
+2012-11-01T20:18:58.589289+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,13,12,if it is cooled goods or piece goods those are very nice.... you cans use planes = big money
+2012-11-01T20:20:14.234112+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,Too bad the steel mill isn't running yet. Now I have to build the whole supply line.
+2012-11-01T20:20:46.029572+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,well the food factory would be easier :)
+2012-11-01T20:20:59.993088+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,are you asking for me to get the steel running?
+2012-11-01T20:21:44.118167+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,"If you like, sure."
+2012-11-01T20:22:26.625632+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,I notice there is not enough material to produce 100%.... but we'll see
+2012-11-01T20:24:02.374759+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,I can build a harbor and make it a public stop
+2012-11-01T20:24:29.514778+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,13,12,"no need, public stops can't be deleted (which makes them bad)"
+2012-11-01T20:24:45.916312+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,13,12,I can deliver and your stop will still pick up
+2012-11-01T20:25:03.472855+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,they'll work as separate stops
+2012-11-01T20:25:33.271923+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"btw, let me show you a cheap water stop :)"
+2012-11-01T20:27:05.121133+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,"I thought about that at the meat packing plant, but I wasn't sure if it's a good idea."
+2012-11-01T20:27:45.862446+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,13,12,"yeah, compare the maintenance costs of the 2 and you'll see why"
+2012-11-01T20:31:45.945997+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"iron and coal should be connected now.... I have to go "
+2012-11-01T20:31:56.002345+00:00,sim128b[3834]:,chat,3,98.251.79.180,Client#3,7,PSK & Co KG,"maybe I can tweak it more later, if it needs more"
+2012-11-01T20:31:58.092296+00:00,sim128b[3834]:,disconnect,3,98.251.79.180,Client#3
+2012-11-01T20:32:05.060045+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,"Okay, thanks again. CU"
+2012-11-01T20:34:33.141029+00:00,sim128b[3834]:,chat,2,178.201.227.14,Art Vandelay,10,Vandelay Industries,Let's see how it works out.
+2012-11-01T20:42:21.736262+00:00,sim128b[3834]:,connect,3,88.165.36.112,Client#1
+2012-11-01T20:46:41.430388+00:00,sim128b[3834]:,disconnect,3,88.165.36.112,Client#1
+2012-11-01T20:58:06.066735+00:00,sim128b[3834]:,disconnect,2,178.201.227.14,Art Vandelay
+2012-11-01T21:13:19.009051+00:00,sim128b[3834]:,connect,2,98.251.79.180,Client#2
+2012-11-01T21:13:51.599569+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,15,,how's the iron?
+2012-11-01T21:17:38.317118+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,do you speak english transdev sa?
+2012-11-01T21:25:38.201398+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,you played this map before haven't you?
+2012-11-01T21:26:39.877591+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#4,3,"Transdev, SA",no very well
+2012-11-01T21:27:08.030259+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,what language?
+2012-11-01T21:28:33.567358+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#4,3,"Transdev, SA",Portuguese
+2012-11-01T21:29:18.618520+00:00,sim128b[3834]:,disconnect,2,98.251.79.180,Client#2
+2012-11-01T21:29:35.953789+00:00,sim128b[3834]:,connect,2,98.251.79.180,Client#2
+2012-11-01T21:29:38.839003+00:00,sim128b[3834]:,disconnect,2,98.251.79.180,Client#2
+2012-11-01T21:30:11.504011+00:00,sim128b[3834]:,connect,2,98.251.79.180,Client#2
+2012-11-01T21:32:03.113459+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,can I make a train station at Hillsboro to exchange passenger & mail?
+2012-11-01T21:32:42.186926+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#4,3,"Transdev, SA",ok
+2012-11-01T21:35:01.574042+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"(62,156) you can send busses here"
+2012-11-01T21:38:28.285158+00:00,sim128b[3834]:,connect,3,178.201.227.14,Art Vandelay
+2012-11-01T21:38:52.493638+00:00,sim128b[3834]:,disconnect,3,178.201.227.14,Art Vandelay
+2012-11-01T21:48:07.055088+00:00,sim128b[3834]:,disconnect,2,98.251.79.180,Client#2
+2012-11-01T21:48:18.306708+00:00,sim128b[3834]:,connect,2,98.251.79.180,Client#2
+2012-11-01T21:56:22.099193+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"transdev, if you need a bigger station later, leave me a sign or message"
+2012-11-01T21:59:55.557936+00:00,sim128b[3834]:,disconnect,2,98.251.79.180,Client#2
+2012-11-01T22:00:06.932341+00:00,sim128b[3834]:,connect,2,98.251.79.180,Client#2
+2012-11-01T22:01:55.537559+00:00,sim128b[3834]:,connect,3,178.201.227.14,Art Vandelay
+2012-11-01T22:02:07.808762+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,hi vandelay!
+2012-11-01T22:02:20.442591+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,15,,Hi
+2012-11-01T22:04:54.253891+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"vandelay, we have to move something (253,186)"
+2012-11-01T22:05:12.328936+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,15,,Oops
+2012-11-01T22:05:14.674035+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"let me move mine first, then I show you...."
+2012-11-01T22:05:26.658059+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,15,,Okay
+2012-11-01T22:08:11.585415+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"thanks, now I don't have to use slow bridge for the railroad :)"
+2012-11-01T22:08:38.593899+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,10,Vandelay Industries,No problem
+2012-11-01T22:12:40.009275+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,you could fly the canned food to the supermarket?
+2012-11-01T22:12:54.851273+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"but be very careful, planes are easy way to go bankrupt"
+2012-11-01T22:13:22.931980+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,10,Vandelay Industries,"I know, I had planned to use ships."
+2012-11-01T22:13:34.107123+00:00,sim128b[3834]:,disconnect,2,98.251.79.180,Client#2
+2012-11-01T22:13:50.454222+00:00,sim128b[3834]:,connect,2,98.251.79.180,Client#2
+2012-11-01T22:14:06.565291+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,15,,does canned food get a big speed bonus?
+2012-11-01T22:14:53.009902+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"no, just 3%, not that big bonus"
+2012-11-01T22:15:42.446363+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"oh no, transdev bankrupted... what happened transdev?"
+2012-11-01T22:22:12.947421+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,10,Vandelay Industries,All set. Now all I can do is wait to get out of the red.
+2012-11-01T22:23:07.796422+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"actually you got quite a bit of money: 630,000 Net Wealth"
+2012-11-01T22:23:31.511616+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,might as well spend that and build more stuff (maybe passenger & mail?)
+2012-11-01T22:24:17.906618+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"did you know there is a brewery (587,249) >"
+2012-11-01T22:25:12.908010+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,10,Vandelay Industries,Not a bad idea
+2012-11-01T22:29:36.982885+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,10,Vandelay Industries,Are there any public stops? Maybe I'll connect some of the small cities to a big city.
+2012-11-01T22:29:56.565675+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,13,12,I can make one for me and you to exchange somewhere
+2012-11-01T22:30:35.931361+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"I have two public stops, but they are just for between me and 1 or 2 players"
+2012-11-01T22:31:12.246603+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"(370,159) for example.. me and SNCFS are using that one to exchange between us"
+2012-11-01T22:32:31.728645+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,we can do a similar thing to exchange between us if you like
+2012-11-01T22:33:22.531845+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,10,Vandelay Industries,"sound good, let me have a look around to see what cities I could connect."
+2012-11-01T22:33:39.806033+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"vancouver, washhougal perhaps"
+2012-11-01T22:34:15.549746+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,chimney city ... although I don't know if that player in vancouver is coming back
+2012-11-01T22:36:03.385925+00:00,sim128b[3834]:,disconnect,3,178.201.227.14,Art Vandelay
+2012-11-01T22:36:14.304322+00:00,sim128b[3834]:,connect,3,178.201.227.14,Art Vandelay
+2012-11-01T22:36:51.071087+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,15,,Maybe I'll start in Banks and go via Slant and Aloha to Beaverton
+2012-11-01T22:37:44.947476+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"transportugal, that's not really a public exchange... do I need to create a public airport?"
+2012-11-01T22:38:30.280780+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#4,6,"TransPortugal, SA","Ok, I like airplans"
+2012-11-01T22:41:25.714563+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,15,,@PSK If you could  give me the Beaverton main stop. That is near the highway exit.
+2012-11-01T22:43:37.610692+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,15,,"(238,194)"
+2012-11-01T22:44:20.780960+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"(29,372) I made an airport for you portugal. I can run a train there"
+2012-11-01T22:45:22.335965+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,but I have to wait to make money first
+2012-11-01T22:46:09.580905+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,which cities are you gonna build vandelay?
+2012-11-01T22:47:15.963338+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,10,Vandelay Industries,"Like I said, I'll start at Banks and go via Sland and Aloha to Beaverton. If it's okay I'll stop at (238,194)"
+2012-11-01T22:47:54.623311+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,you could send a bus to hillsboro... or... I could make a station south of slant
+2012-11-01T22:48:57.040253+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,10,Vandelay Industries,I'll take Hillsboro. I didn't see your station.
+2012-11-01T22:50:30.256658+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,7,PSK & Co KG,"if you want to build a train line, let me know and I can make station bigger"
+2012-11-01T22:50:55.494570+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,10,Vandelay Industries,Maybe later. Just busses for now.
+2012-11-01T22:57:25.511565+00:00,sim128b[3834]:,disconnect,2,98.251.79.180,Client#2
+2012-11-01T22:57:41.014636+00:00,sim128b[3834]:,connect,2,98.251.79.180,Client#2
+2012-11-01T23:00:59.664202+00:00,sim128b[3834]:,connect,5,39.212.21.48,Client#5
+2012-11-01T23:02:43.754200+00:00,sim128b[3834]:,disconnect,5,39.212.21.48,Client#5
+2012-11-01T23:03:37.638086+00:00,sim128b[3834]:,connect,5,39.212.21.48,Client#5
+2012-11-01T23:04:03.166397+00:00,sim128b[3834]:,disconnect,5,39.212.21.48,Client#5
+2012-11-01T23:04:36.405893+00:00,sim128b[3834]:,connect,5,39.212.21.48,Client#5
+2012-11-01T23:05:34.735198+00:00,sim128b[3834]:,disconnect,5,39.212.21.48,Client#5
+2012-11-01T23:05:59.195873+00:00,sim128b[3834]:,connect,5,39.212.21.48,Client#5
+2012-11-01T23:06:43.449101+00:00,sim128b[3834]:,disconnect,5,39.212.21.48,Client#5
+2012-11-01T23:07:04.150979+00:00,sim128b[3834]:,connect,5,39.212.21.48,Client#5
+2012-11-01T23:07:46.104257+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,13,12,"start at 250,185"
+2012-11-01T23:08:07.247844+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,perfect
+2012-11-01T23:09:12.521085+00:00,sim128b[3834]:,disconnect,5,39.212.21.48,Client#5
+2012-11-01T23:09:35.693605+00:00,sim128b[3834]:,connect,5,39.212.21.48,Client#5
+2012-11-01T23:10:15.024041+00:00,sim128b[3834]:,disconnect,5,39.212.21.48,Client#5
+2012-11-01T23:10:33.057144+00:00,sim128b[3834]:,connect,5,39.212.21.48,Client#5
+2012-11-01T23:11:05.906926+00:00,sim128b[3834]:,disconnect,5,39.212.21.48,Client#5
+2012-11-01T23:11:29.634967+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#4,6,"TransPortugal, SA",I loser in 1 min... :(
+2012-11-01T23:11:35.295039+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"portugal, can you perhaps give me a chance to rebuild my cities?"
+2012-11-01T23:11:55.094432+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,if you make money before 31 you ar3e ok
+2012-11-01T23:12:04.428835+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#4,6,"TransPortugal, SA",of course
+2012-11-01T23:12:05.336009+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,if you make money before end of month
+2012-11-01T23:12:24.120998+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#4,6,"TransPortugal, SA",can you create a group in facebook for simutrans
+2012-11-01T23:12:47.451086+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"I don't use facebook, do you need a way to talk offline?"
+2012-11-01T23:13:36.049150+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#4,6,"TransPortugal, SA","Yes, i'm noob in simutrans and i don't understand very well"
+2012-11-01T23:14:04.470676+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"look at me, I bankrupted too..... you play pretty good"
+2012-11-01T23:15:42.201393+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,maybe we should make just 1 public airport
+2012-11-01T23:16:24.507063+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,10,Vandelay Industries,Build a hub somewhere in the middle of the map
+2012-11-01T23:16:56.116081+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"I made one here.... let me finish it (29,372)"
+2012-11-01T23:18:58.228901+00:00,sim128b[3834]:,disconnect,2,98.251.79.180,Client#2
+2012-11-01T23:19:14.969379+00:00,sim128b[3834]:,connect,2,98.251.79.180,Client#2
+2012-11-01T23:19:38.171957+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,so we all send planes there and it should work
+2012-11-01T23:22:44.075529+00:00,sim128b[3834]:,connect,5,39.212.21.48,Client#5
+2012-11-01T23:23:24.563739+00:00,sim128b[3834]:,disconnect,5,39.212.21.48,Client#5
+2012-11-01T23:40:58.136348+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,how are you two recovering?
+2012-11-01T23:41:49.021081+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#4,8,"Portugal, SA","Portugal, yes"
+2012-11-01T23:42:20.400083+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,I got one city fixed :)
+2012-11-01T23:43:21.146644+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#4,8,"Portugal, SA","look (74,155,-1). Is your exchange station"
+2012-11-01T23:43:41.582510+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"yes, I need to connect it again... or do you not want to use it anymore?"
+2012-11-01T23:44:15.352790+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#4,8,"Portugal, SA",you can use... i respect your game :)
+2012-11-01T23:44:44.387455+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"maybe this one will work better with planes (31,374)"
+2012-11-01T23:45:55.541080+00:00,sim128b[3834]:,chat,4,89.155.122.64,Client#4,8,"Portugal, SA",but the city is not connect with airport...
+2012-11-01T23:46:29.462771+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"ok, maybe I can connect hillsboro later"
+2012-11-01T23:47:18.851986+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,10,Vandelay Industries,Is there any mail coming to Hillsboro public stop?
+2012-11-01T23:47:44.670829+00:00,sim128b[3834]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"if I connect it, eventually I hope to do both mail and passenger (so connect both types)"
+2012-11-01T23:48:16.660430+00:00,sim128b[3834]:,chat,3,178.201.227.14,Art Vandelay,10,Vandelay Industries,"Okay, take your time. I'll send my mail truck when you're ready."
+2012-11-01T23:56:56.724968+00:00,sim128b[3834]:,disconnect,4,89.155.122.64,Client#4
+2012-11-01T23:57:06.530221+00:00,sim128b[3834]:,connect,4,89.155.122.64,Client#4

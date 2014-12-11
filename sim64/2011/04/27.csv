@@ -1,0 +1,73 @@
+Apr 27 05:14:00,0,255,Right now 1 clients are connected.
+Apr 27 07:16:51,0,255,Right now 0 clients are connected.
+Apr 27 07:17:12,0,255,Right now 1 clients are connected.
+Apr 27 07:17:34,0,255,Right now 0 clients are connected.
+Apr 27 08:01:01,0,255,Right now 1 clients are connected.
+Apr 27 08:16:05,0,255,Right now 0 clients are connected.
+Apr 27 08:45:19,0,255,Right now 1 clients are connected.
+Apr 27 08:47:28,0,255,Right now 0 clients are connected.
+Apr 27 11:10:45,0,255,Right now 1 clients are connected.
+Apr 27 11:33:15,0,255,Right now 0 clients are connected.
+Apr 27 12:29:35,0,255,Right now 1 clients are connected.
+Apr 27 13:05:11,0,255,Right now 0 clients are connected.
+Apr 27 13:08:15,0,255,Right now 1 clients are connected.
+Apr 27 13:08:56,0,255,Right now 2 clients are connected.
+Apr 27 13:14:36,0,255,Right now 1 clients are connected.
+Apr 27 15:02:14,0,255,Right now 2 clients are connected.
+Apr 27 15:16:20,0,255,Right now 1 clients are connected.
+Apr 27 15:16:35,0,255,Right now 2 clients are connected.
+Apr 27 15:32:51,0,255,Right now 3 clients are connected.
+Apr 27 15:41:42,0,255,Right now 2 clients are connected.
+Apr 27 15:45:46,4,10,"@PSK & Co KG: I modiefied the powerline at 341,300 so you can lay your tracks. Enjoy!"
+Apr 27 15:49:02,3,7,"could you help with some signals at 200,253?"
+Apr 27 15:50:58,4,10,I don't realise what the problem is. Please explain.
+Apr 27 15:52:28,3,7,I noticed your track layout of using 2 tracks for increased traffic on the lines and i am trying to do something like it.
+Apr 27 15:53:04,3,7,however the coal train will not go out of the station
+Apr 27 15:54:02,4,10,"Try to copy Pollingville station at 434,464."
+Apr 27 15:55:47,4,10,"The trick is to build signals before and after the station, not in the station itself."
+Apr 27 15:56:34,4,10,Of cause you need double tracks before and after the station to get this layout working.
+Apr 27 15:56:44,3,7,That much is all i know of the signals here. I orginally came from openttd
+Apr 27 16:01:00,3,7,long block or regular signal?
+Apr 27 16:01:39,4,10,You should use regular signals wherever it is possible.
+Apr 27 16:02:15,3,7,I was using long block signals
+Apr 27 16:02:38,4,10,Avoid using long block signals except in very special (and very rare) situations.
+Apr 27 16:11:25,4,10,I suggest 1 modification: the bypass in the east should be a bit longer (as long as the longest train on the route).
+Apr 27 16:16:03,3,7,"At 60, 240 i have another juction"
+Apr 27 16:18:02,4,10,"OK, what's the matter there?"
+Apr 27 16:19:00,3,7,I would like to know if it could cause any problems
+Apr 27 16:21:16,4,10,"Torwell branch station should work as intended. No train sill ever reach appingby becouse of the one way signal at 56,240."
+Apr 27 16:21:35,0,255,Right now 1 clients are connected.
+Apr 27 16:22:02,0,255,Right now 2 clients are connected.
+Apr 27 16:23:01,4,10,"No train wil ever reach Appingby because of the one way signal at 56,240. Torwell branch station should work as intended."
+Apr 27 16:25:47,2,7,"If you ever need something powered, just let me know. Thanks for the help"
+Apr 27 16:26:29,4,10,Its a pleasure to play with you. Enjoy the game!
+Apr 27 16:27:03,0,255,Right now 1 clients are connected.
+Apr 27 16:28:16,0,255,Right now 2 clients are connected.
+Apr 27 16:30:55,0,255,Right now 1 clients are connected.
+Apr 27 18:24:42,0,255,Right now 0 clients are connected.
+Apr 27 18:25:55,0,255,Right now 1 clients are connected.
+Apr 27 18:40:36,0,255,Right now 2 clients are connected.
+Apr 27 18:43:43,0,255,Right now 1 clients are connected.
+Apr 27 18:45:45,0,255,Right now 0 clients are connected.
+Apr 27 18:48:43,0,255,Right now 1 clients are connected.
+Apr 27 19:29:56,0,255,Right now 0 clients are connected.
+Apr 27 20:10:39,0,255,Right now 1 clients are connected.
+Apr 27 20:55:26,0,255,Right now 2 clients are connected.
+Apr 27 20:56:14,0,255,Right now 1 clients are connected.
+Apr 27 21:39:23,0,255,Right now 0 clients are connected.
+Apr 27 21:40:37,0,255,Right now 1 clients are connected.
+Apr 27 22:09:46,0,255,Right now 2 clients are connected.
+Apr 27 22:11:01,0,255,Right now 3 clients are connected.
+Apr 27 22:13:32,0,255,Right now 2 clients are connected.
+Apr 27 22:15:27,0,255,Right now 1 clients are connected.
+Apr 27 22:19:58,0,255,Right now 0 clients are connected.
+Apr 27 22:24:28,0,255,Right now 1 clients are connected.
+Apr 27 23:08:20,0,255,Right now 0 clients are connected.
+Apr 27 23:36:14,0,255,Right now 1 clients are connected.
+Apr 27 23:41:15,0,255,Right now 0 clients are connected.
+Apr 27 23:41:28,0,255,Right now 1 clients are connected.
+Apr 27 23:48:48,0,255,Right now 2 clients are connected.
+Apr 27 23:53:31,0,255,Right now 1 clients are connected.
+Apr 27 23:54:16,0,255,Right now 2 clients are connected.
+Apr 27 23:59:06,0,255,Right now 3 clients are connected.
+Apr 27 23:59:44,0,255,Right now 2 clients are connected.

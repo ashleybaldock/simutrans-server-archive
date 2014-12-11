@@ -1,0 +1,83 @@
+2012-09-03T00:11:33.580156+00:00,sim64b[18875]:,disconnect,6,122.148.146.34,moblet
+2012-09-03T00:12:14.232770+00:00,sim64b[18875]:,connect,2,122.148.146.34,moblet
+2012-09-03T00:39:08.825491+00:00,sim64b[18875]:,connect,4,98.141.195.195,Fifty
+2012-09-03T00:39:19.496650+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,12,RF&P,g'day
+2012-09-03T00:39:29.052657+00:00,sim64b[18875]:,chat,4,98.141.195.195,Fifty,15,,hi!
+2012-09-03T00:40:47.091262+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,12,RF&P,how do i make road public?
+2012-09-03T00:41:00.755435+00:00,sim64b[18875]:,chat,4,98.141.195.195,Fifty,12,RF&P,"where, may I ask?"
+2012-09-03T00:41:13.216988+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,12,RF&P,"196,92"
+2012-09-03T00:41:18.900819+00:00,sim64b[18875]:,disconnect,2,122.148.146.34,moblet
+2012-09-03T00:42:06.518652+00:00,sim64b[18875]:,connect,2,122.148.146.34,moblet
+2012-09-03T00:42:31.607699+00:00,sim64b[18875]:,chat,4,98.141.195.195,Fifty,12,RF&P,The bridge? you can't make bridges public
+2012-09-03T00:42:43.607918+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,15,,so much for that idea then
+2012-09-03T00:42:57.299859+00:00,sim64b[18875]:,chat,4,98.141.195.195,Fifty,12,RF&P,why does it need to be?
+2012-09-03T00:43:20.897652+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,12,RF&P,only reason was to save maintenance $
+2012-09-03T00:44:20.457904+00:00,sim64b[18875]:,chat,4,98.141.195.195,Fifty,12,RF&P,please! we make a ton of cash! Compared to the 21 million last year in infrastructure that bridge is a drop in a bucket
+2012-09-03T00:44:44.295270+00:00,sim64b[18875]:,chat,4,98.141.195.195,Fifty,12,RF&P,And it's better than putting ugly slow wooden bridges
+2012-09-03T00:45:19.516482+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,12,RF&P,"darn, changing the road has caused rudi's trucks to cause a jam"
+2012-09-03T00:46:41.653421+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,12,RF&P,very clever
+2012-09-03T00:47:26.279482+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,12,RF&P,i knew i joined your team for a reason
+2012-09-03T00:47:48.852162+00:00,sim64b[18875]:,chat,4,98.141.195.195,Fifty,12,RF&P,"oh yes, brilliance!"
+2012-09-03T00:48:59.064016+00:00,sim64b[18875]:,disconnect,2,122.148.146.34,moblet
+2012-09-03T00:49:47.162266+00:00,sim64b[18875]:,connect,2,122.148.146.34,moblet
+2012-09-03T00:51:19.500914+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,12,RF&P,i have a question about Malliton when you're ready too
+2012-09-03T00:51:36.308733+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,12,RF&P,"254,220"
+2012-09-03T00:52:11.976417+00:00,sim64b[18875]:,chat,4,98.141.195.195,Fifty,12,RF&P,what about it?
+2012-09-03T00:52:28.092023+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,12,RF&P,should we have a choose signal approaching that yard?
+2012-09-03T00:52:52.253243+00:00,sim64b[18875]:,chat,4,98.141.195.195,Fifty,12,RF&P,absolutely not. Route mail trains into the other platform and do not set a load time
+2012-09-03T00:53:23.079640+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,12,RF&P,the other one being the easterly one?
+2012-09-03T00:53:47.921260+00:00,sim64b[18875]:,chat,4,98.141.195.195,Fifty,12,RF&P,yes
+2012-09-03T00:54:02.982565+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,12,RF&P,bueno
+2012-09-03T00:54:32.468736+00:00,sim64b[18875]:,disconnect,4,98.141.195.195,Fifty
+2012-09-03T00:55:45.961511+00:00,sim64b[18875]:,connect,4,98.141.195.195,Fifty
+2012-09-03T00:56:19.144946+00:00,sim64b[18875]:,chat,4,98.141.195.195,Fifty,15,,"I may need to rework that in the future, but for now, its fine"
+2012-09-03T00:57:10.251719+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,12,RF&P,"i'm fine with that arrangement, just wanted to make sure we didn't have conflict"
+2012-09-03T00:58:15.506045+00:00,sim64b[18875]:,chat,4,98.141.195.195,Fifty,12,RF&P,"Yeah, long term, there may be a new crate service in to there, and the ore line may go through there instead of transferring"
+2012-09-03T01:00:38.025822+00:00,sim64b[18875]:,disconnect,2,122.148.146.34,moblet
+2012-09-03T01:01:24.216054+00:00,sim64b[18875]:,connect,2,122.148.146.34,moblet
+2012-09-03T01:04:26.717597+00:00,sim64b[18875]:,disconnect,2,122.148.146.34,moblet
+2012-09-03T01:05:17.020350+00:00,sim64b[18875]:,connect,2,122.148.146.34,moblet
+2012-09-03T01:08:22.085461+00:00,sim64b[18875]:,disconnect,2,122.148.146.34,moblet
+2012-09-03T01:09:07.751810+00:00,sim64b[18875]:,connect,2,122.148.146.34,moblet
+2012-09-03T01:13:47.988427+00:00,sim64b[18875]:,disconnect,2,122.148.146.34,moblet
+2012-09-03T01:14:33.537206+00:00,sim64b[18875]:,connect,2,122.148.146.34,moblet
+2012-09-03T01:17:34.998654+00:00,sim64b[18875]:,disconnect,4,98.141.195.195,Fifty
+2012-09-03T01:18:50.035267+00:00,sim64b[18875]:,connect,4,98.141.195.195,Fifty
+2012-09-03T01:18:51.457079+00:00,sim64b[18875]:,disconnect,2,122.148.146.34,moblet
+2012-09-03T01:19:37.970674+00:00,sim64b[18875]:,connect,2,122.148.146.34,moblet
+2012-09-03T01:21:05.540577+00:00,sim64b[18875]:,chat,4,98.141.195.195,Fifty,12,RF&P,"fixed the problem with that train. Oh, and use sd40s on that new route, imo"
+2012-09-03T01:21:33.571192+00:00,sim64b[18875]:,chat,4,98.141.195.195,Fifty,12,RF&P,I must get some more work done this evening before I get to bed so I will be off
+2012-09-03T01:21:34.956600+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,12,RF&P,"i only just got back in to see it fixed, before i saw the problem"
+2012-09-03T01:21:49.241548+00:00,sim64b[18875]:,chat,4,98.141.195.195,Fifty,12,RF&P,bye
+2012-09-03T01:21:52.069232+00:00,sim64b[18875]:,chat,2,122.148.146.34,moblet,12,RF&P,cya
+2012-09-03T01:21:56.871691+00:00,sim64b[18875]:,disconnect,4,98.141.195.195,Fifty
+2012-09-03T05:31:14.724179+00:00,sim64b[18875]:,disconnect,2,122.148.146.34,moblet
+2012-09-03T05:31:34.278023+00:00,sim64b[18875]:,connect,4,80.132.172.84,Client#3
+2012-09-03T09:17:36.008002+00:00,sim64b[18875]:,disconnect,4,80.132.172.84,Client#3
+2012-09-03T09:18:17.819168+00:00,sim64b[18875]:,connect,2,122.148.146.34,moblet
+2012-09-03T10:18:22.902130+00:00,sim64b[18875]:,connect,4,122.148.146.34,moblet
+2012-09-03T10:52:13.845668+00:00,sim64b[18875]:,connect,5,122.148.146.34,moblet
+2012-09-03T11:13:31.568101+00:00,sim64b[18875]:,disconnect,2,122.148.146.34,moblet
+2012-09-03T11:13:31.568132+00:00,sim64b[18875]:,disconnect,4,122.148.146.34,moblet
+2012-09-03T11:13:31.568154+00:00,sim64b[18875]:,disconnect,5,122.148.146.34,moblet
+2012-09-03T11:13:54.313184+00:00,sim64b[18875]:,connect,6,80.132.172.84,Client#3
+2012-09-03T14:46:30.243162+00:00,sim64b[18875]:,connect,2,80.132.178.132,Client#3
+2012-09-03T16:11:47.217511+00:00,sim64b[18875]:,connect,4,41.160.143.227,Client#4
+2012-09-03T16:16:36.576069+00:00,sim64b[18875]:,connect,5,81.132.24.87,o.0
+2012-09-03T16:19:16.038325+00:00,sim64b[18875]:,disconnect,2,80.132.178.132,Client#3
+2012-09-03T16:19:16.038706+00:00,sim64b[18875]:,disconnect,4,41.160.143.227,Client#4
+2012-09-03T16:19:16.039005+00:00,sim64b[18875]:,disconnect,5,81.132.24.87,o.0
+2012-09-03T16:19:16.039301+00:00,sim64b[18875]:,disconnect,6,80.132.172.84,Client#3
+2012-09-03T16:19:44.831707+00:00,sim64b[18875]:,connect,2,81.132.24.87,o.0
+2012-09-03T18:24:08.351201+00:00,sim64b[18875]:,disconnect,2,81.132.24.87,o.0
+2012-09-03T18:24:26.748986+00:00,sim64b[18875]:,connect,4,77.8.95.200,Metro
+2012-09-03T19:20:30.018072+00:00,sim64b[18875]:,connect,2,80.132.178.132,Client#3
+2012-09-03T19:43:22.598985+00:00,sim64b[18875]:,disconnect,2,80.132.178.132,Client#3
+2012-09-03T19:43:22.599243+00:00,sim64b[18875]:,disconnect,4,77.8.95.200,Metro
+2012-09-03T21:11:30.646336+00:00,sim64b[18875]:,connect,2,151.55.14.254,Rudi!
+2012-09-03T22:58:56.353150+00:00,sim64b[18875]:,connect,4,80.132.178.132,Client#3
+2012-09-03T23:07:11.940674+00:00,sim64b[18875]:,disconnect,2,151.55.14.254,Rudi!
+2012-09-03T23:07:11.940708+00:00,sim64b[18875]:,disconnect,4,80.132.178.132,Client#3
+2012-09-03T23:16:30.559790+00:00,sim64b[18875]:,connect,2,122.148.146.34,moblet
+2012-09-03T23:25:16.637980+00:00,sim64b[18875]:,disconnect,2,122.148.146.34,moblet
+2012-09-03T23:26:06.009482+00:00,sim64b[18875]:,connect,2,122.148.146.34,moblet

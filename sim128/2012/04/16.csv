@@ -1,0 +1,399 @@
+2012-04-16T03:16:11.821253+00:00,sim128[407]:,connect,8,220.245.52.25,Moranis
+2012-04-16T04:00:20.179107+00:00,sim128[407]:,disconnect,6,84.0.243.66,^°^FlyingSun
+2012-04-16T04:00:20.179141+00:00,sim128[407]:,disconnect,7,85.216.238.158,Client#18
+2012-04-16T04:00:20.179165+00:00,sim128[407]:,disconnect,8,220.245.52.25,Moranis
+2012-04-16T04:00:27.407003+00:00,sim128[407]:,connect,9,220.245.52.25,Moranis
+2012-04-16T04:10:55.007924+00:00,sim128[407]:,connect,6,220.245.52.25,Moranis
+2012-04-16T04:20:18.617493+00:00,sim128[407]:,disconnect,6,220.245.52.25,Moranis
+2012-04-16T04:20:18.617745+00:00,sim128[407]:,disconnect,9,220.245.52.25,Moranis
+2012-04-16T04:20:32.917634+00:00,sim128[407]:,connect,6,220.245.52.25,Moranis
+2012-04-16T04:21:40.135217+00:00,sim128[407]:,disconnect,6,220.245.52.25,Moranis
+2012-04-16T04:21:47.360628+00:00,sim128[407]:,connect,7,220.245.52.25,Moranis
+2012-04-16T04:29:23.530038+00:00,sim128[407]:,disconnect,7,220.245.52.25,Moranis
+2012-04-16T04:29:35.997390+00:00,sim128[407]:,connect,6,220.245.52.25,Moranis
+2012-04-16T04:42:02.846016+00:00,sim128[407]:,disconnect,6,220.245.52.25,Moranis
+2012-04-16T04:45:31.535015+00:00,sim128[407]:,connect,6,220.245.52.25,Moranis
+2012-04-16T04:56:21.904955+00:00,sim128[407]:,disconnect,6,220.245.52.25,Moranis
+2012-04-16T04:56:59.148826+00:00,sim128[407]:,connect,6,220.245.52.25,Client #77
+2012-04-16T05:05:37.566969+00:00,sim128[407]:,connect,7,220.245.52.25,Client #77
+2012-04-16T05:21:27.106585+00:00,sim128[407]:,connect,8,220.245.52.25,Client #77
+2012-04-16T05:24:56.917052+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #77
+2012-04-16T05:24:56.917316+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client #77
+2012-04-16T05:24:56.917559+00:00,sim128[407]:,disconnect,8,220.245.52.25,Client #77
+2012-04-16T05:25:15.727103+00:00,sim128[407]:,connect,6,220.245.52.25,Client #77
+2012-04-16T05:50:38.316373+00:00,sim128[407]:,connect,7,220.245.52.25,Client #77
+2012-04-16T05:55:58.876847+00:00,sim128[407]:,connect,8,220.245.52.25,Client #77
+2012-04-16T06:14:51.933271+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #77
+2012-04-16T06:14:51.933327+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client #77
+2012-04-16T06:14:51.933426+00:00,sim128[407]:,disconnect,8,220.245.52.25,Client #77
+2012-04-16T06:14:59.244008+00:00,sim128[407]:,connect,9,220.245.52.25,Client #77
+2012-04-16T06:26:55.192265+00:00,sim128[407]:,disconnect,9,220.245.52.25,Client #77
+2012-04-16T06:27:02.679025+00:00,sim128[407]:,connect,6,220.245.52.25,Client #77
+2012-04-16T06:42:13.016452+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #77
+2012-04-16T06:42:20.557906+00:00,sim128[407]:,connect,7,220.245.52.25,Client #77
+2012-04-16T06:48:54.285651+00:00,sim128[407]:,connect,6,220.245.52.25,Client #77
+2012-04-16T06:50:07.888511+00:00,sim128[407]:,connect,8,220.245.52.25,Client #77
+2012-04-16T06:52:55.002606+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #77
+2012-04-16T06:52:55.002663+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client #77
+2012-04-16T06:52:55.002685+00:00,sim128[407]:,disconnect,8,220.245.52.25,Client #77
+2012-04-16T06:53:02.828584+00:00,sim128[407]:,connect,9,220.245.52.25,Client #54
+2012-04-16T07:02:14.998971+00:00,sim128[407]:,disconnect,9,220.245.52.25,Client #54
+2012-04-16T07:02:28.238561+00:00,sim128[407]:,connect,6,220.245.52.25,Client #54
+2012-04-16T07:16:55.469661+00:00,sim128[407]:,connect,7,220.245.52.25,Client #54
+2012-04-16T07:22:09.915635+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #54
+2012-04-16T07:22:09.915661+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client #54
+2012-04-16T07:22:17.403088+00:00,sim128[407]:,connect,8,220.245.52.25,Client #54
+2012-04-16T07:23:08.733644+00:00,sim128[407]:,disconnect,8,220.245.52.25,Client #54
+2012-04-16T07:23:16.266941+00:00,sim128[407]:,connect,6,220.245.52.25,Client #54
+2012-04-16T07:25:36.105201+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #54
+2012-04-16T07:25:43.923844+00:00,sim128[407]:,connect,7,220.245.52.25,Client #54
+2012-04-16T07:30:00.437077+00:00,sim128[407]:,connect,6,220.245.52.25,Client #54
+2012-04-16T07:34:43.854212+00:00,sim128[407]:,connect,8,220.245.52.25,Client #27
+2012-04-16T07:35:28.829228+00:00,sim128[407]:,connect,9,220.245.52.25,Client #27
+2012-04-16T07:40:02.678068+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #54
+2012-04-16T07:40:02.678116+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client #54
+2012-04-16T07:40:02.678139+00:00,sim128[407]:,disconnect,8,220.245.52.25,Client #27
+2012-04-16T07:40:02.678919+00:00,sim128[407]:,disconnect,9,220.245.52.25,Client #27
+2012-04-16T07:40:10.548944+00:00,sim128[407]:,connect,10,220.245.52.25,Client #27
+2012-04-16T07:54:13.167945+00:00,sim128[407]:,connect,6,220.245.52.25,Client #27
+2012-04-16T07:56:23.018889+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #27
+2012-04-16T07:56:23.018916+00:00,sim128[407]:,disconnect,10,220.245.52.25,Client #27
+2012-04-16T07:56:33.049144+00:00,sim128[407]:,connect,7,220.245.52.25,Client #27
+2012-04-16T08:03:49.058923+00:00,sim128[407]:,connect,6,220.245.52.25,Client #27
+2012-04-16T08:05:35.864659+00:00,sim128[407]:,connect,8,220.245.52.25,Client #27
+2012-04-16T08:43:59.087328+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #27
+2012-04-16T08:43:59.087458+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client #27
+2012-04-16T08:43:59.087682+00:00,sim128[407]:,disconnect,8,220.245.52.25,Client #27
+2012-04-16T08:44:05.486005+00:00,sim128[407]:,connect,9,87.100.200.13,Jazzka
+2012-04-16T08:47:27.187955+00:00,sim128[407]:,chat,9,87.100.200.13,Jazzka,4,The Eye Corp.,Ah thanks
+2012-04-16T08:47:59.700375+00:00,sim128[407]:,chat,9,87.100.200.13,Jazzka,4,The Eye Corp.,How i reset the company that went bankrupt?
+2012-04-16T08:53:52.466382+00:00,sim128[407]:,connect,6,85.216.238.158,Client#18
+2012-04-16T09:06:11.524461+00:00,sim128[407]:,chat,9,87.100.200.13,Jazzka,4,The Eye Corp.,pfft
+2012-04-16T09:06:27.537582+00:00,sim128[407]:,chat,9,87.100.200.13,Jazzka,4,The Eye Corp.,anyone on?
+2012-04-16T09:31:39.154089+00:00,sim128[407]:,disconnect,6,85.216.238.158,Client#18
+2012-04-16T10:09:37.840970+00:00,sim128[407]:,disconnect,9,87.100.200.13,Jazzka
+2012-04-16T10:09:44.219351+00:00,sim128[407]:,connect,6,87.100.200.13,Jazzka
+2012-04-16T10:10:51.910067+00:00,sim128[407]:,disconnect,6,87.100.200.13,Jazzka
+2012-04-16T10:17:04.608351+00:00,sim128[407]:,connect,6,220.245.52.25,Client #27
+2012-04-16T10:30:59.138498+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #27
+2012-04-16T10:43:02.487225+00:00,sim128[407]:,connect,6,220.245.52.25,Client #14
+2012-04-16T10:46:10.605452+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #14
+2012-04-16T10:46:22.431632+00:00,sim128[407]:,connect,7,220.245.52.25,Client #14
+2012-04-16T10:49:29.827172+00:00,sim128[407]:,connect,6,220.245.52.25,Client #14
+2012-04-16T10:55:15.536208+00:00,sim128[407]:,connect,8,220.245.52.25,Client #14
+2012-04-16T11:19:08.299455+00:00,sim128[407]:,connect,9,87.100.200.13,Jazzka
+2012-04-16T11:19:08.360313+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #14
+2012-04-16T11:19:08.360346+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client #14
+2012-04-16T11:19:39.306433+00:00,sim128[407]:,chat,9,87.100.200.13,Jazzka,15,,Hello
+2012-04-16T11:20:57.431680+00:00,sim128[407]:,chat,9,87.100.200.13,Jazzka,15,,Anyone here?
+2012-04-16T11:23:35.710053+00:00,sim128[407]:,disconnect,8,220.245.52.25,Client #14
+2012-04-16T12:17:02.209195+00:00,sim128[407]:,connect,6,220.245.52.25,Client #14
+2012-04-16T12:46:01.048316+00:00,sim128[407]:,connect,7,220.245.52.25,Client #14
+2012-04-16T12:57:44.026653+00:00,sim128[407]:,connect,8,220.245.52.25,Client #14
+2012-04-16T13:09:47.594002+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #14
+2012-04-16T13:09:47.594255+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client #14
+2012-04-16T13:09:47.594537+00:00,sim128[407]:,disconnect,8,220.245.52.25,Client #14
+2012-04-16T13:09:47.594756+00:00,sim128[407]:,disconnect,9,87.100.200.13,Jazzka
+2012-04-16T13:10:14.052083+00:00,sim128[407]:,connect,6,220.245.52.25,Client #14
+2012-04-16T13:15:53.502918+00:00,sim128[407]:,connect,7,220.245.52.25,Client #14
+2012-04-16T13:32:49.092681+00:00,sim128[407]:,connect,8,87.100.200.13,Jazzka
+2012-04-16T13:34:54.263089+00:00,sim128[407]:,connect,9,220.245.52.25,Client #14
+2012-04-16T13:34:54.354904+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #14
+2012-04-16T13:34:54.354943+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client #14
+2012-04-16T13:35:07.629140+00:00,sim128[407]:,disconnect,9,220.245.52.25,Client #14
+2012-04-16T13:35:23.400968+00:00,sim128[407]:,connect,6,220.245.52.25,Client #23
+2012-04-16T13:35:53.292128+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,15,,who else is here ? :P
+2012-04-16T13:35:54.654523+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,hello?
+2012-04-16T13:36:15.994766+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,15,,ahh i saw your msg earlier regarding bankrupt player
+2012-04-16T13:36:23.198229+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,15,,bankrupt players get reset every 1-2 years
+2012-04-16T13:36:56.479343+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,so to use the red player slot properly - it'll reset at jan 2050
+2012-04-16T13:37:21.259740+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,it would have already reset this year but looks like u were building with it
+2012-04-16T13:38:02.910072+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,does that help at all?
+2012-04-16T13:38:27.489436+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #23
+2012-04-16T13:38:46.136458+00:00,sim128[407]:,connect,6,220.245.52.25,Client #23
+2012-04-16T13:39:58.258896+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,soz dont have good connection - did that help you jazzka<HELP> ?
+2012-04-16T13:42:20.305101+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,oww.. i did build with it yes cos i though it would reset me as new corp
+2012-04-16T13:42:46.521492+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,nah it has to have nothing built for around 2 years
+2012-04-16T13:42:54.880356+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,oh craap
+2012-04-16T13:43:17.058510+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,so i leave it then and have it passworded and dont build anything before?
+2012-04-16T13:43:18.943384+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,u can always play this map single palyer- or use fast foward in single palyer to see when it resets
+2012-04-16T13:43:41.215021+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,yeah leave it and come back - probably around an hour? im not sure how well game time relates to real time
+2012-04-16T13:44:09.860986+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,hmm rigth.
+2012-04-16T13:44:33.103835+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,happened to me - i had to wait like half an hour to make sure i got this slot :P
+2012-04-16T13:44:50.590477+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,you have some negative balance there :D
+2012-04-16T13:45:59.537043+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,i guess it just depends on your patience :P
+2012-04-16T13:46:48.987169+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #23
+2012-04-16T13:47:07.411629+00:00,sim128[407]:,connect,6,220.245.52.25,Client #23
+2012-04-16T13:47:55.223545+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,i take this time normally to look around the map and see what everyone else is doing
+2012-04-16T13:48:13.710914+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,"hehe "
+2012-04-16T13:48:36.519207+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,this way i scout out the cities i want to start in or the factores i want to start with
+2012-04-16T13:49:04.634551+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,i got few ideas ready to start with
+2012-04-16T13:49:31.210744+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,ah cool - PAX or freight?
+2012-04-16T13:49:45.233046+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,what is pax?
+2012-04-16T13:50:00.678267+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,PAssenger network
+2012-04-16T13:50:16.814117+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,dont worry- i didnt know that before i played simutrans online either :P
+2012-04-16T13:50:26.860947+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #23
+2012-04-16T13:50:41.107220+00:00,sim128[407]:,connect,6,220.245.52.25,Client #23
+2012-04-16T13:51:03.429607+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,freight first
+2012-04-16T13:51:13.828201+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,ah ok not many chains around though
+2012-04-16T13:51:14.080472+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,just to keep cash steady
+2012-04-16T13:51:28.088647+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,not many.
+2012-04-16T13:51:46.148949+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,yeah i started with two small freights
+2012-04-16T13:51:58.807031+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,[you can check them out if you want]
+2012-04-16T13:52:16.043282+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,you got the refining thing?
+2012-04-16T13:52:26.341668+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,only one
+2012-04-16T13:52:40.181434+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,i have to the money to be more - but its a pain enough trying to manage this chain
+2012-04-16T13:53:01.459280+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,"im currently working at 221,243"
+2012-04-16T13:54:00.552529+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,i see
+2012-04-16T13:54:08.979194+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,my glass mill runs out of coal too fast
+2012-04-16T13:54:24.046730+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,so im spending heaps of $$$$$$ on getting a line to those coal mines
+2012-04-16T13:54:47.921948+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,taking forever to build it though - lack of power supply doesnt help either
+2012-04-16T13:55:03.613777+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,what freight were you looking at?
+2012-04-16T13:55:29.437023+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,sand to glass and grain to beer
+2012-04-16T13:55:42.356294+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,ahh the brewery line
+2012-04-16T13:55:52.544990+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,good choice - beer gets lots of $$$$$
+2012-04-16T13:56:21.354549+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,"that's the brewery at 282,158 right?"
+2012-04-16T13:56:36.706230+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,"376,178"
+2012-04-16T13:57:15.111392+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,only thing is - 'H-Trans' is already using it
+2012-04-16T13:57:26.552374+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,ahh so i cant? boooh
+2012-04-16T13:57:27.972582+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,so it'll be tricky
+2012-04-16T13:57:41.572166+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,LOl nah u can use it as well - just tricky
+2012-04-16T13:57:56.333216+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,because the glass there is pretty much full
+2012-04-16T13:58:16.466974+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,grain to there could work well actually
+2012-04-16T13:58:40.585593+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,hmm.. can i transfer goods out of it then to supermarkets?
+2012-04-16T13:59:02.305783+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,yeah you can transport beer no problems
+2012-04-16T14:00:33.713037+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,there is like 0 markets close by lol
+2012-04-16T14:00:59.538355+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,well when your company resets you'll have like $1.5 million - so no probs
+2012-04-16T14:01:11.697149+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,nicee
+2012-04-16T14:02:30.957812+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,people sure like to build roads....
+2012-04-16T14:02:50.945202+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,that's why red went bankrupt - person before just built heaps of roads
+2012-04-16T14:03:06.666403+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,the two big bridges across the water in the bottom-left quarter were from red
+2012-04-16T14:03:14.356603+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,hahah
+2012-04-16T14:03:18.558842+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,although that was player 10 using another player to cut costs :P
+2012-04-16T14:03:23.168584+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,which is kinda cheating lol
+2012-04-16T14:03:27.161816+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,lol
+2012-04-16T14:04:06.602619+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,but normally at start of map - one person uses a player to make lots of roads-then becomes public
+2012-04-16T14:04:15.681102+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,cheaper for everyone - kinda a mutual agreement
+2012-04-16T14:04:28.287867+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,hence that massive east-west freeway
+2012-04-16T14:04:55.718407+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #23
+2012-04-16T14:05:09.108803+00:00,sim128[407]:,connect,6,220.245.52.25,Client #23
+2012-04-16T14:05:31.713438+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,does the roads even serve purpose?
+2012-04-16T14:05:46.085199+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,used to - but i take it players got bankrupt
+2012-04-16T14:06:43.250955+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,ooh i can take coal and sand to glass mill
+2012-04-16T14:07:37.473150+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,which glass mill?
+2012-04-16T14:07:57.361946+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,one near the brewery
+2012-04-16T14:08:17.244498+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,a reference would be nice - considering im on a different part of the map :P
+2012-04-16T14:08:33.958932+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #23
+2012-04-16T14:08:36.644330+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,"409,167"
+2012-04-16T14:08:46.877046+00:00,sim128[407]:,connect,6,220.245.52.25,Client #23
+2012-04-16T14:09:46.759383+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,15,,well spotted but again - the glass is very full at brewery- you'd probably make more money from transporting grain to there
+2012-04-16T14:10:14.510845+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,ahh right
+2012-04-16T14:10:18.610199+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,15,,when i disconnect next- ill be taking a 10 min break
+2012-04-16T14:10:24.241754+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,ok
+2012-04-16T14:10:28.076855+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,15,,yeah look at the brewery and check the charts/details
+2012-04-16T14:12:18.253494+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,looks like it needs more grain
+2012-04-16T14:12:31.447632+00:00,sim128[407]:,chat,6,220.245.52.25,Client #23,13,Moranis,yep that'll be your best bet
+2012-04-16T14:13:17.659968+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,should i use trucks or train?
+2012-04-16T14:13:34.126811+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #23
+2012-04-16T14:32:41.971799+00:00,sim128[407]:,connect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T14:35:07.908989+00:00,sim128[407]:,connect,7,220.245.52.25,Client #23
+2012-04-16T14:36:04.761371+00:00,sim128[407]:,chat,7,220.245.52.25,Client #23,13,Moranis,still there jazzka?
+2012-04-16T14:36:43.759991+00:00,sim128[407]:,disconnect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T14:36:45.197879+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client #23
+2012-04-16T14:36:56.229861+00:00,sim128[407]:,connect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T14:37:04.277252+00:00,sim128[407]:,connect,7,220.245.52.25,Client #23
+2012-04-16T14:38:24.367301+00:00,sim128[407]:,disconnect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T14:38:47.397228+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,HELP,ye
+2012-04-16T14:39:02.084480+00:00,sim128[407]:,connect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T14:39:15.275161+00:00,sim128[407]:,chat,7,220.245.52.25,Client #23,13,Moranis,goodo - need to give my eyes a break
+2012-04-16T14:39:46.735362+00:00,sim128[407]:,disconnect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T14:39:57.865099+00:00,sim128[407]:,connect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T14:40:04.162604+00:00,sim128[407]:,chat,7,220.245.52.25,Client #23,13,Moranis,hey flying sun
+2012-04-16T14:40:38.676552+00:00,sim128[407]:,disconnect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T14:40:52.638051+00:00,sim128[407]:,connect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T14:41:20.684899+00:00,sim128[407]:,disconnect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T14:41:31.612772+00:00,sim128[407]:,connect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T14:42:10.545105+00:00,sim128[407]:,disconnect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T14:42:21.234963+00:00,sim128[407]:,connect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T14:42:30.761539+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client #23
+2012-04-16T14:43:05.160880+00:00,sim128[407]:,connect,7,220.245.52.25,Client #58
+2012-04-16T14:43:19.866268+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,15,,just think jazzka - almost jan 2050!!
+2012-04-16T14:46:32.973393+00:00,sim128[407]:,disconnect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T14:46:34.407370+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client #58
+2012-04-16T14:46:46.438650+00:00,sim128[407]:,connect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T14:53:02.277145+00:00,sim128[407]:,connect,7,220.245.52.25,Client #58
+2012-04-16T14:53:23.833442+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,did you get it jazzka? :P
+2012-04-16T14:53:27.900629+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,aye
+2012-04-16T14:53:31.889994+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,brb
+2012-04-16T14:53:37.106766+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,ok
+2012-04-16T14:53:47.200197+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,glad you got the company slot :P that was a long wait lol
+2012-04-16T14:54:49.091562+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client #58
+2012-04-16T14:55:06.683294+00:00,sim128[407]:,connect,7,85.216.238.158,Client#18
+2012-04-16T14:55:59.812877+00:00,sim128[407]:,connect,9,220.245.52.25,Client #58
+2012-04-16T14:58:17.624221+00:00,sim128[407]:,disconnect,9,220.245.52.25,Client #58
+2012-04-16T14:59:42.012811+00:00,sim128[407]:,connect,9,220.245.52.25,Client #58
+2012-04-16T15:00:01.226592+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,sure wad
+2012-04-16T15:00:06.418792+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,was
+2012-04-16T15:01:12.547592+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,hey player 10 - do you know how to chat or u just dont like chatting? :P
+2012-04-16T15:02:26.062365+00:00,sim128[407]:,disconnect,9,220.245.52.25,Client #58
+2012-04-16T15:04:34.453127+00:00,sim128[407]:,connect,9,220.245.52.25,Client #58
+2012-04-16T15:05:26.343620+00:00,sim128[407]:,disconnect,7,85.216.238.158,Client#18
+2012-04-16T15:05:30.820968+00:00,sim128[407]:,disconnect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T15:05:38.342738+00:00,sim128[407]:,connect,6,85.216.238.158,Client#18
+2012-04-16T15:05:56.677840+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,i hate these saves constantly
+2012-04-16T15:06:18.901920+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,because we're all from different parts of the world connecting to a server - it happens :P
+2012-04-16T15:07:08.072269+00:00,sim128[407]:,disconnect,6,85.216.238.158,Client#18
+2012-04-16T15:07:18.161542+00:00,sim128[407]:,connect,6,85.216.238.158,Client#18
+2012-04-16T15:07:42.306331+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,right now got 5 trucks doing grain
+2012-04-16T15:08:03.911425+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,nice :) ill take a look
+2012-04-16T15:08:42.525333+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,what the red bar means below the graphs on depots?
+2012-04-16T15:14:26.785027+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,i dont understand the question?
+2012-04-16T15:14:58.282948+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,bar under the depot i own.. its now turned to orange from red
+2012-04-16T15:15:08.665217+00:00,sim128[407]:,connect,7,77.4.164.239,yellowman021
+2012-04-16T15:15:39.641540+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,407.188
+2012-04-16T15:15:42.254667+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,where is the dpot u own
+2012-04-16T15:15:46.277312+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,ok gimm e a tic
+2012-04-16T15:20:02.651810+00:00,sim128[407]:,disconnect,7,77.4.164.239,yellowman021
+2012-04-16T15:20:59.040401+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,oh it just means it's full waiting for a truck to pick it up
+2012-04-16T15:21:03.255759+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,all good now it seems
+2012-04-16T15:21:20.675218+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,so green means?
+2012-04-16T15:21:40.269945+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,green means your stop isn't full
+2012-04-16T15:22:22.284332+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,it's fine for freight- stops normally get orange/full alot
+2012-04-16T15:22:32.280322+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,umm ok. :D
+2012-04-16T15:22:55.113191+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,"red is only bad when it gets to like my dock... 99,449"
+2012-04-16T15:23:20.401215+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,"gah.. i messed my chat function.. everytime you chat i get small box appear "
+2012-04-16T15:23:50.643968+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,easily fixed
+2012-04-16T15:24:02.567892+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,"in the 'message centre' click ""options"""
+2012-04-16T15:24:31.534518+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,"look for ""chat"" and there are three boxes"
+2012-04-16T15:24:48.504840+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,make sure the middle and right boxes are pushed in
+2012-04-16T15:25:00.928525+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,oki\
+2012-04-16T15:25:07.418803+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,thanks fixed
+2012-04-16T15:25:15.410326+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,aren't* pushed in
+2012-04-16T15:25:20.609940+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,goodo :)
+2012-04-16T15:25:39.648117+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,ok so if cash flow shows + im doing profit?
+2012-04-16T15:26:04.442665+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,that is correct
+2012-04-16T15:26:27.911865+00:00,sim128[407]:,disconnect,6,85.216.238.158,Client#18
+2012-04-16T15:26:44.913348+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,nice... i need to release 1 truck to not fill the brewery storage too much
+2012-04-16T15:26:47.842876+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,"most importantly- make sure ""net wealth"" never gets to zero"
+2012-04-16T15:26:58.743697+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,made 1200 profit last month
+2012-04-16T15:27:07.527732+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,yeah :()
+2012-04-16T15:27:15.544670+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,nice
+2012-04-16T15:27:58.762541+00:00,sim128[407]:,connect,6,85.216.238.158,Client#18
+2012-04-16T15:28:26.960069+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,i hate when all windowses close when it saves :(
+2012-04-16T15:28:40.732867+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,yeah
+2012-04-16T15:29:01.463808+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,imo that would be cool feature to implent not to do so.
+2012-04-16T15:29:21.763010+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,it's for sync reasons
+2012-04-16T15:29:50.064529+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,oh noes.. is there seasons for harvest and so? my grain stopped suddenly
+2012-04-16T15:30:14.583484+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,no seasons
+2012-04-16T15:31:04.107595+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,ahh rookie/newbie error :P
+2012-04-16T15:31:08.533001+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,brewery is full
+2012-04-16T15:31:21.044059+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,ohh.. yes
+2012-04-16T15:31:27.413190+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,"what you should change your line to is ""100%"" waiting"
+2012-04-16T15:31:36.945971+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,k
+2012-04-16T15:31:57.546422+00:00,sim128[407]:,chat,9,220.245.52.25,Client #58,13,Moranis,"46,398 - for example my train there waits for 100% full - to get max profit"
+2012-04-16T15:33:10.450489+00:00,sim128[407]:,disconnect,9,220.245.52.25,Client #58
+2012-04-16T15:35:07.950474+00:00,sim128[407]:,connect,7,220.245.52.25,Client #58
+2012-04-16T15:36:26.076433+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,well lets see how i manage to survive this mess now lol
+2012-04-16T15:37:13.392250+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,only if there would be supermarket more nearer
+2012-04-16T15:37:13.474480+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,should be fine
+2012-04-16T15:37:40.646160+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,dude you have $1.4 million - plenty to do more
+2012-04-16T15:38:00.528504+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,i can do market?
+2012-04-16T15:38:13.350792+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,"403,250"
+2012-04-16T15:38:22.281673+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,no one is using that factory
+2012-04-16T15:39:22.013949+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,and it's close to supermarket :P
+2012-04-16T15:39:38.705586+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,beauty also - the factory is full -so you can transport food - and work backwards to supply the factory
+2012-04-16T15:40:09.187827+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,ow i see
+2012-04-16T15:40:35.587338+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,obviously a previous player went bankrupt - because the roads are all there
+2012-04-16T15:40:45.415107+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,all owned by public - so that'll save you costs
+2012-04-16T15:41:07.977004+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,now why didnt i start there earlier! LOL
+2012-04-16T15:42:05.699802+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,does factory need all 3 substances to produce the materials?
+2012-04-16T15:42:18.035838+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,that is correct
+2012-04-16T15:42:22.201823+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,okies
+2012-04-16T15:42:28.458190+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,but.. make sure you check how much
+2012-04-16T15:42:46.895466+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,yeah i learned that allready lol
+2012-04-16T15:42:54.358749+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,food factory- needs little meat & fish at 20% ... but lots of flour at 7-%
+2012-04-16T15:43:00.244520+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,ok :)
+2012-04-16T15:44:01.559281+00:00,sim128[407]:,disconnect,6,85.216.238.158,Client#18
+2012-04-16T15:44:12.328553+00:00,sim128[407]:,connect,6,85.216.238.158,Client#18
+2012-04-16T15:45:00.857983+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client #58
+2012-04-16T15:45:30.615778+00:00,sim128[407]:,disconnect,6,85.216.238.158,Client#18
+2012-04-16T15:45:43.087419+00:00,sim128[407]:,connect,6,85.216.238.158,Client#18
+2012-04-16T15:48:53.849869+00:00,sim128[407]:,connect,7,220.245.52.25,Client #58
+2012-04-16T15:50:58.666871+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,and now fish is needed and im done :D
+2012-04-16T15:51:35.970533+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,excellent :)
+2012-04-16T15:52:06.987325+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,what kinda dock i build?
+2012-04-16T15:52:21.064760+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,up to you
+2012-04-16T15:55:44.449397+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,interesting.. lets see if i got it right to working.. i mean the fishing
+2012-04-16T15:56:18.874443+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,time will tell :P
+2012-04-16T15:57:36.254259+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,nah. didnt work
+2012-04-16T15:58:03.123466+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,oh lol silly
+2012-04-16T15:58:11.410181+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,you got the barge- it needs to be towing something
+2012-04-16T15:58:25.013798+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,ohhh that explains it lol
+2012-04-16T15:59:28.960627+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,go to ships...
+2012-04-16T15:59:39.727899+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,5th row down - right hand side- choose that vessel
+2012-04-16T15:59:43.179086+00:00,sim128[407]:,disconnect,6,85.216.238.158,Client#18
+2012-04-16T16:00:09.886945+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,"""New Zealand Star"" that should do the job for you"
+2012-04-16T16:00:31.500526+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,"or ""Nororn"""
+2012-04-16T16:00:34.170376+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,thats huge
+2012-04-16T16:01:02.175655+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,but cost effective
+2012-04-16T16:01:16.150437+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,oki now it should work
+2012-04-16T16:01:34.762429+00:00,sim128[407]:,connect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T16:01:46.101663+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,ohh yeah
+2012-04-16T16:01:47.785798+00:00,sim128[407]:,chat,7,220.245.52.25,Client #58,13,Moranis,argh i hate my windows closing like that- now i lost what iw as typing
+2012-04-16T16:02:02.451661+00:00,sim128[407]:,disconnect,6,188.36.215.76,^°^FlyingSun
+2012-04-16T16:02:03.729088+00:00,sim128[407]:,disconnect,7,220.245.52.25,Client #58
+2012-04-16T16:02:04.208213+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,yea its annoying
+2012-04-16T16:02:20.813092+00:00,sim128[407]:,connect,6,220.245.52.25,Client #58
+2012-04-16T16:02:45.829562+00:00,sim128[407]:,connect,7,92.249.131.138,Client#2
+2012-04-16T16:03:14.085602+00:00,sim128[407]:,chat,8,87.100.200.13,Jazzka,4,The Eye,it is weird that the finances window will stay up but all others closes
+2012-04-16T16:04:32.081223+00:00,sim128[407]:,disconnect,7,92.249.131.138,Client#2
+2012-04-16T16:05:13.506392+00:00,sim128[407]:,connect,7,188.36.215.76,^°^FlyingSun
+2012-04-16T16:06:50.116196+00:00,sim128[407]:,disconnect,7,188.36.215.76,^°^FlyingSun
+2012-04-16T16:07:32.370291+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #58
+2012-04-16T16:08:58.588981+00:00,sim128[407]:,connect,6,220.245.52.25,Client #58
+2012-04-16T16:12:12.680109+00:00,sim128[407]:,disconnect,8,87.100.200.13,Jazzka
+2012-04-16T16:13:31.778241+00:00,sim128[407]:,connect,7,87.100.200.13,Jazzka
+2012-04-16T16:15:22.507421+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #58
+2012-04-16T16:15:35.879297+00:00,sim128[407]:,connect,6,220.245.52.25,Client #58
+2012-04-16T16:20:51.326235+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #58
+2012-04-16T16:21:20.703303+00:00,sim128[407]:,connect,6,220.245.52.25,Client #58
+2012-04-16T16:21:57.874402+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #58
+2012-04-16T16:22:12.173227+00:00,sim128[407]:,connect,6,220.245.52.25,Client #58
+2012-04-16T16:22:51.385788+00:00,sim128[407]:,chat,7,87.100.200.13,Jazzka,4,The Eye,how i can get electricity?
+2012-04-16T16:23:09.429523+00:00,sim128[407]:,chat,6,220.245.52.25,Client #58,13,Moranis,there are very few electricity spots on this map
+2012-04-16T16:23:22.054042+00:00,sim128[407]:,chat,6,220.245.52.25,Client #58,13,Moranis,for you - they are far away- it'd cost more to bring it to you
+2012-04-16T16:23:32.338283+00:00,sim128[407]:,chat,7,87.100.200.13,Jazzka,4,The Eye,well can i pull lines from other player lines?
+2012-04-16T16:23:45.209625+00:00,sim128[407]:,chat,6,220.245.52.25,Client #58,13,Moranis,no
+2012-04-16T16:24:25.979806+00:00,sim128[407]:,chat,7,87.100.200.13,Jazzka,4,The Eye,gah i need more productivity on the food factory
+2012-04-16T16:25:59.068389+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #58
+2012-04-16T16:28:15.072736+00:00,sim128[407]:,connect,6,220.245.52.25,Client #58
+2012-04-16T16:28:57.565645+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #58
+2012-04-16T16:29:11.048960+00:00,sim128[407]:,connect,6,220.245.52.25,Client #58
+2012-04-16T16:33:26.339629+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #58
+2012-04-16T16:34:19.567785+00:00,sim128[407]:,connect,6,220.245.52.25,Client #58
+2012-04-16T16:37:46.479296+00:00,sim128[407]:,chat,6,220.245.52.25,Client #58,13,Moranis,ok cya :) enjoy the game
+2012-04-16T16:37:58.377511+00:00,sim128[407]:,disconnect,6,220.245.52.25,Client #58
+2012-04-16T16:51:24.391985+00:00,sim128[407]:,connect,6,77.242.81.206,Client#7
+2012-04-16T16:53:51.841910+00:00,sim128[407]:,disconnect,6,77.242.81.206,Client#7
+2012-04-16T16:58:19.199506+00:00,sim128[407]:,connect,6,99.229.176.234,Ollie
+2012-04-16T17:03:16.729312+00:00,sim128[407]:,disconnect,6,99.229.176.234,Ollie
+2012-04-16T17:37:13.203304+00:00,sim128[407]:,connect,6,82.158.116.97,dadav
+2012-04-16T17:40:43.053715+00:00,sim128[407]:,disconnect,6,82.158.116.97,dadav
+2012-04-16T17:40:52.408637+00:00,sim128[407]:,connect,6,82.158.116.97,Client#4
+2012-04-16T18:10:32.575953+00:00,sim128[407]:,connect,9,85.216.238.158,Client#18
+2012-04-16T18:19:15.298777+00:00,sim128[407]:,connect,8,41.140.121.233,Client#8
+2012-04-16T18:23:50.910316+00:00,sim128[407]:,disconnect,8,41.140.121.233,Client#8
+2012-04-16T18:33:49.469563+00:00,sim128[407]:,disconnect,7,87.100.200.13,Jazzka
+2012-04-16T19:48:28.190712+00:00,sim128[407]:,disconnect,9,85.216.238.158,Client#18
+2012-04-16T20:10:49.306690+00:00,sim128[407]:,connect,7,188.36.215.76,^°^FlyingSun
+2012-04-16T20:15:49.915901+00:00,sim128[407]:,disconnect,7,188.36.215.76,^°^FlyingSun
+2012-04-16T20:34:44.163562+00:00,sim128[407]:,connect,7,79.91.242.17,Titanov
+2012-04-16T20:43:58.853034+00:00,sim128[407]:,disconnect,7,79.91.242.17,Titanov
+2012-04-16T21:55:53.242298+00:00,sim128[407]:,connect,7,91.65.124.56,Client#7
+2012-04-16T21:59:17.224183+00:00,sim128[407]:,namechange,7,91.65.124.56,Client#7,0011001
+2012-04-16T22:01:18.132345+00:00,sim128[407]:,disconnect,7,91.65.124.56,0011001
+2012-04-16T22:10:34.298104+00:00,sim128[407]:,connect,7,91.65.124.56,Client#7
+2012-04-16T22:12:06.589198+00:00,sim128[407]:,disconnect,7,91.65.124.56,Client#7
+2012-04-16T22:41:57.676821+00:00,sim128[407]:,disconnect,6,82.158.116.97,Client#4
+2012-04-16T22:42:03.814005+00:00,sim128[407]:,connect,7,92.249.131.138,Client#2
+2012-04-16T22:45:25.104229+00:00,sim128[407]:,disconnect,7,92.249.131.138,Client#2

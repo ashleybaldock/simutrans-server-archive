@@ -1,0 +1,207 @@
+2012-08-16T00:07:53.096941+00:00,sim64b[1447]:,disconnect,3,151.55.10.246,Rudi!
+2012-08-16T00:08:28.583713+00:00,sim64b[1447]:,connect,3,151.55.10.246,Rudi!
+2012-08-16T00:10:02.124555+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#6
+2012-08-16T00:10:46.345493+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#6
+2012-08-16T00:11:12.084858+00:00,sim64b[1447]:,disconnect,3,151.55.10.246,Rudi!
+2012-08-16T00:11:41.452111+00:00,sim64b[1447]:,connect,3,151.55.10.246,Rudi!
+2012-08-16T00:14:12.153794+00:00,sim64b[1447]:,disconnect,3,151.55.10.246,Rudi!
+2012-08-16T01:15:03.851212+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#3
+2012-08-16T01:15:48.468541+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#3
+2012-08-16T01:16:41.309461+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#3
+2012-08-16T01:30:52.411088+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#6
+2012-08-16T01:32:13.363194+00:00,sim64b[1447]:,connect,2,98.141.195.146,Fifty
+2012-08-16T01:32:33.202107+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,"hi 50, moblet here"
+2012-08-16T01:32:53.403001+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,Hey! Good Morning over there!
+2012-08-16T01:33:08.077103+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,and good evening over there!
+2012-08-16T01:33:31.354181+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,How's the mail work coming?
+2012-08-16T01:33:57.991836+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,"so far so good, i didn't realise there were so many cities with no network"
+2012-08-16T01:34:10.476578+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,= lots of upside :)
+2012-08-16T01:34:27.513117+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,while i've got u i have a question
+2012-08-16T01:34:30.657030+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,We are the mail monopoly!
+2012-08-16T01:34:37.675549+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,yeah mon
+2012-08-16T01:34:58.308685+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,"askwick 400,156"
+2012-08-16T01:35:08.856223+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,*ashwick
+2012-08-16T01:35:28.195993+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,i am connecting this to the east but would like to connect it to the west
+2012-08-16T01:35:47.021299+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,but i get lost when i look west
+2012-08-16T01:36:26.852717+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,Mmm. Yeah. I'll put the train in just give me a few minutes
+2012-08-16T01:36:43.560153+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,"whenever you're ready, it's your network ;)"
+2012-08-16T01:37:14.599667+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,i already have a small slow train shuttling between there and Heppwick to the east
+2012-08-16T01:37:36.335048+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Yeah, that's going away"
+2012-08-16T01:38:15.188009+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#3
+2012-08-16T01:38:52.662323+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#3
+2012-08-16T01:40:23.671237+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,There should be enough traffic east of ashwick that 1 line will be best
+2012-08-16T01:41:23.666923+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,as in 1 truck or train line all the way east from Ashwick?
+2012-08-16T01:41:54.147133+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,Heppwick-Maliton
+2012-08-16T01:43:12.719387+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,tell me which cities are on that route that don't currently have mail networks
+2012-08-16T01:43:33.162813+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,From east to west:
+2012-08-16T01:44:22.408422+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,if you put train stations in i will connect with them
+2012-08-16T01:44:37.110024+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Oldton, Northern Ashwick, Asham, Baringham, Newlock, Newcross."
+2012-08-16T01:44:57.647431+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,"nice long list, i see lots of $$$ :)"
+2012-08-16T01:45:05.991632+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,Oh yeah!
+2012-08-16T01:46:03.300224+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,Maybe like 150k more people.
+2012-08-16T01:46:10.759438+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#3
+2012-08-16T01:47:39.873231+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#3
+2012-08-16T01:49:43.612292+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#3
+2012-08-16T01:50:27.036188+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#3
+2012-08-16T01:52:24.555460+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Ok, train line is in. Traffic will explode!"
+2012-08-16T01:52:47.120999+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Oh, add pineton to the list of cities needing mail service"
+2012-08-16T01:52:48.816827+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,excellent...
+2012-08-16T01:58:35.853111+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#3
+2012-08-16T01:59:12.221148+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#3
+2012-08-16T02:01:52.837058+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#3
+2012-08-16T02:02:29.829227+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#3
+2012-08-16T02:05:21.688051+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Moblet, whenever you are online, please keep an eye on 277, 113: it will jam and it will screw up 2 of my routes"
+2012-08-16T02:06:01.153544+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,It's a city car loop: Rudi team has not seen my request to fix it yet
+2012-08-16T02:09:08.727364+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#3
+2012-08-16T02:09:45.460331+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#3
+2012-08-16T02:11:32.431948+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,15,,in which direction does the queue go?
+2012-08-16T02:11:42.829860+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,15,,i might be able to engineer a way around it
+2012-08-16T02:12:04.796590+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,"oops, wasn't logged in as you"
+2012-08-16T02:13:18.276079+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"um, you see, I have put gates that block every way a city car could get into that section of road yet somehow..."
+2012-08-16T02:13:43.917700+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,There is a gasoline line that terminates right there.
+2012-08-16T02:13:46.931867+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,cars might be generated inside the gates
+2012-08-16T02:14:05.185050+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,And I don't own any of the road
+2012-08-16T02:14:22.521819+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,we could put your yard underground
+2012-08-16T02:14:40.184841+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"The biggest problem is that the backup stretches all the way to 268, 158 and blocks all north south ore and plastic movement"
+2012-08-16T02:15:07.310235+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"When plastics, both mine and speedbus's don't move, then cars are not produces"
+2012-08-16T02:15:13.351936+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,*produced
+2012-08-16T02:15:33.324976+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,"wow, that's huge"
+2012-08-16T02:15:47.954806+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,i suggest posting in the forum thread about it
+2012-08-16T02:15:52.978796+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,And those are not my trucks: most go west at that point
+2012-08-16T02:16:03.496963+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,"rudi has been online in the past 24 hours, i saw them"
+2012-08-16T02:16:22.314093+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"If you see him, please tell him to do what the sign says"
+2012-08-16T02:16:38.512286+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,i only saw them when they disconnected
+2012-08-16T02:16:41.752526+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,no loop = no jams
+2012-08-16T02:17:29.720651+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#3
+2012-08-16T02:18:06.019378+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#3
+2012-08-16T02:21:06.719064+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,I set a 50% load on that train: it may need to be modified in the future
+2012-08-16T02:21:33.373580+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,"ha, i just reduced it"
+2012-08-16T02:21:51.397766+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,lots of mail waiting at Ashwick
+2012-08-16T02:22:35.132871+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Oh, 20%, you're too generous ;)"
+2012-08-16T02:23:09.151204+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,just in a generous mood today
+2012-08-16T02:23:30.305002+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,Considering how much mail work you've done I'd think so ;0
+2012-08-16T02:23:47.238125+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#3
+2012-08-16T02:24:27.110812+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#3
+2012-08-16T02:25:09.899557+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,am reducing the trucks to ashwick car shop as there are too many and they queue
+2012-08-16T02:26:10.958494+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,Put them in depot- I'll need em
+2012-08-16T02:26:24.930372+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#3
+2012-08-16T02:27:01.455274+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#3
+2012-08-16T02:27:53.910974+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#3,12,RF&P,"ok, i had retired a couple but one is the local depot"
+2012-08-16T02:29:02.633581+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#3
+2012-08-16T02:29:38.888968+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#3
+2012-08-16T02:35:49.709157+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#3
+2012-08-16T02:39:10.394320+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#6
+2012-08-16T02:44:34.214899+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#6
+2012-08-16T02:45:10.084298+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#6
+2012-08-16T03:04:15.051665+00:00,sim64b[1447]:,connect,4,122.148.146.34,Client#4
+2012-08-16T03:04:26.187852+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#6
+2012-08-16T03:06:25.072820+00:00,sim64b[1447]:,disconnect,4,122.148.146.34,Client#4
+2012-08-16T03:07:00.439558+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#4
+2012-08-16T03:09:35.805323+00:00,sim64b[1447]:,chat,2,98.141.195.146,Fifty,12,RF&P,"Moblet, I'm off for the night. I've built a new freight route down into oldby & hillborough that might be useful for a mail train in the future."
+2012-08-16T03:10:50.456008+00:00,sim64b[1447]:,disconnect,2,98.141.195.146,Fifty
+2012-08-16T03:20:54.777820+00:00,sim64b[1447]:,chat,3,122.148.146.34,Client#4,12,RF&P,ciao!
+2012-08-16T03:36:24.460173+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#4
+2012-08-16T03:36:55.132829+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#4
+2012-08-16T03:44:30.984811+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#4
+2012-08-16T03:45:01.775514+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#4
+2012-08-16T03:55:36.941633+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#4
+2012-08-16T03:56:09.490950+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#4
+2012-08-16T04:12:07.714881+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#4
+2012-08-16T04:12:36.934015+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#4
+2012-08-16T04:32:30.957113+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#4
+2012-08-16T04:33:00.342778+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#4
+2012-08-16T04:38:02.920803+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#4
+2012-08-16T04:38:37.178605+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#4
+2012-08-16T04:44:41.735833+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#4
+2012-08-16T04:45:15.115321+00:00,sim64b[1447]:,connect,3,122.148.146.34,Client#4
+2012-08-16T05:04:17.327681+00:00,sim64b[1447]:,disconnect,3,122.148.146.34,Client#4
+2012-08-16T05:04:47.398596+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#4
+2012-08-16T05:08:01.976986+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#4
+2012-08-16T05:08:38.485903+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#4
+2012-08-16T05:15:20.094770+00:00,sim64b[1447]:,connect,3,80.132.173.231,Client#3
+2012-08-16T05:24:14.950326+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#4
+2012-08-16T05:24:53.822296+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#4
+2012-08-16T05:38:51.919384+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#4
+2012-08-16T05:39:31.655768+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#4
+2012-08-16T05:43:44.913445+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#4
+2012-08-16T05:44:43.279089+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#6
+2012-08-16T05:51:26.296339+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#6
+2012-08-16T05:52:00.846026+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#6
+2012-08-16T06:01:17.142921+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#6
+2012-08-16T06:02:15.620031+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#6
+2012-08-16T06:23:25.399518+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#6
+2012-08-16T06:24:07.261259+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#6
+2012-08-16T06:30:30.442329+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#6
+2012-08-16T06:31:08.240392+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#6
+2012-08-16T06:36:03.580896+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#6
+2012-08-16T06:36:42.709455+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#6
+2012-08-16T06:38:23.967876+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#6
+2012-08-16T06:39:00.371767+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#6
+2012-08-16T06:43:09.705852+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#6
+2012-08-16T06:45:46.203661+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#6
+2012-08-16T06:50:43.423505+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#6
+2012-08-16T06:54:40.097233+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#6
+2012-08-16T06:58:01.886176+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#6
+2012-08-16T07:08:15.699536+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#6
+2012-08-16T07:20:32.448266+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#6
+2012-08-16T07:21:21.041584+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#6
+2012-08-16T07:33:13.619470+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#6
+2012-08-16T07:33:59.448349+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#6
+2012-08-16T07:48:15.385976+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#6
+2012-08-16T11:21:32.928729+00:00,sim64b[1447]:,connect,2,122.148.146.34,Client#6
+2012-08-16T11:31:59.521518+00:00,sim64b[1447]:,disconnect,2,122.148.146.34,Client#6
+2012-08-16T11:31:59.521563+00:00,sim64b[1447]:,disconnect,3,80.132.173.231,Client#3
+2012-08-16T11:32:29.774652+00:00,sim64b[1447]:,connect,4,122.148.146.34,Client#6
+2012-08-16T12:40:00.224568+00:00,sim64b[1447]:,connect,2,80.132.173.231,Client#3
+2012-08-16T12:49:57.465409+00:00,sim64b[1447]:,connect,3,87.123.172.244,Client#5
+2012-08-16T12:49:57.648646+00:00,sim64b[1447]:,disconnect,4,122.148.146.34,Client#6
+2012-08-16T13:00:53.597448+00:00,sim64b[1447]:,connect,4,151.55.10.246,Client#4
+2012-08-16T13:09:12.259463+00:00,sim64b[1447]:,disconnect,3,87.123.172.244,Client#5
+2012-08-16T13:09:12.259598+00:00,sim64b[1447]:,disconnect,4,151.55.10.246,Client#4
+2012-08-16T13:19:22.572133+00:00,sim64b[1447]:,connect,3,80.132.173.231,Client#3
+2012-08-16T15:46:46.092691+00:00,sim64b[1447]:,connect,4,69.138.176.94,Fifty
+2012-08-16T15:46:46.261925+00:00,sim64b[1447]:,disconnect,2,80.132.173.231,Client#3
+2012-08-16T16:03:48.755034+00:00,sim64b[1447]:,disconnect,4,69.138.176.94,Fifty
+2012-08-16T16:04:06.338177+00:00,sim64b[1447]:,connect,2,69.138.176.94,Fifty
+2012-08-16T16:56:25.816823+00:00,sim64b[1447]:,chat,2,69.138.176.94,Fifty,12,RF&P,"@ Player 9, can you please remove your bridge @297, 347 for a minute?"
+2012-08-16T16:56:48.998371+00:00,sim64b[1447]:,chat,2,69.138.176.94,Fifty,12,RF&P,and the roadgate nearby
+2012-08-16T17:14:55.077079+00:00,sim64b[1447]:,disconnect,2,69.138.176.94,Fifty
+2012-08-16T17:15:16.386539+00:00,sim64b[1447]:,connect,2,69.138.176.94,Fifty
+2012-08-16T17:16:55.685978+00:00,sim64b[1447]:,chat,2,69.138.176.94,Fifty,12,RF&P,"Player 9, are you around?"
+2012-08-16T17:26:49.167421+00:00,sim64b[1447]:,disconnect,2,69.138.176.94,Fifty
+2012-08-16T17:27:03.565485+00:00,sim64b[1447]:,disconnect,3,80.132.173.231,Client#3
+2012-08-16T18:19:10.360088+00:00,sim64b[1447]:,connect,2,69.138.176.94,Fifty
+2012-08-16T18:24:28.878537+00:00,sim64b[1447]:,disconnect,2,69.138.176.94,Fifty
+2012-08-16T18:24:44.555240+00:00,sim64b[1447]:,connect,3,69.138.176.94,Fifty
+2012-08-16T18:27:09.227981+00:00,sim64b[1447]:,connect,2,69.138.176.94,Fifty
+2012-08-16T18:54:03.741730+00:00,sim64b[1447]:,connect,4,151.55.10.246,Client#3
+2012-08-16T18:54:03.926026+00:00,sim64b[1447]:,disconnect,3,69.138.176.94,Fifty
+2012-08-16T19:15:54.161771+00:00,sim64b[1447]:,disconnect,4,151.55.10.246,Client#3
+2012-08-16T19:17:16.314086+00:00,sim64b[1447]:,connect,3,151.55.10.246,Client#3
+2012-08-16T19:18:34.892779+00:00,sim64b[1447]:,disconnect,3,151.55.10.246,Client#3
+2012-08-16T19:19:04.146737+00:00,sim64b[1447]:,connect,3,151.55.10.246,Client#3
+2012-08-16T19:24:43.373452+00:00,sim64b[1447]:,disconnect,3,151.55.10.246,Client#3
+2012-08-16T19:42:41.321425+00:00,sim64b[1447]:,connect,3,69.138.176.94,Fifty
+2012-08-16T19:48:10.152812+00:00,sim64b[1447]:,connect,4,80.132.173.231,Client#3
+2012-08-16T19:48:10.314892+00:00,sim64b[1447]:,disconnect,2,69.138.176.94,Fifty
+2012-08-16T19:54:15.655047+00:00,sim64b[1447]:,disconnect,4,80.132.173.231,Client#3
+2012-08-16T20:45:24.611143+00:00,sim64b[1447]:,disconnect,3,69.138.176.94,Fifty
+2012-08-16T20:45:41.358442+00:00,sim64b[1447]:,connect,2,69.138.176.94,Fifty
+2012-08-16T20:47:22.758687+00:00,sim64b[1447]:,connect,3,80.132.173.231,Client#3
+2012-08-16T20:49:46.541940+00:00,sim64b[1447]:,disconnect,3,80.132.173.231,Client#3
+2012-08-16T22:56:50.471436+00:00,sim64b[1447]:,connect,3,151.55.10.246,Rudi!
+2012-08-16T23:03:26.895815+00:00,sim64b[1447]:,disconnect,2,69.138.176.94,Fifty
+2012-08-16T23:03:26.895850+00:00,sim64b[1447]:,disconnect,3,151.55.10.246,Rudi!
+2012-08-16T23:03:53.387468+00:00,sim64b[1447]:,connect,2,151.55.10.246,Rudi!
+2012-08-16T23:05:31.928060+00:00,sim64b[1447]:,disconnect,2,151.55.10.246,Rudi!
+2012-08-16T23:05:53.585969+00:00,sim64b[1447]:,connect,2,151.55.10.246,Rudi!
+2012-08-16T23:11:52.572319+00:00,sim64b[1447]:,disconnect,2,151.55.10.246,Rudi!
+2012-08-16T23:12:09.365204+00:00,sim64b[1447]:,connect,3,151.55.10.246,Rudi!
+2012-08-16T23:13:53.471288+00:00,sim64b[1447]:,connect,2,151.55.10.246,Rudi!
+2012-08-16T23:17:08.094395+00:00,sim64b[1447]:,disconnect,2,151.55.10.246,Rudi!
+2012-08-16T23:17:08.094701+00:00,sim64b[1447]:,disconnect,3,151.55.10.246,Rudi!
+2012-08-16T23:17:28.317895+00:00,sim64b[1447]:,connect,2,151.55.10.246,Rudi!
+2012-08-16T23:20:56.681026+00:00,sim64b[1447]:,disconnect,2,151.55.10.246,Rudi!
+2012-08-16T23:21:12.757075+00:00,sim64b[1447]:,connect,3,151.55.10.246,Rudi!
+2012-08-16T23:34:43.241905+00:00,sim64b[1447]:,connect,2,151.55.10.246,Rudi!
+2012-08-16T23:44:51.004628+00:00,sim64b[1447]:,connect,4,151.55.10.246,Rudi!

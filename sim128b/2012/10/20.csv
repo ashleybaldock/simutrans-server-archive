@@ -1,0 +1,83 @@
+2012-10-20T00:17:17.301281+00:00,sim128b[8012]:,disconnect,2,98.251.79.180,Client#5
+2012-10-20T00:17:36.542644+00:00,sim128b[8012]:,connect,2,98.251.79.180,Client#5
+2012-10-20T01:19:50.218114+00:00,sim128b[8012]:,connect,3,98.251.79.180,Client#5
+2012-10-20T05:53:10.150924+00:00,sim128b[8012]:,connect,4,85.216.236.24,Client#2
+2012-10-20T07:13:24.222891+00:00,sim128b[8012]:,disconnect,2,98.251.79.180,Client#5
+2012-10-20T07:13:24.222941+00:00,sim128b[8012]:,disconnect,3,98.251.79.180,Client#5
+2012-10-20T07:13:24.223004+00:00,sim128b[8012]:,disconnect,4,85.216.236.24,Client#2
+2012-10-20T07:13:32.232112+00:00,sim128b[8012]:,connect,5,85.216.236.24,Client#2
+2012-10-20T12:46:08.357945+00:00,sim128b[8012]:,connect,2,178.194.243.28,Client#4
+2012-10-20T13:34:49.703810+00:00,sim128b[8012]:,disconnect,2,178.194.243.28,Client#4
+2012-10-20T13:34:49.703857+00:00,sim128b[8012]:,disconnect,5,85.216.236.24,Client#2
+2012-10-20T13:34:57.827007+00:00,sim128b[8012]:,connect,3,173.2.236.237,Client#1
+2012-10-20T13:56:53.413190+00:00,sim128b[8012]:,connect,2,220.210.148.168,specialrapidservice
+2012-10-20T14:22:26.257892+00:00,sim128b[8012]:,disconnect,2,220.210.148.168,specialrapidservice
+2012-10-20T14:22:26.257927+00:00,sim128b[8012]:,disconnect,3,173.2.236.237,Client#1
+2012-10-20T14:56:24.114618+00:00,sim128b[8012]:,connect,2,77.57.193.22,Client#3
+2012-10-20T17:52:32.135287+00:00,sim128b[8012]:,connect,3,89.155.122.64,Client#4
+2012-10-20T18:18:59.407848+00:00,sim128b[8012]:,connect,4,98.251.79.180,Client#5
+2012-10-20T18:18:59.477839+00:00,sim128b[8012]:,disconnect,2,77.57.193.22,Client#3
+2012-10-20T18:19:50.487010+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,15,,hello??
+2012-10-20T18:23:04.842637+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,12,"Transdev, SA",hello
+2012-10-20T18:23:27.401249+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"hi, have you played this map before?"
+2012-10-20T18:23:58.927693+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,12,"Transdev, SA",yes.. but I'm lost
+2012-10-20T18:24:36.800350+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,you need to exchange passenger & mail with the other players at a public station
+2012-10-20T18:24:51.171211+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,then you can make lots more money
+2012-10-20T18:26:05.443737+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"First, did you do this yet?  * Go to ""message centre"" > ""options"" > and check the 3rd box next to ""chat"".  (It makes chat pop up a window)"
+2012-10-20T18:32:58.602886+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,12,"Transdev, SA",ok
+2012-10-20T18:33:58.420070+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,does the chat pop up now? :)
+2012-10-20T18:34:20.752421+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,12,"Transdev, SA",yes
+2012-10-20T18:34:34.485645+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"oh, good..  do you understand english ok?"
+2012-10-20T18:34:45.533727+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,12,"Transdev, SA",no very well
+2012-10-20T18:35:08.212439+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,oh :(   What do you need help with?
+2012-10-20T18:36:06.693689+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,12,"Transdev, SA",how so?
+2012-10-20T18:36:51.070130+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"oh, nevermind.  Do you see this airport (208,94) and this one (267,490)?"
+2012-10-20T18:37:03.185340+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,Other pla
+2012-10-20T18:37:12.381355+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,12,"Transdev, SA",yes
+2012-10-20T18:37:14.767989+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"If you fly a plane there, you will get more passenger & mail"
+2012-10-20T18:38:06.611402+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,more passenger & mail means more money
+2012-10-20T18:40:52.615287+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"do you understand, or do you want me to explain?"
+2012-10-20T18:41:30.815579+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,12,"Transdev, SA","no, I understand, thanks!"
+2012-10-20T18:43:34.920710+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"I can make a station close to you if you want, but you will make more money flying them yourself"
+2012-10-20T18:45:37.607702+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,12,"Transdev, SA","I make myself station "
+2012-10-20T18:47:09.278825+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,"If you need to leave a message to other players. a good spot is (183,280) because that's what you see when you join :)"
+2012-10-20T19:07:20.163116+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,will you be online later today?
+2012-10-20T19:07:34.035524+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,12,"Transdev, SA",yes
+2012-10-20T19:07:50.400988+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,ok. I have to leave for now.... bye
+2012-10-20T19:08:06.766781+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,12,"Transdev, SA",bye! thank you for help!
+2012-10-20T19:08:43.360103+00:00,sim128b[8012]:,chat,4,98.251.79.180,Client#5,7,PSK & Co KG,sure... and you can do mail too if you want (me and alamo are both doing mail I think)
+2012-10-20T19:08:47.941654+00:00,sim128b[8012]:,disconnect,4,98.251.79.180,Client#5
+2012-10-20T20:38:34.856941+00:00,sim128b[8012]:,connect,2,89.155.122.64,Client#4
+2012-10-20T21:34:16.184849+00:00,sim128b[8012]:,connect,4,89.155.122.64,Client#4
+2012-10-20T23:00:13.515311+00:00,sim128b[8012]:,connect,5,98.251.79.180,Client#5
+2012-10-20T23:00:13.657175+00:00,sim128b[8012]:,disconnect,2,89.155.122.64,Client#4
+2012-10-20T23:00:13.657199+00:00,sim128b[8012]:,disconnect,3,89.155.122.64,Client#4
+2012-10-20T23:01:52.400242+00:00,sim128b[8012]:,chat,5,98.251.79.180,Client#5,15,,are you there transdev?
+2012-10-20T23:02:22.424772+00:00,sim128b[8012]:,chat,4,89.155.122.64,Client#4,12,"Transdev, SA",yes :(
+2012-10-20T23:02:45.889716+00:00,sim128b[8012]:,chat,5,98.251.79.180,Client#5,7,PSK & Co KG,did the plane mess you up?
+2012-10-20T23:02:58.451558+00:00,sim128b[8012]:,disconnect,5,98.251.79.180,Client#5
+2012-10-20T23:03:18.300794+00:00,sim128b[8012]:,connect,2,98.251.79.180,Client#5
+2012-10-20T23:03:37.204153+00:00,sim128b[8012]:,chat,4,89.155.122.64,Client#4,12,"Transdev, SA",I made a mistake before dinner
+2012-10-20T23:03:53.148244+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,"oh, what did you do?  was it an airplane?"
+2012-10-20T23:04:59.871201+00:00,sim128b[8012]:,chat,4,89.155.122.64,Client#4,12,"Transdev, SA","Yes, but did not connect my cities there in time ..."
+2012-10-20T23:06:09.919208+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,I bankrupted myself first game with an airplane
+2012-10-20T23:06:15.242600+00:00,sim128b[8012]:,chat,4,89.155.122.64,Client#4,12,"Transdev, SA",How can I play again?
+2012-10-20T23:06:30.024586+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,pick one of the other accounts and set it up
+2012-10-20T23:07:02.484987+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,"(280,40)"
+2012-10-20T23:08:00.453947+00:00,sim128b[8012]:,chat,4,89.155.122.64,Client#4,3,"read message at 280,40 to get this",thanks!
+2012-10-20T23:12:56.153500+00:00,sim128b[8012]:,disconnect,4,89.155.122.64,Client#4
+2012-10-20T23:13:10.769977+00:00,sim128b[8012]:,connect,3,89.155.122.64,Client#4
+2012-10-20T23:28:57.213696+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,the 70km tram track makes more money because your tram will go faster
+2012-10-20T23:29:34.124216+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,or use faster track for longer area  (since it has max speed of 110)
+2012-10-20T23:29:44.523574+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,the faster it goes the more money you get
+2012-10-20T23:30:10.444622+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,3,"TransPortugal, SA",use 110?
+2012-10-20T23:30:33.825963+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,"well, if the stations are too close it can't get that fast, so you decide"
+2012-10-20T23:30:56.925978+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,watch it sometime... it takes a little bit for it to increase speed
+2012-10-20T23:32:16.793315+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,"also, in railroad tools is ""Old Catenary""   It's actually cheaper than tram electrification :)"
+2012-10-20T23:33:38.052901+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,"(307,335)"
+2012-10-20T23:36:45.252997+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,3,"TransPortugal, SA",thanks!
+2012-10-20T23:36:54.090411+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,sure
+2012-10-20T23:39:05.093429+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,"Have you looked at ""Lists"" > ""Goods List"" before?  It shows how much you can make from different goods."
+2012-10-20T23:40:07.015675+00:00,sim128b[8012]:,chat,3,89.155.122.64,Client#4,3,"TransPortugal, SA",still not
+2012-10-20T23:41:50.207009+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,the 2nd column is how much you earn per tile
+2012-10-20T23:42:28.849818+00:00,sim128b[8012]:,chat,2,98.251.79.180,Client#5,7,PSK & Co KG,the 3rd column (%) If % is high; it means the faster you transport the more money

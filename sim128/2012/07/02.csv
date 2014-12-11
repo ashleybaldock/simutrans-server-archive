@@ -1,0 +1,237 @@
+2012-07-02T00:19:32.431216+00:00,sim128[28887]:,disconnect,7,109.212.149.102,Client#7
+2012-07-02T00:19:47.422185+00:00,sim128[28887]:,connect,6,98.251.79.180,Client#5
+2012-07-02T00:34:06.083421+00:00,sim128[28887]:,connect,7,109.212.149.102,Client#7
+2012-07-02T00:34:06.276873+00:00,sim128[28887]:,disconnect,4,98.251.79.180,Client#5
+2012-07-02T00:44:17.578669+00:00,sim128[28887]:,disconnect,7,109.212.149.102,Client#7
+2012-07-02T00:44:40.903159+00:00,sim128[28887]:,connect,4,109.212.149.102,Client#7
+2012-07-02T00:59:20.236383+00:00,sim128[28887]:,disconnect,6,98.251.79.180,Client#5
+2012-07-02T00:59:20.712332+00:00,sim128[28887]:,disconnect,4,109.212.149.102,Client#7
+2012-07-02T00:59:34.366266+00:00,sim128[28887]:,connect,4,98.251.79.180,Client#5
+2012-07-02T00:59:44.735861+00:00,sim128[28887]:,connect,6,109.212.149.102,Client#7
+2012-07-02T01:58:21.813883+00:00,sim128[28887]:,connect,7,173.55.26.75,Hi-Desert Transport
+2012-07-02T02:01:48.666336+00:00,sim128[28887]:,disconnect,7,173.55.26.75,Hi-Desert Transport
+2012-07-02T02:02:17.897192+00:00,sim128[28887]:,connect,7,173.55.26.75,Hi-Desert Transport
+2012-07-02T02:02:39.812631+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"hello, who's here?  "
+2012-07-02T02:02:52.497096+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,15,,Hello
+2012-07-02T02:03:03.177541+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"hey, which slot are you playing?"
+2012-07-02T02:03:36.132620+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,The light blue  one
+2012-07-02T02:03:48.660582+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,oh I see now :)  are you new to this map?
+2012-07-02T02:03:56.531587+00:00,sim128[28887]:,namechange,6,109.212.149.102,Client#7,Fr-N
+2012-07-02T02:03:59.477763+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,Yes
+2012-07-02T02:04:24.807485+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,there is some industry to the south available
+2012-07-02T02:04:42.927513+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"ethanol, food factories,"
+2012-07-02T02:04:55.861201+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,Ok
+2012-07-02T02:05:50.547336+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"for example, the Grain mill at (485,283)"
+2012-07-02T02:07:12.820551+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,How familiar are you with this game?  in single player?  in multiplayer?
+2012-07-02T02:07:17.101786+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,"Would the ethanol plant at 145,466 be considered in the south"
+2012-07-02T02:07:41.361870+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"ps, you can put the coordinates in quotes and you can click on it (145,466)"
+2012-07-02T02:07:58.907375+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,I wondered on how to do that.
+2012-07-02T02:07:59.691551+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,yeah
+2012-07-02T02:08:29.980321+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,And i almost always play pak64 on multiplayer.
+2012-07-02T02:08:43.461895+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,I used to be on the moblet server as well
+2012-07-02T02:08:52.677461+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,this one is harder I think (they didn't balance it right or something) and maintenance costs are really high
+2012-07-02T02:09:02.832229+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,this one = pak128
+2012-07-02T02:10:34.699866+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,you will need to share your rail lines and station platforms more than on pak64 because of the high maitenance
+2012-07-02T02:11:15.801617+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,Ok
+2012-07-02T02:12:03.365698+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,passenger is really hard on pak128  (my buses and light trains don't make money :( )
+2012-07-02T02:13:00.964788+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"but if you do decide to make passengers & mail in some cities.... look at (316,148) it is a public exhange for passengers & mail"
+2012-07-02T02:13:19.962665+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,"Passengers on pak64 often overwhlem my stations, more when a another player who served the same area went bankrupt."
+2012-07-02T02:15:02.854111+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"finally, a gas station for my refinery :)"
+2012-07-02T02:15:38.779155+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,did you see that message (new gas station)?
+2012-07-02T02:15:55.848743+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,Yes
+2012-07-02T02:16:23.812107+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"I have a refinery at (251,30) that connects to it...."
+2012-07-02T02:16:52.361213+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,would you like to ship the gas to it instead?  that is a very long trip
+2012-07-02T02:17:18.652008+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,Perhaps at a later time
+2012-07-02T02:21:26.997468+00:00,sim128[28887]:,disconnect,7,173.55.26.75,Hi-Desert Transport
+2012-07-02T02:21:54.880791+00:00,sim128[28887]:,connect,7,173.55.26.75,Hi-Desert Transport
+2012-07-02T02:22:00.850560+00:00,sim128[28887]:,disconnect,7,173.55.26.75,Hi-Desert Transport
+2012-07-02T02:22:29.082553+00:00,sim128[28887]:,connect,7,173.55.26.75,Hi-Desert Transport
+2012-07-02T02:24:39.720750+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,15,,"A-Train, are you goinf to supply that gas station?"
+2012-07-02T02:25:28.872335+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"don't know, what do you have in mind?  do you want to ship gas from somewhere to it?"
+2012-07-02T02:25:47.325378+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,Yes
+2012-07-02T02:25:58.653994+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"where from? "
+2012-07-02T02:26:24.309823+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,"From (157,450)"
+2012-07-02T02:27:11.473836+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"well you *could* do that, except I think h-trans is already shipping that gas"
+2012-07-02T02:29:38.131892+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"if you don't mind using ships, you could ship gas from (251,30) ... but that's a long trip :)"
+2012-07-02T02:30:14.829615+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,I think i try with ships
+2012-07-02T02:30:53.479040+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"k, feel free to build your dock next to mine :)"
+2012-07-02T02:31:15.178074+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"I'll go ahead and connect the canal to the ocean in ""Bradford"" city"
+2012-07-02T02:32:16.015525+00:00,sim128[28887]:,disconnect,7,173.55.26.75,Hi-Desert Transport
+2012-07-02T02:33:20.632238+00:00,sim128[28887]:,connect,7,173.55.26.75,Hi-Desert Transport
+2012-07-02T02:34:32.714382+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"the canal is connected to the ocean now... now all ya gotta do it add a dock at (254,29) or whatnot and it should work :)"
+2012-07-02T02:35:23.979973+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,did you get my message hi-desert?
+2012-07-02T02:36:07.320217+00:00,sim128[28887]:,chat,7,173.55.26.75,Hi-Desert Transport,15,,"hold on, i have to do something"
+2012-07-02T02:36:37.077582+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,k
+2012-07-02T02:38:14.998208+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,just let me know when you get around to building it; maybe I can even help ya :)
+2012-07-02T02:39:28.904305+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"that and to make sure it don't cause any problems :)   "
+2012-07-02T02:40:04.404523+00:00,sim128[28887]:,connect,8,173.55.26.75,Client#8
+2012-07-02T02:40:31.719935+00:00,sim128[28887]:,chat,8,173.55.26.75,Client#8,2,Hi-Desert Transport,Back
+2012-07-02T02:40:31.979085+00:00,sim128[28887]:,disconnect,7,173.55.26.75,Hi-Desert Transport
+2012-07-02T02:40:31.979373+00:00,sim128[28887]:,disconnect,8,173.55.26.75,Client#8
+2012-07-02T02:41:00.424603+00:00,sim128[28887]:,connect,7,173.55.26.75,Client#8
+2012-07-02T02:41:07.496292+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,did you finish what you had to do? or?
+2012-07-02T02:41:19.349449+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,or was it something in-game you needed to do?
+2012-07-02T02:41:20.390536+00:00,sim128[28887]:,chat,7,173.55.26.75,Client#8,2,Hi-Desert Transport,Yeah
+2012-07-02T02:41:27.615987+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,k
+2012-07-02T02:42:15.132108+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"I cleared a canal path to the ocean, so if you put a dock there, it should work"
+2012-07-02T02:42:44.853952+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,are you going ocean all the way or transferring somewhere?
+2012-07-02T02:43:27.949478+00:00,sim128[28887]:,chat,7,173.55.26.75,Client#8,2,Hi-Desert Transport,Ocean almost the way
+2012-07-02T02:43:51.429819+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,you know that river that runs ight up to the gas station?  I could make it ocean for you
+2012-07-02T02:44:05.248182+00:00,sim128[28887]:,chat,7,173.55.26.75,Client#8,2,Hi-Desert Transport,"Too late , made it a canel"
+2012-07-02T02:44:28.019606+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,k
+2012-07-02T02:44:42.950432+00:00,sim128[28887]:,chat,7,173.55.26.75,Client#8,2,Hi-Desert Transport,and i just realized what you mean
+2012-07-02T02:45:05.577915+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,mean about what?
+2012-07-02T02:45:45.137988+00:00,sim128[28887]:,chat,7,173.55.26.75,Client#8,2,Hi-Desert Transport,The canal is only 1 block higher than the ocean
+2012-07-02T02:45:53.103540+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,oh
+2012-07-02T02:46:16.740153+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,you can make the canal public if you are worried about maintenance.... or I could still make it ocean if you need
+2012-07-02T02:46:42.991375+00:00,sim128[28887]:,chat,7,173.55.26.75,Client#8,2,Hi-Desert Transport,Ocean would be better
+2012-07-02T02:49:14.571041+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,that might work
+2012-07-02T02:52:18.635652+00:00,sim128[28887]:,disconnect,6,109.212.149.102,Fr-N
+2012-07-02T02:52:18.792600+00:00,sim128[28887]:,disconnect,4,98.251.79.180,Client#5
+2012-07-02T02:52:18.792792+00:00,sim128[28887]:,disconnect,7,173.55.26.75,Client#8
+2012-07-02T02:52:51.365970+00:00,sim128[28887]:,connect,4,173.55.26.75,Client#8
+2012-07-02T02:53:00.459524+00:00,sim128[28887]:,connect,6,98.251.79.180,Client#5
+2012-07-02T02:59:17.345717+00:00,sim128[28887]:,chat,4,173.55.26.75,Client#8,2,Hi-Desert Transport,One ship to see if it is profitable
+2012-07-02T02:59:44.846813+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,"ok; it should be, unless the having to go around those cities makes it take too long"
+2012-07-02T03:02:31.210938+00:00,sim128[28887]:,chat,4,173.55.26.75,Client#8,2,Hi-Desert Transport,"Once, in pak 64, a made a coal train line from one end of the map to opposite edge of 512x512 map"
+2012-07-02T03:03:14.728450+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,nice.... how big was that map?
+2012-07-02T03:03:31.223452+00:00,sim128[28887]:,chat,4,173.55.26.75,Client#8,2,Hi-Desert Transport,512x512
+2012-07-02T03:04:05.901427+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,"you *might* be able to do that in pak128 if you don't use the most expensive track... "
+2012-07-02T03:04:25.520646+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,"if you can find items that give speed bonus, they help a lot on pak128"
+2012-07-02T03:04:45.357036+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,"I am flying fish and food, and stuff like that that have big speed bonus"
+2012-07-02T03:05:41.457473+00:00,sim128[28887]:,chat,4,173.55.26.75,Client#8,2,Hi-Desert Transport,Good to know
+2012-07-02T03:11:33.665686+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,it should be possible to calculate how much you will earn for one ship load.... let's see..
+2012-07-02T03:12:52.169903+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,"254,28 to \393,355"
+2012-07-02T03:13:07.683294+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,wonder if distance is diagonal or not
+2012-07-02T03:15:16.893118+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,139^2 + 327 ^2 = 126250  sqrt = 355  .. so 355 blocks?
+2012-07-02T03:15:27.775877+00:00,sim128[28887]:,namechange,4,173.55.26.75,Client#8,Hi-Desert Transport
+2012-07-02T03:16:52.719109+00:00,sim128[28887]:,chat,4,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,"Impossible, the ships odometer say 575+ Km, was your result ""as the crow flies"""
+2012-07-02T03:17:29.965872+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,"earnings is as the crow flies, not the path you take"
+2012-07-02T03:18:07.483479+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,"so 355 blocks at 13c "
+2012-07-02T03:18:55.981915+00:00,sim128[28887]:,chat,4,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,4615
+2012-07-02T03:19:32.413914+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,oh I don't know how to calculate it.... the price is kilograms and m3 too
+2012-07-02T03:19:41.807522+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,and not m3*
+2012-07-02T03:20:36.944585+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,let's just say they made a mistake and 860kg = 860m3
+2012-07-02T03:21:00.689965+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,where is your ship now?
+2012-07-02T03:21:39.442148+00:00,sim128[28887]:,chat,4,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,"(253,394)"
+2012-07-02T03:23:25.223470+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,"so, if that's what it means, it might make about 3,400 .... unless the chart means 13 cents for just 1 m3"
+2012-07-02T03:24:13.506004+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,"then you make like 2,999,750  .... hmm see I have no idea how you calculate it? :)"
+2012-07-02T03:24:43.817102+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,"oops, cents, ....  that's 29,997.50"
+2012-07-02T03:26:07.840152+00:00,sim128[28887]:,chat,4,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,It appears to be unprofitable
+2012-07-02T03:26:50.931845+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,we will see I guess
+2012-07-02T03:27:09.505752+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,let it keep going to be sure
+2012-07-02T03:29:15.571027+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,it stopped?
+2012-07-02T03:29:45.635440+00:00,sim128[28887]:,chat,4,173.55.26.75,Hi-Desert Transport,2,Hi-Desert Transport,Yes. it says no route
+2012-07-02T03:31:07.491100+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,any idea why?  try waypoints closby to see how far it gets maybe (that's what I do)
+2012-07-02T03:32:01.426001+00:00,sim128[28887]:,connect,7,173.55.26.75,Client#7
+2012-07-02T03:33:04.798074+00:00,sim128[28887]:,connect,8,173.55.26.75,Client#8
+2012-07-02T03:36:10.164482+00:00,sim128[28887]:,chat,8,173.55.26.75,Client#8,2,Hi-Desert Transport,Got it going
+2012-07-02T03:36:22.782492+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,I see. good :)
+2012-07-02T03:39:37.437849+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,subtract about 20 or 19 from that and you get like 15 profit per trip!  :)  right? or?
+2012-07-02T03:39:42.066321+00:00,sim128[28887]:,chat,8,173.55.26.75,Client#8,2,Hi-Desert Transport,Barely profitable
+2012-07-02T03:40:13.183963+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,"really?  wasn't tit losing 20,000 before the new year?  that means 15,000 profit"
+2012-07-02T03:40:32.201776+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,"oh, oops"
+2012-07-02T03:40:48.433288+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,"you are right, the trip back will put it negative :( :( :("
+2012-07-02T03:40:59.744775+00:00,sim128[28887]:,chat,8,173.55.26.75,Client#8,2,Hi-Desert Transport,It was pushing 20k for oneway
+2012-07-02T03:44:49.187264+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,that is really a shame :(
+2012-07-02T03:45:30.227262+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,OT5 Oil barge might make a profit though.... it has half the maintenance per tile per m3 transported
+2012-07-02T03:45:35.478473+00:00,sim128[28887]:,chat,8,173.55.26.75,Client#8,2,Hi-Desert Transport,there is still hope
+2012-07-02T03:45:41.426848+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,let me try one for you
+2012-07-02T03:47:22.014126+00:00,sim128[28887]:,disconnect,4,173.55.26.75,Hi-Desert Transport
+2012-07-02T03:47:22.014389+00:00,sim128[28887]:,disconnect,7,173.55.26.75,Client#7
+2012-07-02T03:47:22.014646+00:00,sim128[28887]:,disconnect,8,173.55.26.75,Client#8
+2012-07-02T03:47:48.647809+00:00,sim128[28887]:,connect,4,173.55.26.75,Client#8
+2012-07-02T03:48:20.391134+00:00,sim128[28887]:,chat,6,98.251.79.180,Client#5,9,A-Train Transit,"I set the other 2 type of oil tankers to go down there, we can see how much they make/lost"
+2012-07-02T03:48:55.795238+00:00,sim128[28887]:,chat,4,173.55.26.75,Client#8,2,Hi-Desert Transport,I am also setting up a line as well
+2012-07-02T03:56:23.338583+00:00,sim128[28887]:,disconnect,4,173.55.26.75,Client#8
+2012-07-02T03:56:50.643089+00:00,sim128[28887]:,connect,4,173.55.26.75,Client#8
+2012-07-02T03:57:41.362367+00:00,sim128[28887]:,connect,7,189.104.129.147,Cinho
+2012-07-02T03:57:49.774315+00:00,sim128[28887]:,disconnect,7,189.104.129.147,Cinho
+2012-07-02T04:10:04.018030+00:00,sim128[28887]:,disconnect,4,173.55.26.75,Client#8
+2012-07-02T04:10:37.033992+00:00,sim128[28887]:,connect,4,173.55.26.75,Client#8
+2012-07-02T04:10:44.084879+00:00,sim128[28887]:,disconnect,4,173.55.26.75,Client#8
+2012-07-02T04:11:16.900750+00:00,sim128[28887]:,connect,4,173.55.26.75,Client#8
+2012-07-02T04:13:50.032993+00:00,sim128[28887]:,disconnect,4,173.55.26.75,Client#8
+2012-07-02T04:16:45.570927+00:00,sim128[28887]:,connect,4,98.251.79.180,Client#5
+2012-07-02T04:17:45.906873+00:00,sim128[28887]:,connect,7,173.55.26.75,Client#8
+2012-07-02T04:17:46.096433+00:00,sim128[28887]:,disconnect,6,98.251.79.180,Client#5
+2012-07-02T04:19:38.830592+00:00,sim128[28887]:,chat,7,173.55.26.75,Client#8,2,Hi-Desert Transport,A-train?
+2012-07-02T04:19:49.822137+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,hi
+2012-07-02T04:20:09.395736+00:00,sim128[28887]:,chat,7,173.55.26.75,Client#8,2,Hi-Desert Transport,Did your ships produce a profit?
+2012-07-02T04:20:20.262805+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,they haven't gotten there yet :)
+2012-07-02T04:20:55.565370+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"both are approx halfway ... on is -3.1k, the other -4.7 k"
+2012-07-02T04:21:54.139912+00:00,sim128[28887]:,chat,7,173.55.26.75,Client#8,2,Hi-Desert Transport,"Well, i set up a line using two modes of transport, and the ship part of the line produced a profit"
+2012-07-02T04:22:13.854520+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,"oh, did you cut out the long loop around those cities?"
+2012-07-02T04:22:38.049460+00:00,sim128[28887]:,chat,7,173.55.26.75,Client#8,2,Hi-Desert Transport,Yes
+2012-07-02T04:23:40.101002+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,good spot/choice
+2012-07-02T04:24:15.379253+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,you might be able to run a train at profit that distance
+2012-07-02T04:24:36.304058+00:00,sim128[28887]:,chat,7,173.55.26.75,Client#8,2,Hi-Desert Transport,Sounds like a project for another time
+2012-07-02T04:24:41.899463+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,but maybe not worth the risk now :)
+2012-07-02T04:25:05.994444+00:00,sim128[28887]:,chat,7,173.55.26.75,Client#8,2,Hi-Desert Transport,"True, well i have to go"
+2012-07-02T04:25:38.677439+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,you might find me on on wednesdays and sundays (that's how it's in the past few weeks at least; don't know if it will stay tha tway)
+2012-07-02T04:26:20.702554+00:00,sim128[28887]:,chat,7,173.55.26.75,Client#8,2,Hi-Desert Transport,Im on most afternoons (PST time)
+2012-07-02T04:27:02.977760+00:00,sim128[28887]:,chat,7,173.55.26.75,Client#8,2,Hi-Desert Transport,bye
+2012-07-02T04:27:06.903508+00:00,sim128[28887]:,disconnect,7,173.55.26.75,Client#8
+2012-07-02T04:27:07.834450+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,bye
+2012-07-02T04:27:33.937195+00:00,sim128[28887]:,chat,4,98.251.79.180,Client#5,9,A-Train Transit,you can always leave notes on the map too
+2012-07-02T04:33:46.059448+00:00,sim128[4498]:,connect,4,98.251.79.180,Client#5
+2012-07-02T04:47:36.748733+00:00,sim128[4498]:,disconnect,4,98.251.79.180,Client#5
+2012-07-02T04:47:45.262811+00:00,sim128[4498]:,connect,5,109.212.149.102,Fr-N
+2012-07-02T07:00:11.349214+00:00,sim128[4498]:,connect,4,188.22.171.137,Hundling
+2012-07-02T07:13:47.372694+00:00,sim128[4498]:,connect,6,180.214.233.38,"surasa "
+2012-07-02T07:13:47.547746+00:00,sim128[4498]:,disconnect,5,109.212.149.102,Fr-N
+2012-07-02T07:15:19.426303+00:00,sim128[4498]:,disconnect,6,180.214.233.38,"surasa "
+2012-07-02T07:27:30.120053+00:00,sim128[4498]:,connect,5,188.22.171.137,Hundling
+2012-07-02T07:44:14.564474+00:00,sim128[4498]:,connect,6,188.22.171.137,Hundling
+2012-07-02T07:45:15.483548+00:00,sim128[4498]:,connect,7,188.22.171.137,Hundling
+2012-07-02T07:54:21.478664+00:00,sim128[4498]:,connect,8,188.22.171.137,Hundling
+2012-07-02T08:54:13.692792+00:00,sim128[4498]:,disconnect,4,188.22.171.137,Hundling
+2012-07-02T08:54:13.692834+00:00,sim128[4498]:,disconnect,5,188.22.171.137,Hundling
+2012-07-02T08:54:13.693115+00:00,sim128[4498]:,disconnect,6,188.22.171.137,Hundling
+2012-07-02T08:54:13.693335+00:00,sim128[4498]:,disconnect,7,188.22.171.137,Hundling
+2012-07-02T08:54:13.693587+00:00,sim128[4498]:,disconnect,8,188.22.171.137,Hundling
+2012-07-02T10:07:29.501623+00:00,sim128[4498]:,connect,4,188.22.171.137,Hundling
+2012-07-02T11:01:15.042608+00:00,sim128[4498]:,disconnect,4,188.22.171.137,Hundling
+2012-07-02T11:01:24.120858+00:00,sim128[4498]:,connect,5,188.22.171.137,Hundling
+2012-07-02T11:06:42.759599+00:00,sim128[4498]:,connect,4,188.22.171.137,Hundling
+2012-07-02T11:48:25.644058+00:00,sim128[4498]:,connect,6,188.22.171.137,Hundling
+2012-07-02T12:33:19.172875+00:00,sim128[4498]:,connect,7,188.22.171.137,Hundling
+2012-07-02T14:02:25.057894+00:00,sim128[4498]:,disconnect,4,188.22.171.137,Hundling
+2012-07-02T14:02:25.057926+00:00,sim128[4498]:,disconnect,5,188.22.171.137,Hundling
+2012-07-02T14:02:25.057947+00:00,sim128[4498]:,disconnect,6,188.22.171.137,Hundling
+2012-07-02T14:02:25.058071+00:00,sim128[4498]:,disconnect,7,188.22.171.137,Hundling
+2012-07-02T14:02:49.472708+00:00,sim128[4498]:,connect,8,177.84.34.38,jogador 13
+2012-07-02T14:06:11.536469+00:00,sim128[4498]:,connect,4,77.242.81.206,Client#4
+2012-07-02T14:06:54.272829+00:00,sim128[4498]:,disconnect,8,177.84.34.38,jogador 13
+2012-07-02T14:07:37.852795+00:00,sim128[4498]:,connect,5,109.212.149.102,Fr-N
+2012-07-02T14:16:33.626706+00:00,sim128[4498]:,disconnect,4,77.242.81.206,Client#4
+2012-07-02T14:18:04.652439+00:00,sim128[4498]:,connect,4,178.41.163.93,Client#8
+2012-07-02T14:25:24.465253+00:00,sim128[4498]:,disconnect,4,178.41.163.93,Client#8
+2012-07-02T14:43:31.880416+00:00,sim128[4498]:,connect,4,177.84.34.38,jogador 13
+2012-07-02T14:47:48.734870+00:00,sim128[4498]:,disconnect,5,109.212.149.102,Fr-N
+2012-07-02T14:48:06.025388+00:00,sim128[4498]:,connect,5,109.212.149.102,Fr-N
+2012-07-02T18:35:38.654237+00:00,sim128[4498]:,disconnect,4,177.84.34.38,jogador 13
+2012-07-02T18:35:38.654272+00:00,sim128[4498]:,disconnect,5,109.212.149.102,Fr-N
+2012-07-02T18:35:48.675628+00:00,sim128[4498]:,connect,6,109.212.149.102,Fr-N
+2012-07-02T18:42:44.083364+00:00,sim128[4498]:,connect,4,98.251.79.180,Client#5
+2012-07-02T18:44:25.202674+00:00,sim128[4498]:,connect,5,82.158.116.97,Client#6
+2012-07-02T19:02:17.338417+00:00,sim128[4498]:,disconnect,4,98.251.79.180,Client#5
+2012-07-02T19:02:17.338687+00:00,sim128[4498]:,disconnect,6,109.212.149.102,Fr-N
+2012-07-02T19:02:32.080532+00:00,sim128[4498]:,connect,4,98.251.79.180,Client#5
+2012-07-02T19:02:48.874862+00:00,sim128[4498]:,connect,6,109.212.149.102,Fr-N
+2012-07-02T19:08:14.862666+00:00,sim128[4498]:,connect,7,188.23.240.99,Client#7
+2012-07-02T19:11:31.000827+00:00,sim128[4498]:,disconnect,4,98.251.79.180,Client#5
+2012-07-02T19:13:12.116517+00:00,sim128[4498]:,disconnect,7,188.23.240.99,Client#7
+2012-07-02T19:18:13.877679+00:00,sim128[4498]:,disconnect,6,109.212.149.102,Fr-N
+2012-07-02T19:19:56.251615+00:00,sim128[4498]:,connect,4,98.251.79.180,Client#5
+2012-07-02T19:20:46.868347+00:00,sim128[4498]:,disconnect,5,82.158.116.97,Client#6
+2012-07-02T19:35:09.104627+00:00,sim128[4498]:,connect,5,109.212.149.102,Fr-N
+2012-07-02T19:36:03.318909+00:00,sim128[4498]:,disconnect,5,109.212.149.102,Fr-N
+2012-07-02T19:46:46.145322+00:00,sim128[4498]:,connect,5,98.251.79.180,Client#5
+2012-07-02T20:25:38.670221+00:00,sim128[4498]:,connect,6,82.158.116.97,Client#6
+2012-07-02T20:25:38.875886+00:00,sim128[4498]:,disconnect,4,98.251.79.180,Client#5
+2012-07-02T20:46:45.004940+00:00,sim128[4498]:,disconnect,6,82.158.116.97,Client#6
+2012-07-02T20:55:07.966141+00:00,sim128[4498]:,connect,4,109.212.149.102,Fr-N
+2012-07-02T21:27:40.220993+00:00,sim128[4498]:,disconnect,5,98.251.79.180,Client#5
+2012-07-02T21:30:34.138603+00:00,sim128[4498]:,disconnect,4,109.212.149.102,Fr-N
+2012-07-02T22:46:07.986813+00:00,sim128[4498]:,connect,4,98.251.79.180,Client#5

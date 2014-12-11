@@ -1,0 +1,76 @@
+2012-08-22T00:29:10.474600+00:00,sim128[26050]:,disconnect,5,189.110.144.45,Eric Costa Marques
+2012-08-22T00:32:27.065227+00:00,sim128[26050]:,connect,4,189.110.144.45,Eric Costa Marques
+2012-08-22T01:04:37.723692+00:00,sim128[26050]:,connect,5,98.251.79.180,Client#6
+2012-08-22T01:06:13.715720+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,eric?
+2012-08-22T01:06:46.309097+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,im here...
+2012-08-22T01:07:17.792163+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,"do you know how to turn on ""show station coverage""?"
+2012-08-22T01:07:44.666081+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,yes
+2012-08-22T01:08:07.741750+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,"let me show you something...  at (452,162)"
+2012-08-22T01:08:14.989615+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,look underground
+2012-08-22T01:08:45.581562+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,"that is your station in exeter, but see it only covers a small part of the city"
+2012-08-22T01:09:12.357099+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,do you see?
+2012-08-22T01:09:16.982682+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,I can take the rest...
+2012-08-22T01:09:24.941320+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,"wait, let me show you...."
+2012-08-22T01:09:27.465955+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,yes...
+2012-08-22T01:09:47.991376+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,"if you build a station at (452,162) above groudn it is public.... like this"
+2012-08-22T01:10:01.544823+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,see?
+2012-08-22T01:10:41.331995+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,yes...
+2012-08-22T01:10:54.496047+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,"now, you can build your own station nearby like this (459,162) and make a bus to it"
+2012-08-22T01:11:12.484264+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"because of that, I will avoid to build above it...]]"
+2012-08-22T01:11:18.621953+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,this way you can get areas not covered by the current station AND have busses too!
+2012-08-22T01:11:51.391702+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,thank-you by the tip...
+2012-08-22T01:12:04.064356+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,"so you would run a bus from the new station on top to exerter marketplace stop, make sense?"
+2012-08-22T01:12:43.520034+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"tomorrow I will create that line and change others, this means that my CENTRAL HUB will be less congested..."
+2012-08-22T01:13:08.258250+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,that public station IS your center hub
+2012-08-22T01:13:15.002299+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,NO
+2012-08-22T01:13:23.620978+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,"yes it is, check the info on it"
+2012-08-22T01:13:37.106470+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"look at (508,27)"
+2012-08-22T01:13:52.331357+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,"(452,162) is Oveido Central stop"
+2012-08-22T01:13:56.261347+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,This is MY central Hub
+2012-08-22T01:14:37.519153+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,"OK , but MY MAIN stop isd the one I have shown to you..."
+2012-08-22T01:15:03.268990+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,why do you want to send passengers there?  for extra money?
+2012-08-22T01:15:39.950232+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,To have EVERYTHING passing by there...
+2012-08-22T01:15:50.123081+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Is my dream...
+2012-08-22T01:17:00.223427+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,Good Night
+2012-08-22T01:17:08.663581+00:00,sim128[26050]:,chat,4,189.110.144.45,Eric Costa Marques,4,TRANSERIC,I will sleep
+2012-08-22T01:17:14.860647+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,9,A-Train,bye
+2012-08-22T01:30:43.878204+00:00,sim128[26050]:,disconnect,5,98.251.79.180,Client#6
+2012-08-22T01:31:05.610805+00:00,sim128[26050]:,connect,5,98.251.79.180,Client#6
+2012-08-22T01:32:37.835983+00:00,sim128[26050]:,disconnect,4,189.110.144.45,Eric Costa Marques
+2012-08-22T01:53:36.174400+00:00,sim128[26050]:,connect,4,98.251.79.180,Client#6
+2012-08-22T02:01:12.458129+00:00,sim128[26050]:,disconnect,4,98.251.79.180,Client#6
+2012-08-22T02:01:12.458277+00:00,sim128[26050]:,disconnect,5,98.251.79.180,Client#6
+2012-08-22T02:01:28.659818+00:00,sim128[26050]:,connect,6,98.251.79.180,Client#6
+2012-08-22T08:34:12.991789+00:00,sim128[26050]:,connect,4,188.22.169.244,Hundling
+2012-08-22T11:02:04.492581+00:00,sim128[26050]:,connect,5,188.22.169.244,Hundling
+2012-08-22T14:33:02.698216+00:00,sim128[26050]:,disconnect,4,188.22.169.244,Hundling
+2012-08-22T14:33:02.698261+00:00,sim128[26050]:,disconnect,5,188.22.169.244,Hundling
+2012-08-22T14:33:02.698288+00:00,sim128[26050]:,disconnect,6,98.251.79.180,Client#6
+2012-08-22T14:33:36.517239+00:00,sim128[26050]:,connect,4,95.103.105.175,Client#12
+2012-08-22T15:55:47.339049+00:00,sim128[26050]:,disconnect,4,95.103.105.175,Client#12
+2012-08-22T15:56:03.275479+00:00,sim128[26050]:,connect,5,79.184.119.11,Mihu
+2012-08-22T16:00:43.483034+00:00,sim128[26050]:,chat,5,79.184.119.11,Mihu,15,,Hello everybody! Could you tell me how can I get a slot??
+2012-08-22T16:02:34.210398+00:00,sim128[26050]:,connect,4,201.95.134.87,Eric Costa Marques
+2012-08-22T16:03:08.475334+00:00,sim128[26050]:,disconnect,5,79.184.119.11,Mihu
+2012-08-22T16:14:39.313551+00:00,sim128[26050]:,chat,4,201.95.134.87,Eric Costa Marques,4,TRANSERIC,"A-Train, I ned a foavor from you..."
+2012-08-22T16:15:37.160205+00:00,sim128[26050]:,chat,4,201.95.134.87,Eric Costa Marques,4,TRANSERIC,"* I need you to destroy the 484,25 (train-rail), please..."
+2012-08-22T16:23:03.549224+00:00,sim128[26050]:,chat,4,201.95.134.87,Eric Costa Marques,4,TRANSERIC,I will be back between 19:00~20:00 (GMT+3)
+2012-08-22T16:36:43.526396+00:00,sim128[26050]:,connect,5,187.10.215.104,Client#5
+2012-08-22T16:44:39.960899+00:00,sim128[26050]:,connect,6,189.110.144.154,Client#6
+2012-08-22T16:51:09.320732+00:00,sim128[26050]:,disconnect,4,201.95.134.87,Eric Costa Marques
+2012-08-22T16:54:52.185743+00:00,sim128[26050]:,disconnect,5,187.10.215.104,Client#5
+2012-08-22T17:39:02.502039+00:00,sim128[26050]:,connect,4,217.225.246.164,Spenk009
+2012-08-22T17:55:19.410752+00:00,sim128[26050]:,connect,5,90.15.135.26,FR-N
+2012-08-22T18:14:01.007214+00:00,sim128[26050]:,connect,7,212.114.250.249,Fritzlboa
+2012-08-22T18:15:36.397492+00:00,sim128[26050]:,connect,8,90.15.135.26,FR-N
+2012-08-22T18:15:37.683470+00:00,sim128[26050]:,disconnect,4,217.225.246.164,Spenk009
+2012-08-22T18:15:37.683506+00:00,sim128[26050]:,disconnect,5,90.15.135.26,FR-N
+2012-08-22T18:15:37.683743+00:00,sim128[26050]:,disconnect,6,189.110.144.154,Client#6
+2012-08-22T18:16:46.980993+00:00,sim128[26050]:,disconnect,7,212.114.250.249,Fritzlboa
+2012-08-22T19:23:58.029576+00:00,sim128[26050]:,connect,4,90.15.135.26,FR-N
+2012-08-22T21:50:08.491075+00:00,sim128[26050]:,connect,5,98.251.79.180,Client#6
+2012-08-22T21:50:59.681036+00:00,sim128[26050]:,chat,5,98.251.79.180,Client#6,15,,"if you want a slot to play the game, read the message at (500,0) on the map"
+2012-08-22T22:28:32.218007+00:00,sim128[26050]:,connect,6,98.251.79.180,Client#6
+2012-08-22T22:29:30.042666+00:00,sim128[26050]:,connect,7,98.251.79.180,Client#6
+2012-08-22T22:57:45.604048+00:00,sim128[26050]:,connect,9,98.251.79.180,Client#6
+2012-08-22T23:15:47.906251+00:00,sim128[26050]:,connect,10,98.251.79.180,Client#6

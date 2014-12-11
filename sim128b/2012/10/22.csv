@@ -1,0 +1,53 @@
+2012-10-22T01:39:50.557905+00:00,sim128b[21423]:,connect,6,98.251.79.180,Client#5
+2012-10-22T10:58:57.536932+00:00,sim128b[21423]:,connect,7,62.47.241.141,Hundling
+2012-10-22T13:15:25.344805+00:00,sim128b[21423]:,connect,8,94.217.27.84,Hmniak
+2012-10-22T14:25:14.269597+00:00,sim128b[21423]:,disconnect,2,98.251.79.180,Client#5
+2012-10-22T14:25:14.269628+00:00,sim128b[21423]:,disconnect,3,98.251.79.180,Client#5
+2012-10-22T14:25:14.269650+00:00,sim128b[21423]:,disconnect,4,98.251.79.180,Client#5
+2012-10-22T14:25:14.269670+00:00,sim128b[21423]:,disconnect,5,98.251.79.180,Client#5
+2012-10-22T14:25:14.269691+00:00,sim128b[21423]:,disconnect,6,98.251.79.180,Client#5
+2012-10-22T14:25:14.269711+00:00,sim128b[21423]:,disconnect,7,62.47.241.141,Hundling
+2012-10-22T14:25:14.269804+00:00,sim128b[21423]:,disconnect,8,94.217.27.84,Hmniak
+2012-10-22T14:25:22.611933+00:00,sim128b[21423]:,connect,9,81.108.18.218,Joshua
+2012-10-22T15:14:59.141530+00:00,sim128b[21423]:,connect,2,85.216.236.24,Client#2
+2012-10-22T17:03:49.227808+00:00,sim128b[21423]:,connect,3,200.222.91.18,Client#3
+2012-10-22T17:06:53.547889+00:00,sim128b[21423]:,connect,4,200.222.91.18,Client#3
+2012-10-22T18:50:36.752677+00:00,sim128b[21423]:,disconnect,2,85.216.236.24,Client#2
+2012-10-22T18:50:36.752750+00:00,sim128b[21423]:,disconnect,3,200.222.91.18,Client#3
+2012-10-22T18:50:36.752824+00:00,sim128b[21423]:,disconnect,4,200.222.91.18,Client#3
+2012-10-22T18:50:36.752940+00:00,sim128b[21423]:,disconnect,9,81.108.18.218,Joshua
+2012-10-22T18:50:45.738317+00:00,sim128b[21423]:,connect,5,89.155.122.64,Client#4
+2012-10-22T21:45:36.951649+00:00,sim128b[21423]:,connect,2,98.251.79.180,Client#5
+2012-10-22T23:20:44.872622+00:00,sim128b[21423]:,connect,3,98.251.79.180,Client#5
+2012-10-22T23:21:05.326419+00:00,sim128b[21423]:,connect,4,89.155.122.64,Client#4
+2012-10-22T23:21:05.503691+00:00,sim128b[21423]:,disconnect,2,98.251.79.180,Client#5
+2012-10-22T23:21:05.503755+00:00,sim128b[21423]:,disconnect,5,89.155.122.64,Client#4
+2012-10-22T23:21:19.959229+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,hi
+2012-10-22T23:24:42.993167+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,hi potugal
+2012-10-22T23:25:38.261288+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,did you know you can make your roads public?
+2012-10-22T23:26:38.843085+00:00,sim128b[21423]:,chat,4,89.155.122.64,Client#4,3,"TransPortugal, SA",Yes
+2012-10-22T23:27:12.292680+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"(206,45) roads can go over powerlines.... let me show you"
+2012-10-22T23:27:25.113605+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,see? :)
+2012-10-22T23:28:05.910710+00:00,sim128b[21423]:,chat,4,89.155.122.64,Client#4,3,"TransPortugal, SA",yes
+2012-10-22T23:28:19.076314+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"oh, let me show you something else...."
+2012-10-22T23:28:36.263044+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"(209,23) watch here"
+2012-10-22T23:28:50.933506+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,if you build a flat road like this
+2012-10-22T23:29:05.849515+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"you can go to ""Landscaping Tools"""
+2012-10-22T23:29:19.720727+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,and use the square block to make a slope
+2012-10-22T23:29:55.718962+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,this way you can make flat rods slope up or down
+2012-10-22T23:31:04.170180+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"you go to ""landscaping tools"" and pick the 7th for up and 8 for down  (use it on a road)"
+2012-10-22T23:33:28.835849+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,use road_090_elevated
+2012-10-22T23:33:53.686261+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"the 7th one "
+2012-10-22T23:35:15.037788+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"do you want to build in these cities (78,47)?  I only put stops there to boost factories"
+2012-10-22T23:36:10.714354+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"or maybe this bigger city?  (64,14)?"
+2012-10-22T23:36:19.517599+00:00,sim128b[21423]:,chat,4,89.155.122.64,Client#4,3,"TransPortugal, SA",tomorow yes ok?
+2012-10-22T23:36:47.715552+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"ok, sure you can build stops there...  "
+2012-10-22T23:37:00.241864+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"after I see your stops, I can remove mine"
+2012-10-22T23:37:35.323173+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,or if you want to build right now I can remove my stops now
+2012-10-22T23:42:07.049444+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"careful, you are almost bankrupt"
+2012-10-22T23:42:15.971438+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"watch ""Net Wealth"""
+2012-10-22T23:48:28.916987+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,transportugal. are you going to ship any goods later?
+2012-10-22T23:49:10.958633+00:00,sim128b[21423]:,chat,4,89.155.122.64,Client#4,3,"TransPortugal, SA",i don't understand
+2012-10-22T23:49:37.872690+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,goods = not passenger & mail  ... things like oil or coal or milk
+2012-10-22T23:50:29.494294+00:00,sim128b[21423]:,chat,4,89.155.122.64,Client#4,3,"TransPortugal, SA","not for now, I'm sleepy."
+2012-10-22T23:50:37.902303+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,oh

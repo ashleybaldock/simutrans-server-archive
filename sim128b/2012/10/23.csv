@@ -1,0 +1,71 @@
+2012-10-23T00:13:59.582523+00:00,sim128b[21423]:,disconnect,4,89.155.122.64,Client#4
+2012-10-23T09:19:44.749214+00:00,sim128b[21423]:,disconnect,3,98.251.79.180,Client#5
+2012-10-23T09:19:53.203358+00:00,sim128b[21423]:,connect,2,89.155.122.64,Client#4
+2012-10-23T09:41:14.515158+00:00,sim128b[21423]:,connect,3,89.155.122.64,Client#4
+2012-10-23T09:42:00.211918+00:00,sim128b[21423]:,disconnect,2,89.155.122.64,Client#4
+2012-10-23T09:42:00.211956+00:00,sim128b[21423]:,disconnect,3,89.155.122.64,Client#4
+2012-10-23T09:42:12.728749+00:00,sim128b[21423]:,connect,2,89.155.122.64,Client#4
+2012-10-23T09:43:07.395508+00:00,sim128b[21423]:,connect,3,89.155.122.64,Client#4
+2012-10-23T09:59:49.282013+00:00,sim128b[21423]:,connect,4,89.155.122.64,Client#4
+2012-10-23T11:12:31.806631+00:00,sim128b[21423]:,disconnect,2,89.155.122.64,Client#4
+2012-10-23T11:12:31.806660+00:00,sim128b[21423]:,disconnect,3,89.155.122.64,Client#4
+2012-10-23T11:12:31.806684+00:00,sim128b[21423]:,disconnect,4,89.155.122.64,Client#4
+2012-10-23T11:12:41.994667+00:00,sim128b[21423]:,connect,5,89.155.122.64,Client#4
+2012-10-23T18:01:37.145934+00:00,sim128b[21423]:,connect,2,89.155.122.64,Client#4
+2012-10-23T18:03:31.864298+00:00,sim128b[21423]:,connect,3,178.190.193.97,Client#3
+2012-10-23T18:03:32.049537+00:00,sim128b[21423]:,disconnect,5,89.155.122.64,Client#4
+2012-10-23T18:06:20.225294+00:00,sim128b[21423]:,disconnect,3,178.190.193.97,Client#3
+2012-10-23T18:15:42.604869+00:00,sim128b[21423]:,connect,3,98.251.79.180,Client#5
+2012-10-23T18:48:28.184145+00:00,sim128b[21423]:,chat,2,89.155.122.64,Client#4,3,"TransPortugal, SA",How to make a cargo airport?
+2012-10-23T18:48:53.713869+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,you must add a tile that allows cargo....
+2012-10-23T18:49:04.619577+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"go to ""special construction tools"""
+2012-10-23T18:49:15.916965+00:00,sim128b[21423]:,chat,2,89.155.122.64,Client#4,3,"TransPortugal, SA","ok, thanks"
+2012-10-23T18:49:18.458273+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,the 3rd one is a cheap cargo tile
+2012-10-23T18:49:46.739114+00:00,sim128b[21423]:,disconnect,2,89.155.122.64,Client#4
+2012-10-23T18:50:08.581268+00:00,sim128b[21423]:,connect,2,89.155.122.64,Client#4
+2012-10-23T18:55:30.149814+00:00,sim128b[21423]:,chat,2,89.155.122.64,Client#4,3,"TransPortugal, SA","in (175,292,1)..."
+2012-10-23T18:55:40.935795+00:00,sim128b[21423]:,chat,2,89.155.122.64,Client#4,3,"TransPortugal, SA",what the problem?
+2012-10-23T18:56:10.698031+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"the other side of the line, it's not a station"
+2012-10-23T18:56:56.378352+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"(303,394)"
+2012-10-23T18:57:59.096251+00:00,sim128b[21423]:,chat,2,89.155.122.64,Client#4,3,"TransPortugal, SA",thanks!!
+2012-10-23T18:58:04.624730+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,sure
+2012-10-23T18:59:25.609278+00:00,sim128b[21423]:,chat,2,89.155.122.64,Client#4,3,"TransPortugal, SA",There is someone to take the materials to the factory?
+2012-10-23T18:59:50.705371+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,nobody is shipping glass. you need to add glass
+2012-10-23T19:00:48.861057+00:00,sim128b[21423]:,chat,2,89.155.122.64,Client#4,3,"TransPortugal, SA",and grains?
+2012-10-23T19:01:04.664773+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"no, I am sending grain, so you don't have to worry about that"
+2012-10-23T19:06:04.184921+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,you can fly glass (bulk good)
+2012-10-23T19:06:23.725783+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,that means you can pick a glass mill far away and fly it far.... if you want
+2012-10-23T19:06:46.125588+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,flying far = lots of money too :)
+2012-10-23T19:07:56.396756+00:00,sim128b[21423]:,disconnect,3,98.251.79.180,Client#5
+2012-10-23T19:08:22.426130+00:00,sim128b[21423]:,connect,3,98.251.79.180,Client#5
+2012-10-23T19:11:08.720770+00:00,sim128b[21423]:,disconnect,2,89.155.122.64,Client#4
+2012-10-23T19:11:49.901544+00:00,sim128b[21423]:,connect,2,89.155.122.64,Client#4
+2012-10-23T19:12:53.997573+00:00,sim128b[21423]:,disconnect,2,89.155.122.64,Client#4
+2012-10-23T19:13:07.182570+00:00,sim128b[21423]:,connect,2,89.155.122.64,Client#4
+2012-10-23T19:13:20.010197+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"here is another: (136,228)"
+2012-10-23T19:17:00.036364+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,might I suggest....
+2012-10-23T19:17:29.988848+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"put a water station at 152,250.... then a station at 153,250"
+2012-10-23T19:17:37.348173+00:00,sim128b[21423]:,chat,2,89.155.122.64,Client#4,3,"TransPortugal, SA","can you electric line in (158,283,1)?"
+2012-10-23T19:17:49.426965+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"send your trucks to 153,250 and you won't have to cross the water"
+2012-10-23T19:18:11.453799+00:00,sim128b[21423]:,chat,2,89.155.122.64,Client#4,3,"TransPortugal, SA","in (175,292,1), sorry"
+2012-10-23T19:19:43.408181+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"it has power now... "
+2012-10-23T19:20:24.978837+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"oh make (153,250) a road stop"
+2012-10-23T19:20:40.787359+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"use the ""parking"""
+2012-10-23T19:21:24.967867+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"I sometimes use this to make a road station ""parking"""
+2012-10-23T19:25:36.684847+00:00,sim128b[21423]:,connect,4,85.216.236.24,Client#2
+2012-10-23T19:26:16.311252+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"""Special Construction Tools"" > ""Public Halt"" will make roads and rivers public"
+2012-10-23T19:26:27.507371+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,just be careful not to click on your stations :)
+2012-10-23T19:27:53.513161+00:00,sim128b[21423]:,chat,2,89.155.122.64,Client#4,3,"TransPortugal, SA","thanks. You is the ""nerd"" of Simutrans? :o"
+2012-10-23T19:29:30.908383+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,I make roads public so people can move them if thye need too
+2012-10-23T19:31:56.840032+00:00,sim128b[21423]:,chat,2,89.155.122.64,Client#4,3,"TransPortugal, SA",the electric line isn't in use
+2012-10-23T19:32:17.820686+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"yes, because the factory is not producing enough"
+2012-10-23T19:32:34.037529+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,it only uses electricity if the factory has a lot of goods
+2012-10-23T19:34:32.874006+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,"oh sorry, the powerline is not connected :)"
+2012-10-23T19:34:54.165208+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,it works now!
+2012-10-23T19:34:59.970657+00:00,sim128b[21423]:,chat,2,89.155.122.64,Client#4,3,"TransPortugal, SA",ok! Lol
+2012-10-23T19:36:08.835621+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,I don't know what this other player is doing
+2012-10-23T19:36:19.844534+00:00,sim128b[21423]:,chat,3,98.251.79.180,Client#5,7,PSK & Co KG,all he does is come online and build roads and leaves
+2012-10-23T19:38:15.857645+00:00,sim128b[21423]:,disconnect,2,89.155.122.64,Client#4
+2012-10-23T19:38:28.975735+00:00,sim128b[21423]:,disconnect,4,85.216.236.24,Client#2
+2012-10-23T20:09:17.438486+00:00,sim128b[21423]:,connect,2,98.251.79.180,Client#5
+2012-10-23T22:30:17.881151+00:00,sim128b[21423]:,connect,4,98.251.79.180,Client#5

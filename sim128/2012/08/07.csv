@@ -1,0 +1,212 @@
+2012-08-07T00:05:01.408786+00:00,sim128[19583]:,connect,5,98.251.79.180,Client#8
+2012-08-07T03:08:31.684334+00:00,sim128[19583]:,connect,6,98.251.79.180,Client#8
+2012-08-07T03:10:52.717825+00:00,sim128[19583]:,chat,6,98.251.79.180,Client#8,15,,"new players, if you want an account, read the messge at (500,0) on the map"
+2012-08-07T03:50:57.182863+00:00,sim128[19583]:,disconnect,4,98.251.79.180,Client#8
+2012-08-07T03:50:57.183135+00:00,sim128[19583]:,disconnect,5,98.251.79.180,Client#8
+2012-08-07T03:50:57.183380+00:00,sim128[19583]:,disconnect,6,98.251.79.180,Client#8
+2012-08-07T03:50:57.183627+00:00,sim128[19583]:,disconnect,7,98.251.79.180,Client#8
+2012-08-07T10:35:49.769983+00:00,sim128[19583]:,connect,4,95.247.62.24,Client#4
+2012-08-07T10:57:39.381752+00:00,sim128[19583]:,connect,5,91.127.29.215,Client#12
+2012-08-07T11:05:55.798960+00:00,sim128[19583]:,disconnect,5,91.127.29.215,Client#12
+2012-08-07T11:25:39.215120+00:00,sim128[19583]:,connect,5,91.127.29.215,Client#12
+2012-08-07T11:33:54.393289+00:00,sim128[19583]:,disconnect,5,91.127.29.215,Client#12
+2012-08-07T11:50:03.032494+00:00,sim128[19583]:,disconnect,4,95.247.62.24,Client#4
+2012-08-07T13:27:35.925054+00:00,sim128[19583]:,connect,4,95.247.62.24,Client#4
+2012-08-07T13:40:21.489513+00:00,sim128[19583]:,connect,5,190.18.174.85,Polera
+2012-08-07T13:47:13.865192+00:00,sim128[19583]:,disconnect,5,190.18.174.85,Polera
+2012-08-07T16:40:43.275910+00:00,sim128[19583]:,connect,5,98.251.79.180,Client#8
+2012-08-07T16:53:04.230520+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,"hello, yorkeiser!!!!!!!    :)"
+2012-08-07T16:56:11.410976+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,Hi ;)
+2012-08-07T16:57:03.671069+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,"where's your airport at?  "
+2012-08-07T16:57:44.061088+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,"oh, there it is :)"
+2012-08-07T16:57:56.382316+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"485,269"
+2012-08-07T16:58:19.381448+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,did you know you can make your roads public to save on maintenance?  but careful not to click on same tile as your stations
+2012-08-07T16:58:52.341422+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,I know very well
+2012-08-07T16:59:20.143608+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,i'm not letting anything public til now cause I don't know if this company survives
+2012-08-07T16:59:57.025698+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"If it survives, I'll let roads and main stations public"
+2012-08-07T17:00:35.423935+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"even if you need any road to be public, ask for it"
+2012-08-07T17:00:42.106692+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,you don't have to make stations public since they can't ever be deleted.... but public roads can be deleted if needed
+2012-08-07T17:01:20.707114+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"oh, server maintainer can delete anything if he wants :)"
+2012-08-07T17:01:37.856411+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"however, i'll let roads public, no problem"
+2012-08-07T17:01:40.761343+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,"server maintainer does not come to this server, so public stations are permanent here"
+2012-08-07T17:03:58.425833+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,are you gonna try to connect all those random factories? :)
+2012-08-07T17:04:40.430119+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,I see other players dont worry about paxs from factories
+2012-08-07T17:04:56.495819+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,so I'll try to let people go to work ;)
+2012-08-07T17:06:10.586260+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"however, it's not randomic"
+2012-08-07T17:08:10.121214+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,it's just a saying... the factories are placed randomly around the cities/map
+2012-08-07T17:09:20.018306+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"yes, but only few of them are have a good pax level"
+2012-08-07T17:09:46.031161+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"if you connect them randomly, you go bankrupt in a pair of months :)"
+2012-08-07T17:10:30.335248+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,are you the one in the NW zone of the map?
+2012-08-07T17:10:43.660939+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,yeah
+2012-08-07T17:11:08.936435+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"uh very good, you own most of map"
+2012-08-07T17:11:54.753827+00:00,sim128[19583]:,connect,6,190.80.144.107,wilsontt
+2012-08-07T17:12:21.112503+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,I tried to stay ina  small part of the map so I wouldn't get in the way of other players
+2012-08-07T17:12:36.245990+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"and not only, you have the biggest cities"
+2012-08-07T17:13:04.450512+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,big cities -> pax network -> tons of money ;)
+2012-08-07T17:13:41.381926+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"mmh, I notice you failed: you became quite big :)"
+2012-08-07T17:13:46.421723+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,"most of my cities were small, I just grew them....  not everyone grows cities very well"
+2012-08-07T17:15:44.205897+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"yep, I see many cities with 1 station, in the townhall"
+2012-08-07T17:17:01.490624+00:00,sim128[19583]:,disconnect,6,190.80.144.107,wilsontt
+2012-08-07T17:20:36.947835+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,and I'm in less than 1/5 of the map (less than that for current land area)
+2012-08-07T17:21:38.184854+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,but nobody seems to want to build industry anymore (which is odd since they liked industry last map)
+2012-08-07T17:23:54.838597+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,you could build a bunch of cities in empty land and then grow them just like me if you want a big network too
+2012-08-07T17:25:07.959945+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"i know, but this is not the spirit of the game in my opinion"
+2012-08-07T17:25:16.719524+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,I like to grow cities
+2012-08-07T17:25:49.258703+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,"well starting a bunch of empty cities seems ok, since they are really small anyways and new players need them"
+2012-08-07T17:26:29.559887+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"however, i'm happy to see servers with all slots full"
+2012-08-07T17:27:06.129180+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"one or two years ago, we were 3 or 4 players per server :)"
+2012-08-07T17:27:06.189653+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,"this one isn't actually full, the slots just require players to know how to use chat :)"
+2012-08-07T17:27:26.371585+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,"that's what the ""read chat to get this"" is"
+2012-08-07T17:27:47.393977+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,"although, you are right, this one is nearly full now, didn't notice :)"
+2012-08-07T17:27:51.867334+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"yes, I suppose it helps new players"
+2012-08-07T17:28:02.358899+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,"last game, people would take a new slot and then just leave"
+2012-08-07T17:29:12.001530+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,is this server owned by timothy?
+2012-08-07T17:29:35.273431+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,"yes, but he never comes here and never answers email, so your on your own here"
+2012-08-07T17:30:23.203679+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"it's the time for him to start another 128.entropy, or people can't play pak128 online ;)"
+2012-08-07T17:30:46.408669+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"oh well, I suppose he's many things to do"
+2012-08-07T17:31:06.777432+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,12,read chat to get this 11,there's only 1 or 2 slots available now it seems
+2012-08-07T17:33:19.028004+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,the high factory growth setting is a problem though :(  it's just litters the map in no time
+2012-08-07T17:34:31.460484+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"well, but you're already in 2106, the game is in its advanced stage"
+2012-08-07T17:34:51.346100+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"however you're right, there are a little too many"
+2012-08-07T17:35:05.513674+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,"personally, I dont' care about the year, I think it should continue for many more centuries so cities can grow big :)"
+2012-08-07T17:35:18.506873+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,i don't know if this is the standard .ini of 111.2
+2012-08-07T17:35:29.667724+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,maybe if he cut factory growth to 1/5 or 1/10 the current rate
+2012-08-07T17:35:47.678694+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,I think it will be restarted in a few time
+2012-08-07T17:36:15.287178+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"map is full, there are few things left to do if you cannot ""invade"" cities already taken"
+2012-08-07T17:36:34.199401+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,there's lots of empty areas where you can build your own city networks
+2012-08-07T17:36:42.840131+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,and there's more than enough industry
+2012-08-07T17:37:05.540081+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"however i0m with you, i'd play with lower factory growth, and maybe also smaller city growth"
+2012-08-07T17:37:19.064739+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,and let game last for more years
+2012-08-07T17:37:31.456717+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"it would be less ""arcade"""
+2012-08-07T17:37:43.693129+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,"also, a map with more land would be nice... so new players get places to build  (this one does not give players enough room I think)"
+2012-08-07T17:38:09.004101+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"as far as i remember, big maps give performance/reliability issues"
+2012-08-07T17:38:28.022792+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,so yuo get disconnected often cause you loose synchro
+2012-08-07T17:38:29.656520+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,last time I made a bunch of fake land for new players  (and then he reset it after I did all that work) :(
+2012-08-07T17:39:04.719894+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,"oh, no, I meant keep this 512x512, but just more land.... or you mean more land makes it desync?  hmm maybe so"
+2012-08-07T17:39:26.238806+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"no, i undestood bigger size of the map"
+2012-08-07T17:40:06.979392+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,"but if any player raises a bit of land and makes his cities, i don't think timothy will mind"
+2012-08-07T17:40:37.388443+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,actually a few cities on this map were made by players (some by me)
+2012-08-07T17:40:51.417655+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,maybe last time he resetted because something were wrong (maybe server crashed before it could save the gfame..)
+2012-08-07T17:41:00.247528+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,I'm not using any of them (other players are using them)
+2012-08-07T17:41:11.578688+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,cities cost quite much :)
+2012-08-07T17:41:16.623315+00:00,sim128[19583]:,chat,5,98.251.79.180,Client#8,9,A-Train,"yeah, I think it might have been a crash"
+2012-08-07T17:41:24.497104+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,few players here can afford them :)
+2012-08-07T17:42:35.840670+00:00,sim128[19583]:,chat,4,95.247.62.24,Client#4,5,yorkeiser,are you using the empty account to found new cities ?
+2012-08-07T17:43:01.294233+00:00,sim128[19583]:,connect,6,98.251.79.180,Client#8
+2012-08-07T17:43:01.867011+00:00,sim128[19583]:,disconnect,4,95.247.62.24,Client#4
+2012-08-07T17:43:01.867055+00:00,sim128[19583]:,disconnect,5,98.251.79.180,Client#8
+2012-08-07T17:43:30.611693+00:00,sim128[19583]:,connect,7,95.247.62.24,Client#4
+2012-08-07T17:43:50.411174+00:00,sim128[19583]:,connect,4,98.251.79.180,Client#8
+2012-08-07T17:43:50.925881+00:00,sim128[19583]:,disconnect,6,98.251.79.180,Client#8
+2012-08-07T17:44:33.502741+00:00,sim128[19583]:,chat,4,98.251.79.180,Client#8,9,A-Train,empty cities you can pick from :)  build your own network somewhere :)
+2012-08-07T17:45:13.744727+00:00,sim128[19583]:,chat,7,95.247.62.24,Client#4,15,,you desynched the server :=
+2012-08-07T17:45:19.463972+00:00,sim128[19583]:,chat,7,95.247.62.24,Client#4,15,,:)
+2012-08-07T17:45:23.621645+00:00,sim128[19583]:,chat,4,98.251.79.180,Client#8,9,A-Train,"the land is rather messy, but after I spent all that time making nice land on last map I wasn't going to waste my time this map"
+2012-08-07T17:46:05.585901+00:00,sim128[19583]:,chat,7,95.247.62.24,Client#4,15,,"many thanks, i'll wait to raise some money, otherwise i go bankrupt if i build anything other"
+2012-08-07T17:46:24.797873+00:00,sim128[19583]:,chat,4,98.251.79.180,Client#8,9,A-Train,"look at wolverhampton, that was a city I made... and one of the players grew it into something nice"
+2012-08-07T17:47:08.456017+00:00,sim128[19583]:,chat,4,98.251.79.180,Client#8,9,A-Train,it started out small like the others
+2012-08-07T17:50:19.621418+00:00,sim128[19583]:,chat,4,98.251.79.180,Client#8,9,A-Train,"oh, you can build a lot more....  as long as net wealth doesn't go below zero you will be ok"
+2012-08-07T17:50:36.080897+00:00,sim128[19583]:,chat,4,98.251.79.180,Client#8,9,A-Train,"that's why TRANSERIC is in the red, but not bankrupt"
+2012-08-07T17:51:34.441683+00:00,sim128[19583]:,chat,7,95.247.62.24,Client#4,5,yorkeiser,"i know, but my net w is 1 million, too few to start a network"
+2012-08-07T17:51:56.308439+00:00,sim128[19583]:,chat,7,95.247.62.24,Client#4,5,yorkeiser,i'llhave to raise it
+2012-08-07T17:52:09.449864+00:00,sim128[19583]:,chat,4,98.251.79.180,Client#8,9,A-Train,perhaps you could just do busses in the cities you want to build rail later?
+2012-08-07T17:53:30.029902+00:00,sim128[19583]:,chat,7,95.247.62.24,Client#4,5,yorkeiser,i could (i usally start pax networks like that) but it would cost too much to terraform that ground
+2012-08-07T17:53:44.986513+00:00,sim128[19583]:,chat,7,95.247.62.24,Client#4,5,yorkeiser,"there was a nuclear strike, i think :)"
+2012-08-07T17:54:26.759192+00:00,sim128[19583]:,chat,4,98.251.79.180,Client#8,9,A-Train,"sign into ""read chat to get this 11"" and terrform with that one....  I'd appreciate having level ground (I'm sure other players would too) :)"
+2012-08-07T17:55:19.842640+00:00,sim128[19583]:,chat,7,95.247.62.24,Client#4,5,yorkeiser,"if others don't mind, then i'll do"
+2012-08-07T17:55:50.322746+00:00,sim128[19583]:,chat,4,98.251.79.180,Client#8,9,A-Train,"yes, I actually use that account to make that land in the first place so new players have places to build"
+2012-08-07T17:55:54.963365+00:00,sim128[19583]:,chat,7,95.247.62.24,Client#4,5,yorkeiser,"now i have to go eat, thanks for playing ;)"
+2012-08-07T17:56:08.648764+00:00,sim128[19583]:,chat,7,95.247.62.24,Client#4,5,yorkeiser,see you later
+2012-08-07T17:56:18.016006+00:00,sim128[19583]:,chat,4,98.251.79.180,Client#8,9,A-Train,bye
+2012-08-07T17:56:26.148812+00:00,sim128[19583]:,disconnect,7,95.247.62.24,Client#4
+2012-08-07T17:57:10.087024+00:00,sim128[19583]:,chat,4,98.251.79.180,Client#8,9,A-Train,brb
+2012-08-07T17:57:19.747869+00:00,sim128[19583]:,disconnect,4,98.251.79.180,Client#8
+2012-08-07T17:57:31.627435+00:00,sim128[19583]:,connect,5,98.251.79.180,Client#8
+2012-08-07T18:21:25.084066+00:00,sim128[19583]:,disconnect,5,98.251.79.180,Client#8
+2012-08-07T18:21:41.736885+00:00,sim128[19583]:,connect,4,98.251.79.180,Client#8
+2012-08-07T18:44:44.728809+00:00,sim128[12799]:,connect,4,98.251.79.180,Client#8
+2012-08-07T20:42:59.514986+00:00,sim128[12799]:,connect,5,201.95.134.55,Eric
+2012-08-07T21:00:19.901365+00:00,sim128[12799]:,connect,6,201.95.134.55,Eric
+2012-08-07T21:04:47.545826+00:00,sim128[12799]:,connect,7,201.95.134.55,Client#7
+2012-08-07T21:04:48.148193+00:00,sim128[12799]:,disconnect,4,98.251.79.180,Client#8
+2012-08-07T21:04:48.148225+00:00,sim128[12799]:,disconnect,5,201.95.134.55,Eric
+2012-08-07T21:06:11.566065+00:00,sim128[12799]:,disconnect,7,201.95.134.55,Client#7
+2012-08-07T21:06:52.035047+00:00,sim128[12799]:,connect,4,201.95.134.55,Client#7
+2012-08-07T21:20:19.843441+00:00,sim128[12799]:,disconnect,6,201.95.134.55,Eric
+2012-08-07T21:23:21.410001+00:00,sim128[12799]:,connect,5,98.251.79.180,Client#8
+2012-08-07T21:24:46.304174+00:00,sim128[12799]:,chat,5,98.251.79.180,Client#8,15,,"hey eric, I got your trucks moving"
+2012-08-07T21:31:39.589215+00:00,sim128[12799]:,disconnect,4,201.95.134.55,Client#7
+2012-08-07T21:33:38.626617+00:00,sim128[12799]:,disconnect,5,98.251.79.180,Client#8
+2012-08-07T21:34:46.091461+00:00,sim128[12799]:,connect,4,98.251.79.180,Client#8
+2012-08-07T21:39:20.922325+00:00,sim128[12799]:,connect,5,95.247.63.26,Client#4
+2012-08-07T21:39:20.923805+00:00,sim128[12799]:,chat,4,98.251.79.180,Client#8,8,powerStart,"new players, if you want an account to play, read the message at (500,0)"
+2012-08-07T21:39:51.897630+00:00,sim128[12799]:,disconnect,5,95.247.63.26,Client#4
+2012-08-07T21:42:10.820997+00:00,sim128[12799]:,connect,5,95.247.63.26,Client#4
+2012-08-07T21:42:11.839013+00:00,sim128[12799]:,disconnect,4,98.251.79.180,Client#8
+2012-08-07T21:42:28.205098+00:00,sim128[12799]:,connect,4,98.251.79.180,Client#8
+2012-08-07T21:42:28.790947+00:00,sim128[12799]:,disconnect,4,98.251.79.180,Client#8
+2012-08-07T21:42:40.134288+00:00,sim128[12799]:,disconnect,5,95.247.63.26,Client#4
+2012-08-07T21:42:51.767992+00:00,sim128[12799]:,connect,4,98.251.79.180,Client#8
+2012-08-07T21:44:47.905670+00:00,sim128[12799]:,connect,5,95.247.63.26,Client#4
+2012-08-07T21:49:05.299855+00:00,sim128[12799]:,chat,4,98.251.79.180,Client#8,15,,are you gonna level land now?
+2012-08-07T21:51:26.773018+00:00,sim128[12799]:,chat,5,95.247.63.26,Client#4,5,yorkeiser,still few money (and slow connection)
+2012-08-07T21:51:49.000196+00:00,sim128[12799]:,chat,5,95.247.63.26,Client#4,5,yorkeiser,"I try to connect a little bit of cities and raise more money, then terraform"
+2012-08-07T21:52:17.606488+00:00,sim128[12799]:,chat,4,98.251.79.180,Client#8,9,A-Train,"you got over 1,000,000 you could spend... that's enough to start is it not?"
+2012-08-07T21:53:21.863029+00:00,sim128[12799]:,chat,5,95.247.63.26,Client#4,5,yorkeiser,ah you mean with a free account
+2012-08-07T21:53:34.296077+00:00,sim128[12799]:,chat,5,95.247.63.26,Client#4,5,yorkeiser,ok I try if connection doesn't lag
+2012-08-07T21:53:45.606405+00:00,sim128[12799]:,chat,4,98.251.79.180,Client#8,9,A-Train,"no, the yorkeiser account has 1,000,000 left that you can still spend before going bankrupt"
+2012-08-07T21:54:43.582313+00:00,sim128[12799]:,chat,4,98.251.79.180,Client#8,15,,"but if you are going to level land, just use another account and let it go backrupt (then someone else can have it later)"
+2012-08-07T22:02:22.919492+00:00,sim128[12799]:,disconnect,5,95.247.63.26,Client#4
+2012-08-07T22:04:29.358900+00:00,sim128[12799]:,connect,5,95.247.63.26,Client#4
+2012-08-07T22:04:30.539621+00:00,sim128[12799]:,disconnect,4,98.251.79.180,Client#8
+2012-08-07T22:05:17.700362+00:00,sim128[12799]:,connect,4,201.95.134.55,Eric
+2012-08-07T22:07:22.362502+00:00,sim128[12799]:,disconnect,4,201.95.134.55,Eric
+2012-08-07T22:08:26.786589+00:00,sim128[12799]:,connect,4,201.95.134.55,Eric
+2012-08-07T22:10:13.088342+00:00,sim128[12799]:,connect,6,201.95.134.55,Client#6
+2012-08-07T22:11:16.348197+00:00,sim128[12799]:,disconnect,6,201.95.134.55,Client#6
+2012-08-07T22:11:22.914967+00:00,sim128[12799]:,disconnect,5,95.247.63.26,Client#4
+2012-08-07T22:16:30.510574+00:00,sim128[12799]:,connect,5,201.95.134.55,Client#6
+2012-08-07T22:17:00.492270+00:00,sim128[12799]:,connect,6,98.251.79.180,Client#8
+2012-08-07T22:19:00.155721+00:00,sim128[12799]:,disconnect,5,201.95.134.55,Client#6
+2012-08-07T22:20:22.957993+00:00,sim128[12799]:,connect,5,201.95.134.55,Client#6
+2012-08-07T22:23:50.409143+00:00,sim128[12799]:,connect,7,201.95.134.55,Client#7
+2012-08-07T22:24:42.034215+00:00,sim128[12799]:,disconnect,4,201.95.134.55,Eric
+2012-08-07T22:25:37.070594+00:00,sim128[12799]:,disconnect,7,201.95.134.55,Client#7
+2012-08-07T22:26:22.692938+00:00,sim128[12799]:,connect,4,201.95.134.55,Client#7
+2012-08-07T22:28:26.034267+00:00,sim128[12799]:,disconnect,4,201.95.134.55,Client#7
+2012-08-07T22:30:13.828666+00:00,sim128[12799]:,connect,4,201.95.134.55,Client#7
+2012-08-07T22:31:19.332061+00:00,sim128[12799]:,disconnect,4,201.95.134.55,Client#7
+2012-08-07T22:32:03.268066+00:00,sim128[12799]:,connect,4,201.95.134.55,Client#7
+2012-08-07T22:32:45.407082+00:00,sim128[12799]:,disconnect,4,201.95.134.55,Client#7
+2012-08-07T22:33:34.074053+00:00,sim128[12799]:,connect,4,201.95.134.55,Client#7
+2012-08-07T22:34:12.119018+00:00,sim128[12799]:,connect,7,213.25.83.181,Client#7
+2012-08-07T22:36:12.022136+00:00,sim128[12799]:,disconnect,4,201.95.134.55,Client#7
+2012-08-07T22:37:06.887931+00:00,sim128[12799]:,connect,4,201.95.134.55,Client#4
+2012-08-07T22:37:14.629806+00:00,sim128[12799]:,disconnect,7,213.25.83.181,Client#7
+2012-08-07T22:37:29.659492+00:00,sim128[12799]:,disconnect,4,201.95.134.55,Client#4
+2012-08-07T22:37:45.342328+00:00,sim128[12799]:,disconnect,5,201.95.134.55,Client#6
+2012-08-07T22:39:30.110218+00:00,sim128[12799]:,connect,4,201.95.134.55,Client#4
+2012-08-07T22:39:31.170038+00:00,sim128[12799]:,disconnect,6,98.251.79.180,Client#8
+2012-08-07T22:39:58.272161+00:00,sim128[12799]:,connect,5,98.251.79.180,Client#8
+2012-08-07T22:51:12.210732+00:00,sim128[12799]:,disconnect,4,201.95.134.55,Client#4
+2012-08-07T22:52:35.290615+00:00,sim128[12799]:,connect,4,201.95.134.55,Client#4
+2012-08-07T23:08:48.408334+00:00,sim128[12799]:,connect,6,201.94.198.95,luis
+2012-08-07T23:14:02.984697+00:00,sim128[12799]:,disconnect,6,201.94.198.95,luis
+2012-08-07T23:25:14.988522+00:00,sim128[12799]:,disconnect,4,201.95.134.55,Client#4
+2012-08-07T23:32:16.260742+00:00,sim128[12799]:,connect,4,98.251.79.180,Client#8
+2012-08-07T23:44:53.984263+00:00,sim128[12799]:,disconnect,4,98.251.79.180,Client#8
+2012-08-07T23:44:53.984287+00:00,sim128[12799]:,disconnect,5,98.251.79.180,Client#8
+2012-08-07T23:45:07.741438+00:00,sim128[12799]:,connect,6,98.251.79.180,Client#8
+2012-08-07T23:45:39.803665+00:00,sim128[12799]:,connect,4,95.247.63.26,Client#4
+2012-08-07T23:45:57.951905+00:00,sim128[12799]:,chat,6,98.251.79.180,Client#8,15,,hello???
+2012-08-07T23:52:29.203416+00:00,sim128[12799]:,chat,6,98.251.79.180,Client#8,8,powerStart,ya see these messages?
+2012-08-07T23:53:10.669651+00:00,sim128[12799]:,chat,6,98.251.79.180,Client#8,9,A-Train,do you got enough income for planes?  (you got lots of passengers at the airports)
+2012-08-07T23:54:19.854080+00:00,sim128[12799]:,chat,4,95.247.63.26,Client#4,5,yorkeiser,"hi, i bought another plane now"
+2012-08-07T23:54:34.632072+00:00,sim128[12799]:,chat,4,95.247.63.26,Client#4,5,yorkeiser,two of them are more than needed for now
+2012-08-07T23:54:35.729319+00:00,sim128[12799]:,chat,6,98.251.79.180,Client#8,9,A-Train,"oh, that might make some money :)"
+2012-08-07T23:55:36.873691+00:00,sim128[12799]:,chat,4,95.247.63.26,Client#4,5,yorkeiser,"yes, airplanes get money, if you can run them at full charge"
+2012-08-07T23:56:23.562072+00:00,sim128[12799]:,chat,4,95.247.63.26,Client#4,5,yorkeiser,really my little early network still doen't need so much of them
+2012-08-07T23:57:21.071223+00:00,sim128[12799]:,chat,6,98.251.79.180,Client#8,9,A-Train,depends how fast passengers pile it ... we'll see if the 2 empties the stations
+2012-08-07T23:58:01.033002+00:00,sim128[12799]:,chat,4,95.247.63.26,Client#4,5,yorkeiser,2 will empty airports in a pair of hours
+2012-08-07T23:58:11.284109+00:00,sim128[12799]:,chat,4,95.247.63.26,Client#4,5,yorkeiser,i'll sell one of them when done
+2012-08-07T23:58:32.354906+00:00,sim128[12799]:,chat,6,98.251.79.180,Client#8,9,A-Train,it depends on how many passengers in the airport though

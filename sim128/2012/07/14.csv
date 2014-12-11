@@ -1,0 +1,125 @@
+2012-07-14T00:44:33.846833+00:00,sim128[7129]:,connect,6,2.235.100.35,Client#6
+2012-07-14T00:47:30.307170+00:00,sim128[7129]:,disconnect,6,2.235.100.35,Client#6
+2012-07-14T00:47:50.645177+00:00,sim128[7129]:,connect,6,2.235.100.35,Client#6
+2012-07-14T00:49:21.903568+00:00,sim128[7129]:,disconnect,4,98.251.79.180,Client#6
+2012-07-14T00:49:38.097432+00:00,sim128[7129]:,connect,4,98.251.79.180,Client#4
+2012-07-14T00:50:15.672318+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,who's here?
+2012-07-14T00:52:56.432472+00:00,sim128[7129]:,disconnect,6,2.235.100.35,Client#6
+2012-07-14T00:53:16.677357+00:00,sim128[7129]:,connect,6,2.235.100.35,Client#6
+2012-07-14T00:54:23.062070+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,do you need a slot to play the game client 6 or client 4?
+2012-07-14T00:54:38.601558+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"use ""message centre"" > chat to talk"
+2012-07-14T00:55:00.890771+00:00,sim128[7129]:,disconnect,6,2.235.100.35,Client#6
+2012-07-14T00:57:12.729527+00:00,sim128[7129]:,disconnect,4,98.251.79.180,Client#4
+2012-07-14T00:57:35.079394+00:00,sim128[7129]:,connect,4,98.251.79.180,Client#4
+2012-07-14T01:01:23.255384+00:00,sim128[7129]:,disconnect,5,82.158.116.97,Client#4
+2012-07-14T01:56:22.394065+00:00,sim128[7129]:,connect,5,69.138.176.94,Fifty
+2012-07-14T01:56:40.185238+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,hi 50   !!!!!!!!!!!!!!!!!
+2012-07-14T01:56:58.838933+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,do you need a slot to play?
+2012-07-14T01:57:14.709784+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,use message centre >chat to talk!!!!!!!!!!!!!!!!!!!!1
+2012-07-14T01:57:17.679232+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"Hi, just watching, I am playing on b.64 right now"
+2012-07-14T01:57:26.941796+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"oh, hi"
+2012-07-14T01:57:42.278988+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"well if you decide to play this one instead, I can get you a slot"
+2012-07-14T01:58:51.205095+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"Ok, thanks. I am making a map for this server, do you have any suggestions of what you might like?"
+2012-07-14T01:59:51.232071+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,not exactly.  I made some nice streams on this map ... but I actually like lots of land :)
+2012-07-14T02:00:01.000132+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,what pak is the map for?
+2012-07-14T02:00:33.450907+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"I've made a bunch for 64, I am making one for 128, and I am asking you for some input :)"
+2012-07-14T02:00:45.833715+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,Since I don't play this pak as much
+2012-07-14T02:01:12.310219+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,well I can give you some ideas.... usgs.gov has a map viewer ... you can find terrain you like then download the greyscale heightmap for it
+2012-07-14T02:01:44.905029+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"get some terrain from alaska, or wastington state or something like that :)"
+2012-07-14T02:01:48.514821+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"Oh, I already have the map, I just was wondering what industry/passenger settings you enjoy"
+2012-07-14T02:01:59.685639+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"It is portland, Oregon"
+2012-07-14T02:02:20.244030+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,what kind of settings can you tweak?
+2012-07-14T02:02:44.097611+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,can you boost passenger income for example?  or do you just mean placing some industry on the map already?
+2012-07-14T02:02:55.282141+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"Tons of things. How fast cities grow, time passes, when maps start, "
+2012-07-14T02:03:07.174275+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"That, i cannot do."
+2012-07-14T02:03:37.973976+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"hmm... I'm not sure "
+2012-07-14T02:03:55.741758+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"one problem "
+2012-07-14T02:04:16.074569+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"I've noticed a few problems with pak128 that need fixing,  but you probably can't change that"
+2012-07-14T02:04:40.136360+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"Yeah, balancing, I cannot fix, talk to VS"
+2012-07-14T02:04:48.086726+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,1. the default passenger and mail income is too low; they don't make income except in special cases
+2012-07-14T02:05:31.052142+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,I guess just put in a mix of navigable rivers and some industry and a mix of cities to get people started
+2012-07-14T02:05:49.282914+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,you might consider making a few big cities around the map instead of all tiny ones
+2012-07-14T02:06:09.615286+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,How big is big?
+2012-07-14T02:06:21.880209+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,I noticed that power was a big big issue on this map ... everyone was scrambling to get power
+2012-07-14T02:06:42.816322+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"that's another problem with pak128, the don't provide enough power (the power plants don't) to feed factories"
+2012-07-14T02:06:50.482549+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"Oh, that's easy, I will increase electric percentage"
+2012-07-14T02:07:08.105375+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,512x512
+2012-07-14T02:07:49.659433+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"No, I mean how big do you mean by big cities?"
+2012-07-14T02:07:54.723322+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"I finally found out you could build power, so I've been trying to make power plants my own"
+2012-07-14T02:08:05.391814+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,let's see....
+2012-07-14T02:08:46.242454+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,see the city of Ely?  that's how most of the cities on this map started I think (I wasn't here at beginning to be sure)
+2012-07-14T02:09:02.140098+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"Yeah, the issue with building them yourself is that the game will not build them then bc it maintains power at a certain level of demand"
+2012-07-14T02:10:02.942201+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,sooo maybe a  few cities around 20k (not many) might be a nice mix
+2012-07-14T02:10:28.956597+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"20k for the big ones, ok I can do that..."
+2012-07-14T02:11:12.123892+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,well you could always make one bigger.... I just basically meant don't make every single city super tiny like Ely :)
+2012-07-14T02:11:49.318453+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"Yeah, that's because someone created them with a throwaway player, I will create with public service tools"
+2012-07-14T02:12:04.682225+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,I made them
+2012-07-14T02:12:33.902737+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"this map used to look like the 64k one, till I edited it to have more land"
+2012-07-14T02:13:27.763231+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"Yeah, I know. Anything too easy on this map?"
+2012-07-14T02:13:54.039095+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,well nothing you can fix.... there are some problems with the game in general
+2012-07-14T02:14:11.344817+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,being able to make stations and rail public for example to avoid maintenance
+2012-07-14T02:14:20.082653+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,The reason I am trying to get it right the first time is you will not be able to raise land or build cities with bankrupt players
+2012-07-14T02:14:51.264657+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,the ability to transfer goods to multiple stations before going to the actual location to milk huge sums of money off a line that normally wouldn't
+2012-07-14T02:15:23.918777+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,oh.....
+2012-07-14T02:15:27.682322+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"A setting can make transfer income go away, but I don't like it"
+2012-07-14T02:15:40.459256+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,it makes pax unplayable
+2012-07-14T02:16:38.069164+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"perhaps they should do it for just goods then .... or better yet, just pay for the actual distance when it arrives (again only for goods)"
+2012-07-14T02:16:57.111315+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,soooo... this map had lack of power
+2012-07-14T02:17:14.285853+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,and a lot of wasted area that was just water (so I made land)
+2012-07-14T02:17:19.615550+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"I'm not a programmer, you'll need to ask on the forum for that."
+2012-07-14T02:17:26.127798+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,I don't know if that info helps you on your map
+2012-07-14T02:18:22.230896+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"also, at this point in game, the factories are spawning faster than anyone can build/connect them and just cluttering the map now"
+2012-07-14T02:18:56.040367+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,that can be fixed too. Increase industry_increase_every
+2012-07-14T02:19:40.520269+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"Anyway thanks for your input, it has been helpful and I will take it into consideration"
+2012-07-14T02:19:44.239314+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"yeah, decreasing that might help some"
+2012-07-14T02:20:19.774568+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"but realistically, there's not much you can wrong with the map"
+2012-07-14T02:20:35.573625+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,whatever you do will probably be fine :)
+2012-07-14T02:20:48.124144+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"if you want to tell me anything, I'm ""Fifty"" on the forum and ""RF&P"" in game"
+2012-07-14T02:21:12.383388+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,so you don't play this map then?
+2012-07-14T02:21:48.360162+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"I've played on this server before, and if I make a map for this server I'll play on it!"
+2012-07-14T02:22:04.234408+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"oh, is he gonna setup a second 128?"
+2012-07-14T02:22:31.322171+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,Idk.
+2012-07-14T02:23:53.856078+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,Have you played on this server before?
+2012-07-14T02:24:16.852738+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,this one I'm on now only
+2012-07-14T02:24:30.386672+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"oh, are you doing anything special like desert or some other terrain?"
+2012-07-14T02:25:01.528946+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"it's portland, oregon, so not really..."
+2012-07-14T02:25:18.329036+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,There are some more hilly areas
+2012-07-14T02:25:47.118096+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,well it don't have to be realistic... of course.... you can always change it in ways you find fun
+2012-07-14T02:26:41.200375+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"I'll take a look. I'm off, maybe i'll see you when the server restarts!"
+2012-07-14T02:26:48.482654+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,what????
+2012-07-14T02:26:56.070623+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,this server is resetting?
+2012-07-14T02:27:05.126920+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"Eventually, yes."
+2012-07-14T02:27:11.201581+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,when?
+2012-07-14T02:27:18.320525+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,No clue.
+2012-07-14T02:27:55.412111+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"It resets whenever timothy decides to reset it,"
+2012-07-14T02:29:37.879637+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,I got teh impression he was gonna run this one a while if he can
+2012-07-14T02:30:14.227794+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"Oh, he runs them for a few months, yes, but eventually they will be reset."
+2012-07-14T02:30:55.043542+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,"well if you want to play this one, an account is available"
+2012-07-14T02:31:13.829595+00:00,sim128[7129]:,chat,5,69.138.176.94,Fifty,15,,"Ok, not now though. I'm off. Bye!"
+2012-07-14T02:31:17.450461+00:00,sim128[7129]:,disconnect,5,69.138.176.94,Fifty
+2012-07-14T02:31:27.143336+00:00,sim128[7129]:,chat,4,98.251.79.180,Client#4,9,A-Train Transit,bye
+2012-07-14T06:19:41.659677+00:00,sim128[7129]:,connect,5,90.53.114.166,Fr-N
+2012-07-14T07:20:43.860548+00:00,sim128[7129]:,connect,6,195.168.123.122,DESINA
+2012-07-14T07:29:05.190940+00:00,sim128[7129]:,disconnect,4,98.251.79.180,Client#4
+2012-07-14T07:29:05.190975+00:00,sim128[7129]:,disconnect,5,90.53.114.166,Fr-N
+2012-07-14T07:29:05.190998+00:00,sim128[7129]:,disconnect,6,195.168.123.122,DESINA
+2012-07-14T07:29:25.779996+00:00,sim128[7129]:,connect,7,87.204.62.26,divton
+2012-07-14T07:32:29.033548+00:00,sim128[7129]:,connect,4,195.168.123.122,DESINA
+2012-07-14T07:34:12.370756+00:00,sim128[7129]:,disconnect,7,87.204.62.26,divton
+2012-07-14T13:11:09.056909+00:00,sim128[7129]:,disconnect,4,195.168.123.122,DESINA
+2012-07-14T13:11:31.105330+00:00,sim128[7129]:,connect,5,69.138.176.94,Fifty
+2012-07-14T14:38:29.723775+00:00,sim128[7129]:,connect,4,201.95.176.119,Eric Costa Marques
+2012-07-14T16:42:19.735506+00:00,sim128[7129]:,disconnect,4,201.95.176.119,Eric Costa Marques
+2012-07-14T16:42:19.735564+00:00,sim128[7129]:,disconnect,5,69.138.176.94,Fifty
+2012-07-14T17:19:05.411750+00:00,sim128[7129]:,connect,4,91.181.213.128,Client#4
+2012-07-14T18:13:03.870721+00:00,sim128[7129]:,connect,5,98.251.79.180,Client#4
+2012-07-14T18:26:24.288998+00:00,sim128[7129]:,disconnect,4,91.181.213.128,Client#4
+2012-07-14T18:26:24.289027+00:00,sim128[7129]:,disconnect,5,98.251.79.180,Client#4
+2012-07-14T18:26:41.336886+00:00,sim128[7129]:,connect,4,98.251.79.180,Client#4
+2012-07-14T19:23:07.784881+00:00,sim128[7129]:,connect,5,98.251.79.180,Client#4
+2012-07-14T19:35:30.390893+00:00,sim128[7129]:,connect,6,79.41.60.67,Client#6
+2012-07-14T19:35:30.875904+00:00,sim128[7129]:,disconnect,4,98.251.79.180,Client#4
+2012-07-14T19:37:11.047385+00:00,sim128[7129]:,disconnect,6,79.41.60.67,Client#6
+2012-07-14T19:43:47.540698+00:00,sim128[7129]:,chat,5,98.251.79.180,Client#4,9,A-Train Transit,"hi.  who's here?      "
+2012-07-14T19:43:55.210615+00:00,sim128[7129]:,disconnect,5,98.251.79.180,Client#4
+2012-07-14T21:48:58.080303+00:00,sim128[7129]:,connect,4,200.157.100.50,Michael

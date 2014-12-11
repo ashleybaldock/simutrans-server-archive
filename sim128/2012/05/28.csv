@@ -1,0 +1,419 @@
+2012-05-28T00:22:39.269360+00:00,sim128[20107]:,connect,4,98.251.79.180,Client#8
+2012-05-28T00:44:33.920749+00:00,sim128[20107]:,disconnect,4,98.251.79.180,Client#8
+2012-05-28T00:44:41.256875+00:00,sim128[20107]:,connect,5,98.251.79.180,Client#8
+2012-05-28T00:58:50.903832+00:00,sim128[20107]:,connect,4,220.245.52.25,Client#4
+2012-05-28T00:59:40.925445+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,hi a-trains
+2012-05-28T00:59:53.759662+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,hi :)
+2012-05-28T01:00:17.129814+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,looks like you've been busy :P
+2012-05-28T01:00:43.865483+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,"yeah, but I've almost exhausted my money now :("
+2012-05-28T01:01:17.879611+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,yeah not much i could do - i cut your maintenance back by about 4K a year earlier on
+2012-05-28T01:01:42.491568+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,how?
+2012-05-28T01:02:00.466228+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,"removed extra track and depot @ around (322,373)"
+2012-05-28T01:02:18.572386+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,"but biggest one... re-aligned track @ (379,307) area"
+2012-05-28T01:02:37.387018+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,by removing 1x tunnel and 1x bridge saved u heaps
+2012-05-28T01:02:53.415927+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,"k, thanks"
+2012-05-28T01:03:30.434162+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,the game does a very bad job of showing maintence costs :(
+2012-05-28T01:03:45.126984+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,"unlike say... trains, where you get charts and everything :)"
+2012-05-28T01:03:56.984644+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,ah i see what you mean - i deal :P
+2012-05-28T01:05:54.912953+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,nice trains @ that brewery though
+2012-05-28T01:06:18.334196+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,too bad the supermarket is soo close (and brewery)
+2012-05-28T01:06:50.119485+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,oh wow that 2nd brewery is!
+2012-05-28T01:07:30.494129+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,does non-running trains cost any maintence?
+2012-05-28T01:08:02.386477+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,infrastructure does - so it you have tracks - that costs maintenance
+2012-05-28T01:08:26.612617+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,if the trains dont run - u still pay for infrastructure -  if trains run - u pay 'operational costs'
+2012-05-28T01:11:25.999905+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,if you're worried of little money... at the end of the year carsyalp player slot becomes free
+2012-05-28T01:11:57.702920+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,oh... what should I do when it comes free?
+2012-05-28T01:12:00.684400+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,or in 4 years 2 more slots become free
+2012-05-28T01:12:25.023496+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,take the slot and transfer your stuff over?
+2012-05-28T01:12:29.666507+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,why do 2 slots become free?  only one is bankrupt right now
+2012-05-28T01:12:57.517385+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,PSK&CoKG + titanov will bankrupt around same time
+2012-05-28T01:13:09.649617+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,sorry JCS INc.* and titanov
+2012-05-28T01:13:30.680863+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,you can't transfer anything between accounts can you?
+2012-05-28T01:13:55.445078+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,no - i mean say remove track on one playe-r rebuild with the other player
+2012-05-28T01:14:44.453666+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,or I could use it to start passenger service perhaps? :)
+2012-05-28T01:15:21.173581+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,"but looks at JCS Inc, PSK, titanov - they all had PAX and doing poorly in money"
+2012-05-28T01:15:40.278064+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,PAX?
+2012-05-28T01:16:19.662540+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,15,,PAX = Passenger Network
+2012-05-28T01:16:45.878545+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,. (player 7) and Boris Logistics are doing ok - both have freight behind them
+2012-05-28T01:18:19.319756+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,carsyalp before went bankrupt in 2017 had a huge PAX but was making like 110K loss a year
+2012-05-28T01:19:13.351899+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,so basically - have some freight to make some profit first- then PAX - unless you're game :P
+2012-05-28T01:24:09.664470+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,"hmm, I could use the account to manipulate some terrain"
+2012-05-28T01:24:44.659044+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,everyone seems to do that :P
+2012-05-28T01:25:44.025283+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,where do you plan to flatten?
+2012-05-28T01:26:20.601559+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,places to make a railroad for passengers maybe
+2012-05-28T01:26:58.053291+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,ah ok- just remember in this Pak trains aren't as profitable as they used to be - have to be long 400+ passengers 160+km
+2012-05-28T01:28:04.974980+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,which is why i've been using trams :P
+2012-05-28T01:29:09.443604+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,why are trams better?  are they cheaper per km?
+2012-05-28T01:29:34.310697+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,in this pak they apparently get more profit - i had trains in the previous version of this month and they made HUGE losses
+2012-05-28T01:29:54.705034+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,in the end i had something like 10 tram routes/20 bus routes but only 1 train route
+2012-05-28T01:30:12.904413+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,previous version of this map*****
+2012-05-28T01:35:22.249630+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,how does platform selection signal work? :)
+2012-05-28T01:36:03.527260+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,have u not used it before?
+2012-05-28T01:36:07.647266+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,nope
+2012-05-28T01:36:41.834103+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,wow i remember original hajo simutrans - with not choose signals - that was a pain!!! id never turn back
+2012-05-28T01:37:38.715741+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,"i can only find one example on this map (376,170)"
+2012-05-28T01:37:47.929094+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,[click my message to go to the location]
+2012-05-28T01:38:25.805935+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,but wher does the end choose signal go?
+2012-05-28T01:38:49.062531+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,see the previous map version would have given u a great example
+2012-05-28T01:39:09.775718+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,ok - let's say you're running passenger and freight trains on the same line/track
+2012-05-28T01:39:33.261147+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,the passenger train is all stops but the freight only goes from a to b- and uses track to save money
+2012-05-28T01:39:57.309674+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,u use choose signal so the pax train can choose the best platform
+2012-05-28T01:40:19.741999+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,and after the station u put end choose signal - otherwise the freight train will wait for the whole line to be free
+2012-05-28T01:41:07.632831+00:00,sim128[20107]:,disconnect,4,220.245.52.25,Client#4
+2012-05-28T01:41:20.995174+00:00,sim128[20107]:,connect,4,220.245.52.25,Client#4
+2012-05-28T01:41:31.152800+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,15,,does that make any sense?
+2012-05-28T01:43:17.778274+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,if not - i can build an example for you?
+2012-05-28T01:43:40.382663+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,"i tried at (38,10)"
+2012-05-28T01:44:35.736912+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,wasn't needed there- but you're going to end up with a problem
+2012-05-28T01:45:43.060992+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,you have 2 platforms only...
+2012-05-28T01:45:56.768388+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,if both beer trains wait for 100% [lets so no beer]
+2012-05-28T01:46:15.212784+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,then ur glass and grain trains wait for a free platform that wont come
+2012-05-28T01:46:29.959953+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,so with choose signals you'll need 3 platforms - that costs more money - so for there- don't use choose signals
+2012-05-28T01:50:03.366404+00:00,sim128[20107]:,disconnect,4,220.245.52.25,Client#4
+2012-05-28T01:50:18.049655+00:00,sim128[20107]:,connect,4,220.245.52.25,Client#4
+2012-05-28T01:50:32.735059+00:00,sim128[20107]:,disconnect,4,220.245.52.25,Client#4
+2012-05-28T01:50:45.534812+00:00,sim128[20107]:,connect,4,220.245.52.25,Client#4
+2012-05-28T01:51:42.907553+00:00,sim128[20107]:,disconnect,4,220.245.52.25,Client#4
+2012-05-28T01:51:56.529437+00:00,sim128[20107]:,connect,4,220.245.52.25,Client#4
+2012-05-28T01:52:41.911096+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,"ok ive made you an example @ (453,414)"
+2012-05-28T01:53:58.411150+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,"oh, it drives on the wrong side of the road :)"
+2012-05-28T01:54:16.406929+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,is this your passenger freight mix thing you said earl8ier?
+2012-05-28T01:54:37.068533+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,indeed ill show how choose signals work at Station C
+2012-05-28T01:55:27.866994+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,at Station C - the branchline train sits in the middle - blocking that track
+2012-05-28T01:56:00.825223+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,freight train got stuck?
+2012-05-28T01:56:14.209542+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,no it was fine - i deleted it to show PAX first
+2012-05-28T01:57:08.306459+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,so the trains at the station will move around it
+2012-05-28T01:59:11.825898+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,why are the cancel signs needed? do they not end at the regular one way signal?
+2012-05-28T01:59:34.269536+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,ok let's say i have express train running through
+2012-05-28T01:59:59.280864+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,it goes to a different station - the choose signals are for Station C - so it cancels out so the train can keep going
+2012-05-28T02:01:13.790138+00:00,sim128[20107]:,connect,6,200.207.100.230,Client#6
+2012-05-28T02:01:54.263981+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,"hello client 6, are you already a player here?"
+2012-05-28T02:02:13.752828+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,they just took the FFVM player spot :P
+2012-05-28T02:02:50.759479+00:00,sim128[20107]:,disconnect,4,220.245.52.25,Client#4
+2012-05-28T02:02:50.759528+00:00,sim128[20107]:,disconnect,6,200.207.100.230,Client#6
+2012-05-28T02:03:07.959385+00:00,sim128[20107]:,connect,4,200.207.100.230,Client#6
+2012-05-28T02:03:17.926398+00:00,sim128[20107]:,connect,6,220.245.52.25,Client#4
+2012-05-28T02:05:19.488625+00:00,sim128[20107]:,chat,6,220.245.52.25,Client#4,10,Alliance,a-trains if u were doing pax - id start around catania/leipzig
+2012-05-28T02:06:09.180216+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,do you know htrans?
+2012-05-28T02:06:37.818364+00:00,sim128[20107]:,chat,6,220.245.52.25,Client#4,10,Alliance,no?
+2012-05-28T02:06:57.711005+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,"oh, was wondering if it might have been an old player"
+2012-05-28T02:07:26.101430+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,or a new player who now locked up the account
+2012-05-28T02:07:37.722657+00:00,sim128[20107]:,chat,6,220.245.52.25,Client#4,10,Alliance,someone reserved like 3 players at once - so P11/H-Trains/Napik are either all the same or different people - but are taking up slots
+2012-05-28T02:07:38.654839+00:00,sim128[20107]:,disconnect,4,200.207.100.230,Client#6
+2012-05-28T02:07:38.655086+00:00,sim128[20107]:,disconnect,6,220.245.52.25,Client#4
+2012-05-28T02:08:04.786512+00:00,sim128[20107]:,connect,4,200.207.100.230,Client#6
+2012-05-28T02:08:20.345056+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,odd that he knew the exact second to come online?
+2012-05-28T02:08:49.485367+00:00,sim128[20107]:,connect,6,220.245.52.25,Client#4
+2012-05-28T02:10:11.962006+00:00,sim128[20107]:,chat,6,220.245.52.25,Client#4,15,,oh more luck than anything really
+2012-05-28T02:10:58.458968+00:00,sim128[20107]:,disconnect,4,200.207.100.230,Client#6
+2012-05-28T02:10:58.615599+00:00,sim128[20107]:,disconnect,6,220.245.52.25,Client#4
+2012-05-28T02:11:19.968788+00:00,sim128[20107]:,connect,4,200.207.100.230,Myrex
+2012-05-28T02:12:11.109725+00:00,sim128[20107]:,connect,6,220.245.52.25,Client#4
+2012-05-28T02:12:37.156272+00:00,sim128[20107]:,disconnect,6,220.245.52.25,Client#4
+2012-05-28T02:13:20.504982+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,is maintenance per month?
+2012-05-28T02:13:55.880457+00:00,sim128[20107]:,disconnect,4,200.207.100.230,Myrex
+2012-05-28T02:14:11.482385+00:00,sim128[20107]:,connect,4,200.207.100.230,Myrex
+2012-05-28T02:17:34.490109+00:00,sim128[20107]:,disconnect,4,200.207.100.230,Myrex
+2012-05-28T02:17:50.234394+00:00,sim128[20107]:,connect,4,200.207.100.230,Myrex
+2012-05-28T02:19:15.075407+00:00,sim128[20107]:,connect,6,220.245.52.25,Client#4
+2012-05-28T02:24:36.262522+00:00,sim128[20107]:,chat,6,220.245.52.25,Client#4,10,Alliance,yes maintenance is per month
+2012-05-28T02:27:10.764233+00:00,sim128[20107]:,disconnect,6,220.245.52.25,Client#4
+2012-05-28T02:27:13.640928+00:00,sim128[20107]:,disconnect,4,200.207.100.230,Myrex
+2012-05-28T02:27:41.171468+00:00,sim128[20107]:,connect,4,200.207.100.230,Myrex
+2012-05-28T02:28:42.019394+00:00,sim128[20107]:,disconnect,4,200.207.100.230,Myrex
+2012-05-28T02:29:33.372075+00:00,sim128[20107]:,connect,4,220.245.52.25,Client#4
+2012-05-28T02:30:07.715963+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,at what population does a city spawn factories?
+2012-05-28T02:30:21.894034+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,15,,i dunno - it varies
+2012-05-28T02:30:45.146886+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,15,,i think it's more a map as a whole
+2012-05-28T02:30:50.573650+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,why haven't a single one of your cities spawned factories by now? :)
+2012-05-28T02:31:18.741904+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,"they did - brest (334,498)"
+2012-05-28T02:33:43.171142+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,although my company is getting too big for me :P so any industry beyond my little area i wont be interested in from now on :P
+2012-05-28T02:34:54.491210+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,brb
+2012-05-28T02:34:55.580239+00:00,sim128[20107]:,disconnect,5,98.251.79.180,Client#8
+2012-05-28T02:35:13.806675+00:00,sim128[20107]:,connect,5,98.251.79.180,Client#8
+2012-05-28T02:37:29.145113+00:00,sim128[20107]:,connect,6,88.67.124.254,Client#6
+2012-05-28T02:37:32.836214+00:00,sim128[20107]:,disconnect,6,88.67.124.254,Client#6
+2012-05-28T02:39:38.115400+00:00,sim128[20107]:,disconnect,4,220.245.52.25,Client#4
+2012-05-28T02:40:36.576389+00:00,sim128[20107]:,connect,4,220.245.52.25,Client#4
+2012-05-28T02:42:35.946396+00:00,sim128[20107]:,disconnect,4,220.245.52.25,Client#4
+2012-05-28T02:55:25.730599+00:00,sim128[20107]:,disconnect,5,98.251.79.180,Client#8
+2012-05-28T02:55:34.631334+00:00,sim128[20107]:,connect,4,220.245.52.25,Client#4
+2012-05-28T02:56:43.505194+00:00,sim128[20107]:,connect,5,98.251.79.180,Client#8
+2012-05-28T02:57:04.270862+00:00,sim128[20107]:,disconnect,4,220.245.52.25,Client#4
+2012-05-28T03:09:51.778280+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,ya here?
+2012-05-28T03:21:25.883683+00:00,sim128[20107]:,connect,4,220.245.52.25,Client#4
+2012-05-28T03:22:01.163890+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,hi
+2012-05-28T03:22:25.707145+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,just a quick look - might add one or two trams then leave for a bit
+2012-05-28T03:23:04.773363+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,if I buy trains do they subtract from my net welth or add to it?
+2012-05-28T03:23:20.785983+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,subtract
+2012-05-28T03:23:27.616500+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,and assets depreciate every month
+2012-05-28T03:24:28.858131+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,"so if I pay 300k for a train, my net wealth goes down all 300k?  it didn't seem to do that"
+2012-05-28T03:24:54.178004+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,not all - only a little bit
+2012-05-28T03:25:02.861901+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,it's more noticeable when you buy a plane :P
+2012-05-28T03:29:17.202856+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,you should make one of your stations/ports in glasgow a public port
+2012-05-28T03:29:28.588669+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,then I could connect your passenger network to the north :)
+2012-05-28T03:29:38.779064+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,north where?
+2012-05-28T03:30:08.783836+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,anywhere :)
+2012-05-28T03:30:57.599639+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,my plan is to connect almere to kingston public interchange
+2012-05-28T03:31:39.990741+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,oh...
+2012-05-28T03:32:03.820905+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,"if you made glasgow coast a public stop with a port, then I could connect there too"
+2012-05-28T03:32:10.997786+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,i dont like public interchanges in cities
+2012-05-28T03:32:26.767237+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,"plus if you want to change routes it makes it harder, etc"
+2012-05-28T03:32:35.438710+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,kingston is good because it was planned
+2012-05-28T03:33:04.587858+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,it's not efficient for passengers though... kind of oddball the way it's done
+2012-05-28T03:33:30.162684+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,how isn't it efficient?
+2012-05-28T03:34:23.333179+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,lets say you want to go from stoke-on-trent to berlin
+2012-05-28T03:34:44.041559+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,"I would have to connect stoke to kingston, then kingston to almer, then thorugh your winding network to berlin"
+2012-05-28T03:35:02.231675+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,"instead, I could do stoke to a port in glasgow in the heart of your network"
+2012-05-28T03:35:10.916193+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,still it's a start
+2012-05-28T03:35:12.561191+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,then it's short distance to all your connected cities
+2012-05-28T03:35:25.766539+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,when i have more time in a few days - i plan to reconfigure my network
+2012-05-28T03:35:30.707916+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,take a look at glasgow coast
+2012-05-28T03:35:44.573456+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,"(265,404)"
+2012-05-28T03:36:17.393766+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,"if you made that stop a public one instead of private, it could connect to your network"
+2012-05-28T03:36:59.646881+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,agree to disagree on this one :P ha im not making any of my stops public - have u started making a PAX?
+2012-05-28T03:37:11.668293+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,what is a pax
+2012-05-28T03:37:38.375271+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,Pax=Passenger Network
+2012-05-28T03:38:02.777348+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,why don't want you want any of your stop public?  you don't want people using your network to boost passenger demand?
+2012-05-28T03:38:58.403326+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,the way i plan i like being able to alter stops - ill connect to kingston in a few years
+2012-05-28T03:39:14.573201+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,kind of like an anti-competition  to keep the other players from ...
+2012-05-28T03:39:55.563023+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,not really - quite happy to maintain my little part - except atm there's no other pax to connect to
+2012-05-28T03:40:06.157263+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,ive learnt my lesson from last map version of this one
+2012-05-28T03:40:46.361506+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,the reason I asked for a connection is becaduse it would make it easy for me to start passenger
+2012-05-28T03:42:18.613129+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,i get that - like i said in a few days ill have more time to reconfigure my network then ill be ready to connect
+2012-05-28T03:45:13.352084+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,who built the solar factory?
+2012-05-28T03:45:31.958779+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,public - industry growth
+2012-05-28T03:45:52.365612+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,or was it already there and it just got a new connection?
+2012-05-28T03:46:08.972086+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,it was built just this month - brand new
+2012-05-28T03:46:31.206779+00:00,sim128[20107]:,chat,5,98.251.79.180,Client#8,9,A-Train Transit,how did someone get a power station at it already?
+2012-05-28T03:46:59.413548+00:00,sim128[20107]:,disconnect,4,220.245.52.25,Client#4
+2012-05-28T03:47:17.038233+00:00,sim128[20107]:,connect,4,220.245.52.25,Client#4
+2012-05-28T03:47:28.170379+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,i was quick lol
+2012-05-28T03:49:09.620477+00:00,sim128[20107]:,chat,4,220.245.52.25,Client#4,10,Alliance,im off now - goodluck with PAX
+2012-05-28T03:53:00.969494+00:00,sim128[20107]:,disconnect,4,220.245.52.25,Client#4
+2012-05-28T04:07:40.327874+00:00,sim128[20107]:,connect,4,98.251.79.180,Client#8
+2012-05-28T06:35:37.462424+00:00,sim128[20107]:,connect,6,87.209.98.171,Pieter
+2012-05-28T06:35:37.638887+00:00,sim128[20107]:,disconnect,5,98.251.79.180,Client#8
+2012-05-28T06:38:56.903924+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#4
+2012-05-28T06:40:48.274988+00:00,sim128[20107]:,disconnect,6,87.209.98.171,Pieter
+2012-05-28T06:43:25.000333+00:00,sim128[20107]:,connect,6,200.207.100.230,Client#6
+2012-05-28T06:44:38.850561+00:00,sim128[20107]:,disconnect,6,200.207.100.230,Client#6
+2012-05-28T06:44:55.705607+00:00,sim128[20107]:,connect,6,200.207.100.230,Client#6
+2012-05-28T06:48:33.394972+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#4
+2012-05-28T06:49:51.872578+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#4
+2012-05-28T06:50:50.122837+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#4
+2012-05-28T06:51:26.472326+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#4
+2012-05-28T06:52:38.683298+00:00,sim128[20107]:,disconnect,6,200.207.100.230,Client#6
+2012-05-28T06:52:39.320144+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#4
+2012-05-28T06:52:54.985218+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T06:53:54.242403+00:00,sim128[20107]:,connect,6,220.245.52.25,Client#4
+2012-05-28T06:54:18.648279+00:00,sim128[20107]:,disconnect,6,220.245.52.25,Client#4
+2012-05-28T06:55:32.420445+00:00,sim128[20107]:,connect,6,220.245.52.25,Client#4
+2012-05-28T06:58:39.109824+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T06:58:39.109873+00:00,sim128[20107]:,disconnect,6,220.245.52.25,Client#4
+2012-05-28T06:58:54.407622+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T07:01:19.311081+00:00,sim128[20107]:,connect,6,220.245.52.25,Client#13
+2012-05-28T07:02:23.599611+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T07:23:36.882340+00:00,sim128[20107]:,disconnect,6,220.245.52.25,Client#13
+2012-05-28T07:36:44.952191+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#13
+2012-05-28T07:56:17.443677+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#13
+2012-05-28T08:01:13.644020+00:00,sim128[20107]:,connect,5,85.216.238.158,Client#11
+2012-05-28T08:18:50.770056+00:00,sim128[20107]:,connect,6,220.245.52.25,Client#13
+2012-05-28T08:22:56.500735+00:00,sim128[20107]:,disconnect,6,220.245.52.25,Client#13
+2012-05-28T08:25:52.829688+00:00,sim128[20107]:,connect,6,220.245.52.25,Client#13
+2012-05-28T08:27:26.798851+00:00,sim128[20107]:,disconnect,6,220.245.52.25,Client#13
+2012-05-28T08:28:14.741464+00:00,sim128[20107]:,connect,6,220.245.52.25,Client#13
+2012-05-28T08:33:49.992024+00:00,sim128[20107]:,disconnect,6,220.245.52.25,Client#13
+2012-05-28T08:35:04.778515+00:00,sim128[20107]:,connect,6,220.245.52.25,Client#13
+2012-05-28T08:36:00.546330+00:00,sim128[20107]:,disconnect,5,85.216.238.158,Client#11
+2012-05-28T08:36:11.381490+00:00,sim128[20107]:,connect,5,85.216.238.158,Client#11
+2012-05-28T08:38:23.472663+00:00,sim128[20107]:,disconnect,6,220.245.52.25,Client#13
+2012-05-28T10:07:23.610807+00:00,sim128[20107]:,connect,6,220.245.52.25,Client#13
+2012-05-28T10:09:02.658142+00:00,sim128[20107]:,chat,5,85.216.238.158,Client#11,15,,"I create player 12, but it is some mistake, because I can not use this. After I create next this player"
+2012-05-28T10:14:20.900375+00:00,sim128[20107]:,disconnect,6,220.245.52.25,Client#13
+2012-05-28T10:14:42.839148+00:00,sim128[20107]:,connect,6,220.245.52.25,Client#13
+2012-05-28T10:16:34.247172+00:00,sim128[20107]:,disconnect,5,85.216.238.158,Client#11
+2012-05-28T10:16:34.407443+00:00,sim128[20107]:,disconnect,6,220.245.52.25,Client#13
+2012-05-28T10:17:19.238251+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#13
+2012-05-28T10:18:17.930983+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#13
+2012-05-28T10:18:39.128114+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#13
+2012-05-28T10:31:52.181464+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#13
+2012-05-28T10:33:19.939789+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#13
+2012-05-28T10:34:42.509388+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#13
+2012-05-28T10:35:01.064261+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#13
+2012-05-28T10:53:53.652172+00:00,sim128[20107]:,connect,6,91.115.57.160,Client#6
+2012-05-28T10:57:00.545402+00:00,sim128[20107]:,disconnect,6,91.115.57.160,Client#6
+2012-05-28T10:57:00.862536+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#13
+2012-05-28T10:59:20.258571+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#13
+2012-05-28T11:01:23.968168+00:00,sim128[20107]:,connect,6,91.115.57.160,Client#6
+2012-05-28T11:04:02.218944+00:00,sim128[20107]:,disconnect,6,91.115.57.160,Client#6
+2012-05-28T11:06:16.298604+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#13
+2012-05-28T11:06:42.414101+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#13
+2012-05-28T11:08:50.385233+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#13
+2012-05-28T11:09:23.750208+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#13
+2012-05-28T11:10:23.200407+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#13
+2012-05-28T11:10:54.649664+00:00,sim128[20107]:,connect,5,220.245.52.25,Client#13
+2012-05-28T11:16:06.498641+00:00,sim128[20107]:,disconnect,5,220.245.52.25,Client#13
+2012-05-28T12:07:49.235601+00:00,sim128[20107]:,connect,5,82.121.170.194,Client#10
+2012-05-28T12:10:14.126753+00:00,sim128[20107]:,disconnect,5,82.121.170.194,Client#10
+2012-05-28T13:38:12.594187+00:00,sim128[20107]:,connect,5,79.207.139.16,Client#5
+2012-05-28T13:41:38.091397+00:00,sim128[20107]:,disconnect,5,79.207.139.16,Client#5
+2012-05-28T14:31:23.936547+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T14:32:39.987032+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T14:33:35.924539+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T14:35:21.254208+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T14:35:36.093129+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T14:40:59.784236+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T14:41:18.151968+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T14:45:32.883324+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T14:45:48.631909+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T14:47:13.681006+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T14:47:30.287110+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T14:48:44.417638+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T14:49:00.646220+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T14:52:17.733363+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T14:52:32.819916+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T14:53:14.945860+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T14:53:29.172302+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T14:55:36.580122+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T14:55:55.484238+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T14:56:31.850067+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T14:56:47.126422+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T14:58:15.570203+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T14:58:30.486788+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T15:01:37.119001+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T15:01:53.032901+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T15:02:47.283312+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T15:08:40.927241+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:11:57.534271+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:12:40.460454+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:13:33.430545+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:13:46.749753+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:14:21.155268+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:14:43.399776+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:16:07.289180+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:16:23.003529+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:17:13.410075+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:17:53.092733+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:18:38.142069+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:18:52.421624+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:19:34.230085+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:19:48.533369+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:20:25.384784+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:20:40.752607+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:23:55.726186+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:24:34.482013+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:24:59.067230+00:00,sim128[20107]:,connect,6,79.249.121.212,Client#5
+2012-05-28T15:29:36.276566+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:30:03.570571+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:31:26.262289+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:31:57.130803+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:34:53.339996+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:35:25.553950+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:36:41.088005+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:36:53.906859+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:38:24.718818+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:38:39.229120+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:41:26.639866+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:41:42.949179+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:42:51.162534+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:43:06.461679+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:45:25.710153+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:45:39.899024+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:47:14.987320+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:47:37.769331+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:49:17.620257+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:49:34.294019+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:49:55.103232+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T15:50:14.193490+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#6
+2012-05-28T15:51:03.848891+00:00,sim128[20107]:,connect,7,200.207.100.230,Client#7
+2012-05-28T15:51:47.340052+00:00,sim128[20107]:,disconnect,7,200.207.100.230,Client#7
+2012-05-28T15:52:05.960481+00:00,sim128[20107]:,connect,7,200.207.100.230,Client#7
+2012-05-28T15:52:35.162995+00:00,sim128[20107]:,connect,8,220.245.52.25,Client#13
+2012-05-28T15:54:27.981055+00:00,sim128[20107]:,connect,9,109.213.74.118,PITEX
+2012-05-28T15:54:41.377013+00:00,sim128[20107]:,chat,8,220.245.52.25,Client#13,15,,6 clients!!! wow
+2012-05-28T15:57:19.475200+00:00,sim128[20107]:,disconnect,7,200.207.100.230,Client#7
+2012-05-28T16:00:47.791051+00:00,sim128[20107]:,disconnect,9,109.213.74.118,PITEX
+2012-05-28T16:01:58.990545+00:00,sim128[20107]:,disconnect,8,220.245.52.25,Client#13
+2012-05-28T16:05:35.020438+00:00,sim128[20107]:,connect,7,220.245.52.25,Client#13
+2012-05-28T16:07:42.030404+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#6
+2012-05-28T16:07:47.946560+00:00,sim128[20107]:,disconnect,6,79.249.121.212,Client#5
+2012-05-28T16:17:12.112356+00:00,sim128[20107]:,disconnect,4,98.251.79.180,Client#8
+2012-05-28T16:17:32.568569+00:00,sim128[20107]:,connect,4,98.251.79.180,Client#8
+2012-05-28T16:18:48.621162+00:00,sim128[20107]:,disconnect,7,220.245.52.25,Client#13
+2012-05-28T16:31:17.213492+00:00,sim128[20107]:,connect,5,189.24.245.66,Well
+2012-05-28T16:52:48.743996+00:00,sim128[20107]:,disconnect,5,189.24.245.66,Well
+2012-05-28T17:04:31.602021+00:00,sim128[20107]:,connect,5,189.24.245.66,Well
+2012-05-28T17:26:29.206441+00:00,sim128[20107]:,connect,6,92.129.228.142,Client#6
+2012-05-28T17:26:29.376283+00:00,sim128[20107]:,disconnect,4,98.251.79.180,Client#8
+2012-05-28T17:28:38.819555+00:00,sim128[20107]:,disconnect,6,92.129.228.142,Client#6
+2012-05-28T17:32:40.898714+00:00,sim128[20107]:,disconnect,5,189.24.245.66,Well
+2012-05-28T17:39:41.946147+00:00,sim128[20107]:,connect,4,109.213.74.118,PITEX
+2012-05-28T17:56:12.754941+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T17:58:02.925688+00:00,sim128[20107]:,disconnect,4,109.213.74.118,PITEX
+2012-05-28T17:58:02.925928+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T17:58:19.423057+00:00,sim128[20107]:,connect,4,200.207.100.230,Myrex
+2012-05-28T18:00:00.045491+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T18:01:02.054546+00:00,sim128[20107]:,disconnect,4,200.207.100.230,Myrex
+2012-05-28T18:01:02.054578+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T18:01:16.425947+00:00,sim128[20107]:,connect,4,200.207.100.230,Myrex
+2012-05-28T18:08:05.685985+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T18:10:24.385671+00:00,sim128[20107]:,connect,6,200.207.100.230,Myrex
+2012-05-28T18:15:39.353922+00:00,sim128[20107]:,disconnect,4,200.207.100.230,Myrex
+2012-05-28T18:15:39.354165+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T18:15:39.354424+00:00,sim128[20107]:,disconnect,6,200.207.100.230,Myrex
+2012-05-28T18:15:54.579521+00:00,sim128[20107]:,connect,4,200.207.100.230,Myrex
+2012-05-28T18:17:23.081817+00:00,sim128[20107]:,connect,5,200.207.100.230,Myrex
+2012-05-28T18:18:49.195470+00:00,sim128[20107]:,disconnect,4,200.207.100.230,Myrex
+2012-05-28T18:18:49.195509+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Myrex
+2012-05-28T18:18:59.981842+00:00,sim128[20107]:,connect,6,200.207.100.230,Client#7
+2012-05-28T18:22:45.111364+00:00,sim128[20107]:,disconnect,6,200.207.100.230,Client#7
+2012-05-28T18:23:02.872735+00:00,sim128[20107]:,connect,4,200.207.100.230,Client#7
+2012-05-28T18:24:10.089212+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#7
+2012-05-28T18:27:10.299329+00:00,sim128[20107]:,disconnect,4,200.207.100.230,Client#7
+2012-05-28T18:27:10.299552+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#7
+2012-05-28T18:27:27.233210+00:00,sim128[20107]:,connect,4,200.207.100.230,Client#7
+2012-05-28T18:32:27.338639+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#7
+2012-05-28T18:36:29.167059+00:00,sim128[20107]:,connect,6,213.192.4.2,dtj
+2012-05-28T18:36:29.229503+00:00,sim128[20107]:,disconnect,4,200.207.100.230,Client#7
+2012-05-28T18:37:03.937207+00:00,sim128[20107]:,disconnect,6,213.192.4.2,dtj
+2012-05-28T18:38:32.227492+00:00,sim128[20107]:,connect,4,200.207.100.230,Client#7
+2012-05-28T18:41:50.468620+00:00,sim128[20107]:,disconnect,4,200.207.100.230,Client#7
+2012-05-28T18:41:50.468653+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#7
+2012-05-28T18:41:59.412415+00:00,sim128[20107]:,connect,6,200.207.100.230,Client#7
+2012-05-28T18:48:37.107110+00:00,sim128[20107]:,connect,4,200.207.100.230,Client#7
+2012-05-28T18:54:34.515431+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#7
+2012-05-28T19:03:58.749177+00:00,sim128[20107]:,connect,7,82.9.230.143,Client#7
+2012-05-28T19:03:58.808998+00:00,sim128[20107]:,disconnect,4,200.207.100.230,Client#7
+2012-05-28T19:03:58.809129+00:00,sim128[20107]:,disconnect,6,200.207.100.230,Client#7
+2012-05-28T19:04:01.356379+00:00,sim128[20107]:,disconnect,7,82.9.230.143,Client#7
+2012-05-28T19:06:57.529184+00:00,sim128[20107]:,connect,4,89.103.64.131,Client#6
+2012-05-28T19:10:07.281604+00:00,sim128[20107]:,connect,6,177.98.1.12,Client#4
+2012-05-28T19:10:07.373441+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#7
+2012-05-28T19:13:25.667623+00:00,sim128[20107]:,disconnect,4,89.103.64.131,Client#6
+2012-05-28T20:08:07.324915+00:00,sim128[20107]:,connect,4,200.207.100.230,Client#7
+2012-05-28T20:08:46.089438+00:00,sim128[20107]:,connect,5,79.145.54.178,joseagoga
+2012-05-28T20:08:46.183218+00:00,sim128[20107]:,disconnect,6,177.98.1.12,Client#4
+2012-05-28T20:09:24.739598+00:00,sim128[20107]:,disconnect,4,200.207.100.230,Client#7
+2012-05-28T20:09:52.190198+00:00,sim128[20107]:,connect,4,200.207.100.230,Client#7
+2012-05-28T20:10:27.961161+00:00,sim128[20107]:,disconnect,5,79.145.54.178,joseagoga
+2012-05-28T20:15:03.451986+00:00,sim128[20107]:,connect,5,200.207.100.230,Client#7
+2012-05-28T20:19:24.505606+00:00,sim128[20107]:,disconnect,4,200.207.100.230,Client#7
+2012-05-28T20:19:24.505866+00:00,sim128[20107]:,disconnect,5,200.207.100.230,Client#7
+2012-05-28T21:02:37.450433+00:00,sim128[20107]:,connect,4,98.251.79.180,Client#8
+2012-05-28T22:19:51.144852+00:00,sim128[20107]:,connect,5,189.24.245.66,Well
+2012-05-28T22:21:02.283430+00:00,sim128[20107]:,chat,4,98.251.79.180,Client#8,9,A-Train Transit,"hi, what company are you well?"
+2012-05-28T22:22:43.740698+00:00,sim128[20107]:,chat,5,189.24.245.66,Well,15,,"Hi, I'm no company at the time"
+2012-05-28T22:23:26.003102+00:00,sim128[20107]:,chat,4,98.251.79.180,Client#8,9,A-Train Transit,do you not have a slot for you?
+2012-05-28T22:23:35.465318+00:00,sim128[20107]:,chat,5,189.24.245.66,Well,15,,no
+2012-05-28T22:24:09.560649+00:00,sim128[20107]:,chat,5,189.24.245.66,Well,15,,There appears no vacant
+2012-05-28T22:24:26.648170+00:00,sim128[20107]:,chat,4,98.251.79.180,Client#8,9,A-Train Transit,"if myrex keeps going negative, a slot might open in a few years"
+2012-05-28T22:25:19.643913+00:00,sim128[20107]:,chat,4,98.251.79.180,Client#8,9,A-Train Transit,which means several hours from now in real time
+2012-05-28T22:26:05.516395+00:00,sim128[20107]:,chat,5,189.24.245.66,Well,15,,"Okay, I'll wait."
+2012-05-28T22:35:56.874135+00:00,sim128[20107]:,disconnect,5,189.24.245.66,Well
+2012-05-28T22:40:49.472708+00:00,sim128[20107]:,connect,5,189.24.245.66,Well
+2012-05-28T22:54:08.656695+00:00,sim128[20107]:,connect,6,79.249.121.212,Client#5
+2012-05-28T22:58:40.704620+00:00,sim128[20107]:,disconnect,5,189.24.245.66,Well
+2012-05-28T23:06:34.628839+00:00,sim128[20107]:,disconnect,4,98.251.79.180,Client#8
+2012-05-28T23:24:41.043743+00:00,sim128[20107]:,connect,4,98.251.79.180,Client#8
+2012-05-28T23:34:59.210434+00:00,sim128[20107]:,disconnect,6,79.249.121.212,Client#5

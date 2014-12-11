@@ -1,0 +1,74 @@
+2012-11-01T00:18:44.730645+00:00,sim64b[3657]:,connect,2,92.226.225.93,Client#4
+2012-11-01T00:20:22.831058+00:00,sim64b[3657]:,connect,3,69.138.176.94,Fifty
+2012-11-01T00:40:19.837048+00:00,sim64b[3657]:,disconnect,3,69.138.176.94,Fifty
+2012-11-01T00:41:19.981530+00:00,sim64b[3657]:,connect,3,92.226.225.93,Client#4
+2012-11-01T00:46:41.778225+00:00,sim64b[3657]:,connect,4,69.138.176.94,Fifty
+2012-11-01T00:46:41.950206+00:00,sim64b[3657]:,disconnect,2,92.226.225.93,Client#4
+2012-11-01T00:58:02.427622+00:00,sim64b[3657]:,disconnect,4,69.138.176.94,Fifty
+2012-11-01T01:42:49.100258+00:00,sim64b[3657]:,connect,2,69.138.176.94,Fifty
+2012-11-01T01:48:12.548170+00:00,sim64b[3657]:,disconnect,2,69.138.176.94,Fifty
+2012-11-01T02:35:20.824442+00:00,sim64b[3657]:,connect,2,92.226.225.93,Client#4
+2012-11-01T02:42:45.656607+00:00,sim64b[3657]:,connect,4,69.138.176.94,Fifty
+2012-11-01T02:42:45.711041+00:00,sim64b[3657]:,disconnect,3,92.226.225.93,Client#4
+2012-11-01T03:15:14.825772+00:00,sim64b[3657]:,disconnect,4,69.138.176.94,Fifty
+2012-11-01T03:28:45.224687+00:00,sim64b[3657]:,disconnect,2,92.226.225.93,Client#4
+2012-11-01T08:26:11.770189+00:00,sim64b[3657]:,connect,3,88.165.36.112,Client#1
+2012-11-01T08:29:47.262740+00:00,sim64b[3657]:,disconnect,3,88.165.36.112,Client#1
+2012-11-01T12:40:52.501503+00:00,sim64b[3657]:,connect,3,213.226.253.113,Client#3
+2012-11-01T12:43:55.673393+00:00,sim64b[3657]:,disconnect,3,213.226.253.113,Client#3
+2012-11-01T14:13:03.837801+00:00,sim64b[3657]:,connect,3,92.226.225.93,Client#3
+2012-11-01T16:14:09.106093+00:00,sim64b[3657]:,connect,4,189.102.162.55,Client#2
+2012-11-01T17:51:15.019492+00:00,sim64b[3657]:,disconnect,3,92.226.225.93,Client#3
+2012-11-01T17:51:15.019541+00:00,sim64b[3657]:,disconnect,4,189.102.162.55,Client#2
+2012-11-01T17:51:18.284716+00:00,sim64b[3657]:,connect,5,92.226.225.93,Client#3
+2012-11-01T19:47:20.409193+00:00,sim64b[3657]:,connect,3,69.138.176.94,Fifty
+2012-11-01T19:48:45.658424+00:00,sim64b[3657]:,disconnect,3,69.138.176.94,Fifty
+2012-11-01T20:15:55.583943+00:00,sim64b[3657]:,connect,3,69.138.176.94,Fifty
+2012-11-01T20:16:55.764042+00:00,sim64b[3657]:,connect,4,69.138.176.94,Fifty
+2012-11-01T20:23:33.283010+00:00,sim64b[3657]:,connect,6,69.138.176.94,Fifty
+2012-11-01T20:38:21.691389+00:00,sim64b[3657]:,connect,7,69.138.176.94,Fifty
+2012-11-01T20:50:01.106362+00:00,sim64b[3657]:,connect,8,88.165.36.112,Client#1
+2012-11-01T20:50:40.251120+00:00,sim64b[3657]:,connect,9,69.138.176.94,Fifty
+2012-11-01T20:50:40.424809+00:00,sim64b[3657]:,disconnect,3,69.138.176.94,Fifty
+2012-11-01T20:50:40.424831+00:00,sim64b[3657]:,disconnect,4,69.138.176.94,Fifty
+2012-11-01T20:50:40.424853+00:00,sim64b[3657]:,disconnect,5,92.226.225.93,Client#3
+2012-11-01T20:50:40.424873+00:00,sim64b[3657]:,disconnect,6,69.138.176.94,Fifty
+2012-11-01T20:50:40.424894+00:00,sim64b[3657]:,disconnect,7,69.138.176.94,Fifty
+2012-11-01T20:53:14.566212+00:00,sim64b[3657]:,connect,3,92.226.225.93,Client#3
+2012-11-01T20:58:17.901655+00:00,sim64b[3657]:,chat,9,69.138.176.94,Fifty,4,RF&P,hello playtosor!
+2012-11-01T20:58:41.239019+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,hi
+2012-11-01T21:00:26.653729+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,no one is doing PAX yet ?
+2012-11-01T21:00:45.720800+00:00,sim64b[3657]:,chat,9,69.138.176.94,Fifty,4,RF&P,"I prefer freight, please go right ahead with pax"
+2012-11-01T21:01:02.840286+00:00,sim64b[3657]:,chat,9,69.138.176.94,Fifty,4,RF&P,"There is a new emu for the later years, 120 km/h, but pretty good"
+2012-11-01T21:01:06.332207+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,"ok "
+2012-11-01T21:01:54.633034+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,emu ?
+2012-11-01T21:02:09.278901+00:00,sim64b[3657]:,chat,9,69.138.176.94,Fifty,4,RF&P,Electric Multiple Unit - electric pax train
+2012-11-01T21:02:22.092288+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,oh ok :)
+2012-11-01T21:02:34.584409+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,saw in the changelog that there were some changes
+2012-11-01T21:02:43.170740+00:00,sim64b[3657]:,chat,9,69.138.176.94,Fifty,4,RF&P,iirc I saw you using huge tram lines last time (I didn't play but was spying)
+2012-11-01T21:02:57.077865+00:00,sim64b[3657]:,connect,4,78.55.51.86,Client#4
+2012-11-01T21:03:08.690727+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,yes in PAK 128
+2012-11-01T21:03:28.350974+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,didn't work that well with congestion
+2012-11-01T21:03:35.773704+00:00,sim64b[3657]:,chat,9,69.138.176.94,Fifty,4,RF&P,"oh, 128? I remeber you on 64."
+2012-11-01T21:03:54.842348+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,in june then
+2012-11-01T21:04:34.616164+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,but i don't remember using much trams back then
+2012-11-01T21:04:50.967749+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,I didn't know about the power :D
+2012-11-01T21:05:02.612475+00:00,sim64b[3657]:,chat,9,69.138.176.94,Fifty,4,RF&P,"Yes, at the time I was playing on the a server, but the b server seems to usually more interesting!"
+2012-11-01T21:05:26.437078+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,a attracks some 'junk' sadly
+2012-11-01T21:06:10.813931+00:00,sim64b[3657]:,chat,9,69.138.176.94,Fifty,4,RF&P,"both do, alas."
+2012-11-01T21:06:45.307343+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,well in june we only had one kid thinking he was playing a wargame
+2012-11-01T21:06:59.595978+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,got bored quickly :)
+2012-11-01T21:07:52.913666+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,btw I miss the map with the tolls
+2012-11-01T21:08:02.604881+00:00,sim64b[3657]:,chat,9,69.138.176.94,Fifty,4,RF&P,"hm. maybe I'm mixed up on my months, but whatever."
+2012-11-01T21:08:36.244606+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,perhaps the color ?
+2012-11-01T21:08:58.766083+00:00,sim64b[3657]:,chat,9,69.138.176.94,Fifty,4,RF&P,"this map has tolls! just not very high. "
+2012-11-01T21:09:10.046211+00:00,sim64b[3657]:,chat,9,69.138.176.94,Fifty,4,RF&P,"pink, i think"
+2012-11-01T21:09:10.895254+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,someone had a huge intercity network with trams
+2012-11-01T21:11:25.688259+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,"ok I'll see you tomorow, too tired to do anything good tonight"
+2012-11-01T21:11:37.519532+00:00,sim64b[3657]:,chat,9,69.138.176.94,Fifty,4,RF&P,g'night!
+2012-11-01T21:11:47.119578+00:00,sim64b[3657]:,chat,8,88.165.36.112,Client#1,7,playtosor SA,ciao :-)
+2012-11-01T21:11:55.488083+00:00,sim64b[3657]:,disconnect,8,88.165.36.112,Client#1
+2012-11-01T21:18:25.249195+00:00,sim64b[3657]:,disconnect,3,92.226.225.93,Client#3
+2012-11-01T22:08:28.768593+00:00,sim64b[3657]:,disconnect,9,69.138.176.94,Fifty
+2012-11-01T22:16:17.412383+00:00,sim64b[3657]:,disconnect,4,78.55.51.86,Client#4
+2012-11-01T22:34:24.346441+00:00,sim64b[3657]:,connect,3,78.55.51.86,Client#4

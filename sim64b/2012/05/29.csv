@@ -1,0 +1,168 @@
+2012-05-29T00:00:39.635957+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T00:17:23.370636+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T02:13:06.292859+00:00,sim64b[22453]:,connect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T02:37:51.186821+00:00,sim64b[22453]:,disconnect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T02:37:51.187116+00:00,sim64b[22453]:,disconnect,3,67.255.17.46,N & N Transport
+2012-05-29T02:38:21.257110+00:00,sim64b[22453]:,connect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T03:18:54.833757+00:00,sim64b[22453]:,disconnect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T03:19:23.234922+00:00,sim64b[22453]:,connect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T03:25:06.070816+00:00,sim64b[22453]:,disconnect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T03:25:32.706275+00:00,sim64b[22453]:,connect,3,98.119.121.135,Hi-Desert transport
+2012-05-29T03:32:23.634559+00:00,sim64b[22453]:,connect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T03:37:12.148459+00:00,sim64b[22453]:,disconnect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T03:37:12.148591+00:00,sim64b[22453]:,disconnect,3,98.119.121.135,Hi-Desert transport
+2012-05-29T03:37:40.747004+00:00,sim64b[22453]:,connect,5,98.119.121.135,Hi-Desert transport
+2012-05-29T03:40:42.597660+00:00,sim64b[22453]:,connect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T03:42:37.212451+00:00,sim64b[22453]:,disconnect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T03:42:37.212736+00:00,sim64b[22453]:,disconnect,5,98.119.121.135,Hi-Desert transport
+2012-05-29T03:44:19.155518+00:00,sim64b[22453]:,connect,2,92.227.154.184,Client
+2012-05-29T03:51:40.567915+00:00,sim64b[22453]:,connect,3,98.119.121.135,Hi-Desert transport
+2012-05-29T03:54:11.701289+00:00,sim64b[22453]:,disconnect,3,98.119.121.135,Hi-Desert transport
+2012-05-29T03:54:40.775471+00:00,sim64b[22453]:,connect,3,98.119.121.135,Hi-Desert transport
+2012-05-29T04:01:56.534609+00:00,sim64b[22453]:,chat,3,98.119.121.135,Hi-Desert transport,11,Hi-Desert Transport,Hello.
+2012-05-29T04:14:01.627371+00:00,sim64b[22453]:,disconnect,2,92.227.154.184,Client
+2012-05-29T05:01:36.850864+00:00,sim64b[22453]:,disconnect,3,98.119.121.135,Hi-Desert transport
+2012-05-29T05:01:44.595116+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T06:06:55.648846+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T06:37:30.384235+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T07:06:33.558099+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T07:06:47.207796+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T07:07:32.915174+00:00,sim64b[22453]:,connect,3,77.242.81.206,Client#7
+2012-05-29T07:12:08.928749+00:00,sim64b[22453]:,disconnect,3,77.242.81.206,Client#7
+2012-05-29T07:17:55.273347+00:00,sim64b[22453]:,connect,3,161.64.41.91,Client#4
+2012-05-29T07:23:22.287835+00:00,sim64b[22453]:,disconnect,3,161.64.41.91,Client#4
+2012-05-29T09:20:22.606381+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T09:20:38.211336+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T09:24:36.503858+00:00,sim64b[22453]:,connect,3,88.165.36.112,wouar
+2012-05-29T09:35:49.102830+00:00,sim64b[22453]:,connect,5,161.64.41.91,Client#4
+2012-05-29T09:35:49.180054+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T09:36:53.865697+00:00,sim64b[22453]:,connect,2,188.100.193.159,freak 27
+2012-05-29T09:37:49.678382+00:00,sim64b[22453]:,disconnect,5,161.64.41.91,Client#4
+2012-05-29T09:38:21.298963+00:00,sim64b[22453]:,connect,5,161.64.41.91,Client#4
+2012-05-29T09:38:26.510710+00:00,sim64b[22453]:,disconnect,2,188.100.193.159,freak 27
+2012-05-29T09:39:19.791299+00:00,sim64b[22453]:,disconnect,5,161.64.41.91,Client#4
+2012-05-29T09:39:53.735625+00:00,sim64b[22453]:,connect,2,161.64.41.91,Client#4
+2012-05-29T09:41:05.707225+00:00,sim64b[22453]:,disconnect,3,88.165.36.112,wouar
+2012-05-29T10:28:46.488587+00:00,sim64b[22453]:,connect,3,79.249.118.57,Client#5
+2012-05-29T10:32:48.009833+00:00,sim64b[22453]:,connect,5,88.165.36.112,wouar
+2012-05-29T10:32:48.108388+00:00,sim64b[22453]:,disconnect,2,161.64.41.91,Client#4
+2012-05-29T10:42:56.102874+00:00,sim64b[22453]:,disconnect,5,88.165.36.112,wouar
+2012-05-29T10:43:15.402397+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T10:43:26.423777+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T10:45:00.871602+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T10:45:40.889691+00:00,sim64b[22453]:,disconnect,3,79.249.118.57,Client#5
+2012-05-29T10:45:59.705007+00:00,sim64b[22453]:,connect,3,79.249.118.57,Client#5
+2012-05-29T10:59:54.358444+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T13:09:37.638306+00:00,sim64b[22453]:,connect,2,78.78.141.190,Client#2
+2012-05-29T13:18:48.295852+00:00,sim64b[22453]:,disconnect,2,78.78.141.190,Client#2
+2012-05-29T13:18:48.295884+00:00,sim64b[22453]:,disconnect,3,79.249.118.57,Client#5
+2012-05-29T14:18:00.049716+00:00,sim64b[22453]:,connect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T15:27:02.588735+00:00,sim64b[22453]:,connect,3,89.103.64.131,Client#6
+2012-05-29T15:27:28.663611+00:00,sim64b[22453]:,chat,2,98.119.121.135,Hi-Desert transport,11,Hi-Desert Transport,Hello.
+2012-05-29T15:28:10.562128+00:00,sim64b[22453]:,disconnect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T15:36:50.231445+00:00,sim64b[22453]:,disconnect,3,89.103.64.131,Client#6
+2012-05-29T15:36:59.541526+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T15:37:46.326628+00:00,sim64b[22453]:,chat,2,88.165.36.112,wouar,9,Playtosor S.A.,hello :)
+2012-05-29T15:52:44.355287+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T15:52:59.446214+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T15:55:02.300560+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T15:55:17.590447+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T16:06:47.860932+00:00,sim64b[22453]:,connect,3,98.119.121.135,Hi-Desert transport
+2012-05-29T16:07:47.048975+00:00,sim64b[22453]:,connect,5,88.153.205.109,Client#5
+2012-05-29T16:07:47.125582+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T16:10:37.078028+00:00,sim64b[22453]:,chat,3,98.119.121.135,Hi-Desert transport,11,Hi-Desert Transport,Hello.
+2012-05-29T16:13:11.744563+00:00,sim64b[22453]:,disconnect,3,98.119.121.135,Hi-Desert transport
+2012-05-29T16:13:44.731982+00:00,sim64b[22453]:,connect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T16:15:21.427329+00:00,sim64b[22453]:,disconnect,5,88.153.205.109,Client#5
+2012-05-29T16:51:05.541232+00:00,sim64b[22453]:,connect,3,78.55.111.222,Client
+2012-05-29T16:51:21.267248+00:00,sim64b[22453]:,chat,2,98.119.121.135,Hi-Desert transport,11,Hi-Desert Transport,Hello.
+2012-05-29T16:55:04.159112+00:00,sim64b[22453]:,connect,5,88.165.36.112,wouar
+2012-05-29T16:55:15.027313+00:00,sim64b[22453]:,chat,2,98.119.121.135,Hi-Desert transport,11,Hi-Desert Transport,Hello.
+2012-05-29T16:55:32.355266+00:00,sim64b[22453]:,chat,3,78.55.111.222,Client,2,Napik 128 AS,hey
+2012-05-29T16:55:57.429592+00:00,sim64b[22453]:,chat,5,88.165.36.112,wouar,15,,;)
+2012-05-29T16:57:12.333747+00:00,sim64b[22453]:,chat,2,98.119.121.135,Hi-Desert transport,11,Hi-Desert Transport,"I seem to have a problem, Freight appears to be trying to block me"
+2012-05-29T16:57:39.411954+00:00,sim64b[22453]:,chat,2,98.119.121.135,Hi-Desert transport,11,Hi-Desert Transport," I mean Freight Forwarder"
+2012-05-29T16:57:54.044373+00:00,sim64b[22453]:,chat,3,78.55.111.222,Client,2,Napik 128 AS,where?
+2012-05-29T16:58:01.868524+00:00,sim64b[22453]:,chat,5,88.165.36.112,wouar,9,Playtosor S.A.,yeah I understood
+2012-05-29T16:58:32.342036+00:00,sim64b[22453]:,chat,5,88.165.36.112,wouar,9,Playtosor S.A.,Oh Napik you there ? can you do something in oldbury ?
+2012-05-29T16:58:33.672174+00:00,sim64b[22453]:,chat,2,98.119.121.135,Hi-Desert transport,11,Hi-Desert Transport,"At (273,93)"
+2012-05-29T16:58:54.192111+00:00,sim64b[22453]:,chat,2,98.119.121.135,Hi-Desert transport,11,Hi-Desert Transport,"and (250,163)"
+2012-05-29T17:01:11.872837+00:00,sim64b[22453]:,chat,5,88.165.36.112,wouar,9,Playtosor S.A.,hi-desert you'ge got some interesting desings
+2012-05-29T17:02:58.712713+00:00,sim64b[22453]:,chat,2,98.119.121.135,Hi-Desert transport,11,Hi-Desert Transport,"true,  I chose to use bridge since it costs the same in maintance"
+2012-05-29T17:04:04.743315+00:00,sim64b[22453]:,chat,2,98.119.121.135,Hi-Desert transport,11,Hi-Desert Transport,That and Freight Forwarder cant possibly block it.
+2012-05-29T17:04:17.375259+00:00,sim64b[22453]:,chat,5,88.165.36.112,wouar,9,Playtosor S.A.,oh it does ? nice to know :)  yes clever thinking
+2012-05-29T17:07:13.051084+00:00,sim64b[22453]:,chat,3,78.55.111.222,Client,2,Napik 128 AS,Playtosor it looks like you are blocking yourself in oldbury
+2012-05-29T17:07:48.102644+00:00,sim64b[22453]:,chat,5,88.165.36.112,wouar,9,Playtosor S.A.,what should I do ?
+2012-05-29T17:08:42.122250+00:00,sim64b[22453]:,chat,5,88.165.36.112,wouar,9,Playtosor S.A.,for now I send some trucks to depot
+2012-05-29T17:09:16.788750+00:00,sim64b[22453]:,chat,3,78.55.111.222,Client,2,Napik 128 AS,i think you have to deliver Oldbury station
+2012-05-29T17:10:03.678362+00:00,sim64b[22453]:,chat,3,78.55.111.222,Client,2,Napik 128 AS,...and the paper trucks will run
+2012-05-29T17:10:59.585648+00:00,sim64b[22453]:,chat,5,88.165.36.112,wouar,9,Playtosor S.A.,oh but they don't run because I can't deliver books
+2012-05-29T17:11:16.801587+00:00,sim64b[22453]:,chat,5,88.165.36.112,wouar,9,Playtosor S.A.,so no paper needed to the factory
+2012-05-29T17:12:10.714763+00:00,sim64b[22453]:,chat,5,88.165.36.112,wouar,9,Playtosor S.A.,you did something ?
+2012-05-29T17:12:40.501472+00:00,sim64b[22453]:,chat,3,78.55.111.222,Client,2,Napik 128 AS,no
+2012-05-29T17:13:01.952173+00:00,sim64b[22453]:,chat,5,88.165.36.112,wouar,9,Playtosor S.A.,so it's my depot sending then ... good :)
+2012-05-29T17:13:09.770352+00:00,sim64b[22453]:,chat,3,78.55.111.222,Client,2,Napik 128 AS,the trucks in Oldbury are not mine
+2012-05-29T17:13:24.744576+00:00,sim64b[22453]:,chat,5,88.165.36.112,wouar,9,Playtosor S.A.,electrics ?
+2012-05-29T17:13:38.550302+00:00,sim64b[22453]:,chat,5,88.165.36.112,wouar,9,Playtosor S.A.,can't see who is who lol
+2012-05-29T17:17:44.933967+00:00,sim64b[22453]:,disconnect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T17:18:52.863753+00:00,sim64b[22453]:,connect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T17:19:21.516291+00:00,sim64b[22453]:,disconnect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T17:37:12.136495+00:00,sim64b[22453]:,connect,2,91.19.84.52,Client#5
+2012-05-29T17:40:24.110227+00:00,sim64b[22453]:,disconnect,2,91.19.84.52,Client#5
+2012-05-29T17:44:07.462612+00:00,sim64b[22453]:,connect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T17:50:05.237342+00:00,sim64b[22453]:,disconnect,2,98.119.121.135,Hi-Desert transport
+2012-05-29T18:00:39.797332+00:00,sim64b[22453]:,disconnect,5,88.165.36.112,wouar
+2012-05-29T18:49:36.327973+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T19:10:19.103736+00:00,sim64b[22453]:,disconnect,3,78.55.111.222,Client
+2012-05-29T19:10:31.435188+00:00,sim64b[22453]:,connect,3,78.55.111.222,Client
+2012-05-29T19:13:52.208062+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T19:14:14.271330+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T19:18:30.645691+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T19:18:48.911209+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T19:51:24.811412+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T19:51:45.681315+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T19:57:02.176744+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T19:57:25.239245+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T20:02:46.973337+00:00,sim64b[22453]:,disconnect,3,78.55.111.222,Client
+2012-05-29T20:10:37.538657+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T20:11:01.602856+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T20:20:12.168211+00:00,sim64b[22453]:,connect,3,79.249.118.57,Client#5
+2012-05-29T20:21:40.858946+00:00,sim64b[22453]:,disconnect,3,79.249.118.57,Client#5
+2012-05-29T20:21:55.678676+00:00,sim64b[22453]:,connect,3,79.249.118.57,Client#5
+2012-05-29T20:22:56.014906+00:00,sim64b[22453]:,disconnect,3,79.249.118.57,Client#5
+2012-05-29T20:23:08.954545+00:00,sim64b[22453]:,connect,3,79.249.118.57,Client#5
+2012-05-29T20:24:26.167483+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T20:24:51.950740+00:00,sim64b[22453]:,connect,2,88.165.36.112,wouar
+2012-05-29T20:31:22.125316+00:00,sim64b[22453]:,disconnect,3,79.249.118.57,Client#5
+2012-05-29T20:31:38.295018+00:00,sim64b[22453]:,connect,3,79.249.118.57,Client#5
+2012-05-29T20:33:26.482472+00:00,sim64b[22453]:,chat,3,79.249.118.57,Client#5,12,Electrics.Ltd,w?
+2012-05-29T20:33:57.117692+00:00,sim64b[22453]:,chat,3,79.249.118.57,Client#5,12,Electrics.Ltd,well without speditions help you cant unblock the city...
+2012-05-29T20:34:38.917676+00:00,sim64b[22453]:,chat,2,88.165.36.112,wouar,9,Playtosor S.A.,Electrics ?
+2012-05-29T20:34:52.554999+00:00,sim64b[22453]:,chat,3,79.249.118.57,Client#5,12,Electrics.Ltd,yes?
+2012-05-29T20:35:04.822897+00:00,sim64b[22453]:,chat,2,88.165.36.112,wouar,9,Playtosor S.A.,what are you talking about ?
+2012-05-29T20:35:27.561102+00:00,sim64b[22453]:,chat,3,79.249.118.57,Client#5,12,Electrics.Ltd,"@76,92"
+2012-05-29T20:35:40.388726+00:00,sim64b[22453]:,chat,3,79.249.118.57,Client#5,12,Electrics.Ltd,it is still blocked...
+2012-05-29T20:36:09.197552+00:00,sim64b[22453]:,chat,2,88.165.36.112,wouar,9,Playtosor S.A.,yes
+2012-05-29T20:36:33.857846+00:00,sim64b[22453]:,chat,2,88.165.36.112,wouar,9,Playtosor S.A.,I diverted some of my traffic
+2012-05-29T20:37:00.209867+00:00,sim64b[22453]:,chat,2,88.165.36.112,wouar,9,Playtosor S.A.,so at least something moves...
+2012-05-29T20:38:46.458088+00:00,sim64b[22453]:,chat,3,79.249.118.57,Client#5,12,Electrics.Ltd,"hmm maybe if you will build a roatgate@74,93, perhaps the busses will make a turn "
+2012-05-29T20:41:30.769955+00:00,sim64b[22453]:,chat,2,88.165.36.112,wouar,9,Playtosor S.A.,it won't let me
+2012-05-29T20:42:47.926363+00:00,sim64b[22453]:,connect,5,98.83.195.112,Client#4
+2012-05-29T20:43:14.834125+00:00,sim64b[22453]:,chat,3,79.249.118.57,Client#5,12,Electrics.Ltd,"hmm I will remove the houses @74,92 so the streets will turn to public"
+2012-05-29T20:45:49.812789+00:00,sim64b[22453]:,chat,2,88.165.36.112,wouar,9,Playtosor S.A.,I have to go ... I'll try something later. Perhaps a tunnel ?
+2012-05-29T20:46:14.659679+00:00,sim64b[22453]:,disconnect,2,88.165.36.112,wouar
+2012-05-29T20:46:26.172544+00:00,sim64b[22453]:,chat,3,79.249.118.57,Client#5,12,Electrics.Ltd,hmm no the busses are blocked in a circle...
+2012-05-29T20:47:15.460775+00:00,sim64b[22453]:,disconnect,3,79.249.118.57,Client#5
+2012-05-29T20:47:28.956394+00:00,sim64b[22453]:,connect,2,79.249.118.57,Client#5
+2012-05-29T20:47:54.847576+00:00,sim64b[22453]:,disconnect,5,98.83.195.112,Client#4
+2012-05-29T21:00:37.900332+00:00,sim64b[22453]:,connect,3,79.249.118.57,Client#5
+2012-05-29T21:03:02.109987+00:00,sim64b[22453]:,disconnect,2,79.249.118.57,Client#5
+2012-05-29T21:03:02.110260+00:00,sim64b[22453]:,disconnect,3,79.249.118.57,Client#5
+2012-05-29T21:03:15.864870+00:00,sim64b[22453]:,connect,2,79.249.118.57,Client#5
+2012-05-29T21:05:32.139455+00:00,sim64b[22453]:,connect,3,79.249.118.57,Client#5
+2012-05-29T21:43:38.837044+00:00,sim64b[22453]:,connect,5,88.165.36.112,wouar
+2012-05-29T22:13:22.674824+00:00,sim64b[22453]:,disconnect,2,79.249.118.57,Client#5
+2012-05-29T22:13:22.674965+00:00,sim64b[22453]:,disconnect,3,79.249.118.57,Client#5
+2012-05-29T22:13:22.675207+00:00,sim64b[22453]:,disconnect,5,88.165.36.112,wouar
+2012-05-29T22:13:32.255866+00:00,sim64b[22453]:,connect,6,88.165.36.112,wouar
+2012-05-29T23:24:13.374565+00:00,sim64b[22453]:,connect,2,201.83.119.35,edson

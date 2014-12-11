@@ -1,0 +1,193 @@
+2012-12-29T00:16:42.885286+00:00,sim128b[27991]:,onnect,2,78.217.240.28,Client#4
+2012-12-29T08:32:37.910008+00:00,sim128b[27991]:,onnect,3,62.238.177.205,G.R.
+2012-12-29T08:34:58.114976+00:00,sim128b[27991]:,isconnect,2,78.217.240.28,Client#4
+2012-12-29T08:34:58.115206+00:00,sim128b[27991]:,isconnect,3,62.238.177.205,G.R.
+2012-12-29T09:09:13.261939+00:00,sim128b[27991]:,onnect,2,109.243.82.18,aaa
+2012-12-29T09:09:53.568876+00:00,sim128b[27991]:,onnect,3,99.199.226.123,sakelol
+2012-12-29T09:10:40.014169+00:00,sim128b[27991]:,isconnect,2,109.243.82.18,aaa
+2012-12-29T15:52:13.149460+00:00,sim128b[27991]:,isconnect,3,99.199.226.123,sakelol
+2012-12-29T15:52:18.750231+00:00,sim128b[27991]:,onnect,2,98.141.195.201,Client#4
+2012-12-29T17:51:58.325205+00:00,sim128b[27991]:,onnect,3,91.16.114.93,Jaridan
+2012-12-29T17:55:44.967241+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains - patched version,yo
+2012-12-29T18:24:19.582587+00:00,sim128b[27991]:,onnect,4,91.16.114.93,Jaridan
+2012-12-29T18:24:46.347280+00:00,sim128b[27991]:,isconnect,2,98.141.195.201,Client#4
+2012-12-29T18:24:46.347616+00:00,sim128b[27991]:,isconnect,3,91.16.114.93,Jaridan
+2012-12-29T18:24:46.347717+00:00,sim128b[27991]:,isconnect,4,91.16.114.93,Jaridan
+2012-12-29T18:26:58.798496+00:00,sim128b[27991]:,onnect,2,98.141.195.201,Client#4
+2012-12-29T18:34:30.465341+00:00,sim128b[27991]:,onnect,3,91.16.114.93,Jaridan
+2012-12-29T19:18:31.187250+00:00,sim128b[27991]:,isconnect,2,98.141.195.201,Client#4
+2012-12-29T19:18:31.187358+00:00,sim128b[27991]:,isconnect,3,91.16.114.93,Jaridan
+2012-12-29T19:18:36.450884+00:00,sim128b[27991]:,onnect,4,91.16.114.93,Jaridan
+2012-12-29T19:19:32.778994+00:00,sim128b[27991]:,onnect,2,98.141.195.201,Fifty
+2012-12-29T19:19:43.578363+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,11,player 10,yo
+2012-12-29T19:20:26.249531+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,15,,"argh, you took my industry plans :)"
+2012-12-29T19:20:41.219432+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,11,player 10,:S
+2012-12-29T19:20:55.561353+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,11,player 10,"i wont hold out though, :/"
+2012-12-29T19:21:07.701744+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,11,player 10,didnt have enough money for enough grain
+2012-12-29T19:21:27.377736+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,15,,"what, you thinj you'll bankrupt?"
+2012-12-29T19:21:47.107760+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,15,,"+ even with the little grain there is, the few trucks i have wont be sufficient to transport it to the supermarket"
+2012-12-29T19:21:55.955522+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,15,,i will
+2012-12-29T19:22:11.113399+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,15,,unless you wanna help me out maybe xD
+2012-12-29T19:22:36.467065+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,15,,how can I help?
+2012-12-29T19:22:39.679619+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains - patched version,basically:  the end product of the good fac has to be transpored
+2012-12-29T19:23:08.125478+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,11,player 10,i think that would help alot already
+2012-12-29T19:23:13.722586+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,k will do
+2012-12-29T19:23:26.665811+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,11,player 10,i just dont have any money anymore for more trucks / a train connection
+2012-12-29T19:24:02.164464+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains - patched version,"in my offline simulation i just ran, i held out a few years before going bankrupt due to the buildup of goods :D few years before going"
+2012-12-29T19:24:22.503156+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains - patched version,"meh, any idea how to change the transparency ? (kinda annoying imo for chat)"
+2012-12-29T19:24:39.010809+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,"i sent a few of your trucks on a roundabout route, might want to send em back"
+2012-12-29T19:24:53.838970+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains - patched version,:S
+2012-12-29T19:26:04.258239+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains - patched version,btw merry x-mas :P
+2012-12-29T19:26:17.905282+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,"a little late, happy new year"
+2012-12-29T19:26:28.221321+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains - patched version,"had no time to put up a sign, and now the server restarted ...so"
+2012-12-29T19:27:02.812984+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,can I bring more grain?
+2012-12-29T19:27:17.914513+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains - patched version,"y, would be good"
+2012-12-29T19:27:52.410743+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains - patched version,"i have 1 grain farm attached, though i only deliver around 10% or so atm efficiently due to lack of trains"
+2012-12-29T19:28:11.008724+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains - patched version,i would like to bring it up to full efficience but yeah... no money^^
+2012-12-29T19:28:22.051016+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains - patched version,the mill needs 2 farms anyway
+2012-12-29T19:28:44.581498+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains - patched version,"oh... are you going to do pax somewhere btw? "
+2012-12-29T19:29:07.131439+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,no i don't like pax you know
+2012-12-29T19:29:45.362972+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains - patched version,"^^ y, it is pretty stressful, just asking, cause i thought of 2 possible (medium) size loops i could do"
+2012-12-29T19:31:36.354638+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,"I'm so used to the old depot box, this new one's better but I can use the old one in my sleep ;)"
+2012-12-29T19:31:54.356043+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains - patched version,"y, took me like half a minute to find the depot button xD"
+2012-12-29T19:32:29.278783+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,15,,meh
+2012-12-29T19:32:41.446775+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,hmm
+2012-12-29T19:32:44.026969+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,15,,OH
+2012-12-29T19:32:50.080484+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,15,,thats a good online feature
+2012-12-29T19:32:58.744379+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,now for my grand plan :)
+2012-12-29T19:33:07.176967+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,Meyer Moving Co.,companies get deleted immediately
+2012-12-29T19:33:27.528533+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,Meyer Moving Co.,"idk, you mind if we share it?`"
+2012-12-29T19:34:18.980250+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,my grand plan will get flour and meat and fish
+2012-12-29T19:34:29.340940+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,...yes
+2012-12-29T19:36:57.633175+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,Meyer Moving Co.,can i bring in meat & grain from my 1 grain farm?
+2012-12-29T19:37:10.333824+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,y
+2012-12-29T19:48:34.402912+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,"this whole pakset has been rebalanced, so I have to rethink all of my convoys"
+2012-12-29T19:48:47.722586+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,Meyer Moving Co.,oh wow D:
+2012-12-29T19:52:02.943721+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,Meyer Moving Co.,"-.- "
+2012-12-29T19:52:09.165050+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,what?
+2012-12-29T19:52:22.670485+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,Meyer Moving Co.,"i'm dumb, my trains are short 2 waggons xD"
+2012-12-29T19:52:38.832357+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,Meyer Moving Co.,well as long as they rack in profit for now thats enough to be happy
+2012-12-29T19:53:03.544558+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,Meyer Moving Co.,brb
+2012-12-29T19:53:11.226730+00:00,sim128b[27991]:,isconnect,4,91.16.114.93,Jaridan
+2012-12-29T19:53:11.961612+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,i to will brb
+2012-12-29T19:54:32.044836+00:00,sim128b[27991]:,onnect,3,91.16.114.93,Jaridan
+2012-12-29T19:55:36.985428+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,Meyer Moving Co.,"y, i'm gona make solid profit"
+2012-12-29T20:06:40.372706+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,Meyer Moving Co.,you will need to improve your flour delivering i think
+2012-12-29T20:12:40.398151+00:00,sim128b[27991]:,onnect,4,98.141.195.201,Fifty
+2012-12-29T20:12:40.486231+00:00,sim128b[27991]:,isconnect,2,98.141.195.201,Fifty
+2012-12-29T20:13:49.872971+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,11,player 10,wb
+2012-12-29T20:14:06.838904+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,to see if I have enough money for a second flour train
+2012-12-29T20:14:20.077343+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,11,player 10,i dont think you need a second train
+2012-12-29T20:14:33.292252+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,11,player 10,but it needs to run constantly i think
+2012-12-29T20:16:32.909745+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"btw , i found a small ""bug"" already @37,109"
+2012-12-29T20:16:51.861575+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,?
+2012-12-29T20:17:28.247282+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"it says (hope i translate it right) ""Futuristic tower/skycraper - build since 1964"
+2012-12-29T20:17:47.288044+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,it's an attraction that shouldn't have been build yet
+2012-12-29T20:18:23.588201+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,"oh, yes, since 1964. however, timothy could have created the map without timeline?"
+2012-12-29T20:18:48.006420+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,"no, I think its a bug"
+2012-12-29T20:18:53.221835+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"in that case, wouldn't we be able to build all trains?"
+2012-12-29T20:19:26.616359+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,you can retroactively apply timeline by way of the hidden settings dialog
+2012-12-29T20:19:44.685508+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,^^
+2012-12-29T20:20:09.607203+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,but looking at the cities I think not
+2012-12-29T20:21:05.952032+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"i think it's either that 1 attraction, that is bugged, or (more likely) just a false date"
+2012-12-29T20:22:22.361580+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"btw, you have 180k left, you can easily get 1-2 more trains ( in case you gonna/wanna add something)"
+2012-12-29T20:23:23.314955+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,"No, it'd be very difficut for the date to be wrong, look at the tv towers too, they were there before 1945. It's an error in land attraction placement, likely"
+2012-12-29T20:24:12.208980+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,can you bridge over my tracks so I can get two and eliminate the dip at some point or...
+2012-12-29T20:24:31.957044+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,pardon?
+2012-12-29T20:25:28.653679+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"you mean if i can move my dual track 1 tile to the east (256,454)"
+2012-12-29T20:25:30.087876+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,"can you remove your tracks in the column @254,463 so I can get a double track under you?"
+2012-12-29T20:26:48.802304+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"ok, gimme a sec"
+2012-12-29T20:26:57.337226+00:00,sim128b[27991]:,onnect,2,62.238.177.205,G.R.
+2012-12-29T20:27:06.952075+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,hello :)
+2012-12-29T20:29:06.667975+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,"wait a sec, can't you just move your track one to the right?"
+2012-12-29T20:29:58.611918+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,err
+2012-12-29T20:30:09.284064+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,y i suppose i could do just that lol
+2012-12-29T20:30:29.406021+00:00,sim128b[27991]:,hat,2,62.238.177.205,G.R.,15,,Hello!
+2012-12-29T20:30:47.561627+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,hi
+2012-12-29T20:30:53.684653+00:00,sim128b[27991]:,hat,2,62.238.177.205,G.R.,9,Abellio,"German, why do you have such a long name ;p"
+2012-12-29T20:31:01.998493+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,in a sec
+2012-12-29T20:32:22.631344+00:00,sim128b[27991]:,onnect,5,84.147.94.178,Pascallok
+2012-12-29T20:32:56.359129+00:00,sim128b[27991]:,isconnect,2,62.238.177.205,G.R.
+2012-12-29T20:33:05.000592+00:00,sim128b[27991]:,isconnect,5,84.147.94.178,Pascallok
+2012-12-29T20:33:27.318988+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"man, that did cost me 20k >.< not gonna do much today anymore i guess :/"
+2012-12-29T20:33:36.557957+00:00,sim128b[27991]:,onnect,2,62.238.177.205,G.R.
+2012-12-29T20:33:47.269789+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,"sorry, but thanks!"
+2012-12-29T20:34:24.129951+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"@ G.R , dunno, cause it's fun :D"
+2012-12-29T20:36:17.189387+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,"yes, new train cost me 150k in net wealth loss and track construction"
+2012-12-29T20:36:30.591774+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,11,player 10,ouch D:
+2012-12-29T20:36:50.045244+00:00,sim128b[27991]:,isconnect,2,62.238.177.205,G.R.
+2012-12-29T20:36:54.796311+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,that's why I was a bit hesitant!
+2012-12-29T20:37:14.453902+00:00,sim128b[27991]:,onnect,2,62.238.177.205,>
+2012-12-29T20:37:23.053692+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,11,player 10,"well your income is positive , so you should be safe"
+2012-12-29T20:37:33.458811+00:00,sim128b[27991]:,isconnect,3,91.16.114.93,Jaridan
+2012-12-29T20:37:38.532557+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,yes I'm good
+2012-12-29T20:38:07.928827+00:00,sim128b[27991]:,onnect,3,91.16.114.93,Jaridan
+2012-12-29T20:38:40.109137+00:00,sim128b[27991]:,hat,2,62.238.177.205,>,9,Abellio,Hmm is it me or is the date not working?
+2012-12-29T20:38:51.490768+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,15,,its working....
+2012-12-29T20:38:55.932378+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,the date?
+2012-12-29T20:39:51.193913+00:00,sim128b[27991]:,hat,2,62.238.177.205,>,9,Abellio,The only thing I see is the season (Spring/summer etc.) and some chinese strange characters
+2012-12-29T20:40:08.922411+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,what language are you in?
+2012-12-29T20:40:35.029313+00:00,sim128b[27991]:,hat,2,62.238.177.205,>,9,Abellio,"Dutch, probably should try english"
+2012-12-29T20:40:46.646065+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,"try english, likely a translation error"
+2012-12-29T20:41:07.015971+00:00,sim128b[27991]:,isconnect,2,62.238.177.205,>
+2012-12-29T20:42:38.453814+00:00,sim128b[27991]:,onnect,2,62.238.177.205,Client#2
+2012-12-29T20:43:00.783429+00:00,sim128b[27991]:,hat,2,62.238.177.205,Client#2,9,Abellio,It works!
+2012-12-29T20:43:58.242634+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P,"good, will you report it to the forum"
+2012-12-29T20:44:04.152312+00:00,sim128b[27991]:,hat,4,98.141.195.201,Fifty,12,RF&P," please ?"
+2012-12-29T20:44:46.493909+00:00,sim128b[27991]:,hat,2,62.238.177.205,Client#2,9,Abellio,Ok
+2012-12-29T20:44:52.115569+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"i'm out for now, cya (nothing i could do anyway)"
+2012-12-29T20:45:02.947446+00:00,sim128b[27991]:,isconnect,3,91.16.114.93,Jaridan
+2012-12-29T20:45:13.245268+00:00,sim128b[27991]:,isconnect,2,62.238.177.205,Client#2
+2012-12-29T20:45:21.626878+00:00,sim128b[27991]:,onnect,2,62.238.177.205,Client#2
+2012-12-29T20:49:07.245253+00:00,sim128b[27991]:,onnect,3,98.141.195.201,Fifty
+2012-12-29T20:49:07.412991+00:00,sim128b[27991]:,isconnect,4,98.141.195.201,Fifty
+2012-12-29T21:01:56.530245+00:00,sim128b[27991]:,isconnect,3,98.141.195.201,Fifty
+2012-12-29T21:19:30.338817+00:00,sim128b[27991]:,isconnect,2,62.238.177.205,Client#2
+2012-12-29T21:19:39.341410+00:00,sim128b[27991]:,onnect,2,62.238.177.205,Client#2
+2012-12-29T21:45:56.113006+00:00,sim128b[27991]:,isconnect,2,62.238.177.205,Client#2
+2012-12-29T21:46:00.532504+00:00,sim128b[27991]:,onnect,3,62.238.177.205,Client#2
+2012-12-29T22:12:20.436650+00:00,sim128b[27991]:,onnect,2,98.141.195.201,Fifty
+2012-12-29T22:14:41.977555+00:00,sim128b[27991]:,onnect,4,91.16.114.93,Jaridan
+2012-12-29T22:14:42.068351+00:00,sim128b[27991]:,isconnect,3,62.238.177.205,Client#2
+2012-12-29T22:15:05.332045+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,"jaridan, your meat train is using boxcars!"
+2012-12-29T22:15:16.651520+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,boxcars?
+2012-12-29T22:15:37.860099+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,for piece goods
+2012-12-29T22:15:46.488062+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,wups lol
+2012-12-29T22:16:03.768100+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,totally didnt catch that xD-.-
+2012-12-29T22:16:14.148564+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,maybe it's an american thing to call them boxcars
+2012-12-29T22:16:49.136240+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"that explains why it never moved xD "
+2012-12-29T22:17:04.074513+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,was used to it running anyway (from before going bankrupt)
+2012-12-29T22:17:58.246222+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,"Abellio went belly-up, i see"
+2012-12-29T22:18:07.154031+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,oh wow
+2012-12-29T22:18:22.560533+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,why?
+2012-12-29T22:18:26.986156+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,he was in the plus
+2012-12-29T22:18:36.282557+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,idk wasn't online
+2012-12-29T22:18:43.408341+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,ima check my savegame
+2012-12-29T22:21:57.917678+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,thx for the notification mate^^
+2012-12-29T22:22:27.500697+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,np. you have any plans to start pax anytime soon (i'm interested in paxing the food fac)
+2012-12-29T22:22:48.601592+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"ugh y, i was just aout to see if i could create a succesful little pax network"
+2012-12-29T22:23:09.358051+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"you know, the big city, supermarket city and then a small loop (onc ei have money)"
+2012-12-29T22:23:31.444749+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,"nice. "
+2012-12-29T22:23:43.735858+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"y, only problem is teh moneyz ^^"
+2012-12-29T22:24:08.805838+00:00,sim128b[27991]:,hat,2,98.141.195.201,Fifty,12,RF&P,"I was thinking of a small temp service in rifle, maybe"
+2012-12-29T22:25:15.021211+00:00,sim128b[27991]:,isconnect,4,91.16.114.93,Jaridan
+2012-12-29T22:25:31.773035+00:00,sim128b[27991]:,onnect,3,91.16.114.93,Jaridan
+2012-12-29T22:25:41.350802+00:00,sim128b[27991]:,hat,3,91.16.114.93,Jaridan,15,,i'll try something offline real quick
+2012-12-29T22:25:51.697892+00:00,sim128b[27991]:,isconnect,3,91.16.114.93,Jaridan
+2012-12-29T22:39:00.134862+00:00,sim128b[27991]:,onnect,3,91.16.114.93,Jaridan
+2012-12-29T23:15:19.196111+00:00,sim128b[27991]:,onnect,4,91.16.114.93,Jaridan
+2012-12-29T23:30:24.564096+00:00,sim128b[27991]:,onnect,5,81.229.77.246,Budgetjam
+2012-12-29T23:30:24.692158+00:00,sim128b[27991]:,isconnect,2,98.141.195.201,Fifty
+2012-12-29T23:30:24.692196+00:00,sim128b[27991]:,isconnect,3,91.16.114.93,Jaridan
+2012-12-29T23:30:41.758484+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,hi
+2012-12-29T23:51:52.825512+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,hi
+2012-12-29T23:52:51.231155+00:00,sim128b[27991]:,hat,5,81.229.77.246,Budgetjam,3,Trikky Transport,hi
+2012-12-29T23:53:08.868296+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,you should set a password for your company ;)
+2012-12-29T23:53:38.013997+00:00,sim128b[27991]:,hat,5,81.229.77.246,Budgetjam,3,Trikky Transport,"ok this is first time online. "
+2012-12-29T23:53:44.930893+00:00,sim128b[27991]:,hat,5,81.229.77.246,Budgetjam,3,Trikky Transport,Sorry
+2012-12-29T23:54:09.548149+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"ah i see, to change your company name or set a password, click on the rectanle next to your company"
+2012-12-29T23:54:43.272490+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"no need to apologize ;) if you need anything, just ask^^"
+2012-12-29T23:55:26.829271+00:00,sim128b[27991]:,hat,5,81.229.77.246,Budgetjam,3,Budget Transport,ok Thanks!
+2012-12-29T23:56:40.548578+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"for example, something i learned online as well, you can use normal electrifications (for normal railways)"
+2012-12-29T23:57:26.870218+00:00,sim128b[27991]:,hat,4,91.16.114.93,Jaridan,4,German Festival Trains Transport - patched version,"for your tram rails aswell, and th normal ones ar echeaper ( you can see an example here (209,488)  )"
+2012-12-29T23:59:41.095190+00:00,sim128b[27991]:,hat,5,81.229.77.246,Budgetjam,3,Budget Transport,"ahha, But is that nessesery?"

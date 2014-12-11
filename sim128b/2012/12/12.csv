@@ -1,0 +1,90 @@
+2012-12-12T00:00:03.357280+00:00,sim128b[1432]:,connect,3,91.16.73.191,Jaridan
+2012-12-12T00:04:26.661118+00:00,sim128b[1432]:,connect,4,174.89.66.141,Astrain1
+2012-12-12T00:04:26.714419+00:00,sim128b[1432]:,disconnect,2,91.16.73.191,Jaridan
+2012-12-12T00:04:33.682897+00:00,sim128b[1432]:,chat,3,91.16.73.191,Jaridan,7,German Drunken Train Transport,hi
+2012-12-12T00:07:51.180416+00:00,sim128b[1432]:,connect,2,91.16.73.191,Client#2
+2012-12-12T00:08:23.458745+00:00,sim128b[1432]:,chat,2,91.16.73.191,Client#2,15,,hi
+2012-12-12T00:14:35.988080+00:00,sim128b[1432]:,disconnect,2,91.16.73.191,Client#2
+2012-12-12T00:14:35.988245+00:00,sim128b[1432]:,disconnect,4,174.89.66.141,Astrain1
+2012-12-12T00:14:52.154436+00:00,sim128b[1432]:,connect,2,91.16.73.191,Client#2
+2012-12-12T00:15:08.608940+00:00,sim128b[1432]:,chat,2,91.16.73.191,Client#2,7,German Drunken Train Transport,if you need help just say something ;9
+2012-12-12T00:20:41.082736+00:00,sim128b[1432]:,disconnect,3,91.16.73.191,Jaridan
+2012-12-12T00:28:14.842513+00:00,sim128b[1432]:,disconnect,2,91.16.73.191,Client#2
+2012-12-12T00:28:27.811818+00:00,sim128b[1432]:,connect,2,91.16.73.191,Jaridan
+2012-12-12T01:08:40.802061+00:00,sim128b[1432]:,connect,3,91.16.73.191,Jaridan
+2012-12-12T01:44:13.252946+00:00,sim128b[1432]:,disconnect,2,91.16.73.191,Jaridan
+2012-12-12T01:44:13.252971+00:00,sim128b[1432]:,disconnect,3,91.16.73.191,Jaridan
+2012-12-12T01:44:21.406663+00:00,sim128b[1432]:,connect,4,91.16.73.191,Jaridan
+2012-12-12T01:52:29.580220+00:00,sim128b[1432]:,connect,2,79.91.70.176,Floxit
+2012-12-12T01:52:39.650775+00:00,sim128b[1432]:,chat,4,91.16.73.191,Jaridan,7,German Drunken Train Transport,hi
+2012-12-12T02:06:53.027686+00:00,sim128b[1432]:,disconnect,4,91.16.73.191,Jaridan
+2012-12-12T02:07:10.320601+00:00,sim128b[1432]:,connect,3,91.16.73.191,Jaridan
+2012-12-12T02:35:15.848588+00:00,sim128b[1432]:,disconnect,2,79.91.70.176,Floxit
+2012-12-12T02:35:49.520749+00:00,sim128b[1432]:,connect,2,79.91.70.176,Floxit
+2012-12-12T02:36:53.173525+00:00,sim128b[1432]:,chat,2,79.91.70.176,Floxit,15,,hello
+2012-12-12T02:36:59.580424+00:00,sim128b[1432]:,chat,3,91.16.73.191,Jaridan,7,German Drunken Train Transport,hi
+2012-12-12T02:39:40.877649+00:00,sim128b[1432]:,chat,3,91.16.73.191,Jaridan,7,German Drunken Train Transport,if you need help with something just ask ;)
+2012-12-12T02:42:22.279761+00:00,sim128b[1432]:,chat,2,79.91.70.176,Floxit,15,,"Thanks, I know OpenTTD, and this game looks much more complete today ! That's amazing."
+2012-12-12T02:43:06.711554+00:00,sim128b[1432]:,chat,3,91.16.73.191,Jaridan,7,German Drunken Train Transport,"y, simutrans and openttd have come a long way"
+2012-12-12T02:43:49.427949+00:00,sim128b[1432]:,chat,2,79.91.70.176,Floxit,15,,"yep, sure"
+2012-12-12T02:45:55.902557+00:00,sim128b[1432]:,chat,3,91.16.73.191,Jaridan,7,German Drunken Train Transport,"so you are just looking around, or are you gonna join the party?^^"
+2012-12-12T02:46:27.075526+00:00,sim128b[1432]:,chat,2,79.91.70.176,Floxit,15,,"I'll join the next days, I need to sleep for now but excited by this work ;-)"
+2012-12-12T02:47:02.639787+00:00,sim128b[1432]:,chat,3,91.16.73.191,Jaridan,7,German Drunken Train Transport,maybe you wanna grab an account ( i doubt ppl will lock em but you never know)
+2012-12-12T02:47:55.869654+00:00,sim128b[1432]:,chat,3,91.16.73.191,Jaridan,7,German Drunken Train Transport,"cause as you can see under options-> players , some ppl just made/took an account without any intent to play ( no way to remove em atm)"
+2012-12-12T02:48:20.889037+00:00,sim128b[1432]:,disconnect,2,79.91.70.176,Floxit
+2012-12-12T02:48:40.243383+00:00,sim128b[1432]:,chat,3,91.16.73.191,Jaridan,7,German Drunken Train Transport,cya
+2012-12-12T02:49:23.267892+00:00,sim128b[1432]:,connect,2,79.91.70.176,Floxit
+2012-12-12T02:49:34.573644+00:00,sim128b[1432]:,chat,3,91.16.73.191,Jaridan,7,German Drunken Train Transport,or not xD wb
+2012-12-12T02:49:44.594324+00:00,sim128b[1432]:,chat,2,79.91.70.176,Floxit,15,,sorry disconnected
+2012-12-12T02:49:50.252100+00:00,sim128b[1432]:,chat,3,91.16.73.191,Jaridan,7,German Drunken Train Transport,np lol^^
+2012-12-12T02:51:05.674871+00:00,sim128b[1432]:,disconnect,2,79.91.70.176,Floxit
+2012-12-12T02:52:28.541987+00:00,sim128b[1432]:,connect,2,79.91.70.176,Floxit
+2012-12-12T02:55:21.516670+00:00,sim128b[1432]:,chat,2,79.91.70.176,Floxit,15,,How do you know witch player is currently connected ?
+2012-12-12T02:55:58.499313+00:00,sim128b[1432]:,chat,2,79.91.70.176,Floxit,15,,"Oh see ya dude, next time"
+2012-12-12T02:56:05.036685+00:00,sim128b[1432]:,chat,3,91.16.73.191,Jaridan,7,German Drunken Train Transport,"well, for once it shows the client name when someone connects, apart from that you can't check who exactly"
+2012-12-12T02:56:24.430058+00:00,sim128b[1432]:,chat,3,91.16.73.191,Jaridan,7,German Drunken Train Transport,"is online, but ppl usually talk ;) cya mate"
+2012-12-12T02:57:09.797324+00:00,sim128b[1432]:,chat,2,79.91.70.176,Floxit,15,,"i see, thanks for your support :)"
+2012-12-12T02:57:18.337703+00:00,sim128b[1432]:,chat,3,91.16.73.191,Jaridan,7,German Drunken Train Transport,ur welcome ;)
+2012-12-12T02:59:12.188757+00:00,sim128b[1432]:,disconnect,2,79.91.70.176,Floxit
+2012-12-12T03:53:05.540074+00:00,sim128b[1432]:,connect,2,98.141.195.201,Fifty
+2012-12-12T03:59:06.507193+00:00,sim128b[1432]:,disconnect,3,91.16.73.191,Jaridan
+2012-12-12T04:01:47.146803+00:00,sim128b[1432]:,disconnect,2,98.141.195.201,Fifty
+2012-12-12T04:37:06.446947+00:00,sim128b[1432]:,connect,2,91.16.88.92,Jaridan
+2012-12-12T04:58:04.143992+00:00,sim128b[1432]:,connect,3,71.200.128.99,benjad
+2012-12-12T05:04:11.442934+00:00,sim128b[1432]:,disconnect,2,91.16.88.92,Jaridan
+2012-12-12T05:04:11.443062+00:00,sim128b[1432]:,disconnect,3,71.200.128.99,benjad
+2012-12-12T05:04:18.731930+00:00,sim128b[1432]:,connect,4,71.200.128.99,benjad
+2012-12-12T05:23:41.503743+00:00,sim128b[1432]:,connect,2,71.200.128.99,benjad
+2012-12-12T05:25:47.512800+00:00,sim128b[1432]:,disconnect,2,71.200.128.99,benjad
+2012-12-12T05:25:47.513916+00:00,sim128b[1432]:,disconnect,4,71.200.128.99,benjad
+2012-12-12T05:26:01.702249+00:00,sim128b[1432]:,connect,2,71.200.128.99,benjad
+2012-12-12T13:31:27.301351+00:00,sim128b[1432]:,connect,3,187.75.10.141,1k2
+2012-12-12T16:37:33.997621+00:00,sim128b[1432]:,connect,4,71.200.128.99,benjad
+2012-12-12T17:23:01.974292+00:00,sim128b[1432]:,connect,5,91.16.88.92,Jaridan
+2012-12-12T17:25:44.306580+00:00,sim128b[1432]:,disconnect,2,71.200.128.99,benjad
+2012-12-12T17:25:44.307782+00:00,sim128b[1432]:,disconnect,3,187.75.10.141,1k2
+2012-12-12T17:25:44.307943+00:00,sim128b[1432]:,disconnect,4,71.200.128.99,benjad
+2012-12-12T17:25:44.307989+00:00,sim128b[1432]:,disconnect,5,91.16.88.92,Jaridan
+2012-12-12T19:32:47.482493+00:00,sim128b[1432]:,connect,2,71.200.128.99,benjad
+2012-12-12T19:36:55.305372+00:00,sim128b[1432]:,connect,3,71.200.128.99,benjad
+2012-12-12T19:38:15.392492+00:00,sim128b[1432]:,disconnect,2,71.200.128.99,benjad
+2012-12-12T19:38:15.392587+00:00,sim128b[1432]:,disconnect,3,71.200.128.99,benjad
+2012-12-12T20:24:39.563600+00:00,sim128b[1432]:,connect,2,71.200.128.99,benjad
+2012-12-12T21:06:30.297052+00:00,sim128b[1432]:,connect,3,71.200.128.99,benjad
+2012-12-12T21:43:40.414199+00:00,sim128b[1432]:,connect,4,201.52.146.85,Ladislau BRA
+2012-12-12T21:45:45.999999+00:00,sim128b[1432]:,connect,5,201.52.146.85,Ladislau BRA
+2012-12-12T21:51:19.671790+00:00,sim128b[1432]:,connect,6,201.52.146.85,Ladislau BRA
+2012-12-12T22:07:59.220654+00:00,sim128b[1432]:,connect,7,201.52.146.85,Ladislau BRA
+2012-12-12T22:10:19.012762+00:00,sim128b[1432]:,connect,8,201.52.146.85,Ladislau BRA
+2012-12-12T22:42:47.281756+00:00,sim128b[1432]:,connect,9,201.52.146.85,Ladislau BRA
+2012-12-12T22:46:56.864825+00:00,sim128b[1432]:,connect,10,201.52.146.85,Ladislau BRA
+2012-12-12T23:43:28.339809+00:00,sim128b[1432]:,disconnect,2,71.200.128.99,benjad
+2012-12-12T23:43:28.340046+00:00,sim128b[1432]:,disconnect,3,71.200.128.99,benjad
+2012-12-12T23:43:28.340068+00:00,sim128b[1432]:,disconnect,4,201.52.146.85,Ladislau BRA
+2012-12-12T23:43:28.340243+00:00,sim128b[1432]:,disconnect,5,201.52.146.85,Ladislau BRA
+2012-12-12T23:43:28.340403+00:00,sim128b[1432]:,disconnect,6,201.52.146.85,Ladislau BRA
+2012-12-12T23:43:28.340561+00:00,sim128b[1432]:,disconnect,7,201.52.146.85,Ladislau BRA
+2012-12-12T23:43:28.340719+00:00,sim128b[1432]:,disconnect,8,201.52.146.85,Ladislau BRA
+2012-12-12T23:43:28.340884+00:00,sim128b[1432]:,disconnect,9,201.52.146.85,Ladislau BRA
+2012-12-12T23:43:28.342079+00:00,sim128b[1432]:,disconnect,10,201.52.146.85,Ladislau BRA
+2012-12-12T23:43:35.476711+00:00,sim128b[1432]:,connect,11,91.16.88.92,Jaridan

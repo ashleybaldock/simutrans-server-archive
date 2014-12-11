@@ -1,0 +1,278 @@
+2012-11-17T01:02:31.536021+00:00,sim128b[29142]:,connect,4,134.3.161.174,Client#5
+2012-11-17T01:07:05.596681+00:00,sim128b[29142]:,connect,5,98.251.79.180,Client#6
+2012-11-17T01:07:05.693044+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T01:07:05.693215+00:00,sim128b[29142]:,disconnect,3,134.3.161.174,Client#5
+2012-11-17T01:07:13.457306+00:00,sim128b[29142]:,chat,4,134.3.161.174,Client#5,7,German Trains Transport,hi
+2012-11-17T01:07:19.080296+00:00,sim128b[29142]:,chat,5,98.251.79.180,Client#6,15,,hi
+2012-11-17T01:08:57.469543+00:00,sim128b[29142]:,chat,5,98.251.79.180,Client#6,15,,superawesome's roads is makint tourist attractions appear
+2012-11-17T01:09:50.811365+00:00,sim128b[29142]:,chat,5,98.251.79.180,Client#6,9,A-Train Transport,what did rapid build?
+2012-11-17T01:13:02.096234+00:00,sim128b[29142]:,chat,4,134.3.161.174,Client#5,7,German Trains Transport,judt another lockred acc
+2012-11-17T01:18:12.888925+00:00,sim128b[29142]:,chat,5,98.251.79.180,Client#6,9,A-Train Transport,"he has something on the map somewhere, but I don't know where"
+2012-11-17T02:10:08.040799+00:00,sim128b[29142]:,chat,5,98.251.79.180,Client#6,9,A-Train Transport,what is going on with gi?
+2012-11-17T02:13:17.736960+00:00,sim128b[29142]:,chat,5,98.251.79.180,Client#6,9,A-Train Transport,I added trains and still the waiting didn't go down
+2012-11-17T02:13:22.007735+00:00,sim128b[29142]:,disconnect,5,98.251.79.180,Client#6
+2012-11-17T02:13:45.665896+00:00,sim128b[29142]:,connect,2,98.251.79.180,Client#6
+2012-11-17T02:26:41.638507+00:00,sim128b[29142]:,disconnect,2,98.251.79.180,Client#6
+2012-11-17T03:13:02.618831+00:00,sim128b[29142]:,connect,2,204.195.109.57,Client#4
+2012-11-17T03:19:46.509507+00:00,sim128b[29142]:,disconnect,2,204.195.109.57,Client#4
+2012-11-17T04:44:36.855597+00:00,sim128b[29142]:,connect,2,98.251.79.180,Client#6
+2012-11-17T04:45:47.986726+00:00,sim128b[29142]:,chat,2,98.251.79.180,Client#6,15,,hi
+2012-11-17T05:02:50.669346+00:00,sim128b[29142]:,disconnect,4,134.3.161.174,Client#5
+2012-11-17T10:27:29.167051+00:00,sim128b[29142]:,connect,3,77.160.39.32,niels
+2012-11-17T10:33:39.745607+00:00,sim128b[29142]:,chat,3,77.160.39.32,niels,15,,what is the password
+2012-11-17T13:04:50.380213+00:00,sim128b[29142]:,disconnect,2,98.251.79.180,Client#6
+2012-11-17T13:04:50.380515+00:00,sim128b[29142]:,disconnect,3,77.160.39.32,niels
+2012-11-17T13:05:01.893330+00:00,sim128b[29142]:,connect,4,134.3.161.174,Client#5
+2012-11-17T13:58:15.336440+00:00,sim128b[29142]:,connect,2,79.113.43.12,kaolti
+2012-11-17T14:01:41.109020+00:00,sim128b[29142]:,disconnect,2,79.113.43.12,kaolti
+2012-11-17T14:21:22.944057+00:00,sim128b[29142]:,connect,2,82.168.86.12,gerjon
+2012-11-17T14:25:59.316346+00:00,sim128b[29142]:,disconnect,2,82.168.86.12,gerjon
+2012-11-17T15:09:47.167983+00:00,sim128b[29142]:,connect,2,46.149.222.73,Client#2
+2012-11-17T15:10:06.221269+00:00,sim128b[29142]:,chat,4,134.3.161.174,Client#5,7,German Trains Transport,yo
+2012-11-17T15:25:45.291579+00:00,sim128b[29142]:,chat,4,134.3.161.174,Client#5,7,German Trains Transport,hi
+2012-11-17T15:25:51.943791+00:00,sim128b[29142]:,disconnect,2,46.149.222.73,Client#2
+2012-11-17T15:59:43.808663+00:00,sim128b[29142]:,disconnect,4,134.3.161.174,Client#5
+2012-11-17T16:11:01.024106+00:00,sim128b[29142]:,connect,2,79.207.146.233,Client#2
+2012-11-17T16:20:35.990318+00:00,sim128b[29142]:,connect,3,79.207.146.233,Client#2
+2012-11-17T16:20:48.248802+00:00,sim128b[29142]:,connect,4,134.3.161.174,Client#5
+2012-11-17T16:20:48.386451+00:00,sim128b[29142]:,disconnect,2,79.207.146.233,Client#2
+2012-11-17T16:21:53.181277+00:00,sim128b[29142]:,disconnect,3,79.207.146.233,Client#2
+2012-11-17T16:27:03.901728+00:00,sim128b[29142]:,disconnect,4,134.3.161.174,Client#5
+2012-11-17T16:27:18.094026+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T16:32:48.149476+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T16:33:01.799550+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T16:33:32.970306+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T16:33:46.297564+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T16:34:58.346195+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T16:35:09.376334+00:00,sim128b[29142]:,connect,3,134.3.161.174,Client#5
+2012-11-17T16:38:49.597208+00:00,sim128b[29142]:,connect,2,85.54.149.120,Client#2
+2012-11-17T16:39:05.648376+00:00,sim128b[29142]:,disconnect,3,134.3.161.174,Client#5
+2012-11-17T16:39:19.228686+00:00,sim128b[29142]:,connect,3,134.3.161.174,Client#5
+2012-11-17T16:39:28.663119+00:00,sim128b[29142]:,chat,3,134.3.161.174,Client#5,15,,hi
+2012-11-17T16:44:43.041015+00:00,sim128b[29142]:,disconnect,2,85.54.149.120,Client#2
+2012-11-17T18:02:26.237682+00:00,sim128b[29142]:,disconnect,3,134.3.161.174,Client#5
+2012-11-17T18:02:38.491282+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T18:38:14.505684+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T18:38:28.606752+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T19:47:30.495259+00:00,sim128b[29142]:,connect,3,178.201.227.14,Client#1
+2012-11-17T19:48:19.506975+00:00,sim128b[29142]:,disconnect,3,178.201.227.14,Client#1
+2012-11-17T20:08:52.414159+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T20:09:05.190713+00:00,sim128b[29142]:,connect,3,98.251.79.180,Client#6
+2012-11-17T20:09:26.758058+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T20:09:31.112562+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,hi
+2012-11-17T20:11:22.179227+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,yo
+2012-11-17T20:11:34.122282+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,have you played this map before?
+2012-11-17T20:11:42.603680+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,a little
+2012-11-17T20:11:52.852139+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,did you notice you connected same time as me?
+2012-11-17T20:11:59.551324+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,lawl
+2012-11-17T20:12:02.306040+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,":D "
+2012-11-17T20:12:19.899162+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport," i was connected already but server owned me"
+2012-11-17T20:12:21.739303+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"I started loading the map... and before I could do anything you connected "
+2012-11-17T20:12:41.210993+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,btw if you go sliced view and change up and down a lot within a small timeframe you are guaranteed to get dcd
+2012-11-17T20:12:56.986970+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,oh is that the cause
+2012-11-17T20:13:32.811497+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T20:13:57.639615+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T20:14:21.733107+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,"dunno, i would say it's the whole underground thing that has a problem "
+2012-11-17T20:14:32.429397+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,but as you know its fixed in the nightly verions
+2012-11-17T20:14:52.011528+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T20:15:17.962147+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T20:15:56.959575+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,server also doesnt like me clicking start vehicle like a mad man
+2012-11-17T20:16:53.536299+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T20:17:22.481888+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T20:17:46.454286+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T20:18:09.327233+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T20:18:20.055535+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,im getting kicked for buying stuff..
+2012-11-17T20:18:47.379525+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T20:19:14.283494+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T20:19:26.864779+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,well  ill just sit around and watch stuff :P
+2012-11-17T20:19:38.836650+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,wait a few seconds or min before buildinga agian
+2012-11-17T20:20:01.316378+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,"if you want you could start those trucks @ (616,247)"
+2012-11-17T20:20:26.348561+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,7,German Trains Transport,"hey,I'm building ther too :)"
+2012-11-17T20:20:35.498674+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T20:21:02.072370+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T20:21:11.107202+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,(didnt even do anything)
+2012-11-17T20:21:23.240290+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,I started them on your account and you dced
+2012-11-17T20:21:25.592517+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,so yesterday ir the day before yesterday you wanted to talk
+2012-11-17T20:21:31.583290+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,about something with me
+2012-11-17T20:21:41.698909+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T20:22:08.383112+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T20:23:43.356037+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,i have nothing to do atm so^^
+2012-11-17T20:23:56.444070+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,does it sitll mess up when you build?
+2012-11-17T20:24:10.270531+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,idk just idling right now
+2012-11-17T20:24:24.550568+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,man
+2012-11-17T20:24:35.074501+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,i really like your network near hillsdale
+2012-11-17T20:24:45.198461+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,which part?
+2012-11-17T20:25:01.688808+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,idk
+2012-11-17T20:25:10.462549+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,i think it looks good/nice in general
+2012-11-17T20:25:21.214256+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,everything interconnected coming together
+2012-11-17T20:25:22.078037+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T20:25:46.499737+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T20:26:12.214356+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,last game I did the wood network kind of like you talked about
+2012-11-17T20:26:32.488588+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,but I didn't exchange it... I transported it all on my system
+2012-11-17T20:26:51.744137+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,it was mostly using ships.... a really complex system by the end
+2012-11-17T20:27:03.556298+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,you mean you collected it towards a central station?
+2012-11-17T20:27:23.858248+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,like maybe 6 central stations or whatnot
+2012-11-17T20:27:45.533255+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,I would send forest wood to one of the 6 or so major stations around the map
+2012-11-17T20:27:58.825274+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,"btw i locked up account blue with the standard pw, it got free today"
+2012-11-17T20:28:12.623834+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,each of teh major stations had 2 major lines going both directions interconnecting them with other major stations
+2012-11-17T20:28:28.176962+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,then the major stations had delivery routes to nearby factories
+2012-11-17T20:30:48.649341+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,I also used a trick/cheat to boost production
+2012-11-17T20:30:59.118536+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,?
+2012-11-17T20:31:06.237272+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,how?^^
+2012-11-17T20:31:16.303820+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,well one of the major products of wood is furniture
+2012-11-17T20:31:33.686978+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,which ships to supermarket or whatever
+2012-11-17T20:31:53.319834+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,but the furniture factory was capable of producing more than the supermarket would receive...
+2012-11-17T20:32:21.472556+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"so instead of shipping stuff as fast as possible to the supermarket, I made an in-between ""buffer"" station"
+2012-11-17T20:32:31.554545+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"stuff would come to the station very "
+2012-11-17T20:32:46.988145+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,"well, what does that have to do with boosting wood production?"
+2012-11-17T20:32:49.994100+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,I would send stuff to the airport very quickly
+2012-11-17T20:33:06.108047+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,as fast as the factories could produce in essence
+2012-11-17T20:33:33.432448+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"then from teh airport, to the buffer station, I sent stuff slowly... so there were HUGE backups at the airport before the buffer"
+2012-11-17T20:34:00.161892+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,then from the buffer I delivered to supermarket.... but in small enough amounts that it never filled it's storage
+2012-11-17T20:34:19.602287+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,so... the furniture factory could produce flat out max no matter what the supermarket said
+2012-11-17T20:34:33.977242+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,"y, thats the same that happens @ portland"
+2012-11-17T20:34:55.817789+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,somethings not maxed so more coal is brought in from across the world
+2012-11-17T20:35:27.484953+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"no, that's different"
+2012-11-17T20:35:37.906171+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,the coal is going to powerplants for example
+2012-11-17T20:36:02.058353+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,every now and then enough coal goes to powerplant and storage is too full
+2012-11-17T20:36:11.535357+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"thus, the coal mines stop producing"
+2012-11-17T20:36:16.192461+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,true
+2012-11-17T20:36:34.909790+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"however, once the storage dips below.... every single coal mine starts up again"
+2012-11-17T20:36:40.896799+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,^^ y
+2012-11-17T20:37:01.758723+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"the other game was different, I wanted the producers (like the coal mine) to produce 100% flat out all the time"
+2012-11-17T20:37:27.163301+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"so, I basically never delivered enough coal to powerplants to EVER filll storage (basically always a shortage)"
+2012-11-17T20:37:40.673026+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,except I was using wood and furniture and paper
+2012-11-17T20:37:45.264566+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,books
+2012-11-17T20:38:08.636630+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,"i know, i know what you mean and how it works^^"
+2012-11-17T20:38:16.354085+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T20:38:45.319600+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T20:39:23.346865+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,"ok, different topic, what did you want to talk to me about yesterday or the day before?"
+2012-11-17T20:39:54.686878+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"hmm, not right now :)"
+2012-11-17T20:40:06.316546+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,xD kk
+2012-11-17T20:40:09.963305+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,these canneries are annoying :(
+2012-11-17T20:40:23.267144+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,it is IMPOSSIBLE to max production :(
+2012-11-17T20:40:27.267886+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,its annyong that they use like no steel whatsoever
+2012-11-17T20:40:35.762921+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,why impossible?
+2012-11-17T20:40:52.763694+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,you can't boost the fish and there is not enough fish on this map for them
+2012-11-17T20:41:06.927954+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,xD ok that IS  a problem^^
+2012-11-17T20:41:08.012540+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T20:41:34.642595+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T20:44:22.628183+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,the book publishers in the country are sick and twisted people :(
+2012-11-17T20:44:39.185462+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,wtf?xD
+2012-11-17T20:45:08.178551+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,1. they charge like 60 to 120 for a book.... get a similar book from India for 10
+2012-11-17T20:45:15.856979+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,xDDD
+2012-11-17T20:45:39.000729+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,2. They don't offer ebooks or charge really expensive cost for them.... get an ebook from india publisher for 10
+2012-11-17T20:45:56.040385+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,some publishers chare like 20 per chapter for ebook!!!!!
+2012-11-17T20:46:06.771436+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,lol
+2012-11-17T20:46:20.281306+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,some charge for an ebook but only let you rent it for 1 year!
+2012-11-17T20:46:23.195651+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,ur from australia right?
+2012-11-17T20:46:32.086380+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,I am in the US
+2012-11-17T20:46:32.818947+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,wtf xD
+2012-11-17T20:46:43.597142+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,"US ok, sry^^"
+2012-11-17T20:47:04.606095+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"seriously, try to buy a technical book from any US publisher... they totally rip you off.... by a factory 10 or more"
+2012-11-17T20:47:15.302001+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,^^
+2012-11-17T20:47:24.127292+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,and most won't even offer digital versions
+2012-11-17T20:47:35.402640+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,that's kinda fail
+2012-11-17T20:48:17.025988+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,I could buy like 10 books from india for the price of one book in the US...
+2012-11-17T20:48:24.050066+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,^^
+2012-11-17T20:49:15.755908+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"(605,148)   would like to request power here"
+2012-11-17T20:49:51.776017+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,here's the really frustrating part....  I find a good book: and there's usually one of those problems
+2012-11-17T20:49:52.572770+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,there you go
+2012-11-17T20:49:57.381809+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,thanks
+2012-11-17T20:50:13.505714+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,that sounds really frustrating
+2012-11-17T20:50:18.486978+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,well you know
+2012-11-17T20:50:33.117071+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"one of them would only let me ret for 1 year!.... another book, costs like 60 opr 120.... others, no digital version"
+2012-11-17T20:50:57.954395+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"my ""friend"" from switzerland sends me a video/song link to youtube, i click it *bam* gema blablabla  -> click stealthy for proxy -> watch video"
+2012-11-17T20:51:06.353780+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,but so fucking annoying in germany :/
+2012-11-17T20:51:44.439167+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,gema is an institution about music rights'n'stuff
+2012-11-17T20:52:55.949511+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"i know this sounds stupid now, but i think, first and foremost, we should be thankful to be living in 1st world countries"
+2012-11-17T20:53:31.201243+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"I am glad to not live in India, but I still dont' like corruption like I see"
+2012-11-17T20:53:31.381843+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,though stuff like this is hella annoying
+2012-11-17T20:53:51.198107+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"well, corruption is everywhere, nothing you can do about it"
+2012-11-17T20:54:10.226115+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"big companies will ALWAYS influence politics, in any country"
+2012-11-17T20:54:15.147596+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"still wrong, and still should not be that way"
+2012-11-17T20:54:55.736104+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T20:55:21.876045+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T20:55:44.748853+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,"well (wow this is getting kinda philosophical) , we are only human, and thus we are weak"
+2012-11-17T20:56:08.020664+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,because we are or can be swayed by our desires
+2012-11-17T20:56:47.710596+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,15,,and most people will put their own profit above anything else...which is just human
+2012-11-17T20:57:13.918871+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"ah, but it doesn't have to be like that; especially so for the Christian :)"
+2012-11-17T20:58:03.774136+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"religion doesn't really matter in this case (imo) because, after you strip everything from someone, he's still human "
+2012-11-17T20:58:17.835362+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,I know you are trying to make a point... but I can't condone/approve of the corruption
+2012-11-17T20:58:59.400466+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"well, i'm not saying i APPROVE of corruption lol, i don't like it either, though there's nothing you can do about it in this world, especially "
+2012-11-17T20:59:12.960133+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,in this case I would say it does matter
+2012-11-17T20:59:34.392183+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,consider from a purely logical/technical point of view....
+2012-11-17T21:00:01.713662+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,when you look at the world as a whole with more than 6 billion(?) people
+2012-11-17T21:00:22.842140+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,even more than 7 at this point i think....
+2012-11-17T21:00:42.440887+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,either Christ does have an effect on a person and the Bible/gospel is real.... or is grand delusion that must be opposed.....  either the atheist is right or they are greatly deluded.... take that example for any belief
+2012-11-17T21:01:20.449620+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"are you pretty religious?(just asking, so i'm not saying anything tat would offend you)"
+2012-11-17T21:01:30.073869+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"basically, either something really does matter or should be rejected as deluding and misleading people"
+2012-11-17T21:02:18.070522+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"or more simply, either something is true or a delusion to be rejected :)"
+2012-11-17T21:02:33.756104+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,lol :P
+2012-11-17T21:03:24.759838+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"but really, I am being serious... take an example we can agree again.. say some cult group...."
+2012-11-17T21:04:16.601349+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,we know their little group misleads people....  so you can't really take a neutral stand
+2012-11-17T21:04:50.912246+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,either what they are saying is true.... or the people in the cult are really deluded and should be helped out of it
+2012-11-17T21:04:55.292048+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"cult group, like scientology?"
+2012-11-17T21:05:04.568767+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,y
+2012-11-17T21:05:15.894915+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,like that haley's coment one that killed all those people... did you hear of that one long time ago?
+2012-11-17T21:05:53.420253+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"hmm , i think i heard of that comet at some point ,years ago"
+2012-11-17T21:06:30.913674+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,its the same as those ppl that call every year the end of the world cause the maya calender is ending
+2012-11-17T21:06:44.441187+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,that's this year :)
+2012-11-17T21:07:01.545783+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"y, but you have the same doomsday sayers every year"
+2012-11-17T21:07:10.009395+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,isn't this the year they say for the myan calander?
+2012-11-17T21:07:29.212384+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"y, thats what i meant, misspelled the name :S"
+2012-11-17T21:07:35.799540+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,(didnt look it up tbh)
+2012-11-17T21:08:11.359700+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"well I don't have to look it up, it's on tv every now and then or on the internet somewhere :)"
+2012-11-17T21:08:22.548799+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"i meant the name^^ "
+2012-11-17T21:08:27.975562+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,maya -> myan
+2012-11-17T21:08:39.182676+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"oh... have you ever seen the show ""acient aliens""?"
+2012-11-17T21:08:56.374352+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"no, i don't think so"
+2012-11-17T21:09:14.673030+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"well, that is one of the worst ""science"" shows you will every see :)"
+2012-11-17T21:09:27.807648+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,the way they make up stuff and mislead you is amazing
+2012-11-17T21:09:54.377645+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,closest i've seen from aliens was starwars/star trek /  or more interesting and a little more mysterious : X-factor
+2012-11-17T21:10:46.327798+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"oh.... this is like supposed to be people who believe in ancient aliens, but they use all kinds of fake science to try to ""prove"" it"
+2012-11-17T21:10:57.501568+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,lol
+2012-11-17T21:11:48.724310+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,do you like star trek/star wars?
+2012-11-17T21:11:50.403143+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"sadly, there are enough (stupid) people that watch stuff like this"
+2012-11-17T21:12:01.689465+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"Hey, I watch it... sometimes they "
+2012-11-17T21:12:05.370230+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"well, i'm not a hardcore fan, but i do like scy fy"
+2012-11-17T21:12:17.186107+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"got a few interesting things, but sometimes it's fun to see how they try and trick you :)"
+2012-11-17T21:12:29.338134+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"sry, i meant people that watch AND believe it"
+2012-11-17T21:13:10.889499+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"so yeah i like star wars, and watched star trek a lot back when i was yound due to my stepfather who watched it"
+2012-11-17T21:13:20.185798+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,*young
+2012-11-17T21:13:42.435838+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,they are gonna make 3 more star wars movies I think
+2012-11-17T21:13:57.431384+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"disney bought lucasfilm, and they might be making them"
+2012-11-17T21:14:05.602496+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"yes they are, another star wars triology ,cause disney bought the franchise"
+2012-11-17T21:14:26.786286+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,you just reapeted what I just told you didn't you? :)
+2012-11-17T21:14:46.177569+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,*trilogy
+2012-11-17T21:15:00.192728+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"no, rather you wrote it the same time i wrote it"
+2012-11-17T21:16:21.250500+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,do you like adventure games?
+2012-11-17T21:16:51.763076+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,like where you just explore an solve puzzles... not sure you are familiar with adventure games
+2012-11-17T21:16:56.362275+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,Myst
+2012-11-17T21:16:57.354943+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,depends what you mean by adventre
+2012-11-17T21:17:06.321272+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,you mean rpg or adventure like tomb raider?
+2012-11-17T21:17:16.857953+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"no, not rpg, no fighting or rpg stuff"
+2012-11-17T21:17:24.332397+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,like Myst... have you played that?
+2012-11-17T21:17:33.827757+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"well, i didn't get to play pure adventure games but i do enjoy solving stuff like this"
+2012-11-17T21:18:13.742189+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"i really like stragey games, so  i like rts'es and simulations (like simutrans, anno, sim city..)"
+2012-11-17T21:18:22.067181+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,the most
+2012-11-17T21:18:32.150596+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,would you be willing to try out a game for $6? :)
+2012-11-17T21:19:03.395725+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,"depends, whats the name of the game?"
+2012-11-17T21:19:25.319952+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,if you've never played Myst.... it's one of the best selling games when it came out.... it is hugely popular among a lot of people
+2012-11-17T21:20:05.526872+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,let me give you two links:
+2012-11-17T21:20:17.833791+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,http://www.gog.com/gamecard/myst_masterpiece_edition
+2012-11-17T21:20:26.240065+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,or
+2012-11-17T21:20:29.515180+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,http://www.gog.com/gamecard/real_myst
+2012-11-17T21:20:43.596285+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,myst masterpiece is the original game
+2012-11-17T21:21:07.879708+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,realmyst is the 3d verison of the same game (they remade it in 3d years later)
+2012-11-17T21:21:35.922304+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"both are digital, you buy download and keep it forever"
+2012-11-17T21:22:39.240382+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,try out either one.... the original masterpiece edition or real myst.....  I think you will really like it.... but be warned it will consume your time if you like :)
+2012-11-17T21:23:49.290207+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"I got to go.... if you are ok with a game using just still images, get the masterpiece edition which is the original.... if you need pretty 3d, then get realmyst edition"
+2012-11-17T21:23:58.234940+00:00,sim128b[29142]:,chat,3,98.251.79.180,Client#6,9,A-Train Transport,"bye, maybe I see you later or not?"
+2012-11-17T21:24:00.889017+00:00,sim128b[29142]:,disconnect,3,98.251.79.180,Client#6
+2012-11-17T21:25:19.587974+00:00,sim128b[29142]:,chat,2,134.3.161.174,Client#5,7,German Trains Transport,maybe
+2012-11-17T22:10:26.811719+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T22:10:41.909365+00:00,sim128b[29142]:,connect,2,134.3.161.174,Client#5
+2012-11-17T22:34:20.921079+00:00,sim128b[29142]:,disconnect,2,134.3.161.174,Client#5
+2012-11-17T23:21:56.381077+00:00,sim128b[29142]:,connect,2,70.26.14.234,Client#2
+2012-11-17T23:58:27.021758+00:00,sim128b[29142]:,connect,3,98.251.79.180,Client#6

@@ -1,0 +1,121 @@
+2012-08-23T00:00:29.495253+00:00,sim64b[5630]:,connect,3,122.148.146.34,moblet
+2012-08-23T00:03:58.652664+00:00,sim64b[5630]:,connect,2,151.55.27.223,Rudi!
+2012-08-23T00:06:58.578839+00:00,sim64b[5630]:,connect,4,69.138.176.94,Fifty
+2012-08-23T00:11:14.159232+00:00,sim64b[5630]:,disconnect,3,122.148.146.34,moblet
+2012-08-23T00:14:00.079309+00:00,sim64b[5630]:,disconnect,2,151.55.27.223,Rudi!
+2012-08-23T00:14:30.194654+00:00,sim64b[5630]:,connect,2,151.55.27.223,Rudi!
+2012-08-23T00:20:29.778513+00:00,sim64b[5630]:,disconnect,2,151.55.27.223,Rudi!
+2012-08-23T00:21:00.122224+00:00,sim64b[5630]:,connect,2,151.55.27.223,Rudi!
+2012-08-23T00:32:37.665206+00:00,sim64b[5630]:,disconnect,2,151.55.27.223,Rudi!
+2012-08-23T00:45:10.173774+00:00,sim64b[5630]:,connect,2,122.148.146.34,moblet
+2012-08-23T00:45:19.118630+00:00,sim64b[5630]:,chat,4,69.138.176.94,Fifty,12,RF&P,g'day sir!
+2012-08-23T00:45:39.325898+00:00,sim64b[5630]:,chat,2,122.148.146.34,moblet,15,,good evening squire
+2012-08-23T00:45:58.105022+00:00,sim64b[5630]:,chat,2,122.148.146.34,moblet,12,RF&P,"ok, i should be easier to read now"
+2012-08-23T00:46:04.360546+00:00,sim64b[5630]:,chat,4,69.138.176.94,Fifty,12,RF&P,:)
+2012-08-23T00:48:12.998406+00:00,sim64b[5630]:,chat,2,122.148.146.34,moblet,12,RF&P,i should mention that there was a jam yesterday just north of Brentham
+2012-08-23T00:48:16.355603+00:00,sim64b[5630]:,disconnect,2,122.148.146.34,moblet
+2012-08-23T00:49:23.642452+00:00,sim64b[5630]:,connect,2,122.148.146.34,moblet
+2012-08-23T00:49:48.423713+00:00,sim64b[5630]:,chat,4,69.138.176.94,Fifty,12,RF&P,...Where north of brentham?
+2012-08-23T00:50:09.969017+00:00,sim64b[5630]:,chat,2,122.148.146.34,moblet,15,,"sorry, lost sync"
+2012-08-23T00:50:16.297433+00:00,sim64b[5630]:,chat,4,69.138.176.94,Fifty,12,RF&P,Car factory? High speed line?
+2012-08-23T00:50:32.735692+00:00,sim64b[5630]:,chat,2,122.148.146.34,moblet,12,RF&P,"oldbury oil hub, a repeat of an earlier jam"
+2012-08-23T00:51:00.037127+00:00,sim64b[5630]:,chat,2,122.148.146.34,moblet,12,RF&P,"157,190,4"
+2012-08-23T00:51:15.427237+00:00,sim64b[5630]:,chat,2,122.148.146.34,moblet,12,RF&P,there are services which stop here and then need to go south again
+2012-08-23T00:51:37.830096+00:00,sim64b[5630]:,chat,2,122.148.146.34,moblet,12,RF&P,i built the underpass exit route to avoid gridlock
+2012-08-23T00:51:51.946764+00:00,sim64b[5630]:,chat,4,69.138.176.94,Fifty,12,RF&P,"Yes, yes, I just removed a signal that would cause those jams in the past"
+2012-08-23T00:51:55.146345+00:00,sim64b[5630]:,chat,2,122.148.146.34,moblet,12,RF&P,yesterday two trains needed it at once so i added another signal to the underpass
+2012-08-23T00:53:39.539261+00:00,sim64b[5630]:,chat,4,69.138.176.94,Fifty,12,RF&P,"There was a big jam of the electric mainline south of the big junction that I have solved, but have cannot make fluid untill P9 removes his pillars"
+2012-08-23T00:53:52.613402+00:00,sim64b[5630]:,chat,4,69.138.176.94,Fifty,12,RF&P,I mean east
+2012-08-23T00:54:00.429321+00:00,sim64b[5630]:,chat,2,122.148.146.34,moblet,12,RF&P,where's that dynamite when you need it?
+2012-08-23T00:54:51.892615+00:00,sim64b[5630]:,chat,4,69.138.176.94,Fifty,12,RF&P,"yeah, that bridge is nothing compared to the Mainline! Getting close to 200 trains/ month total over 4 tracks!"
+2012-08-23T00:56:15.142067+00:00,sim64b[5630]:,disconnect,2,122.148.146.34,moblet
+2012-08-23T00:56:56.971630+00:00,sim64b[5630]:,connect,2,122.148.146.34,moblet
+2012-08-23T00:58:33.702491+00:00,sim64b[5630]:,chat,4,69.138.176.94,Fifty,12,RF&P,"I've got to go, may be back later. bye!"
+2012-08-23T00:58:42.311447+00:00,sim64b[5630]:,disconnect,4,69.138.176.94,Fifty
+2012-08-23T01:21:07.164222+00:00,sim64b[5630]:,disconnect,2,122.148.146.34,moblet
+2012-08-23T01:22:16.320328+00:00,sim64b[5630]:,connect,3,122.148.146.34,moblet
+2012-08-23T01:31:58.262898+00:00,sim64b[5630]:,connect,2,69.138.176.94,Fifty
+2012-08-23T01:34:43.435178+00:00,sim64b[5630]:,chat,2,69.138.176.94,Fifty,12,RF&P,Well moblet: goal accomplished! Last year 369 Million profit: that's over 1 Million per day average!
+2012-08-23T01:42:09.766484+00:00,sim64b[5630]:,connect,4,122.148.146.34,moblet
+2012-08-23T01:42:09.947508+00:00,sim64b[5630]:,disconnect,3,122.148.146.34,moblet
+2012-08-23T01:42:46.717944+00:00,sim64b[5630]:,chat,4,122.148.146.34,moblet,12,RF&P,woohoo!
+2012-08-23T01:43:32.731080+00:00,sim64b[5630]:,chat,2,69.138.176.94,Fifty,12,RF&P,"I think it will drop again this year, but after I get some new oil lines running- we should be up there to stay..."
+2012-08-23T01:44:42.305380+00:00,sim64b[5630]:,disconnect,4,122.148.146.34,moblet
+2012-08-23T01:46:12.817158+00:00,sim64b[5630]:,connect,3,122.148.146.34,moblet
+2012-08-23T01:47:07.729769+00:00,sim64b[5630]:,chat,3,122.148.146.34,moblet,12,RF&P,indeed
+2012-08-23T01:47:31.995970+00:00,sim64b[5630]:,disconnect,3,122.148.146.34,moblet
+2012-08-23T01:48:11.237892+00:00,sim64b[5630]:,connect,3,122.148.146.34,moblet
+2012-08-23T01:50:47.732937+00:00,sim64b[5630]:,chat,3,122.148.146.34,moblet,12,RF&P,what's the highest profit you've seen in a netgame?
+2012-08-23T01:51:27.671889+00:00,sim64b[5630]:,chat,2,69.138.176.94,Fifty,12,RF&P,"...now I'm curious, I will go check, be back."
+2012-08-23T01:51:37.295519+00:00,sim64b[5630]:,disconnect,2,69.138.176.94,Fifty
+2012-08-23T02:03:19.189591+00:00,sim64b[5630]:,connect,2,69.138.176.94,Fifty
+2012-08-23T02:04:07.978240+00:00,sim64b[5630]:,chat,3,122.148.146.34,moblet,12,RF&P,did you discover anything?
+2012-08-23T02:04:19.173007+00:00,sim64b[5630]:,chat,2,69.138.176.94,Fifty,15,,Peak endgame profit 353 M credits: Crow Co.: though I remember this network running over 400 million credits a month
+2012-08-23T02:04:38.577902+00:00,sim64b[5630]:,chat,3,122.148.146.34,moblet,12,RF&P,pak64?
+2012-08-23T02:04:58.336383+00:00,sim64b[5630]:,chat,2,69.138.176.94,Fifty,12,RF&P,"Yes. Idk about 128, but I think less money is made in 128 in general"
+2012-08-23T02:05:17.980117+00:00,sim64b[5630]:,chat,3,122.148.146.34,moblet,12,RF&P,"ok, well at least there is still something to aim for"
+2012-08-23T02:05:19.401372+00:00,sim64b[5630]:,chat,2,69.138.176.94,Fifty,12,RF&P,So this network easily takes 2nd place ;)
+2012-08-23T02:06:00.726973+00:00,sim64b[5630]:,chat,2,69.138.176.94,Fifty,12,RF&P,"I need nothing to aim for, really!"
+2012-08-23T02:06:15.581560+00:00,sim64b[5630]:,chat,3,122.148.146.34,moblet,12,RF&P,"no, that much is obvious"
+2012-08-23T02:07:55.448724+00:00,sim64b[5630]:,chat,2,69.138.176.94,Fifty,12,RF&P,"wow, 110 trains a month on the combined mainline north of Heppstead on 2 tracks!"
+2012-08-23T02:08:30.935893+00:00,sim64b[5630]:,chat,3,122.148.146.34,moblet,12,RF&P,nothing i'm sure we can't improve on
+2012-08-23T02:09:00.866892+00:00,sim64b[5630]:,chat,2,69.138.176.94,Fifty,12,RF&P,I've never had more than 120 trains a month on a 2 track mainline moving ~120kmh
+2012-08-23T02:12:15.895202+00:00,sim64b[5630]:,disconnect,3,122.148.146.34,moblet
+2012-08-23T02:12:54.248842+00:00,sim64b[5630]:,connect,3,122.148.146.34,moblet
+2012-08-23T02:16:23.428066+00:00,sim64b[5630]:,disconnect,3,122.148.146.34,moblet
+2012-08-23T02:17:15.556307+00:00,sim64b[5630]:,connect,3,122.148.146.34,moblet
+2012-08-23T02:20:24.021135+00:00,sim64b[5630]:,disconnect,3,122.148.146.34,moblet
+2012-08-23T04:44:59.724098+00:00,sim64b[5630]:,connect,3,122.148.146.34,moblet
+2012-08-23T04:50:27.641448+00:00,sim64b[5630]:,disconnect,2,69.138.176.94,Fifty
+2012-08-23T04:50:27.641476+00:00,sim64b[5630]:,disconnect,3,122.148.146.34,moblet
+2012-08-23T04:51:01.942348+00:00,sim64b[5630]:,connect,4,122.148.146.34,moblet
+2012-08-23T04:52:55.242604+00:00,sim64b[5630]:,disconnect,4,122.148.146.34,moblet
+2012-08-23T04:53:34.935304+00:00,sim64b[5630]:,connect,2,122.148.146.34,moblet
+2012-08-23T04:56:55.073759+00:00,sim64b[5630]:,disconnect,2,122.148.146.34,moblet
+2012-08-23T04:57:33.948462+00:00,sim64b[5630]:,connect,2,122.148.146.34,moblet
+2012-08-23T05:13:09.511828+00:00,sim64b[5630]:,connect,3,92.226.235.0,Client#6
+2012-08-23T05:19:36.413659+00:00,sim64b[5630]:,disconnect,2,122.148.146.34,moblet
+2012-08-23T05:20:19.431833+00:00,sim64b[5630]:,connect,2,122.148.146.34,moblet
+2012-08-23T05:20:35.680645+00:00,sim64b[5630]:,connect,4,80.132.174.194,Client#2
+2012-08-23T05:27:28.581220+00:00,sim64b[5630]:,disconnect,2,122.148.146.34,moblet
+2012-08-23T05:37:51.450036+00:00,sim64b[5630]:,connect,2,66.168.68.191,"asdsadsadasd "
+2012-08-23T05:38:27.583605+00:00,sim64b[5630]:,disconnect,2,66.168.68.191,"asdsadsadasd "
+2012-08-23T05:41:13.187002+00:00,sim64b[5630]:,disconnect,3,92.226.235.0,Client#6
+2012-08-23T05:41:42.900420+00:00,sim64b[5630]:,connect,2,92.226.235.0,Client#6
+2012-08-23T05:54:28.598608+00:00,sim64b[5630]:,disconnect,2,92.226.235.0,Client#6
+2012-08-23T05:55:22.530084+00:00,sim64b[5630]:,connect,2,92.226.235.0,Client#6
+2012-08-23T06:42:50.509181+00:00,sim64b[5630]:,disconnect,2,92.226.235.0,Client#6
+2012-08-23T06:43:17.743240+00:00,sim64b[5630]:,connect,2,92.226.235.0,Client#6
+2012-08-23T06:43:56.575614+00:00,sim64b[5630]:,disconnect,2,92.226.235.0,Client#6
+2012-08-23T07:01:40.731748+00:00,sim64b[5630]:,connect,2,87.12.59.180,Client#2
+2012-08-23T07:16:19.150727+00:00,sim64b[5630]:,disconnect,2,87.12.59.180,Client#2
+2012-08-23T08:10:46.725250+00:00,sim64b[5630]:,connect,2,80.132.174.194,Client#2
+2012-08-23T08:53:13.660230+00:00,sim64b[5630]:,connect,3,88.165.36.112,Client#4
+2012-08-23T08:53:13.851966+00:00,sim64b[5630]:,disconnect,4,80.132.174.194,Client#2
+2012-08-23T08:58:47.477410+00:00,sim64b[5630]:,disconnect,3,88.165.36.112,Client#4
+2012-08-23T10:04:59.286839+00:00,sim64b[5630]:,connect,3,80.132.174.194,Client#2
+2012-08-23T12:01:38.009355+00:00,sim64b[5630]:,connect,4,80.132.174.194,Client#2
+2012-08-23T12:17:37.955589+00:00,sim64b[5630]:,connect,5,80.132.174.194,Client#2
+2012-08-23T13:00:33.897650+00:00,sim64b[5630]:,connect,6,151.55.27.223,Client#4
+2012-08-23T13:00:34.098358+00:00,sim64b[5630]:,disconnect,2,80.132.174.194,Client#2
+2012-08-23T13:00:34.098389+00:00,sim64b[5630]:,disconnect,3,80.132.174.194,Client#2
+2012-08-23T13:00:34.098413+00:00,sim64b[5630]:,disconnect,4,80.132.174.194,Client#2
+2012-08-23T13:12:14.362019+00:00,sim64b[5630]:,disconnect,6,151.55.27.223,Client#4
+2012-08-23T13:38:45.467194+00:00,sim64b[5630]:,connect,2,80.132.174.194,Client#2
+2012-08-23T13:47:20.671317+00:00,sim64b[5630]:,connect,3,87.12.59.180,Client#3
+2012-08-23T13:47:20.861940+00:00,sim64b[5630]:,disconnect,5,80.132.174.194,Client#2
+2012-08-23T13:56:52.893013+00:00,sim64b[5630]:,disconnect,2,80.132.174.194,Client#2
+2012-08-23T14:00:49.721301+00:00,sim64b[5630]:,connect,2,92.226.235.0,Client#6
+2012-08-23T14:01:13.173205+00:00,sim64b[5630]:,connect,4,87.12.59.180,Client#3
+2012-08-23T14:01:13.362338+00:00,sim64b[5630]:,disconnect,3,87.12.59.180,Client#3
+2012-08-23T14:15:54.191515+00:00,sim64b[5630]:,disconnect,4,87.12.59.180,Client#3
+2012-08-23T14:17:25.445800+00:00,sim64b[5630]:,connect,3,80.132.174.194,Client#2
+2012-08-23T14:33:34.312000+00:00,sim64b[5630]:,disconnect,2,92.226.235.0,Client#6
+2012-08-23T17:54:42.902193+00:00,sim64b[5630]:,connect,2,151.55.27.223,Client#3
+2012-08-23T18:31:12.284764+00:00,sim64b[5630]:,disconnect,2,151.55.27.223,Client#3
+2012-08-23T21:18:48.529099+00:00,sim64b[5630]:,disconnect,3,80.132.174.194,Client#2
+2012-08-23T21:19:13.834147+00:00,sim64b[5630]:,connect,2,77.104.233.39,DraKesCZ
+2012-08-23T23:32:49.513317+00:00,sim64b[5630]:,connect,3,122.148.146.34,moblet
+2012-08-23T23:54:14.213141+00:00,sim64b[5630]:,disconnect,2,77.104.233.39,DraKesCZ
+2012-08-23T23:54:14.213419+00:00,sim64b[5630]:,disconnect,3,122.148.146.34,moblet
+2012-08-23T23:54:58.640296+00:00,sim64b[5630]:,connect,2,122.148.146.34,moblet

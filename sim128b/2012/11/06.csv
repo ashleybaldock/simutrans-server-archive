@@ -1,0 +1,817 @@
+2012-11-06T00:01:08.701804+00:00,sim128b[14076]:,disconnect,2,98.251.79.180,Client#2
+2012-11-06T00:01:09.660524+00:00,sim128b[14076]:,disconnect,4,178.201.227.14,Art Vandelay
+2012-11-06T00:01:31.597162+00:00,sim128b[14076]:,connect,2,98.251.79.180,Client#2
+2012-11-06T00:02:46.252334+00:00,sim128b[14076]:,connect,4,178.201.227.14,Art Vandelay
+2012-11-06T00:04:37.787116+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"vandelay, can I build in lil' town?   (627,87)  ... I know you had a station there a while back"
+2012-11-06T00:05:02.124688+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Sure, go ahead."
+2012-11-06T00:05:18.711233+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,If you like you can go up to sheeps.
+2012-11-06T00:05:25.322588+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"btw, you might want to level (601,82) now so it connects"
+2012-11-06T00:05:48.799866+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"oh, maybe we can talk about sheeps later :)"
+2012-11-06T00:06:18.478905+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"better yet, make those water tiles public and I'll connect them straighter"
+2012-11-06T00:06:34.863775+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,I can make a straigh water bridge instead
+2012-11-06T00:07:24.009442+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,there we go :)
+2012-11-06T00:07:30.971415+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,That look good
+2012-11-06T00:08:16.439284+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,Why are you using two different track types?
+2012-11-06T00:08:48.172496+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"well I was gonna use 400km but there 400km train isn't available yet, so I don't want to lose money/go bankrupt"
+2012-11-06T00:09:28.128546+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,I see. It's almost the same Date in real time.
+2012-11-06T00:13:59.018956+00:00,sim128b[14076]:,disconnect,3,89.155.122.64,Client#5
+2012-11-06T00:14:13.172162+00:00,sim128b[14076]:,connect,3,89.155.122.64,Client#5
+2012-11-06T00:14:56.927869+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"yay, a fast tain is available!!!"
+2012-11-06T00:15:24.178801+00:00,sim128b[14076]:,disconnect,3,89.155.122.64,Client#5
+2012-11-06T00:15:36.964507+00:00,sim128b[14076]:,connect,3,89.155.122.64,Client#5
+2012-11-06T00:15:46.018692+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,How fast is it?
+2012-11-06T00:15:52.927645+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,350
+2012-11-06T00:16:04.836538+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,Not too bad.
+2012-11-06T00:19:35.919070+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,"I have no idea why my margin tanked, but it worries me."
+2012-11-06T00:20:57.162787+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,construction?
+2012-11-06T00:21:50.854743+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,It didn't do it when I build the first track.
+2012-11-06T00:23:36.450456+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,Nice train
+2012-11-06T00:24:01.707378+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,my favorite comes in like 2038
+2012-11-06T00:24:27.183666+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Let me guess, it goes 400?"
+2012-11-06T00:24:38.473388+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,yes and has enormous horsepower
+2012-11-06T00:24:45.300493+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,nice
+2012-11-06T00:25:09.025905+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,your margin is back
+2012-11-06T00:25:33.099145+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,It's getting there. It was at 28 before.
+2012-11-06T00:25:34.788182+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,maybe it was start of the month costs?
+2012-11-06T00:26:24.109866+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,It couldn't have been that alone. I think it was my experiments with the slopes.
+2012-11-06T00:26:51.947541+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,at start of month you are often in red... check in a day or 2
+2012-11-06T00:27:08.404330+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,oh no that's not it. it's fine now
+2012-11-06T00:27:26.055702+00:00,sim128b[14076]:,disconnect,3,89.155.122.64,Client#5
+2012-11-06T00:27:38.233308+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"seeing as I don't know what margin means, maybe you should just ignore it"
+2012-11-06T00:27:44.316646+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Most icons are self-explanatory, but those slopes are something else."
+2012-11-06T00:29:12.113689+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,13,Vandelay Industries,As far as I know the margin says if your gaining or losing net wealth.
+2012-11-06T00:33:04.294807+00:00,sim128b[14076]:,disconnect,2,98.251.79.180,Client#2
+2012-11-06T00:33:17.800561+00:00,sim128b[14076]:,connect,2,98.251.79.180,Client#2
+2012-11-06T00:44:58.851240+00:00,sim128b[14076]:,disconnect,4,178.201.227.14,Art Vandelay
+2012-11-06T00:45:22.825683+00:00,sim128b[14076]:,connect,3,178.201.227.14,Art Vandelay
+2012-11-06T01:01:52.426830+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,elwin lux is gonna bankrupt
+2012-11-06T01:02:15.347186+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,he's connected to hillsboro public station
+2012-11-06T01:03:28.037891+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,He could've connected at my Aloha station.
+2012-11-06T01:03:56.179695+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,we tried to convince he NEEDS to build a rail line or plane to get enough income to matter
+2012-11-06T01:04:15.701483+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,transporting long distances is what makes the money
+2012-11-06T01:05:15.665970+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,There were enough businesses that weren't connected with recources all over the map.
+2012-11-06T01:05:28.694589+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"of course, if you want to try and get him to connect to you so you can make money off the train..."
+2012-11-06T01:05:53.174596+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"oops, it seems I own a river :("
+2012-11-06T01:05:58.360060+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Maybe next time if he goes broke.
+2012-11-06T01:06:25.316463+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,What do you need a whole river for? :-)
+2012-11-06T01:06:38.845226+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"yay, a coal power plant!   I didnt' mean to it was supposed to be a bankrupte account"
+2012-11-06T01:08:41.245512+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,11,10,"ok, now I gotta bankrupt this account do I need to make anything ?"
+2012-11-06T01:09:40.397166+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Just spend more than your net wealth.
+2012-11-06T01:13:54.823671+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,now we got industy and nobody needs them now :(
+2012-11-06T01:14:11.443481+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,lol
+2012-11-06T01:15:06.737115+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"And it's taking up space where you could build railroads, too."
+2012-11-06T01:15:14.538694+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,yeah
+2012-11-06T01:15:59.143740+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,what did you have in mind for sheeps?
+2012-11-06T01:16:46.051297+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,I don't know. It needs to be connected to the network without the planes.
+2012-11-06T01:17:12.549741+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"ah... ok... well if you don't want to run a rail down here, I could run a rail up there maybe"
+2012-11-06T01:17:15.084017+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,I have to do industrie now to get my margin up.
+2012-11-06T01:18:01.279681+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Simutrans is kicking into high gear now. "
+2012-11-06T01:20:39.257882+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,do you want me to run a rail up to sheeps?
+2012-11-06T01:21:04.438993+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Have at it. I won't do it anytime soon.
+2012-11-06T01:23:21.373888+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"(618,18) so like make a public station around here?"
+2012-11-06T01:25:21.943774+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Do you want me to move the bus stop to the new station?
+2012-11-06T01:25:38.341729+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"I assume you want to connect your bus line to that station, right?"
+2012-11-06T01:25:52.262695+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Yep
+2012-11-06T01:28:47.770641+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,all ya gotta do it assign the line to it
+2012-11-06T01:28:59.485264+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,I see it :)
+2012-11-06T01:29:27.519782+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"btw, that train can handle mail too, if you wan to add mail to the city?"
+2012-11-06T01:29:39.220121+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,The bus is already getting there. I'm gonna cease the plane line to get the pax to switch
+2012-11-06T01:30:02.569849+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,No mail atm
+2012-11-06T01:30:28.846100+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,all ya gotta do is assign a mail truck to same line and upgrade the 3 stop to the big bus station
+2012-11-06T01:31:11.206761+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"I know, maybe later"
+2012-11-06T01:31:12.648281+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,I wonder how many trips the train will even make in 1 year :)
+2012-11-06T01:31:42.316407+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,I'm bringing the first 182 pax
+2012-11-06T01:32:19.853900+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"20 at a time, though"
+2012-11-06T01:43:44.250328+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,how would you like to ship more coal on that coal line?
+2012-11-06T01:43:58.177263+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Sounds good.
+2012-11-06T01:44:07.490574+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"(163,339) do you want to connect that one to your station"
+2012-11-06T01:44:25.749638+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,you could send it to lord zeno branch station probably
+2012-11-06T01:45:19.165978+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Are you going to pick it up at Tulatin, too?"
+2012-11-06T01:45:46.103912+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"once I get it connect to a power plant, it should start shipping the same as the other one you are sending me"
+2012-11-06T01:46:20.519661+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Okay. I'm going to connect the mine now.
+2012-11-06T01:46:35.666583+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,I'm working on the route to power planet
+2012-11-06T01:49:50.530916+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"really SNCFS, why?  (364,141)"
+2012-11-06T01:50:29.488274+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,He doesn't get it.
+2012-11-06T01:51:26.465602+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Coal train is in place, it should move once your end is connected."
+2012-11-06T01:55:30.579808+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,there goes your coal :)
+2012-11-06T01:55:58.127630+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"actually, can you change something?"
+2012-11-06T01:56:16.610853+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,what do you want me to change?
+2012-11-06T01:56:24.326576+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"can you send it directly to ""lord zeno branch station"" (120,377)"
+2012-11-06T01:56:49.380396+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,the reason I ask is because the game will only send 6 or 7 transfers.. and it's pretty far to power station
+2012-11-06T01:56:56.096284+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Does it have to many hops?
+2012-11-06T01:57:10.477126+00:00,sim128b[14076]:,disconnect,3,178.201.227.14,Art Vandelay
+2012-11-06T01:57:12.128839+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"it might not now, but if I add something else, it might have too many"
+2012-11-06T01:57:26.157037+00:00,sim128b[14076]:,connect,3,178.201.227.14,Art Vandelay
+2012-11-06T01:57:40.496374+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"no, it doens't have too many now, but if I add another line one day, it might..."
+2012-11-06T01:57:55.074329+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,figure maybe better safe now
+2012-11-06T01:59:30.487099+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Could you straighten that terrain for me? (120,367) I'm running out of money fast."
+2012-11-06T01:59:52.388977+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,that's exactly the route I had in mind too :)
+2012-11-06T01:59:53.130950+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,thx
+2012-11-06T02:09:00.770899+00:00,sim128b[14076]:,disconnect,3,178.201.227.14,Art Vandelay
+2012-11-06T02:09:48.340424+00:00,sim128b[14076]:,connect,3,178.201.227.14,Art Vandelay
+2012-11-06T02:13:36.120483+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Where do you transfer all your coal for the power station?
+2012-11-06T02:14:15.822780+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,from the dock to tulatin -- then hillsdale - then that power plant... different route for other power plant
+2012-11-06T02:15:39.604744+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"I'm trying to figure out what to do with the mine near Hajopolis (30,93). I need more easy cash."
+2012-11-06T02:16:26.783597+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,easy cash?  try items with speed bonuses or....
+2012-11-06T02:16:30.603305+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,I could ship it to Delta Blues by train.
+2012-11-06T02:16:41.167156+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,or find something you can fly long distance
+2012-11-06T02:17:06.375188+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,coal doesn't make much does it?
+2012-11-06T02:17:36.800098+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,But it's easy. You only need to set up the coal line and you're done.
+2012-11-06T02:18:15.647898+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Coal has no bonus
+2012-11-06T02:19:15.999618+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,where can you ship that coal to?
+2012-11-06T02:20:23.460099+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"The train is going to go here (125,94). I'd just have to figure out a route for a ship from there."
+2012-11-06T02:20:41.734255+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"can you run it this far?  (206,122)?"
+2012-11-06T02:21:22.512464+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Sure
+2012-11-06T02:21:40.616713+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,then I can pick up coal from you and that factory at same time/same station
+2012-11-06T02:22:11.559032+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Okay, train line is on it's way."
+2012-11-06T02:22:33.403177+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,how many platforms will you have?
+2012-11-06T02:23:06.165157+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,How many do you want me to have. I usually take 5
+2012-11-06T02:25:22.519516+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,start heading down... I'll clear path
+2012-11-06T02:25:30.204166+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,okay
+2012-11-06T02:26:54.575746+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"(138,121) see path?"
+2012-11-06T02:27:21.794629+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,it's all straight from there
+2012-11-06T02:28:25.441451+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,whe you get to me let do the platform now
+2012-11-06T02:28:38.711168+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,I did 5 too
+2012-11-06T02:28:48.035679+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Okay
+2012-11-06T02:28:55.314749+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,but I'm not travelling as far as you :)
+2012-11-06T02:29:06.634887+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,What do you think?
+2012-11-06T02:29:23.265751+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,well you might need more than 1 train with 5
+2012-11-06T02:29:46.618316+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,I don't know for sure though
+2012-11-06T02:30:03.941207+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,No way. How many platforms would be enough.
+2012-11-06T02:30:37.741864+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,well maybe use 2 trains?
+2012-11-06T02:31:40.366592+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"That means two tracks, at least on some parts of the line"
+2012-11-06T02:31:59.290319+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,let me check some of my lines how often they go
+2012-11-06T02:34:00.572022+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,most of my lines are longer platforms... you can try 5 or 6 or 7 or 8 and see if it's ok tomorrow (transports enough)
+2012-11-06T02:34:31.477188+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,I left room for you to make an 8 platform.... but can give you more if you need longer
+2012-11-06T02:34:53.837672+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Maybe I'll start with 7
+2012-11-06T02:37:15.002994+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Maybe you could make a path here, so it doesn't slow down the train. (105,92)"
+2012-11-06T02:37:48.672071+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Thanks
+2012-11-06T02:38:09.604921+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,don't forget signals near banks
+2012-11-06T02:39:08.643908+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#2,9,A-Train Transport,"btw, you might need another big bus in sheeps now :)"
+2012-11-06T02:39:25.714791+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,One thing at a time.
+2012-11-06T02:41:36.592264+00:00,sim128b[14076]:,disconnect,2,98.251.79.180,Client#2
+2012-11-06T02:41:57.286143+00:00,sim128b[14076]:,connect,2,98.251.79.180,Client#5
+2012-11-06T02:42:43.274910+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"The train is set, the station is public. Let's get this show on the road. Or on the tracks I might say."
+2012-11-06T02:44:01.804921+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,9,A-Train Transport,"(108,94) crooked a little"
+2012-11-06T02:44:09.938727+00:00,sim128b[14076]:,disconnect,2,98.251.79.180,Client#5
+2012-11-06T02:44:31.790495+00:00,sim128b[14076]:,connect,2,98.251.79.180,Client#5
+2012-11-06T02:44:48.600530+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,do you like flying goods or prefer trains and ships?
+2012-11-06T02:45:21.821775+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Planes are too expensive
+2012-11-06T02:46:04.295773+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,9,A-Train Transport,"your cannery line is stuck (480,1)"
+2012-11-06T02:46:37.019730+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,oops.
+2012-11-06T02:48:58.724287+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,9,A-Train Transport,that should give you an income boost (fixing the cannery lines)
+2012-11-06T02:49:19.078469+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"yeah, no wonder I was losing money like that"
+2012-11-06T02:50:34.348273+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"I shouldn't have started that Good factory, though"
+2012-11-06T02:50:47.251724+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,9,A-Train Transport,where?  maybe I can help
+2012-11-06T02:51:12.571564+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"(434,2) it need a lot of thing. "
+2012-11-06T02:51:19.099817+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,a lot
+2012-11-06T02:51:43.131847+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"So far only the steel mill is connected, since it was already running."
+2012-11-06T02:52:35.378600+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,9,A-Train Transport,what else is that steel being used for?
+2012-11-06T02:52:46.847575+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,The two canneries
+2012-11-06T02:53:40.222814+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,9,A-Train Transport,"I am confused (29,92)  why does it show a loss of money?"
+2012-11-06T02:53:44.650108+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"they don't need that much steel, so it was a good thing to connect the factory"
+2012-11-06T02:54:29.205484+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Has it been running yet?
+2012-11-06T02:54:40.380155+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,9,A-Train Transport,I thought it shipped at beginning
+2012-11-06T02:54:57.980053+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,9,A-Train Transport,but according to the chart no it hasn't got any profit.
+2012-11-06T02:55:13.997432+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"A used the depot at Banks, maybe it was too far away."
+2012-11-06T02:57:14.738422+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Maybe I should have used a smaller locomotive
+2012-11-06T02:57:33.754890+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,"no, it hasn't earned any profit yet.. wait for it to run.. and we'll see"
+2012-11-06T02:59:01.618357+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,9,A-Train Transport,do you want to ship grain? :)
+2012-11-06T02:59:24.844339+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Where?
+2012-11-06T02:59:27.384301+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,9,A-Train Transport,"you could use trucks, although they don't earn tons of money"
+2012-11-06T02:59:40.426411+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,9,A-Train Transport,"for this brewery (336,138)"
+2012-11-06T02:59:50.900211+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,9,A-Train Transport,the grain farms are close by
+2012-11-06T03:01:03.206318+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,My margin is down to -14%. and I have to go. It's 4 a.m. now. If no miracle happens during the night I'm going to be broke by tomorrow.
+2012-11-06T03:01:36.068493+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,"well before you go, let's look at your system first"
+2012-11-06T03:01:47.986699+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,9,A-Train Transport,maybe we can reduce that before you leave
+2012-11-06T03:01:48.756887+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,okay
+2012-11-06T03:02:12.765348+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,"did you do ""lists"" > ""vehicles list' and sort by income?"
+2012-11-06T03:02:24.196058+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Not yet
+2012-11-06T03:02:51.170550+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,"your passenger line for neweber wilsonville does not have enough, get rid of maybe 3 of them?"
+2012-11-06T03:03:09.763320+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,do you see it in the list?
+2012-11-06T03:03:22.786793+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Yeah, I see the problem"
+2012-11-06T03:03:37.469932+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,retire maybe 3 of them so the rest will be full?
+2012-11-06T03:04:35.847755+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,They all were full before. I wonder what happend to all those passengers.
+2012-11-06T03:04:52.055749+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,maybe you transported them all
+2012-11-06T03:05:25.667173+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Or they were obducted by aliens. Who knows?
+2012-11-06T03:05:49.741276+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,one of them was the station we messed up or I told you to change :(
+2012-11-06T03:07:07.768173+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Don't worry about that. I've found them. They are all waiting for a bus at those stations.
+2012-11-06T03:07:16.548633+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,"also, didn't the green player connect directly to newberg instead of just your wilsonville station?"
+2012-11-06T03:07:49.416567+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Since the busses don't make any money I don't care. The can get a cab if they don't want to wait.
+2012-11-06T03:08:57.903490+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"He did, but he removed his track when I was messing around with the bridges"
+2012-11-06T03:09:42.427642+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,9,A-Train Transport,do you ever see sncfs... tell him I left him some messages at start
+2012-11-06T03:10:41.328899+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"I haven't talked to him in since the day before yesterday. But I will tell him, when I see him."
+2012-11-06T03:10:44.068359+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,9,A-Train Transport,"also, maybe he should connect to newberg here (35,376) but I need to remove my rails there"
+2012-11-06T03:12:38.056032+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,He is connected through Wilsonville. I'm not sure it would be a good idea.
+2012-11-06T03:15:13.403490+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,it seems like that passenger line might be a loss/losing money
+2012-11-06T03:15:21.571815+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,should I look it over to see why?
+2012-11-06T03:15:44.934825+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Sure. Anything to get me out of the red
+2012-11-06T03:16:04.557978+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,"ok, one problem, the trains are very slow.....  slow = very little bonus"
+2012-11-06T03:16:31.308932+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,150km rail makes 4 cents
+2012-11-06T03:17:02.670505+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,300km rail makes about 11cents
+2012-11-06T03:17:03.604874+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"hhmm, there is nothing I can do about it now."
+2012-11-06T03:17:28.019552+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,one alternative is to use trams.... they cost less but make more money at slower speed
+2012-11-06T03:17:30.812237+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Maybe I should have stuck with the ships.
+2012-11-06T03:18:08.907640+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,It's a long way for a tram and it need power too
+2012-11-06T03:18:15.214043+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,a 150km train =  a 85km tram
+2012-11-06T03:18:42.637063+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,another problem might be the many turns the train makes
+2012-11-06T03:19:01.351453+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,watch the train as it goes (follow it) and watch the speed
+2012-11-06T03:19:32.190802+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,notice how it often slows down... so it's not actually doing 150km.... it's more like 50km
+2012-11-06T03:19:32.379972+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,I know.
+2012-11-06T03:20:02.618467+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,It was making tons of money at the beginning
+2012-11-06T03:20:08.791505+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,at that speed you earn 1 cent or less than 1 cent per passenger !
+2012-11-06T03:20:53.429994+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,so... my suggestion is to make everyting more straight....
+2012-11-06T03:21:15.829659+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,"(222,343)   put the train station on the main line instead of a subline"
+2012-11-06T03:21:28.883696+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,I have increased the waiting time at the Wilsonville and Newberg. That's all I can do now.
+2012-11-06T03:21:29.620593+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,so it don't have to turn so many times and slow down
+2012-11-06T03:21:59.515295+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,"(179,343) might be a good spot for sheffield"
+2012-11-06T03:22:24.305409+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,then straighten out between sheffield and lord zeno
+2012-11-06T03:22:39.831917+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,"anyways, maybe that'll give you something fun to do tomorrow? :)"
+2012-11-06T03:23:02.048865+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,If there is a tomorrow for my company :-/
+2012-11-06T03:23:25.710065+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,welll... you could just put the waiting all at 100% and remove all but one train
+2012-11-06T03:23:44.188255+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,hopefullly that will reduce loss
+2012-11-06T03:24:33.312577+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,here's another thing you can do now
+2012-11-06T03:24:44.546543+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,TRAM01 Cow-tippin' Line A
+2012-11-06T03:24:58.412499+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,I think I'll jest let it go. Maybe I'll start over tomorrow. But next time I won't touch passengers. They are always trouble.
+2012-11-06T03:25:00.668741+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,"that is a 85km train, you could change the track to 70km on that line"
+2012-11-06T03:25:49.979704+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,maybe I can boost some income through your canneries
+2012-11-06T03:26:21.946721+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,How? They are working fine as far as I know.
+2012-11-06T03:26:23.583151+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,"oh, I know!!!!!"
+2012-11-06T03:26:37.687870+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,???
+2012-11-06T03:26:50.700722+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,"go into line managment and edit this tram line: ""TRAM01 Cow-tippin' Line A"""
+2012-11-06T03:27:12.586706+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,do NOT make it copy backwards... go from cow tippin to inner stop and no more
+2012-11-06T03:27:29.504430+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,that should boost income slightly
+2012-11-06T03:28:44.618547+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,I thought about changing the lines and giving the market place stop to the A Line.
+2012-11-06T03:29:06.469235+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,"as for the cannerys, maybe power will help or if I ship some goods, I'll just have to check later if I am here maybe"
+2012-11-06T03:29:29.466149+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,"better yet, you could just make that city one line until it gets bigger"
+2012-11-06T03:30:15.749629+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,"Okay, maybe you'll find something. Good luck. I have to go :-("
+2012-11-06T03:30:22.103929+00:00,sim128b[14076]:,chat,2,98.251.79.180,Client#5,15,,bye
+2012-11-06T03:30:34.530503+00:00,sim128b[14076]:,chat,3,178.201.227.14,Art Vandelay,13,Vandelay Industries,Bye and thanks again
+2012-11-06T03:30:45.040348+00:00,sim128b[14076]:,disconnect,3,178.201.227.14,Art Vandelay
+2012-11-06T03:42:26.126232+00:00,sim128b[14076]:,connect,3,98.251.79.180,Client#5
+2012-11-06T06:13:56.117653+00:00,sim128b[14076]:,connect,4,121.210.212.33,the sim man
+2012-11-06T06:15:14.090091+00:00,sim128b[14076]:,disconnect,2,98.251.79.180,Client#5
+2012-11-06T06:15:14.090289+00:00,sim128b[14076]:,disconnect,3,98.251.79.180,Client#5
+2012-11-06T06:15:14.090455+00:00,sim128b[14076]:,disconnect,4,121.210.212.33,the sim man
+2012-11-06T06:55:02.670742+00:00,sim128b[14076]:,connect,2,121.210.212.33,the sim man
+2012-11-06T09:28:05.381176+00:00,sim128b[14076]:,disconnect,2,121.210.212.33,the sim man
+2012-11-06T09:28:21.356937+00:00,sim128b[14076]:,connect,3,218.45.117.96,Client#3
+2012-11-06T09:38:50.385790+00:00,sim128b[14076]:,connect,2,218.45.117.96,Client#3
+2012-11-06T09:43:51.216643+00:00,sim128b[14076]:,connect,4,218.45.117.96,Client#3
+2012-11-06T09:57:53.313103+00:00,sim128b[14076]:,disconnect,2,218.45.117.96,Client#3
+2012-11-06T09:57:53.313143+00:00,sim128b[14076]:,disconnect,3,218.45.117.96,Client#3
+2012-11-06T09:57:53.313164+00:00,sim128b[14076]:,disconnect,4,218.45.117.96,Client#3
+2012-11-06T09:58:09.083327+00:00,sim128b[14076]:,connect,5,218.45.117.96,Client#3
+2012-11-06T10:20:38.096040+00:00,sim128b[14076]:,connect,2,89.155.122.64,Client#5
+2012-11-06T10:56:59.614640+00:00,sim128b[14076]:,disconnect,2,89.155.122.64,Client#5
+2012-11-06T10:56:59.614669+00:00,sim128b[14076]:,disconnect,5,218.45.117.96,Client#3
+2012-11-06T10:57:21.115312+00:00,sim128b[14076]:,connect,3,218.45.117.96,Client#3
+2012-11-06T11:32:49.806025+00:00,sim128b[14076]:,disconnect,3,218.45.117.96,Client#3
+2012-11-06T11:33:00.928341+00:00,sim128b[14076]:,connect,2,89.155.122.64,Client#5
+2012-11-06T11:33:19.059346+00:00,sim128b[14076]:,connect,3,91.16.94.189,Jaridan
+2012-11-06T11:41:26.273579+00:00,sim128b[14076]:,chat,3,91.16.94.189,Jaridan,7,German Trains Transport,morning
+2012-11-06T12:02:12.674236+00:00,sim128b[14076]:,connect,4,36.68.192.52,player
+2012-11-06T12:02:13.444949+00:00,sim128b[14076]:,disconnect,2,89.155.122.64,Client#5
+2012-11-06T12:02:27.191400+00:00,sim128b[14076]:,connect,2,89.155.122.64,Client#5
+2012-11-06T12:02:51.963462+00:00,sim128b[14076]:,disconnect,2,89.155.122.64,Client#5
+2012-11-06T12:04:08.120307+00:00,sim128b[14076]:,disconnect,4,36.68.192.52,player
+2012-11-06T13:21:59.731081+00:00,sim128b[14076]:,connect,2,91.153.123.162,Client#2
+2012-11-06T13:22:05.409099+00:00,sim128b[14076]:,chat,3,91.16.94.189,Jaridan,7,German Trains Transport,hi
+2012-11-06T13:24:11.143751+00:00,sim128b[14076]:,chat,2,91.153.123.162,Client#2,15,,hello
+2012-11-06T13:28:03.499728+00:00,sim128b[14076]:,disconnect,2,91.153.123.162,Client#2
+2012-11-06T13:37:57.108319+00:00,sim128b[14076]:,connect,2,91.16.94.189,Jaridan
+2012-11-06T13:59:48.984025+00:00,sim128b[14076]:,connect,4,91.16.94.189,Client#4
+2012-11-06T13:59:49.163144+00:00,sim128b[14076]:,disconnect,3,91.16.94.189,Jaridan
+2012-11-06T14:06:05.138522+00:00,sim128b[14076]:,chat,4,91.16.94.189,Client#4,15,,:P
+2012-11-06T14:06:11.074506+00:00,sim128b[14076]:,disconnect,4,91.16.94.189,Client#4
+2012-11-06T14:06:39.945919+00:00,sim128b[14076]:,connect,3,91.16.94.189,Client#3
+2012-11-06T14:07:59.623600+00:00,sim128b[14076]:,chat,3,91.16.94.189,Client#3,15,,.4
+2012-11-06T14:15:17.277759+00:00,sim128b[14076]:,disconnect,2,91.16.94.189,Jaridan
+2012-11-06T14:45:57.595050+00:00,sim128b[14076]:,connect,2,88.102.212.35,Paulus
+2012-11-06T14:48:03.486901+00:00,sim128b[14076]:,disconnect,3,91.16.94.189,Client#3
+2012-11-06T14:48:17.536158+00:00,sim128b[14076]:,connect,3,91.16.94.189,Client#3
+2012-11-06T14:53:37.302540+00:00,sim128b[14076]:,connect,4,79.206.181.121,Major_Sauce
+2012-11-06T14:57:05.314057+00:00,sim128b[14076]:,disconnect,4,79.206.181.121,Major_Sauce
+2012-11-06T15:13:44.357048+00:00,sim128b[14076]:,disconnect,3,91.16.94.189,Client#3
+2012-11-06T15:30:13.312644+00:00,sim128b[14076]:,connect,3,88.102.212.35,Paulus
+2012-11-06T15:51:00.789431+00:00,sim128b[14076]:,connect,4,88.102.212.35,Paulus
+2012-11-06T16:22:59.867383+00:00,sim128b[14076]:,connect,5,88.102.212.35,Paulus
+2012-11-06T17:30:54.869715+00:00,sim128b[14076]:,disconnect,2,88.102.212.35,Paulus
+2012-11-06T17:30:54.869748+00:00,sim128b[14076]:,disconnect,3,88.102.212.35,Paulus
+2012-11-06T17:30:54.869773+00:00,sim128b[14076]:,disconnect,4,88.102.212.35,Paulus
+2012-11-06T17:30:54.869794+00:00,sim128b[14076]:,disconnect,5,88.102.212.35,Paulus
+2012-11-06T17:31:03.589127+00:00,sim128b[14076]:,connect,6,91.16.94.189,Client#3
+2012-11-06T17:58:12.500943+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,hi
+2012-11-06T18:35:44.766630+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,hello?
+2012-11-06T18:43:04.993432+00:00,sim128b[14076]:,connect,2,88.102.212.35,Paulus
+2012-11-06T18:43:14.877157+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,hi
+2012-11-06T18:46:27.473118+00:00,sim128b[14076]:,connect,3,98.251.79.180,Client#5
+2012-11-06T18:47:43.694395+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,who's here?
+2012-11-06T18:47:52.562249+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,moi
+2012-11-06T18:48:21.874843+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,vandelay went bankrupt cuase his trains were filled 30% at most after his backlog was cleared up...
+2012-11-06T18:48:38.821557+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,who else is here?
+2012-11-06T18:49:21.281515+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,message symbol for chat
+2012-11-06T18:49:22.828351+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"dunecorp, is that the bankrupt brown player from yesterday?"
+2012-11-06T18:49:55.623858+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,dont know
+2012-11-06T18:50:05.989971+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,i'm adding mail atm btw
+2012-11-06T18:50:33.275799+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,so if you dont want mail in your NW loop dont use mails that can transport mail :S
+2012-11-06T18:50:40.698396+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,maybe I should rebuild for vandelay
+2012-11-06T18:50:50.805196+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,if you know his stuff
+2012-11-06T18:51:43.267832+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Art Vandelay,sncfs hasn't been back yet :(
+2012-11-06T18:51:58.826427+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,"lol i'm so blind, i built the tram track in hazel and am now in a corner and not at the start"
+2012-11-06T18:52:04.618258+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,talk about being absent minded xD
+2012-11-06T18:52:15.683403+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,yeah ... wasn't here last couple of days :/
+2012-11-06T18:55:41.505195+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,"care its a trap, atrain in disguise as art D: (jk^^)"
+2012-11-06T18:56:15.363504+00:00,sim128b[14076]:,disconnect,2,88.102.212.35,Paulus
+2012-11-06T18:56:34.468597+00:00,sim128b[14076]:,connect,2,88.102.212.35,Paulus
+2012-11-06T18:57:49.501445+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,if you need something for art lemme know atrain
+2012-11-06T18:58:18.615306+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,if you want to put a few ghost stops in his cities or some other cities to reserve them for him... maybe?
+2012-11-06T18:59:19.286701+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,did he use lord fabio? nw to st melons
+2012-11-06T18:59:48.385368+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Art Vandelay,sheffield lord mhz and and lord zeno... but I see lots of free cities now.... I don't know which he would pick now
+2012-11-06T19:00:15.842971+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,i know how he a train running sheeps->edge of the world and lord fabio lies inbetween them
+2012-11-06T19:00:42.634557+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,"(was a railway right on the of world , as seen in minnehaha"
+2012-11-06T19:01:39.851646+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,where is zeno?:S
+2012-11-06T19:01:47.896354+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Art Vandelay,sw
+2012-11-06T19:01:58.159004+00:00,sim128b[14076]:,chat,6,91.16.94.189,Client#3,7,German Trains Transport,ah i c
+2012-11-06T19:03:03.478714+00:00,sim128b[14076]:,disconnect,2,88.102.212.35,Paulus
+2012-11-06T19:03:19.901483+00:00,sim128b[14076]:,connect,2,88.102.212.35,Paulus
+2012-11-06T19:04:19.952400+00:00,sim128b[14076]:,disconnect,6,91.16.94.189,Client#3
+2012-11-06T19:04:33.535907+00:00,sim128b[14076]:,connect,4,91.16.94.189,Client#3
+2012-11-06T19:06:24.090927+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Art Vandelay,"what piece goods plane can I savely buy with 200,000 net wealth?"
+2012-11-06T19:06:50.528737+00:00,sim128b[14076]:,chat,4,91.16.94.189,Client#3,7,German Trains Transport,? the initial drop is 10-15% or so
+2012-11-06T19:07:06.568131+00:00,sim128b[14076]:,chat,4,91.16.94.189,Client#3,7,German Trains Transport,which means 200k = 20 k cash need initially due to drop in value
+2012-11-06T19:07:14.725915+00:00,sim128b[14076]:,chat,4,91.16.94.189,Client#3,7,German Trains Transport,*needed
+2012-11-06T19:07:42.787310+00:00,sim128b[14076]:,chat,4,91.16.94.189,Client#3,7,German Trains Transport,and as long as it makes a solid profit it should cover it's further reduce in value+ running cost and create profit
+2012-11-06T19:08:13.374072+00:00,sim128b[14076]:,chat,4,91.16.94.189,Client#3,7,German Trains Transport,"and you know, best bet is to run a short scenario offline :P"
+2012-11-06T19:11:09.077112+00:00,sim128b[14076]:,connect,5,87.2.74.8,Client#5
+2012-11-06T19:11:23.189047+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Art Vandelay,"(346,250) this is gonna need steel soon"
+2012-11-06T19:11:25.940377+00:00,sim128b[14076]:,chat,4,91.16.94.189,Client#3,7,German Trains Transport,pretty lively today :P
+2012-11-06T19:11:37.165765+00:00,sim128b[14076]:,disconnect,2,88.102.212.35,Paulus
+2012-11-06T19:11:43.793654+00:00,sim128b[14076]:,chat,4,91.16.94.189,Client#3,7,German Trains Transport,well we have a steel mill
+2012-11-06T19:11:58.820199+00:00,sim128b[14076]:,chat,4,91.16.94.189,Client#3,7,German Trains Transport,but you can see
+2012-11-06T19:12:13.674595+00:00,sim128b[14076]:,chat,4,91.16.94.189,Client#3,7,German Trains Transport,"he transported steel by ship from (217,33)"
+2012-11-06T19:12:33.489131+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Art Vandelay,"yeah, he don't have enough money for steel now, so maybe I"
+2012-11-06T19:12:46.798682+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,make a temp line I guess
+2012-11-06T19:13:12.061628+00:00,sim128b[14076]:,chat,4,91.16.94.189,Client#3,7,German Trains Transport,maybe let it run a bit and connect it as soon as you have enough money?
+2012-11-06T19:13:19.817813+00:00,sim128b[14076]:,chat,4,91.16.94.189,Client#3,7,German Trains Transport,or that
+2012-11-06T19:16:20.848011+00:00,sim128b[14076]:,disconnect,4,91.16.94.189,Client#3
+2012-11-06T19:16:33.116636+00:00,sim128b[14076]:,connect,2,91.16.94.189,Client#3
+2012-11-06T19:20:02.888541+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,are you on atrain atm?
+2012-11-06T19:20:15.147576+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,yeah
+2012-11-06T19:20:37.770148+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,could u temp remove the waterbridges @ gov island so i can remove my trainbrisges and fill the ground?
+2012-11-06T19:21:17.690493+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"check out ""display"" > ""sliced map view"" and go down til you see"
+2012-11-06T19:21:35.006302+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,ah lol
+2012-11-06T19:21:39.912801+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,-1 works
+2012-11-06T19:21:50.053666+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,didnt know that
+2012-11-06T19:22:04.434128+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"also try out the ""no buildings hidden"" if you didn't know about that one"
+2012-11-06T19:22:46.748710+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"im using that one, always hiding citie houses"
+2012-11-06T19:22:54.434875+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,*city
+2012-11-06T19:23:17.649607+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"always?   as in ""always""?   that' can't be fun to play canit?"
+2012-11-06T19:23:37.206302+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,well most of the time
+2012-11-06T19:23:48.178668+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"I used to run it a lot, but I like to go back so I see the game"
+2012-11-06T19:23:50.017472+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,i disable it once the cities are a littlebigger
+2012-11-06T19:24:06.921039+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,you can use smarthide instead too
+2012-11-06T19:24:22.710290+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,ugh ..yeah...
+2012-11-06T19:24:46.384624+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,but it's either all or nothing for me^^
+2012-11-06T19:25:04.634845+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,i dont really like seeing the houses transparent
+2012-11-06T19:25:35.548834+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"same goes for trees, not using transparency but small treeview"
+2012-11-06T19:28:51.692530+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"hmm the backlog @ gov island is slowy decreasing while a backlog in other cities rises, think i should add another train?"
+2012-11-06T19:29:12.973745+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Art Vandelay,where
+2012-11-06T19:29:27.267570+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,pristovekton and blackold
+2012-11-06T19:30:00.789701+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"yeah... if any cities on the loop start backing up, it's pretty safe to add another train"
+2012-11-06T19:30:36.278750+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,but  the question is if other trains will cover it due to the backlog decreasing @ gov
+2012-11-06T19:31:01.055191+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,well you can always wait and see what happens when backlog is gone there
+2012-11-06T19:31:11.763519+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"dont get me wrong, i know i wont bankrupt myself if i ould add antoher one, its just a question of profit & margin"
+2012-11-06T19:31:13.391346+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"but yeah, it's possible that will take care of it"
+2012-11-06T19:31:42.085977+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,you can always add one to reduce is faster... and check usage before you go offline and remove extras too
+2012-11-06T19:32:19.694789+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,you mean usage in the line menu?
+2012-11-06T19:32:29.182148+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,yeah
+2012-11-06T19:36:51.247129+00:00,sim128b[14076]:,disconnect,3,98.251.79.180,Client#5
+2012-11-06T19:37:11.686079+00:00,sim128b[14076]:,connect,3,98.251.79.180,Client#3
+2012-11-06T19:37:44.027100+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"was the ""5"" account locked up when you came on today?"
+2012-11-06T19:38:11.464150+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"no, i renamed it to 5 (without adding a pw) and sometime thereafter it was locked"
+2012-11-06T19:39:29.915399+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,ah btw
+2012-11-06T19:39:42.627891+00:00,sim128b[14076]:,connect,4,79.10.73.23,Client#4
+2012-11-06T19:40:00.064385+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"i thought of a solution for the peed problems of busses.... it's a ""solution"" although not a realistic one"
+2012-11-06T19:40:38.686549+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"just place elevated roads above the normal one and ""rebuild"" the streets of the city that way"
+2012-11-06T19:40:39.128379+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,I am trying to get dumecorp to talk :)
+2012-11-06T19:41:10.088717+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,what problem is that for?
+2012-11-06T19:41:32.537898+00:00,sim128b[14076]:,connect,6,88.102.212.35,Paulus
+2012-11-06T19:41:32.539449+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,the speedproblem of city busses
+2012-11-06T19:41:43.137754+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,oh....
+2012-11-06T19:42:28.635900+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,maybe that way it's possible to use the speedbonus of 80km/h busses properly (seeing as 130 is not really possible due to many stops within a city)
+2012-11-06T19:43:31.189721+00:00,sim128b[14076]:,disconnect,6,88.102.212.35,Paulus
+2012-11-06T19:43:35.489536+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,wtf?...
+2012-11-06T19:43:44.172585+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,I am trying to get him to talk
+2012-11-06T19:43:59.196196+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"well, why?if he doesn't want to "
+2012-11-06T19:44:22.885594+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,now it's crago italia online
+2012-11-06T19:44:25.118125+00:00,sim128b[14076]:,chat,4,79.10.73.23,Client#4,4,Crago Italia,hi guys
+2012-11-06T19:44:33.686834+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,hi
+2012-11-06T19:44:41.315616+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"hi italia, are you new to this server?"
+2012-11-06T19:44:47.288920+00:00,sim128b[14076]:,chat,4,79.10.73.23,Client#4,4,Crago Italia,i've had some connection problem.. like lag..
+2012-11-06T19:45:01.977451+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"italia, are you dunecorp?"
+2012-11-06T19:45:23.815630+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,he's his own company
+2012-11-06T19:45:25.927231+00:00,sim128b[14076]:,chat,4,79.10.73.23,Client#4,4,Crago Italia,"no, i'm new "
+2012-11-06T19:46:08.599959+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"italia, did you try to get account ""5""?   it's locked up now"
+2012-11-06T19:46:51.989967+00:00,sim128b[14076]:,disconnect,5,87.2.74.8,Client#5
+2012-11-06T19:47:12.363049+00:00,sim128b[14076]:,chat,4,79.10.73.23,Client#4,4,Crago Italia,"no, i create the account 2 days ago but i've got some connection problem"
+2012-11-06T19:47:23.132767+00:00,sim128b[14076]:,chat,4,79.10.73.23,Client#4,4,Crago Italia,now it's ok and i start
+2012-11-06T19:48:00.248562+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,^^ where did you start ? (i see you built something alreaady)
+2012-11-06T19:48:27.576929+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"italia, might I suggest something?"
+2012-11-06T19:48:51.989553+00:00,sim128b[14076]:,disconnect,4,79.10.73.23,Client#4
+2012-11-06T19:48:56.130372+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"do soomething like this maybe (474,17) ???"
+2012-11-06T19:49:11.714674+00:00,sim128b[14076]:,connect,4,79.10.73.23,Client#4
+2012-11-06T19:49:40.461139+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,"(474,17) you could make a station like this to connect italia"
+2012-11-06T19:49:49.585828+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,? you wanna build another public station?
+2012-11-06T19:49:57.871545+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,where?
+2012-11-06T19:50:15.055829+00:00,sim128b[14076]:,chat,4,79.10.73.23,Client#4,4,Crago Italia,i vas thinking to build one underground station
+2012-11-06T19:50:17.489941+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,no im asking you or what do you mean by the stuff you build?
+2012-11-06T19:50:22.404937+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,well
+2012-11-06T19:50:28.359056+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,underground broken atm
+2012-11-06T19:50:28.726657+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#3,9,A-Train Transport,you can't build underground stations ... the game is broken :(
+2012-11-06T19:50:45.211174+00:00,sim128b[14076]:,disconnect,3,98.251.79.180,Client#3
+2012-11-06T19:50:47.393840+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,you can build tunnels but no stations
+2012-11-06T19:51:04.925343+00:00,sim128b[14076]:,connect,3,98.251.79.180,Client#5
+2012-11-06T19:51:16.446779+00:00,sim128b[14076]:,chat,4,79.10.73.23,Client#4,4,Crago Italia,"no? oh god, didn't know.."
+2012-11-06T19:51:17.201596+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,ima put a sign @ start
+2012-11-06T19:51:25.164981+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,if you try to you get dcd
+2012-11-06T19:51:39.370670+00:00,sim128b[14076]:,chat,4,79.10.73.23,Client#4,4,Crago Italia,but this game or this version of the game?
+2012-11-06T19:51:58.475721+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"it's just this build, the problem is fixed already in a nightly version"
+2012-11-06T19:52:36.109051+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,but unless the one who runs this server plays the patch/new version we will have to play on this build where it's broken
+2012-11-06T19:54:21.127982+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"quick question a-train, what's the idea behind the shared train station? he's not running pax on that line"
+2012-11-06T19:54:31.320966+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,where
+2012-11-06T19:54:44.680997+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"(472,17)"
+2012-11-06T19:54:58.203400+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"that's not shared, that's italia's station"
+2012-11-06T19:55:22.726257+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"AH, i c what you meant , nvm me"
+2012-11-06T19:55:35.879376+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"he needs to build a road to connect to brewery, I showed him how"
+2012-11-06T19:56:29.667239+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"italia, did you realize that the only sand for that factory is on other side of map?!!!"
+2012-11-06T19:57:09.704365+00:00,sim128b[14076]:,chat,4,79.10.73.23,Client#4,4,Crago Italia,just now.. i've confuse that on the map.. well i'll try with ship
+2012-11-06T19:57:12.068143+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,will be a huge profit lol xD
+2012-11-06T19:57:42.244671+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"just make sure you put enough stops along the way for ships, so it mkes good profit"
+2012-11-06T19:58:09.775147+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"german, that 200km road in portland works (doesn't slow down)"
+2012-11-06T19:58:10.136034+00:00,sim128b[14076]:,disconnect,2,91.16.94.189,Client#3
+2012-11-06T19:58:10.136196+00:00,sim128b[14076]:,disconnect,4,79.10.73.23,Client#4
+2012-11-06T19:58:24.155124+00:00,sim128b[14076]:,connect,2,91.16.94.189,Client#3
+2012-11-06T19:58:40.977934+00:00,sim128b[14076]:,connect,4,79.10.73.23,Client#4
+2012-11-06T19:58:48.444452+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,15,,? where?
+2012-11-06T20:00:20.389431+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,hmm wtf?..........
+2012-11-06T20:00:37.458259+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,guess only roads next to houses slow down
+2012-11-06T20:01:13.549952+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,im confused im pretty ure i used a 90 km/h road in vsville to test it and it was slowed
+2012-11-06T20:01:37.124535+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,but look at the ones i made public right now..
+2012-11-06T20:01:48.625299+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,they are not slowed at all
+2012-11-06T20:04:59.568244+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"btw, whats the idea behind sand, stone, iron, coal not having a speedbonus? would it make ""mass fright"" less profitable and encourage short trains as opposed to slow but heavily loaded cargo ships?"
+2012-11-06T20:05:04.972210+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,15,,did the lag get italia?
+2012-11-06T20:05:47.596454+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,dunno^^
+2012-11-06T20:05:59.604466+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,15,,ask the pak128 people why? :)   it makes other items more special that have speed bonus
+2012-11-06T20:06:22.793340+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,^^
+2012-11-06T20:06:40.905557+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"ok folks, i'll be semi afk, gotta do some math homework :/"
+2012-11-06T20:14:25.245476+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,train you here?
+2012-11-06T20:14:35.437984+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,14,13,"hi, another locked account: 10"
+2012-11-06T20:15:04.449303+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,well 10 is playing
+2012-11-06T20:15:27.772594+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,14,13,"doesn't seems so, 10 just build a big airport"
+2012-11-06T20:15:36.979609+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"anyway, the train line of vandely is missing from (342,79)"
+2012-11-06T20:16:01.684696+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,14,13,there should be enough oil for right now
+2012-11-06T20:16:03.354163+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"to the refinery (379,64) it ran along my city, blocking it there"
+2012-11-06T20:19:30.749585+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,btw is there a reason why you locked dirk hills? (instead of expanding it)
+2012-11-06T20:19:56.338485+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,14,13,it only has 1 station
+2012-11-06T20:20:47.735501+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,14,13,to boost glass mill long ago
+2012-11-06T20:23:50.894964+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,do you want to develop tht city?
+2012-11-06T20:29:35.831827+00:00,sim128b[14076]:,disconnect,2,91.16.94.189,Client#3
+2012-11-06T20:31:24.353478+00:00,sim128b[14076]:,connect,2,91.16.94.189,Client#3
+2012-11-06T20:33:02.751669+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"not rly, was just wondering"
+2012-11-06T20:35:05.664011+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,are you fkin kidding me?
+2012-11-06T20:35:18.842990+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,a textil factory right in the middle of korner....
+2012-11-06T20:38:20.764370+00:00,sim128b[14076]:,disconnect,3,98.251.79.180,Client#5
+2012-11-06T20:38:25.473386+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,lolz :D
+2012-11-06T20:38:41.050053+00:00,sim128b[14076]:,connect,3,98.251.79.180,Client#5
+2012-11-06T20:38:45.062535+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,there goes your effor :/
+2012-11-06T20:39:28.272051+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Art Vandelay,what was art vandelay's first color?
+2012-11-06T20:41:22.589513+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Art Vandelay,what color should I pick for him next....
+2012-11-06T20:41:38.405254+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,"dunno , just repik the color you had, since it was the one he played with the most"
+2012-11-06T20:41:54.629868+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Art Vandelay,"but then I have to wait 2 years "
+2012-11-06T20:42:03.868692+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,2years? really?
+2012-11-06T20:42:12.278691+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,i thought they vanish sooner o.O
+2012-11-06T20:42:19.348153+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Art Vandelay,or 1 year
+2012-11-06T20:42:31.881841+00:00,sim128b[14076]:,connect,5,88.102.212.35,Paulus
+2012-11-06T20:47:50.829333+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,now we have to wait 1 year
+2012-11-06T20:57:20.772408+00:00,sim128b[14076]:,disconnect,2,91.16.94.189,Client#3
+2012-11-06T20:57:20.772435+00:00,sim128b[14076]:,disconnect,4,79.10.73.23,Client#4
+2012-11-06T20:57:20.772457+00:00,sim128b[14076]:,disconnect,5,88.102.212.35,Paulus
+2012-11-06T21:03:20.837299+00:00,sim128b[14076]:,connect,2,88.102.212.35,Paulus
+2012-11-06T21:09:50.061311+00:00,sim128b[14076]:,connect,4,178.201.227.14,Art Vandelay
+2012-11-06T21:11:12.933792+00:00,sim128b[14076]:,namechange,4,178.201.227.14,Art Vandelay,Kel Varnsen
+2012-11-06T21:11:33.834642+00:00,sim128b[14076]:,disconnect,4,178.201.227.14,Kel Varnsen
+2012-11-06T21:11:53.520039+00:00,sim128b[14076]:,connect,4,178.201.227.14,Kel Varnsen
+2012-11-06T21:12:49.647800+00:00,sim128b[14076]:,disconnect,2,88.102.212.35,Paulus
+2012-11-06T21:12:56.833134+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,15,,Hi! Anybody here?
+2012-11-06T21:13:06.836363+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"if you rename you copany back right, mabye :)"
+2012-11-06T21:13:38.315585+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"ok, so... here's a good income for you"
+2012-11-06T21:13:52.907237+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,15,,lol
+2012-11-06T21:13:53.704873+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"meat (398,241)"
+2012-11-06T21:14:11.987971+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,then FLY  the canned goods to the supermarket
+2012-11-06T21:14:13.210328+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,15,,"Thanks, I've already eaten"
+2012-11-06T21:17:48.311862+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,3 ships should be enough... I made that route a few minutes ago
+2012-11-06T21:21:08.745983+00:00,sim128b[14076]:,connect,2,91.16.94.189,Client#3
+2012-11-06T21:23:20.864303+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,don't forget a goods tile at airport
+2012-11-06T21:23:45.250768+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"Oh yeah, right. Thanks"
+2012-11-06T21:23:59.382719+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,confluence already has one with the dock
+2012-11-06T21:24:41.834916+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,This game has a bug.
+2012-11-06T21:24:56.376962+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,?
+2012-11-06T21:25:11.720974+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"You see how I build that airport? (292,5)"
+2012-11-06T21:25:32.381878+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,what about it?
+2012-11-06T21:25:46.333158+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,I couldn't get the runway any closer to the edge.
+2012-11-06T21:25:59.452411+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,oh that problem
+2012-11-06T21:26:30.871214+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"that problem, exactly"
+2012-11-06T21:28:15.232547+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,I probably have to go soon... the coal lines are still connected but they don't make much money for you
+2012-11-06T21:29:03.127445+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"Hhmm, I've started on a garbage line. That worked before."
+2012-11-06T21:32:42.822436+00:00,sim128b[14076]:,connect,5,88.102.212.35,Paulus
+2012-11-06T21:34:10.419764+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,hi paul
+2012-11-06T21:35:01.264843+00:00,sim128b[14076]:,chat,5,88.102.212.35,Paulus,8,DuneCorp,Hi :)
+2012-11-06T21:35:12.578398+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,are you transportugal?
+2012-11-06T21:35:47.979127+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"Paulus, have you played this map before?"
+2012-11-06T21:36:31.231840+00:00,sim128b[14076]:,disconnect,2,91.16.94.189,Client#3
+2012-11-06T21:36:44.463199+00:00,sim128b[14076]:,connect,2,91.16.94.189,Client#3
+2012-11-06T21:37:11.847221+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"Wow, that train is sloooooow. But, it's only garbage."
+2012-11-06T21:37:23.469629+00:00,sim128b[14076]:,chat,5,88.102.212.35,Paulus,8,DuneCorp,"nop, this is my 1st time on this map, usually I play singleplayer"
+2012-11-06T21:37:45.174493+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"Welcome to the club, Paulus"
+2012-11-06T21:39:09.894611+00:00,sim128b[14076]:,chat,5,88.102.212.35,Paulus,8,DuneCorp,"thx, I hope I'll not bankrupt too soon :D"
+2012-11-06T21:39:59.837126+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,That can happen. But you can always start again.
+2012-11-06T21:40:11.286808+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,do you know about net wealth?
+2012-11-06T21:40:35.659221+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,you can have negative cash as long as net wealth is above zero
+2012-11-06T21:41:07.251496+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,you only go bankrupt when net wealk is below zero
+2012-11-06T21:43:36.449963+00:00,sim128b[14076]:,chat,5,88.102.212.35,Paulus,8,DuneCorp,"I didn't know that, I thought I bankrupt after 3m on loan. Thx for info"
+2012-11-06T21:43:42.102177+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"dunecorp, are you gonna send that lumber to goods factory?"
+2012-11-06T21:44:12.726698+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"no, you can be on loan forever now; ""net wealth"" is the ONLY thing that matters; never go below zero net wealth"
+2012-11-06T21:46:30.090542+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"Paulus, are you familiar with storage at factories? (474,2)"
+2012-11-06T21:48:38.207855+00:00,sim128b[14076]:,chat,5,88.102.212.35,Paulus,8,DuneCorp,"I see, i'm going to send it to goods factory right now"
+2012-11-06T21:49:34.184113+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"varnse, you could use the red dwarf train too :)"
+2012-11-06T21:50:27.106547+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,This one is cheaper.
+2012-11-06T21:50:47.313599+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,0.26c/Km
+2012-11-06T21:54:39.878143+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,And it does 110. At least down hill. :-)
+2012-11-06T21:56:14.461155+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"maybe the nick name should be ""paint dryer"" instead of coast guard"
+2012-11-06T21:56:41.279706+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,(801) Renfe_310_(Coastguard)
+2012-11-06T21:56:49.823971+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,True
+2012-11-06T21:57:11.048837+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,7 kph. Fast than a speeding....snail.
+2012-11-06T21:57:55.676083+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,Did you see Jaridan today?
+2012-11-06T21:58:20.492268+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"yes, I mentioned about reserving your cities.... which you see he did"
+2012-11-06T21:58:54.120634+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,Thank you
+2012-11-06T21:59:44.328128+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"welcome, maybe you can paulus can work together on that good factory :) (434,2)"
+2012-11-06T21:59:51.438853+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"It might take a while before I'm doing passangers again, though."
+2012-11-06T22:00:27.343626+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,Why not? If he likes to.
+2012-11-06T22:00:44.379042+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,15,,"moi, je suis ici !"
+2012-11-06T22:00:55.399237+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,more or less atleast
+2012-11-06T22:01:06.253491+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"Paulus, you shouldn't connect a factory unless you are willing to connect the ENTIRE chain"
+2012-11-06T22:01:15.291476+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,lol. Bonsoir monsieur Jaridan
+2012-11-06T22:01:17.860441+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,the storage will get full and your lie will stop
+2012-11-06T22:01:34.416146+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,I mean your line will stop working
+2012-11-06T22:01:40.878681+00:00,sim128b[14076]:,chat,2,91.16.94.189,Client#3,7,German Trains Transport,:P hmm gonna reconnect brb
+2012-11-06T22:01:45.636224+00:00,sim128b[14076]:,disconnect,2,91.16.94.189,Client#3
+2012-11-06T22:02:09.854289+00:00,sim128b[14076]:,connect,2,91.16.94.189,Jaridan
+2012-11-06T22:02:26.036844+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,there we go
+2012-11-06T22:02:44.715038+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"you asked for me, so do you need something?"
+2012-11-06T22:03:28.092254+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"Not really, I was just curious"
+2012-11-06T22:05:45.843342+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"In case you didn't see it. The incinerator is working now. That means an extra 68 MW for your power line. If my ""paint dryer"" makes it in time. :)"
+2012-11-06T22:06:08.609332+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"(331,290)"
+2012-11-06T22:06:45.212833+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"Sorry, 850 MW"
+2012-11-06T22:07:11.060470+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport," you were right first time: 68"
+2012-11-06T22:07:14.883448+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,looking good^^
+2012-11-06T22:07:22.698072+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,Oh
+2012-11-06T22:07:50.668571+00:00,sim128b[14076]:,disconnect,4,178.201.227.14,Kel Varnsen
+2012-11-06T22:08:05.182530+00:00,sim128b[14076]:,connect,4,178.201.227.14,Kel Varnsen
+2012-11-06T22:08:14.183775+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,there's the gasoline lines you had before.... you could do those too
+2012-11-06T22:08:40.433484+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,dont forget the oil line @ black gold
+2012-11-06T22:08:49.298996+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,interestingly it might be rather easy to get the goods factory working (well planks might be a little difficult)
+2012-11-06T22:09:12.874176+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"planks are a nightmare, i still hope they change that at some point.."
+2012-11-06T22:09:15.388461+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,The sawmill is right next to it
+2012-11-06T22:09:37.905043+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,the sawmill is NEVER the problem...
+2012-11-06T22:09:42.390791+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"dune is shipping some planks, but I meant more that it might not be enough"
+2012-11-06T22:10:14.617008+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"I see, how many plantations are connected?"
+2012-11-06T22:10:27.396808+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,I think 1
+2012-11-06T22:10:42.393367+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,... is paulus/dunecorp still here?
+2012-11-06T22:10:49.647413+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"yes, he's buildling"
+2012-11-06T22:11:02.895417+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,someone might want to explain how to make roads public to duncorp
+2012-11-06T22:11:08.345363+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,I gotta go soon
+2012-11-06T22:11:23.173695+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,bye
+2012-11-06T22:11:24.156973+00:00,sim128b[14076]:,disconnect,3,98.251.79.180,Client#5
+2012-11-06T22:11:29.079682+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,See ya
+2012-11-06T22:11:33.804263+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"i would like him to delete his station @ (257,79) "
+2012-11-06T22:11:46.556883+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,cause i got the gas station fully covered with gas
+2012-11-06T22:12:38.245857+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,I don't know if he has the chat pop-up or is just checkin once in a while
+2012-11-06T22:14:26.526809+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,wtf
+2012-11-06T22:14:35.108936+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,@??
+2012-11-06T22:15:00.738132+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,ffffffffffffffffffffffffffffff
+2012-11-06T22:15:05.425221+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,wtf  is this
+2012-11-06T22:15:20.237450+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"they should SOOOOOOOOOO change this, this is REALLY not intuitive"
+2012-11-06T22:15:21.458467+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,What are you talking about?
+2012-11-06T22:16:01.132037+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"i was pondering, earlier this day, how to create faster roads within a city to ""fix"" the 50 m/h barrier that  acity puts up by building the default roads"
+2012-11-06T22:16:31.533512+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"Okay, and what did you figure out?"
+2012-11-06T22:16:32.967208+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"NOW , which i accidently did and thought 50 was max within a city WAS i upgraded a CITY road to something faster"
+2012-11-06T22:16:48.970115+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"BUT , and that is what threw me off, it kept 50 km/h max"
+2012-11-06T22:17:01.416555+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,Hhhmmm
+2012-11-06T22:17:07.742260+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"so i though up a ""solution"" which would be to ""rebuild"" the city with fast elevated roads"
+2012-11-06T22:17:31.996049+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,Does it work?
+2012-11-06T22:17:40.227164+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,but then atrain said its working and showed his 200 km/h highspeed road at portville
+2012-11-06T22:17:44.281091+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,the catch is
+2012-11-06T22:18:12.153870+00:00,sim128b[14076]:,disconnect,5,88.102.212.35,Paulus
+2012-11-06T22:18:15.937116+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"IF you upgrade a prebuild city road, it will keep the maaximum speed of 50 km/h , regardless of what you upgraded it to"
+2012-11-06T22:18:18.720979+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,BUT
+2012-11-06T22:18:36.453525+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"if you delete the road, and rebuild it , it is not bound by the city max speed"
+2012-11-06T22:18:46.236993+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,meaning it'll keep its highspeed
+2012-11-06T22:19:00.335794+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,and this doesnt make any sense whatsoever
+2012-11-06T22:19:11.821977+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,i think i know how and where its implemented in the code
+2012-11-06T22:19:27.496989+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"and i can guess how this creates this ""problem"""
+2012-11-06T22:19:35.774712+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,but they should change this imo
+2012-11-06T22:19:49.157117+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,und da wir zu zweit sind kömmer eig auch wieder deutsch reden :D
+2012-11-06T22:19:58.460757+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,Stimmt
+2012-11-06T22:20:22.169762+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"also wie gesagt, das ist sehr unintuitiv und ergibt keinen sinn"
+2012-11-06T22:20:53.324826+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"Ich hab das früher schon gesehen, ab sobald die Stadt die Straße für sich einnimmt und Bürgersteige dran macht wird es wieder 50. Bei den Hochstraßen weiß ich es nicht"
+2012-11-06T22:22:54.156969+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"Falls es Paulus nicht stört, werde ich das Stahlwerk an die Fabrik anbinden. Er liefert ja schon das Holz."
+2012-11-06T22:26:38.836007+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,FFFFFFFFFFFFFFFFFFFFFFFFF
+2012-11-06T22:26:48.042152+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,die stadt klaut mir meine straßen
+2012-11-06T22:26:55.298729+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,ja klar
+2012-11-06T22:27:31.061491+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,vermutlich weils mitten inner stadt ist und nich am rand wie bei ihm in portville
+2012-11-06T22:27:57.720712+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,die stadt is ne richtig diebische Elster D:
+2012-11-06T22:28:16.643007+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"Kann sein. Normalerweise passiert das aber auch, wenn die Stadt wächst. Dann werden ehemalige Landstraßen plötzlich Stadtstraßen mit 50 Km/h"
+2012-11-06T22:28:54.355319+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,i know
+2012-11-06T22:29:14.513155+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"jesus, beste lösung is echt, stadt mit elevated roads nachbaun, fertig^^"
+2012-11-06T22:29:29.377647+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,hat man das prob nich :D
+2012-11-06T22:29:56.362949+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,Nicht das es dann irgendwann elevated houses gibt und die ganze Stadt nach oben wächst... :-)
+2012-11-06T22:30:08.204393+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,skyhigh lol
+2012-11-06T22:30:14.412625+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,yep
+2012-11-06T22:30:15.720832+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,hätte schon was
+2012-11-06T22:30:53.201327+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,Eine Oberstadt für die Reichen und unten im Schatten lebt dann das arme Fußvolk.
+2012-11-06T22:42:37.189558+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,oh fuck xD
+2012-11-06T22:43:16.005048+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"naja in black gold siehste  es aussehen würde wenn die häuser skyhigh werden.... btw ich hab so hoch gebaut, oberste etage ist nich mehr löschbar"
+2012-11-06T22:43:46.861536+00:00,sim128b[14076]:,connect,3,98.251.79.180,Client#5
+2012-11-06T22:44:00.182739+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,WTF?!?
+2012-11-06T22:44:03.730130+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,^^
+2012-11-06T22:44:27.941236+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,Ist das verbunden wie ein Parkhaus oder nur verschiedene Ebenen?
+2012-11-06T22:44:48.288944+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,ich könnte verbinden aber das hier ist nur hingematscht
+2012-11-06T22:45:06.525124+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,15,,what did you say?
+2012-11-06T22:45:07.514916+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,Die armen Einwohner
+2012-11-06T22:45:15.221096+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,15,,what?
+2012-11-06T22:45:28.501015+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,The poor people in Black Gold
+2012-11-06T22:45:51.239189+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"i'm saying i  could connet it like a park'n'ride, the thing i build @ (344,105)"
+2012-11-06T22:46:08.210827+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,i can't delete the top level btw...
+2012-11-06T22:46:27.544147+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,Is it public?
+2012-11-06T22:47:18.091703+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,15,,I hope you're removing the roads later
+2012-11-06T22:48:42.152165+00:00,sim128b[14076]:,disconnect,3,98.251.79.180,Client#5
+2012-11-06T22:49:14.565119+00:00,sim128b[14076]:,connect,3,98.251.79.180,Client#5
+2012-11-06T22:49:27.403428+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"yeah, don't build above floor 32, you can't delete the next one lol"
+2012-11-06T22:49:45.667114+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,has to do with bit overflow i guess (32 bit) and levelheight
+2012-11-06T22:50:23.394791+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"Oops, what now? Got any C4?"
+2012-11-06T22:52:51.123505+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,that goods factory is not gonna need steel for a very very long time :(
+2012-11-06T22:53:16.638938+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,man i feel with you when you built that mothership last game lok
+2012-11-06T22:53:17.903419+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"I know, didn't see it in time."
+2012-11-06T22:53:20.639660+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,lol
+2012-11-06T22:53:36.425083+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,But I'm working on the plastic line.
+2012-11-06T22:55:55.192577+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"btw if you read the chat backlog you can see the problem i found , which we discussed earlier about the faster roads withing a city, atrain"
+2012-11-06T22:56:09.191286+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,what is it
+2012-11-06T22:57:14.382525+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,1 problem is the city eats your roads
+2012-11-06T22:57:29.142951+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"the other , very unintuitive one , is , that"
+2012-11-06T22:57:55.084777+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"if you upgrade a ""city"" road, the max speed stays 50 km/h (which is what threw me off)"
+2012-11-06T22:58:18.346583+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"if you delete the road, and then build your own, it's taking up the normal max speed of built road"
+2012-11-06T22:58:22.275367+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,The goods factory is good to go.
+2012-11-06T23:01:34.658436+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"Damn it, so close."
+2012-11-06T23:03:03.023929+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,well atleast black gold is famous now :D
+2012-11-06T23:04:53.100595+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,wow... this simutrans session is full of so many ppl going bankrupt
+2012-11-06T23:05:01.326674+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,the last one was more stable in that regard
+2012-11-06T23:05:25.242370+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"well, I could put up instructions like last game to get an account...."
+2012-11-06T23:05:48.696307+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"as you see, getting an account is not the problem"
+2012-11-06T23:05:58.753512+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,but it prevents this it seems
+2012-11-06T23:06:22.713265+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"if I don't do that, lots of people who don't kwo what they are doing mess up several accounts"
+2012-11-06T23:06:23.711984+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,well no one holds you back if you wanna put up some instructions
+2012-11-06T23:06:33.538948+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,true
+2012-11-06T23:06:47.101379+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,Thank you
+2012-11-06T23:07:12.915315+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,let me give some examples...
+2012-11-06T23:07:31.877841+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"account ""5"" someone locked up and is not using"
+2012-11-06T23:07:42.217566+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"account ""10"" same thing"
+2012-11-06T23:08:03.515473+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"actuualy account ""10"" they use it to build an airport that does nothing"
+2012-11-06T23:08:06.892228+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"true, though account 10 built something"
+2012-11-06T23:08:19.437578+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,basiclaly wasting the account
+2012-11-06T23:09:04.136669+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,valid point
+2012-11-06T23:09:04.950295+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"last game, almost all the accounts were like this (locked up and nobody used) or used by people that didnt' really play"
+2012-11-06T23:09:55.031224+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,this game was a lot better though.... most of the bankrupt players were good players that stick around like vandelay or portugal
+2012-11-06T23:10:02.999367+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,btw... you gonna rename yourself to art ?
+2012-11-06T23:10:46.394467+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,Why? At least I'm staying in the same TV show. ;-)
+2012-11-06T23:11:13.191000+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,i'm not watching tv so i don't know^^
+2012-11-06T23:11:28.504259+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,Have you never seen Seinfeld?
+2012-11-06T23:11:34.050160+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"and vandelay, I was not talking about you... but those accounts that don't get used or used by players who just mess things up and leave the gmae"
+2012-11-06T23:11:36.998283+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,nope
+2012-11-06T23:11:51.470020+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,okay
+2012-11-06T23:12:29.280609+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,@A-Train: What about you? Have you ever watched Seinfeld?
+2012-11-06T23:12:39.429206+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,a few times
+2012-11-06T23:13:19.338415+00:00,sim128b[14076]:,chat,4,178.201.227.14,Kel Varnsen,5,Kel Varnsen Inc.,"I see, If you were a fan you would have recognised the names I'm using."
+2012-11-06T23:13:56.739429+00:00,sim128b[14076]:,namechange,4,178.201.227.14,Kel Varnsen,Art Vandelay
+2012-11-06T23:14:01.992800+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,5,Vandelay Industries,Better?
+2012-11-06T23:14:10.895032+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,much better :)
+2012-11-06T23:14:49.190874+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,"like i said i don't watch tv, news sometimes.... i watch my anime and other stuff online"
+2012-11-06T23:15:21.965568+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,i'll bring plastic to that goods factory
+2012-11-06T23:15:48.005160+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,5,Vandelay Industries,NOOOO
+2012-11-06T23:15:51.668442+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,?
+2012-11-06T23:16:07.399866+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,5,Vandelay Industries,I've got that covered
+2012-11-06T23:16:30.187468+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,k
+2012-11-06T23:16:50.723614+00:00,sim128b[14076]:,connect,5,99.48.64.72,Jasperthecat1
+2012-11-06T23:17:07.333268+00:00,sim128b[14076]:,chat,2,91.16.94.189,Jaridan,7,German Trains Transport,a lot of ppl today
+2012-11-06T23:17:19.229357+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,that name is familiar
+2012-11-06T23:17:49.523587+00:00,sim128b[14076]:,chat,5,99.48.64.72,Jasperthecat1,15,,hi
+2012-11-06T23:18:03.577766+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"hi, what was your name on the last game?  your company"
+2012-11-06T23:18:25.732489+00:00,sim128b[14076]:,chat,5,99.48.64.72,Jasperthecat1,15,,"Jasper LTD, i think."
+2012-11-06T23:18:35.591223+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,oh
+2012-11-06T23:18:58.274348+00:00,sim128b[14076]:,chat,5,99.48.64.72,Jasperthecat1,15,,any spots available?
+2012-11-06T23:19:04.869565+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,several
+2012-11-06T23:20:08.702792+00:00,sim128b[14076]:,chat,5,99.48.64.72,Jasperthecat1,15,,spam
+2012-11-06T23:20:28.253964+00:00,sim128b[14076]:,disconnect,2,91.16.94.189,Jaridan
+2012-11-06T23:20:42.385858+00:00,sim128b[14076]:,connect,2,91.16.94.189,Jaridan
+2012-11-06T23:21:06.019167+00:00,sim128b[14076]:,chat,5,99.48.64.72,Jasperthecat1,15,,lol
+2012-11-06T23:21:12.117828+00:00,sim128b[14076]:,disconnect,2,91.16.94.189,Jaridan
+2012-11-06T23:21:25.588835+00:00,sim128b[14076]:,connect,2,91.16.94.189,Jaridan
+2012-11-06T23:21:29.592120+00:00,sim128b[14076]:,chat,5,99.48.64.72,Jasperthecat1,15,,wow
+2012-11-06T23:21:50.335555+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,what?
+2012-11-06T23:21:51.181601+00:00,sim128b[14076]:,chat,5,99.48.64.72,Jasperthecat1,15,,used to be no people on servers
+2012-11-06T23:22:03.240049+00:00,sim128b[14076]:,chat,5,99.48.64.72,Jasperthecat1,15,,but now there is
+2012-11-06T23:22:21.051644+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,I was on
+2012-11-06T23:23:14.455152+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,14,13,did you pick an account yet?
+2012-11-06T23:23:46.514048+00:00,sim128b[14076]:,chat,5,99.48.64.72,Jasperthecat1,15,,"why does the music keep fading out, but it goes back when i click"
+2012-11-06T23:23:55.646819+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,14,13,bug
+2012-11-06T23:24:01.500750+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,14,13,or bad design
+2012-11-06T23:26:52.019815+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,14,13,did you pick an account yet jasper?
+2012-11-06T23:27:02.494336+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,5,Vandelay Industries,I give up
+2012-11-06T23:27:37.443778+00:00,sim128b[14076]:,connect,6,91.16.54.218,Client#6
+2012-11-06T23:27:53.772178+00:00,sim128b[14076]:,disconnect,6,91.16.54.218,Client#6
+2012-11-06T23:28:09.277729+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,I'll make you a profitable account vandelay
+2012-11-06T23:29:05.564283+00:00,sim128b[14076]:,connect,6,91.16.54.218,Client#6
+2012-11-06T23:29:06.300073+00:00,sim128b[14076]:,disconnect,6,91.16.54.218,Client#6
+2012-11-06T23:29:46.314726+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,5,Vandelay Industries,"I need one that starts with 5,000,000C. 750,000C isn't doing it for me."
+2012-11-06T23:30:51.000036+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,5,Vandelay Industries,Usually I build something and fast forward the game until I make enough money to build more. I can't do that here.
+2012-11-06T23:31:05.916658+00:00,sim128b[14076]:,connect,6,91.16.54.218,Client#6
+2012-11-06T23:31:27.166388+00:00,sim128b[14076]:,disconnect,6,91.16.54.218,Client#6
+2012-11-06T23:31:39.810837+00:00,sim128b[14076]:,connect,6,91.16.54.218,Client#6
+2012-11-06T23:31:46.841455+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,15,,wtf
+2012-11-06T23:32:24.799856+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,15,,"vandelay, your 2nd account was pretty profitable"
+2012-11-06T23:32:34.678327+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,15,,you just houldnt have switched to those other trains
+2012-11-06T23:32:46.205532+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,15,,they cleared the backlog and were running on 20% max after that
+2012-11-06T23:32:57.242122+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,15,,bankrupting you pretty fast
+2012-11-06T23:33:07.435689+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,15,,and 750 000 is plenty enough imo
+2012-11-06T23:33:13.119452+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Vandelay Industries,did jasper leave?
+2012-11-06T23:33:22.548775+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,5,Vandelay Industries,It was the airports and that stupid bug
+2012-11-06T23:33:39.686415+00:00,sim128b[14076]:,chat,5,99.48.64.72,Jasperthecat1,15,,no
+2012-11-06T23:33:39.824784+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,7,German Trains Transport,"nah, "
+2012-11-06T23:33:46.153727+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,7,German Trains Transport,were the trains mate
+2012-11-06T23:33:53.240857+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Vandelay Industries,hmm what line to build for vandelay next....
+2012-11-06T23:33:59.725154+00:00,sim128b[14076]:,chat,5,99.48.64.72,Jasperthecat1,15,,where are the signs?
+2012-11-06T23:34:01.695122+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,5,Vandelay Industries,The trains were fine
+2012-11-06T23:34:14.728234+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Vandelay Industries,"jasper, pick one of the number accounts"
+2012-11-06T23:34:17.682374+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,7,German Trains Transport,ALL trains were red after they cleared the backlog
+2012-11-06T23:34:32.910587+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,5,Vandelay Industries,Because of the new year
+2012-11-06T23:34:33.206310+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,7,German Trains Transport,creating tons of decifit
+2012-11-06T23:34:54.682422+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,7,German Trains Transport,what? i mean i was here when you went  bankrupt
+2012-11-06T23:35:04.968455+00:00,sim128b[14076]:,chat,5,99.48.64.72,Jasperthecat1,15,,i did but whats the password for them?
+2012-11-06T23:35:09.267564+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,7,German Trains Transport,"the trains that you used, were the same that were about to bankrupt atrain aswell"
+2012-11-06T23:35:19.553637+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Vandelay Industries,"there is no password, you have to change the name and password when you pick one"
+2012-11-06T23:35:21.145854+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,5,Vandelay Industries,I don't know. My margin was at 30%. I should have waited before building the airports
+2012-11-06T23:35:39.810892+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,7,German Trains Transport,the airport wasnt the problem
+2012-11-06T23:35:46.818092+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Vandelay Industries,"pick ""9"" that one is free"
+2012-11-06T23:36:11.876449+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,7,German Trains Transport,"i think you set your planes to wait for 100% @ one location at least, which means they will make profit or get +/- 0 more or less"
+2012-11-06T23:36:22.403423+00:00,sim128b[14076]:,chat,5,99.48.64.72,Jasperthecat1,15,,Got it.
+2012-11-06T23:36:36.155193+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,7,German Trains Transport,"the trains however keep running , because we never set them to wait for 100% because it would fuck up the loop, obviously"
+2012-11-06T23:36:49.351803+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,7,German Trains Transport,"trust me, all trains were red"
+2012-11-06T23:37:11.797081+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,14,13,"I think I will make a glass line for you vandelay, but need to ship some goods first :)"
+2012-11-06T23:37:34.503127+00:00,sim128b[14076]:,chat,6,91.16.54.218,Client#6,7,German Trains Transport,"please dont use the one near korner, i'm about to use it and deliver sand etc"
+2012-11-06T23:37:35.152690+00:00,sim128b[14076]:,chat,4,178.201.227.14,Art Vandelay,5,Vandelay Industries,Okay
+2012-11-06T23:37:39.217889+00:00,sim128b[14076]:,disconnect,4,178.201.227.14,Art Vandelay
+2012-11-06T23:37:39.379609+00:00,sim128b[14076]:,disconnect,5,99.48.64.72,Jasperthecat1
+2012-11-06T23:37:39.379771+00:00,sim128b[14076]:,disconnect,6,91.16.54.218,Client#6
+2012-11-06T23:37:50.716880+00:00,sim128b[14076]:,connect,4,91.16.54.218,Client#6
+2012-11-06T23:38:01.502968+00:00,sim128b[14076]:,connect,5,178.201.227.14,Art Vandelay
+2012-11-06T23:38:01.503097+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,14,13,I';m gonna use the one west of korner
+2012-11-06T23:38:13.557900+00:00,sim128b[14076]:,connect,6,99.48.64.72,Jasperthecat1
+2012-11-06T23:38:24.972179+00:00,sim128b[14076]:,chat,4,91.16.54.218,Client#6,15,,cmon im on my way building my train
+2012-11-06T23:38:43.228840+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Vandelay Industries,where?
+2012-11-06T23:38:57.616133+00:00,sim128b[14076]:,chat,4,91.16.54.218,Client#6,7,German Trains Transport,the one where that guy before went bankrupt
+2012-11-06T23:39:17.352563+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Vandelay Industries,what coord?
+2012-11-06T23:39:25.612096+00:00,sim128b[14076]:,chat,4,91.16.54.218,Client#6,7,German Trains Transport,"(500,26)"
+2012-11-06T23:39:35.804387+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Vandelay Industries,that's EAST
+2012-11-06T23:39:49.887697+00:00,sim128b[14076]:,chat,4,91.16.54.218,Client#6,7,German Trains Transport,your point?
+2012-11-06T23:39:58.087835+00:00,sim128b[14076]:,chat,4,91.16.54.218,Client#6,7,German Trains Transport,ah lol
+2012-11-06T23:41:25.004997+00:00,sim128b[14076]:,disconnect,2,91.16.94.189,Jaridan
+2012-11-06T23:42:06.551131+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,13,Vandelay Industries,I wonder if vandely is watching me :)
+2012-11-06T23:46:04.207885+00:00,sim128b[14076]:,disconnect,4,91.16.54.218,Client#6
+2012-11-06T23:46:17.888897+00:00,sim128b[14076]:,connect,2,91.16.54.218,Client#6
+2012-11-06T23:46:40.695462+00:00,sim128b[14076]:,disconnect,3,98.251.79.180,Client#5
+2012-11-06T23:47:08.337273+00:00,sim128b[14076]:,connect,3,98.251.79.180,Client#5
+2012-11-06T23:49:46.268457+00:00,sim128b[14076]:,disconnect,6,99.48.64.72,Jasperthecat1
+2012-11-06T23:52:50.008535+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,who's here? vandelay????
+2012-11-06T23:53:10.709096+00:00,sim128b[14076]:,chat,2,91.16.54.218,Client#6,7,German Trains Transport,"i would guess the usual guests, u, me and vand"
+2012-11-06T23:54:01.904389+00:00,sim128b[14076]:,chat,2,91.16.54.218,Client#6,7,German Trains Transport,"hmm, i'm always torn for longdistance coal, use a smaller train with a cheaper train, or a longer train, which will go more or less same speed, but is a lot longer"
+2012-11-06T23:54:23.487125+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,I can send you coal maybe
+2012-11-06T23:54:52.216001+00:00,sim128b[14076]:,chat,2,91.16.54.218,Client#6,7,German Trains Transport,"no, i wanna bring in coal myself"
+2012-11-06T23:55:01.596653+00:00,sim128b[14076]:,chat,2,91.16.54.218,Client#6,7,German Trains Transport,i need to get some solid fright lines done
+2012-11-06T23:55:15.640131+00:00,sim128b[14076]:,chat,2,91.16.54.218,Client#6,7,German Trains Transport,i've focused a lot on pax the last couple of days
+2012-11-06T23:55:41.710661+00:00,sim128b[14076]:,chat,5,178.201.227.14,Art Vandelay,5,Vandelay Industries,Sorry. I'm still here.
+2012-11-06T23:56:43.924491+00:00,sim128b[14076]:,chat,3,98.251.79.180,Client#5,9,A-Train Transport,"I want to add a glass line to your company vandelay, but I need to get this coal working first"
+2012-11-06T23:57:16.914861+00:00,sim128b[14076]:,chat,5,178.201.227.14,Art Vandelay,5,Vandelay Industries,Take your time.
+2012-11-06T23:58:46.175142+00:00,sim128b[14076]:,chat,2,91.16.54.218,Client#6,7,German Trains Transport,brb
+2012-11-06T23:58:48.825084+00:00,sim128b[14076]:,disconnect,2,91.16.54.218,Client#6
+2012-11-06T23:59:11.502214+00:00,sim128b[14076]:,connect,2,91.16.54.218,Jaridan
+2012-11-06T23:59:22.872808+00:00,sim128b[14076]:,disconnect,2,91.16.54.218,Jaridan

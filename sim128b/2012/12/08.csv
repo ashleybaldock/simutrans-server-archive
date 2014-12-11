@@ -1,0 +1,409 @@
+2012-12-08T00:12:09.381655+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T01:01:43.623945+00:00,sim128b[1487]:,connect,2,71.200.128.99,Client#3
+2012-12-08T01:06:55.684325+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"@Jaridan.   Gotta build up some net wealth... then I will.  "
+2012-12-08T01:11:38.193833+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"Purcellville public sta is all boxed in... but I do see the public station there.   Guess I'll have to build over it, since no underground stations in this version]"
+2012-12-08T02:09:03.413715+00:00,sim128b[1487]:,connect,3,98.141.195.201,Fifty
+2012-12-08T02:11:58.781823+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"Any thoughts on electrifying supermarket at 39,7"
+2012-12-08T02:12:26.640003+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,4,RF&P,Power does not boost supermarket production anymore
+2012-12-08T02:12:42.965904+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,4,RF&P,"(only pax and mail, see icons"
+2012-12-08T02:12:49.506388+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,DOAH!
+2012-12-08T02:13:42.079994+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,4,RF&P,"I see you put some pax stops in those NW cities, I was planning to do pax there? "
+2012-12-08T02:14:28.257917+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"sorry, I'm desperately clawing my way out of the hole here"
+2012-12-08T02:14:57.904505+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"They are yours if you want them,  have no way to connect them"
+2012-12-08T02:15:46.935152+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,4,RF&P,"ok, just thinking I can bring more pax to the supermarket. If you don't mind I'll start paxing the circle line"
+2012-12-08T02:16:32.270170+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"All yours.  That supermarket is my only way out right now..  my big money lines need it "
+2012-12-08T02:20:07.979665+00:00,sim128b[1487]:,disconnect,3,98.141.195.201,Fifty
+2012-12-08T02:20:23.961467+00:00,sim128b[1487]:,connect,3,98.141.195.201,Fifty
+2012-12-08T02:20:34.532650+00:00,sim128b[1487]:,connect,4,71.200.128.99,Client#3
+2012-12-08T02:20:34.703655+00:00,sim128b[1487]:,disconnect,2,71.200.128.99,Client#3
+2012-12-08T02:39:25.522503+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,4,RF&P,"ok, I've started pax service in the circle of towns -- you can remove your loss-making services"
+2012-12-08T02:40:13.724289+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,4,RF&P,Oh- and I would suggest that you not go all the way to p-ville to connect to public
+2012-12-08T02:40:55.909241+00:00,sim128b[1487]:,chat,4,71.200.128.99,Client#3,8,Hermes Transport,"Yeah, it would make money, but cause a lot of problems.  I need an interchange down south somewhere"
+2012-12-08T02:41:09.256991+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,4,RF&P,Get Jaridan to make a public station somewhere a bit closer to you- ex. maybe beeville or ann arbor
+2012-12-08T02:41:26.931733+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,4,RF&P,"(or both!) "
+2012-12-08T02:41:41.968753+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,4,RF&P,pax trains to the interchange will quickly pull you out
+2012-12-08T02:42:11.897058+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,4,RF&P,my little pax trains make good money in the northwest
+2012-12-08T02:42:38.935077+00:00,sim128b[1487]:,chat,4,71.200.128.99,Client#3,8,Hermes Transport,"Yup,  I see a trunk forming in my pax area...   Just gotta get some cash"
+2012-12-08T02:49:59.362656+00:00,sim128b[1487]:,connect,2,98.141.195.201,Fifty
+2012-12-08T02:49:59.414077+00:00,sim128b[1487]:,disconnect,3,98.141.195.201,Fifty
+2012-12-08T02:49:59.414119+00:00,sim128b[1487]:,disconnect,4,71.200.128.99,Client#3
+2012-12-08T02:50:09.640896+00:00,sim128b[1487]:,connect,3,71.200.128.99,Client#3
+2012-12-08T02:56:11.210350+00:00,sim128b[1487]:,disconnect,3,71.200.128.99,Client#3
+2012-12-08T03:31:56.600621+00:00,sim128b[1487]:,connect,3,71.200.128.99,Client#3
+2012-12-08T03:40:27.406215+00:00,sim128b[1487]:,disconnect,2,98.141.195.201,Fifty
+2012-12-08T03:51:09.832991+00:00,sim128b[1487]:,connect,2,71.200.128.99,Client#3
+2012-12-08T05:15:29.646093+00:00,sim128b[1487]:,connect,4,71.200.128.99,Client#3
+2012-12-08T11:24:08.305922+00:00,sim128b[1487]:,connect,5,134.3.161.174,Jaridan
+2012-12-08T11:49:02.800042+00:00,sim128b[1487]:,disconnect,2,71.200.128.99,Client#3
+2012-12-08T11:49:02.800095+00:00,sim128b[1487]:,disconnect,3,71.200.128.99,Client#3
+2012-12-08T11:49:02.800121+00:00,sim128b[1487]:,disconnect,4,71.200.128.99,Client#3
+2012-12-08T11:49:02.800145+00:00,sim128b[1487]:,disconnect,5,134.3.161.174,Jaridan
+2012-12-08T11:49:09.291924+00:00,sim128b[1487]:,connect,6,134.3.161.174,Jaridan
+2012-12-08T11:51:13.977089+00:00,sim128b[1487]:,connect,2,71.200.128.99,Client#3
+2012-12-08T11:52:45.052847+00:00,sim128b[1487]:,connect,3,134.3.161.174,Jaridan
+2012-12-08T11:52:45.115378+00:00,sim128b[1487]:,disconnect,6,134.3.161.174,Jaridan
+2012-12-08T11:57:58.736712+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,Good morning
+2012-12-08T11:58:04.362922+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,hi
+2012-12-08T11:58:25.822053+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,you saw my sign @ start?
+2012-12-08T11:59:14.372227+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"Yes, but building that long a passenger run might be a very bad idea.  Could we create interchange down here somewhere"
+2012-12-08T12:03:05.976621+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"How about near bay city, beeville, or ann arbor.  "
+2012-12-08T12:03:29.055155+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"also, do you want me to pax pompano, wallkill and lakeland?"
+2012-12-08T12:04:01.342520+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"if you wanna take em over, i would be moire than happy, because, as my signs say, i dont plan on paxing em"
+2012-12-08T12:04:11.599394+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,same goes for lombardo and kings park
+2012-12-08T12:10:41.988123+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,ann arbor would be best
+2012-12-08T12:11:27.223817+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"Sweet, because I'm planning a line that more or less terminates there."
+2012-12-08T12:19:01.099004+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T12:19:37.945339+00:00,sim128b[1487]:,connect,3,134.3.161.174,Jaridan
+2012-12-08T12:21:30.998694+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,15,,"btw, lakeland -> supermarket in kings park, needs a bus connection then (as you can see from the sign"
+2012-12-08T12:23:35.791676+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,15,,and i have a good tip for you
+2012-12-08T12:23:56.780847+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"look at the tram lines you build, and look @ mine in pelham"
+2012-12-08T12:24:36.898350+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"long story short, you can use normal 110 eletifikation for trains on trams"
+2012-12-08T12:24:58.335264+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"advantage? money, normal one costs 2/month , tram electrification 15/month"
+2012-12-08T12:25:22.732955+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"err 4/month for tram i mean, but still , you save money"
+2012-12-08T12:26:17.544108+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"wow, yeah, wierd"
+2012-12-08T12:30:37.879209+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"also, if you build a headquarter, it's worth 500population for a city, if you upgrade it,  its another 4,5k so a full 5k extra pop for a city if you have a fully upgraded headquarter"
+2012-12-08T12:30:52.589600+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,headquarter creates pax&mail
+2012-12-08T12:31:57.652244+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"cool, biggest problem is i'm almost out.  net wealth getting really low"
+2012-12-08T12:34:48.876654+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,i would suggest to downgrade your north line to 110kmp
+2012-12-08T12:36:40.081750+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,because it's not worth it imo
+2012-12-08T12:36:51.640646+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,will save you alot of money aswell
+2012-12-08T12:37:23.671913+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T12:37:38.441311+00:00,sim128b[1487]:,connect,3,134.3.161.174,Jaridan
+2012-12-08T12:40:09.656063+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"I can't/  thats my only money route.  Because that supermarket is full, that is why I'm hurting at the moment."
+2012-12-08T12:46:00.674364+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"we also need a bus line to the sawmill east of kings park, and a busline to my goods fac near berryville"
+2012-12-08T12:52:32.841849+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"got em, and thats about as much as I can spend for this century"
+2012-12-08T12:53:21.455441+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,you have 300k left
+2012-12-08T12:53:59.531220+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"yup, and getting close to zero there is bad... loll"
+2012-12-08T12:54:27.171355+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"ima test something offline "
+2012-12-08T12:54:39.685832+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,seeing if you could create a pax line to me
+2012-12-08T12:55:06.565820+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"cool, thanks"
+2012-12-08T12:55:08.946623+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,you gonna be here for a little longer? or you gonna go ?
+2012-12-08T12:55:10.808661+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T12:55:25.799853+00:00,sim128b[1487]:,connect,3,134.3.161.174,Jaridan
+2012-12-08T12:55:30.352627+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,I'll be back in an hour or so
+2012-12-08T12:55:52.281675+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,15,,"ok, i'll test if you could create a pax line ( with profit"
+2012-12-08T12:56:14.805883+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T12:56:28.452775+00:00,sim128b[1487]:,connect,3,134.3.161.174,Jaridan
+2012-12-08T13:31:49.594656+00:00,sim128b[1487]:,connect,4,84.191.6.124,Client#4
+2012-12-08T13:36:57.520942+00:00,sim128b[1487]:,disconnect,4,84.191.6.124,Client#4
+2012-12-08T13:50:01.572822+00:00,sim128b[1487]:,disconnect,2,71.200.128.99,Client#3
+2012-12-08T13:50:12.241814+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T13:51:23.165516+00:00,sim128b[1487]:,connect,2,71.200.128.99,Client#3
+2012-12-08T13:52:07.323965+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,15,,"Back, and it looks like I'm outta the game"
+2012-12-08T13:58:28.038181+00:00,sim128b[1487]:,connect,3,134.3.161.174,Jaridan
+2012-12-08T13:58:57.613490+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,15,,hmm
+2012-12-08T13:59:01.568643+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,15,,you here?
+2012-12-08T13:59:27.417629+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"Yup, any chance you could have mercy, and not supply the north supermarket with canned good for about 6 months?"
+2012-12-08T13:59:40.334315+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,where?
+2012-12-08T14:00:01.691454+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,pittsfield
+2012-12-08T14:00:26.241061+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"I went big into supplying it.  We went head to head in it, and I lost."
+2012-12-08T14:00:39.451407+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,not rly
+2012-12-08T14:00:58.712747+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"ill see if i can increase its pax&mail, so it consumes more"
+2012-12-08T14:02:05.467814+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"+ i have another idea, that could/will save you ;)"
+2012-12-08T14:02:39.290268+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"shoot, I'm under 200K net wealth.  don't have long"
+2012-12-08T14:10:58.593307+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,you here?
+2012-12-08T14:11:07.718650+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,yup
+2012-12-08T14:11:24.796839+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,see those space near wallkill etc where im building rail?
+2012-12-08T14:11:49.698205+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,yup
+2012-12-08T14:11:59.492252+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"build a 5 tile  rail in there, make the ends public and build a 3 tile long station"
+2012-12-08T14:12:29.261459+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,BUT
+2012-12-08T14:12:37.816787+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,take the chapest staitions please ;)
+2012-12-08T14:13:21.226894+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"also, look @ ennis  and its loop in the north, i recommend you build those 160k trains with 4 pax waggons"
+2012-12-08T14:13:37.321893+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,ill build the paxloop and you can ride on the rails to gain money
+2012-12-08T14:14:47.859232+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"286,328 gap in track"
+2012-12-08T14:15:10.195496+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,thx
+2012-12-08T14:15:35.301280+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"n need one more tile at kings park "
+2012-12-08T14:17:10.389221+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"ok, you took wrong stations, but thats no problem, just place the cheapest road bus stop next to them"
+2012-12-08T14:18:02.015437+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T14:18:11.588690+00:00,sim128b[1487]:,connect,3,134.3.161.174,Jaridan
+2012-12-08T14:18:25.845929+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,fixed at barryville
+2012-12-08T14:23:59.861901+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,loop complete
+2012-12-08T14:25:23.429369+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"how do you signal everything like that... for some reason, drag and signal, and drag and station don;t work for me. "
+2012-12-08T14:25:34.056013+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,later
+2012-12-08T14:25:38.620452+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,lets get u running first
+2012-12-08T14:26:11.879329+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,your rails are not connected within pompano
+2012-12-08T14:27:04.728560+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"234,383,  need one moer tile"
+2012-12-08T14:27:29.424986+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"er...   234,348"
+2012-12-08T14:28:31.680659+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,any recommendations for the train.
+2012-12-08T14:28:40.181678+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,i will make one in a sec
+2012-12-08T14:28:41.546447+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,90k left
+2012-12-08T14:28:56.942019+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"please reconnect rogersville, i screwed up(tiles re public)"
+2012-12-08T14:29:38.881946+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"and create a station @ (211,345) + make your station tiles 160 kmp, otherwise trains will slow down way too hard"
+2012-12-08T14:29:39.786453+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,got it
+2012-12-08T14:29:55.893379+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"wait nvm "
+2012-12-08T14:30:10.111221+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,dont build the station i just said
+2012-12-08T14:31:31.636754+00:00,sim128b[1487]:,connect,4,87.10.53.129,Client#4
+2012-12-08T14:31:49.216735+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,ok loks
+2012-12-08T14:33:19.974816+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,take the evil df-11 and put 4 canonballt btx 060 2ndgrade coach to it
+2012-12-08T14:33:43.095522+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,ofc you gotta addd the stations as the signals show
+2012-12-08T14:34:19.618340+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"just make 1 first, cause u dont have much money"
+2012-12-08T14:36:20.844745+00:00,sim128b[1487]:,disconnect,4,87.10.53.129,Client#4
+2012-12-08T14:36:20.970025+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"your stations have to be connected to ofc, via busses"
+2012-12-08T14:36:53.806756+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"yup, working on that now... but just got net wealth warning"
+2012-12-08T14:37:02.626370+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,y...
+2012-12-08T14:37:33.353246+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"just an advice: dont build so many high tier busstations if you dont have a fast network yet, cause that's what is killing you"
+2012-12-08T14:38:28.195079+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"yup, i don't play pak128 that often, and the station cost is so high in it.   Going with ships is always a problem, because the ports maintainance is ridiculious"
+2012-12-08T14:39:54.605029+00:00,sim128b[1487]:,disconnect,2,71.200.128.99,Client#3
+2012-12-08T14:40:10.033092+00:00,sim128b[1487]:,connect,2,71.200.128.99,Client#3
+2012-12-08T14:40:12.130303+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,if you get through this month you'r safe
+2012-12-08T14:41:44.800404+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"ya, guess you would be safe in 1 or 2 months, but you cant get through this one"
+2012-12-08T14:42:37.736755+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"Yup, I took a big gamble supplying that supermarket... and when we competed, you were way ahead"
+2012-12-08T14:42:47.235482+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,again
+2012-12-08T14:42:59.429147+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"im NOT delivering to the market, its rf&p"
+2012-12-08T14:44:31.095002+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"like i said, what killed you was the fact that you built the biggest road stops"
+2012-12-08T14:44:41.488856+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,you should have gone for smalles or medium
+2012-12-08T14:44:59.009286+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,you gonna rebuild your network?
+2012-12-08T14:45:13.334743+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,you have to.  the small ones only hold 32.. can't even fill a bus that way
+2012-12-08T14:45:26.591952+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,yu could go medium with 64
+2012-12-08T14:45:54.573256+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport," we were 2-3months too late"
+2012-12-08T14:46:07.242216+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,the pax train was about to rack in serious profit
+2012-12-08T14:47:15.438327+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"oh well, I'll be lurking until a new poert plant opens"
+2012-12-08T14:47:15.570399+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,same question as before: you gonna rebuild your network? you could start with the pex train on my tracks
+2012-12-08T14:47:26.398746+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T14:47:42.156421+00:00,sim128b[1487]:,connect,3,134.3.161.174,Jaridan
+2012-12-08T14:48:12.964386+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"you could start with the pax on my train, to have some easy income for the start"
+2012-12-08T14:48:42.520774+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"it's all good.  I'll just wait for the next power plant.  "
+2012-12-08T14:49:25.971446+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"those are taken pretty fast,"
+2012-12-08T14:49:43.291260+00:00,sim128b[1487]:,chat,2,71.200.128.99,Client#3,8,Hermes Transport,"yup, because it is the only opening move that won't bankrupt you"
+2012-12-08T14:49:50.048978+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"since i have a huge network, your pax train is secure and easy income"
+2012-12-08T14:50:40.264190+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"there are enough slots, just take 1 and repax the cities along the railway, and you can see if it's gonna bankrupt you or not"
+2012-12-08T14:50:43.042405+00:00,sim128b[1487]:,disconnect,2,71.200.128.99,Client#3
+2012-12-08T14:50:47.605373+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,im pretty sure it wont
+2012-12-08T14:52:26.864429+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"also about the signsal, just drag&drop"
+2012-12-08T15:49:22.723525+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T16:17:41.467329+00:00,sim128b[1487]:,connect,2,134.3.161.174,Jaridan
+2012-12-08T16:44:28.606802+00:00,sim128b[1487]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-08T16:44:39.021201+00:00,sim128b[1487]:,connect,3,98.141.195.201,Fifty
+2012-12-08T16:50:10.571398+00:00,sim128b[1487]:,connect,2,71.200.128.99,benjad
+2012-12-08T17:02:54.257374+00:00,sim128b[1487]:,disconnect,3,98.141.195.201,Fifty
+2012-12-08T17:02:58.902604+00:00,sim128b[1487]:,disconnect,2,71.200.128.99,benjad
+2012-12-08T17:03:10.113953+00:00,sim128b[1487]:,connect,3,98.141.195.201,Fifty
+2012-12-08T17:03:17.573949+00:00,sim128b[1487]:,connect,2,71.200.128.99,benjad
+2012-12-08T17:03:37.406769+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,15,,"Hermes, is that you?"
+2012-12-08T17:03:51.833178+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,"yup, trying something"
+2012-12-08T17:04:15.045203+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,4,RF&P,"Wait: take my oil powerplant @248,277"
+2012-12-08T17:06:46.421317+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,4,RF&P,"where are you building, may I ask?"
+2012-12-08T17:07:09.036756+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,focusing on fast passengers
+2012-12-08T17:07:48.599816+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,4,RF&P,"ok, but do take that oil powerplant, it'll give you some good revenues"
+2012-12-08T17:09:22.230990+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,4,RF&P,"May I take over your old textile factory @285, 290?"
+2012-12-08T17:09:39.900740+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,"all yours, it's oversupplied anyway"
+2012-12-08T17:09:44.569107+00:00,sim128b[1487]:,chat,3,98.141.195.201,Fifty,4,RF&P,ok
+2012-12-08T17:15:58.979777+00:00,sim128b[1487]:,disconnect,3,98.141.195.201,Fifty
+2012-12-08T17:16:13.231386+00:00,sim128b[1487]:,connect,3,98.141.195.201,Fifty
+2012-12-08T17:16:22.794117+00:00,sim128b[1487]:,connect,4,71.200.128.99,benjad
+2012-12-08T17:16:22.885113+00:00,sim128b[1487]:,disconnect,2,71.200.128.99,benjad
+2012-12-08T17:17:27.201154+00:00,sim128b[1487]:,disconnect,3,98.141.195.201,Fifty
+2012-12-08T17:18:42.216969+00:00,sim128b[1487]:,connect,2,98.141.195.201,Fifty
+2012-12-08T17:20:17.763786+00:00,sim128b[1487]:,connect,3,71.200.128.99,benjad
+2012-12-08T17:20:17.815828+00:00,sim128b[1487]:,disconnect,2,98.141.195.201,Fifty
+2012-12-08T17:20:17.815856+00:00,sim128b[1487]:,disconnect,4,71.200.128.99,benjad
+2012-12-08T17:20:31.049218+00:00,sim128b[1487]:,connect,2,98.141.195.201,Fifty
+2012-12-08T17:23:04.734627+00:00,sim128b[1487]:,disconnect,3,71.200.128.99,benjad
+2012-12-08T17:23:18.065508+00:00,sim128b[1487]:,connect,3,71.200.128.99,benjad
+2012-12-08T17:24:49.435128+00:00,sim128b[1487]:,disconnect,3,71.200.128.99,benjad
+2012-12-08T17:25:14.572952+00:00,sim128b[1487]:,connect,3,71.200.128.99,benjad
+2012-12-08T17:27:10.164562+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,4,RF&P,note: you'll make a lot more money if you take some cars off of your train so that it can reach a higher max speed
+2012-12-08T17:33:14.562661+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,4,RF&P,Do you want to temporarily make one of your stations public? I can use an airplane to bring pax to the interchange untill jaridan gives you a rail connection
+2012-12-08T17:35:49.509205+00:00,sim128b[1487]:,chat,3,71.200.128.99,benjad,9,Planet Express,"sure, any preference?"
+2012-12-08T17:36:48.695319+00:00,sim128b[1487]:,chat,3,71.200.128.99,benjad,9,Planet Express,how about kings park?
+2012-12-08T17:37:27.334487+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,4,RF&P,Anywhere you can bypass the old station and build a new one later.
+2012-12-08T17:38:58.177828+00:00,sim128b[1487]:,disconnect,3,71.200.128.99,benjad
+2012-12-08T17:39:12.250785+00:00,sim128b[1487]:,connect,3,71.200.128.99,benjad
+2012-12-08T17:41:23.564633+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,4,RF&P,k temp line in place
+2012-12-08T17:42:03.575949+00:00,sim128b[1487]:,disconnect,3,71.200.128.99,benjad
+2012-12-08T17:42:33.830635+00:00,sim128b[1487]:,connect,3,71.200.128.99,benjad
+2012-12-08T17:50:01.939499+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,4,RF&P,"Benjad, the station you used does not enable pax! you must add a bus stop or something to it for pax to use it!"
+2012-12-08T17:50:41.784569+00:00,sim128b[1487]:,chat,3,71.200.128.99,benjad,9,Planet Express,which station?
+2012-12-08T17:51:09.338197+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,4,RF&P,"The ""office train stop"" that you used at all stations"
+2012-12-08T17:51:19.222700+00:00,sim128b[1487]:,chat,3,71.200.128.99,benjad,9,Planet Express,"yes, where"
+2012-12-08T17:51:33.996525+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,4,RF&P,If there is not a bus stop attached to it no pax will use it
+2012-12-08T17:51:43.552035+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,4,RF&P,All of your stations!
+2012-12-08T17:52:04.878472+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,4,RF&P,That have no bus stop attached
+2012-12-08T17:54:34.353148+00:00,sim128b[1487]:,chat,3,71.200.128.99,benjad,9,Planet Express,"grr... lovely new feature...   That one reason I don't like pak128, teh cheapest pax rail platform is 252/tile! "
+2012-12-08T18:00:46.035996+00:00,sim128b[1487]:,disconnect,2,98.141.195.201,Fifty
+2012-12-08T18:01:04.138069+00:00,sim128b[1487]:,connect,2,98.141.195.201,Fifty
+2012-12-08T18:05:11.242963+00:00,sim128b[1487]:,connect,4,134.3.161.174,Jaridan
+2012-12-08T18:05:32.453247+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,15,,yo
+2012-12-08T18:05:42.244871+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,4,RF&P,hey
+2012-12-08T18:05:54.364543+00:00,sim128b[1487]:,chat,3,71.200.128.99,benjad,9,Planet Express,hi.   moment of truth coming again.   loll
+2012-12-08T18:06:03.990639+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,looking grim
+2012-12-08T18:06:19.594787+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"fifty, i dont get why both of you went ahead and were delivering cans.."
+2012-12-08T18:06:24.216054+00:00,sim128b[1487]:,chat,3,71.200.128.99,benjad,9,Planet Express,just started
+2012-12-08T18:06:44.270582+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"i know you like competitiveness, but regarding that he had a very low income i wouldn't have delivered cans aswell"
+2012-12-08T18:07:02.537030+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"oh and yes, please deliver steel to the car manufactor"
+2012-12-08T18:07:11.531241+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,4,RF&P,"I think I had the line already before Hermes did, but I should have stopped supplying, I agree"
+2012-12-08T18:08:10.313862+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,4,RF&P,Steel may have to wait a few hours: I have a very important meeting soon
+2012-12-08T18:08:26.022166+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"it's okay, i have to set up the routes first anyway"
+2012-12-08T18:08:38.585193+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"just deliver it, when you've got time"
+2012-12-08T18:09:16.515538+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,4,RF&P,yup will do thx
+2012-12-08T18:09:31.011595+00:00,sim128b[1487]:,disconnect,2,98.141.195.201,Fifty
+2012-12-08T18:09:31.012754+00:00,sim128b[1487]:,disconnect,3,71.200.128.99,benjad
+2012-12-08T18:09:46.085178+00:00,sim128b[1487]:,connect,2,98.141.195.201,Fifty
+2012-12-08T18:09:46.124774+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,hmmm
+2012-12-08T18:09:57.119454+00:00,sim128b[1487]:,connect,3,71.200.128.99,benjad
+2012-12-08T18:10:03.681816+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,you need more trains or ull die benjad
+2012-12-08T18:10:16.668749+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"you should make it a loop, instead of a 1 way trip at the end"
+2012-12-08T18:11:05.083062+00:00,sim128b[1487]:,chat,2,98.141.195.201,Fifty,15,,"If you do go bankrupt, that oil plant is yours."
+2012-12-08T18:11:28.802206+00:00,sim128b[1487]:,chat,3,71.200.128.99,benjad,9,Planet Express,can't afford another train
+2012-12-08T18:11:34.752614+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,you can
+2012-12-08T18:11:51.533155+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"you have 90k, 1 train is 40k"
+2012-12-08T18:12:02.561089+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,i built the rails for you
+2012-12-08T18:12:38.077636+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,but you operational profit is looking better already
+2012-12-08T18:13:11.994289+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"wow, industry just keeps spawning"
+2012-12-08T18:16:41.470223+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,you're racking in profit!
+2012-12-08T18:16:49.367739+00:00,sim128b[1487]:,disconnect,4,134.3.161.174,Jaridan
+2012-12-08T18:16:58.695987+00:00,sim128b[1487]:,connect,4,134.3.161.174,Jaridan
+2012-12-08T18:16:58.747346+00:00,sim128b[1487]:,disconnect,2,98.141.195.201,Fifty
+2012-12-08T18:16:58.747471+00:00,sim128b[1487]:,disconnect,3,71.200.128.99,benjad
+2012-12-08T18:17:09.281529+00:00,sim128b[1487]:,connect,5,98.141.195.201,Fifty
+2012-12-08T18:17:16.966988+00:00,sim128b[1487]:,connect,2,71.200.128.99,benjad
+2012-12-08T18:17:38.000187+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,15,,how come I don't get charged road toll for using your track?
+2012-12-08T18:17:50.147586+00:00,sim128b[1487]:,chat,5,98.141.195.201,Fifty,15,,no toll on this game
+2012-12-08T18:17:56.004649+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,15,,gotcha
+2012-12-08T18:18:17.055662+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,D:? why no toll (not that i want/need the money)
+2012-12-08T18:18:22.223413+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,15,,depreciation just sucked.. net wealth dropped fast
+2012-12-08T18:18:33.001249+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,net wealth doesnt mean shit
+2012-12-08T18:18:46.238489+00:00,sim128b[1487]:,chat,5,98.141.195.201,Fifty,4,RF&P,...it means everything!
+2012-12-08T18:18:47.881737+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,if your operational profit is in the positive then you're save
+2012-12-08T18:19:11.837560+00:00,sim128b[1487]:,chat,5,98.141.195.201,Fifty,4,RF&P,Default 128 is no toll (idk why)
+2012-12-08T18:19:36.400478+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,wierd
+2012-12-08T18:19:50.384063+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,want me to create the line to arbor ann again?
+2012-12-08T18:20:32.766665+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,give me a few months first...   not out of the woods yet
+2012-12-08T18:20:57.150533+00:00,sim128b[1487]:,chat,5,98.141.195.201,Fifty,4,RF&P,but do when possible I don't want this temp plane line
+2012-12-08T18:21:12.804705+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,plane line?
+2012-12-08T18:22:04.093641+00:00,sim128b[1487]:,chat,5,98.141.195.201,Fifty,4,RF&P,"@295,329"
+2012-12-08T18:23:01.936925+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,"@Jaridan, can you just connect at kings park"
+2012-12-08T18:23:38.792220+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"hmmm ~.~ we can, but dont delete the plane yet(just hangar  it or something)"
+2012-12-08T18:24:51.335279+00:00,sim128b[1487]:,disconnect,2,71.200.128.99,benjad
+2012-12-08T18:24:56.584060+00:00,sim128b[1487]:,chat,5,98.141.195.201,Fifty,4,RF&P,"Cattle yard at 178,116 connected to textile factories?> wtf?"
+2012-12-08T18:25:05.836117+00:00,sim128b[1487]:,connect,2,71.200.128.99,benjad
+2012-12-08T18:25:48.548770+00:00,sim128b[1487]:,chat,5,98.141.195.201,Fifty,4,RF&P,"even more, why did those cannaries spawn industries on the other side of the map?"
+2012-12-08T18:26:24.995746+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,large factory spread... generally good...  for profit
+2012-12-08T18:26:46.868978+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,dunno xD
+2012-12-08T18:26:48.181947+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,thats what I don't like about pak64.   factory spread is usually 8 tiles.
+2012-12-08T18:28:11.616159+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,15,,hermes
+2012-12-08T18:28:23.374006+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,15,,"take a look @ your lines , line 5"
+2012-12-08T18:28:23.600687+00:00,sim128b[1487]:,chat,5,98.141.195.201,Fifty,4,RF&P,alright ive got to go cya later
+2012-12-08T18:28:28.494165+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,15,,cya
+2012-12-08T18:28:30.484044+00:00,sim128b[1487]:,disconnect,5,98.141.195.201,Fifty
+2012-12-08T18:28:58.671510+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,got it.  picking it up now
+2012-12-08T18:29:01.941477+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,15,,"you can get MORE money, if all your trains carry 4 waggons, becaus ethen "
+2012-12-08T18:29:07.786981+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,15,,they are faster in general
+2012-12-08T18:30:03.138482+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,15,,and this is the most crucial thing for paxing: SPEED IS EVERYTHING
+2012-12-08T18:30:08.467632+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,need platform made public
+2012-12-08T18:30:14.919765+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,15,,it is public
+2012-12-08T18:30:23.638307+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,15,,you cant delete public stations
+2012-12-08T18:30:36.789121+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,15,,i just have another station around it to prevent expansion
+2012-12-08T18:30:56.125180+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,15,,oh im dumb
+2012-12-08T18:31:14.579047+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,"loll   "
+2012-12-08T18:31:56.892554+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,no i did it right
+2012-12-08T18:32:51.651148+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,the public station are the 3 tiles witha  roof
+2012-12-08T18:33:05.362014+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,gotcha... the public station is sandwiched inside those two
+2012-12-08T18:33:21.884936+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"and? "
+2012-12-08T18:33:46.054998+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,it's on the list now..     thanks.   gotta shorten those two trains now
+2012-12-08T18:34:11.661001+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"you shorten them, but its worth it, because look at the one with 4, its racking in more than the one with 6"
+2012-12-08T18:36:48.449379+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"press G and look at the goods list for pax, and change the speed down till it says 100 for rail"
+2012-12-08T18:37:34.504955+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"thats a whooping 0,02 perpassenger/tile, 40kmp more its double that, 0,04"
+2012-12-08T18:37:38.291748+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,.02 per passenger
+2012-12-08T18:38:53.285565+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,"What is the income calc now. Is it fastest train achieves, or can achieve... it changed, and exp is different, so I forget"
+2012-12-08T18:39:34.785759+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,its the fastest it achieves...i think
+2012-12-08T18:40:14.762727+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"y, its fastest it achiees (otherwise the smaller train couldnt have brought in more money than the bigger ones"
+2012-12-08T18:40:55.901736+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,"yup, bc right now, my longesr train is bringin in most"
+2012-12-08T18:42:31.579022+00:00,sim128b[1487]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,dont sell the waggons though
+2012-12-08T18:42:43.973750+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,"yup, just thought of that.. loll"
+2012-12-08T18:52:28.725287+00:00,sim128b[1487]:,disconnect,4,134.3.161.174,Jaridan
+2012-12-08T18:52:38.328041+00:00,sim128b[1487]:,connect,3,134.3.161.174,Jaridan
+2012-12-08T18:52:48.806133+00:00,sim128b[1487]:,connect,4,71.200.128.99,benjad
+2012-12-08T18:52:48.975856+00:00,sim128b[1487]:,disconnect,2,71.200.128.99,benjad
+2012-12-08T19:07:42.349850+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,15,,looks like its going well
+2012-12-08T19:08:38.946721+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"btw you can calculate how much netwealth something costs you , ts 10% initially, so a 4.000.000 concorde costs 400k to launch (in terms of netwealth)"
+2012-12-08T19:41:29.936369+00:00,sim128b[1487]:,disconnect,4,71.200.128.99,benjad
+2012-12-08T19:50:24.557007+00:00,sim128b[1487]:,connect,2,71.200.128.99,benjad
+2012-12-08T19:51:56.282405+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T19:52:06.069375+00:00,sim128b[1487]:,connect,3,134.3.161.174,Jaridan
+2012-12-08T19:52:29.264837+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,"hi all, back, looks like a success.   Making other connections now"
+2012-12-08T19:52:54.194353+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,15,,"can you repax the sawmill, my goods fac?"
+2012-12-08T19:53:12.372747+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,actually doing that right now
+2012-12-08T19:53:17.623732+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,15,,thx
+2012-12-08T19:55:17.024115+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"hmm, just spent 3 mil for my tunnel lol :D"
+2012-12-08T19:55:48.521806+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,"yup, just saw the cash rise up from below me.   loll"
+2012-12-08T19:55:55.221603+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,^^
+2012-12-08T19:56:44.920038+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"btw if you want to, you can resurrect your truck line to my textile fac"
+2012-12-08T19:58:02.948003+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"plus could you let 1 bus&mail vehicle from lombard,ottumwa and lakeland run to the supermarket?"
+2012-12-08T19:59:10.633710+00:00,sim128b[1487]:,chat,2,71.200.128.99,benjad,9,Planet Express,"I'm going to pax those soon, mail will be a bit behind it"
+2012-12-08T19:59:20.200008+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,ok nice
+2012-12-08T19:59:32.861292+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"btw, rf&p left that oil plant for you"
+2012-12-08T20:00:39.678278+00:00,sim128b[1487]:,disconnect,2,71.200.128.99,benjad
+2012-12-08T20:00:52.571363+00:00,sim128b[1487]:,connect,2,71.200.128.99,benjad
+2012-12-08T20:04:40.579559+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T20:04:49.976383+00:00,sim128b[1487]:,connect,3,134.3.161.174,Jaridan
+2012-12-08T20:04:53.462404+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T20:05:02.465277+00:00,sim128b[1487]:,connect,3,134.3.161.174,Jaridan
+2012-12-08T20:05:09.752401+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T20:05:18.708938+00:00,sim128b[1487]:,connect,3,134.3.161.174,Jaridan
+2012-12-08T20:07:25.918362+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T20:07:36.769065+00:00,sim128b[1487]:,connect,3,134.3.161.174,Jaridan
+2012-12-08T20:07:46.383320+00:00,sim128b[1487]:,connect,4,71.200.128.99,benjad
+2012-12-08T20:07:46.436184+00:00,sim128b[1487]:,disconnect,2,71.200.128.99,benjad
+2012-12-08T20:08:29.471608+00:00,sim128b[1487]:,chat,4,71.200.128.99,benjad,15,,"I must say, this why I like pakBR... when industry grows, it usually just makes networks.. not adds 13 new factories"
+2012-12-08T20:09:06.080543+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"what do you mean by ""just makes networks""?"
+2012-12-08T20:10:19.765640+00:00,sim128b[1487]:,chat,4,71.200.128.99,benjad,9,Planet Express,"especially early, most industry growth is markets, and it rewards building good networks... pak128 favors point to point connections."
+2012-12-08T20:11:14.217615+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"i like simutrans as a whole, so i'm not picky about paks tbh"
+2012-12-08T20:11:46.799099+00:00,sim128b[1487]:,chat,4,71.200.128.99,benjad,9,Planet Express,try pakbr when you get a chance... watch it grow... it is really fun to play
+2012-12-08T20:12:28.769577+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,you mean the 128pakbr?
+2012-12-08T20:29:55.261662+00:00,sim128b[1487]:,chat,4,71.200.128.99,benjad,9,Planet Express,"letting worth build up again, then expanding north"
+2012-12-08T20:41:51.765152+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,can u also create a busline berryville -> laconia refinery
+2012-12-08T20:42:13.789254+00:00,sim128b[1487]:,chat,4,71.200.128.99,benjad,9,Planet Express,it's on the list now
+2012-12-08T21:24:57.986891+00:00,sim128b[1487]:,connect,2,79.41.42.254,Babette
+2012-12-08T21:38:59.231851+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,3 clients ftw
+2012-12-08T21:42:29.626726+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,bnjad you here?
+2012-12-08T21:42:44.942458+00:00,sim128b[1487]:,connect,5,98.141.195.201,Fifty
+2012-12-08T21:43:10.581635+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"fifty , take a look at the powerplant, ill remove my thing i forgot"
+2012-12-08T21:43:39.308228+00:00,sim128b[1487]:,chat,5,98.141.195.201,Fifty,4,RF&P,k thanks
+2012-12-08T21:44:01.397879+00:00,sim128b[1487]:,chat,5,98.141.195.201,Fifty,4,RF&P,Power the ore mine? anything else?
+2012-12-08T21:44:14.334273+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,ore mine?
+2012-12-08T21:44:39.915793+00:00,sim128b[1487]:,chat,5,98.141.195.201,Fifty,4,RF&P,"@199,327"
+2012-12-08T21:44:41.528563+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,wups omething wrong here
+2012-12-08T21:44:49.246412+00:00,sim128b[1487]:,chat,4,71.200.128.99,benjad,9,Planet Express,"lurking here, letting value grow a bit"
+2012-12-08T21:45:20.982206+00:00,sim128b[1487]:,chat,5,98.141.195.201,Fifty,4,RF&P,"benjad, do you want that oil plant or should I supply it again?"
+2012-12-08T21:45:32.118651+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,yes power the iron mine aswell as my refinery
+2012-12-08T21:45:43.438067+00:00,sim128b[1487]:,chat,4,71.200.128.99,benjad,9,Planet Express,"all yours, going to focus on pax for a bit"
+2012-12-08T21:45:52.125656+00:00,sim128b[1487]:,chat,4,71.200.128.99,benjad,9,Planet Express,but thanks for the thought
+2012-12-08T21:45:56.148962+00:00,sim128b[1487]:,chat,5,98.141.195.201,Fifty,4,RF&P,ok
+2012-12-08T21:47:11.748608+00:00,sim128b[1487]:,disconnect,5,98.141.195.201,Fifty
+2012-12-08T21:47:32.025060+00:00,sim128b[1487]:,connect,5,98.141.195.201,Fifty
+2012-12-08T21:48:06.559707+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,right
+2012-12-08T21:48:15.110402+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,now i know what i wanted again
+2012-12-08T21:48:42.053369+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport," benjad, are you reconnecting that one sheepfarm to my textile fac in ottumwa or not? otherwise ill bring in more sheep wool"
+2012-12-08T21:49:55.911373+00:00,sim128b[1487]:,disconnect,4,71.200.128.99,benjad
+2012-12-08T21:50:12.478197+00:00,sim128b[1487]:,connect,4,71.200.128.99,benjad
+2012-12-08T21:51:46.255796+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,yes or no? otherwise ill deliver the sheep wool
+2012-12-08T21:52:11.715132+00:00,sim128b[1487]:,chat,4,71.200.128.99,benjad,15,,all yours
+2012-12-08T22:01:56.246747+00:00,sim128b[1487]:,disconnect,4,71.200.128.99,benjad
+2012-12-08T22:02:10.992918+00:00,sim128b[1487]:,connect,4,71.200.128.99,benjad
+2012-12-08T22:04:22.806030+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,afk for a bit gonna finish my line later
+2012-12-08T22:04:24.239247+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T22:09:05.518917+00:00,sim128b[1487]:,disconnect,5,98.141.195.201,Fifty
+2012-12-08T22:26:23.600057+00:00,sim128b[1487]:,disconnect,2,79.41.42.254,Babette
+2012-12-08T22:26:42.725180+00:00,sim128b[1487]:,connect,2,79.41.42.254,Babette
+2012-12-08T22:44:59.293107+00:00,sim128b[1487]:,connect,3,134.3.161.174,Jaridan
+2012-12-08T22:46:17.755165+00:00,sim128b[1487]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"babetta/spedition vm, you should set up a password for your acc"
+2012-12-08T22:50:53.661334+00:00,sim128b[1487]:,disconnect,2,79.41.42.254,Babette
+2012-12-08T22:51:17.606549+00:00,sim128b[1487]:,connect,2,79.41.42.254,Babette
+2012-12-08T22:52:25.895617+00:00,sim128b[1487]:,disconnect,4,71.200.128.99,benjad
+2012-12-08T22:52:40.440892+00:00,sim128b[1487]:,connect,4,71.200.128.99,benjad
+2012-12-08T22:55:53.765993+00:00,sim128b[1487]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-08T23:02:50.731609+00:00,sim128b[1487]:,disconnect,2,79.41.42.254,Babette
+2012-12-08T23:03:09.397884+00:00,sim128b[1487]:,connect,2,79.41.42.254,Babette
+2012-12-08T23:15:22.982790+00:00,sim128b[1487]:,disconnect,4,71.200.128.99,benjad
+2012-12-08T23:15:35.366390+00:00,sim128b[1487]:,connect,3,71.200.128.99,benjad
+2012-12-08T23:32:01.415433+00:00,sim128b[1487]:,disconnect,3,71.200.128.99,benjad
+2012-12-08T23:41:07.012292+00:00,sim128b[1487]:,disconnect,2,79.41.42.254,Babette
+2012-12-08T23:49:13.865515+00:00,sim128b[1487]:,connect,2,98.141.195.201,Fifty
+2012-12-08T23:52:32.647371+00:00,sim128b[1487]:,connect,3,98.141.195.201,Client#3
+2012-12-08T23:53:36.964316+00:00,sim128b[1487]:,connect,4,89.155.126.12,Client#5
+2012-12-08T23:53:37.133731+00:00,sim128b[1487]:,disconnect,2,98.141.195.201,Fifty
+2012-12-08T23:56:56.970953+00:00,sim128b[1487]:,disconnect,4,89.155.126.12,Client#5
+2012-12-08T23:58:19.770075+00:00,sim128b[1487]:,connect,2,98.141.195.201,Client#3
+2012-12-08T23:58:55.738032+00:00,sim128b[1487]:,connect,4,89.155.126.12,Client#5
+2012-12-08T23:58:55.867484+00:00,sim128b[1487]:,disconnect,3,98.141.195.201,Client#3

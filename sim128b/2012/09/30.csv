@@ -1,0 +1,385 @@
+2012-09-30T00:00:24.517191+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"you probably have to write your own 3d engine with tile system, then import all the gamerules code into it to make it or something"
+2012-09-30T00:00:25.951557+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,but programmed more in Ogre3D
+2012-09-30T00:00:54.810998+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,there are lots of details to be considered still
+2012-09-30T00:01:00.799113+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"yeah, I know about ogre too.... both irrlicht and oger are like bsd/mit license"
+2012-09-30T00:01:11.203278+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,yep
+2012-09-30T00:01:42.079771+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"the tile system is one of the first problems so far, because simutrans supports huge maps"
+2012-09-30T00:02:26.065524+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"and iplementing it with terrains uses lots of memory, and you easily get over 2G"
+2012-09-30T00:02:32.090182+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,which is the hard part about is specifically?
+2012-09-30T00:02:54.674265+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,you want the technical details?
+2012-09-30T00:03:12.355435+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,yes and no.... more like the specific area that is causing the problem
+2012-09-30T00:03:15.829093+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"sure, it's nice to speak with about this :)"
+2012-09-30T00:03:34.750008+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,is it trying to display all the tiles (the actual displaying)?
+2012-09-30T00:03:46.214388+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"the thing is, mainly memory usage"
+2012-09-30T00:03:54.889867+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,it's not a fps issue
+2012-09-30T00:04:24.058549+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"as in keeping the whol map in memory in order to do calculations on the simulation (passenger/mail, etc...)?"
+2012-09-30T00:04:28.072646+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,simutrans represents the terrain geometry as you can guess as a bidimensional array of heights
+2012-09-30T00:04:42.277740+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"that's ok, and it's working good"
+2012-09-30T00:05:12.491275+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"the thing is when you import that into a 3D terrain, the number of vertexes grows very quick"
+2012-09-30T00:05:40.972442+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,because each tile must be represented on about 4 vertexes at minimum
+2012-09-30T00:05:52.185981+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,if you do it manually
+2012-09-30T00:06:20.450089+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"I truied using the current terrain building module in ogre, and ""sculpt"" the surface to it"
+2012-09-30T00:06:35.367833+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,and the program ran over 2 Gb
+2012-09-30T00:06:49.595085+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"oh.... well one optimization, would be to merge flat areas into one big polygon instead of each tile in the flat area being separate polygons (but that doesnt help a lot I guess)"
+2012-09-30T00:06:57.476144+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"one option is generating the ""mesh"" and swap to disk, just loading the needed part"
+2012-09-30T00:07:15.510542+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,let me fix the train.... then read up on your replies....
+2012-09-30T00:07:25.703728+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"you can do all those optimizations, but then you got LOD for example"
+2012-09-30T00:07:49.249862+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,I'm still trying to figure how to implement all that
+2012-09-30T00:08:12.818070+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,there are plenity of things that need coding and testing
+2012-09-30T00:08:14.148452+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,so you are loading the ENTIRE map into memory graphics?
+2012-09-30T00:08:59.595942+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"unfortunately, I don't know how real games do it.... so I'm not much help :("
+2012-09-30T00:09:08.354434+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"and thatw as just the map, reproducing the current simutrans graphics can be done using a identity projection matrix in OpenGL, but the thing is that right now simutrans draws all images once every frame"
+2012-09-30T00:10:13.853380+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"while the good way to do it in OpenGL is just simutrans mantaining a vertex buffr with the visible objects, not writing it completely every frame, that's not feasible due the limitations of PCI buses"
+2012-09-30T00:10:25.264707+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"and more problems, lots of problems"
+2012-09-30T00:10:46.204577+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"I may be wrong, but perhaps trying to use 3d (unless you actually make the game full 3d) might not be as efficient as the current 2d system?"
+2012-09-30T00:11:09.540398+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"I know you can use opengl to accelerate the current 2d system, however"
+2012-09-30T00:11:25.426298+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"you should get speedups, without a complete change"
+2012-09-30T00:12:11.711366+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,requires much coding and changes but I think it can be done
+2012-09-30T00:12:28.729564+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,in fact games like simcity 4 do it
+2012-09-30T00:12:52.001067+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"tmy current idea is going that way, and later, add 3D models"
+2012-09-30T00:13:01.314645+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"simcity 4 is some weird mix.... "
+2012-09-30T00:13:10.973633+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,that's the mix I want to achieve
+2012-09-30T00:13:21.240453+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"the bulidings in sim city 4 are still 2d images.... I don't know about the terrain, is that actually 3d?"
+2012-09-30T00:13:36.945510+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,exactly as you say
+2012-09-30T00:14:20.746748+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,and it is my guess (and it is only a guess) that the engine has like a very basic invisible 3d box that defines the general location of the building
+2012-09-30T00:14:24.037407+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,what do you think about it
+2012-09-30T00:14:29.914844+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,while the bulding still is a 2d images
+2012-09-30T00:15:05.363764+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,there are various aproaches to it
+2012-09-30T00:15:05.752709+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"because I know all buldings are first made as 3d, then *converted* to a series of images the game actually uses"
+2012-09-30T00:15:36.774584+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,the first I experienced in was rendering all in 3D
+2012-09-30T00:15:55.071231+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"so it is my guess that you could also extract extra info while you render the 3d images.... like the height of the 3d object, a box to represent the basic width of it etc...."
+2012-09-30T00:16:02.967819+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"but 2D images were in fact just small squares allways facing the camera, theya re called billboards in ogre2D"
+2012-09-30T00:16:41.178275+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"oh, I'm still referring to sim city 4.... the buldings were all 2d images. I know that for sure."
+2012-09-30T00:17:03.816839+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,yes
+2012-09-30T00:17:12.243857+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,buildings were 2D
+2012-09-30T00:17:26.118830+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,vehicles and terrain 3D
+2012-09-30T00:17:27.897320+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"However, you had to actually make the buildings as 3d models... it would then render the 4 different perspectives for the game to use"
+2012-09-30T00:17:47.025666+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"yes, but in simutrans"
+2012-09-30T00:18:04.280776+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,those images you acually have them in the PAK files
+2012-09-30T00:18:38.527244+00:00,sim128b[7499]:,disconnect,2,80.174.191.201,Markohs
+2012-09-30T00:18:57.423543+00:00,sim128b[7499]:,connect,2,80.174.191.201,Markohs
+2012-09-30T00:21:56.002698+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,have you considered skipping the sim city style step and just going for full 3d?
+2012-09-30T00:22:19.981672+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,or perhaps it's better to never make it full 3d?
+2012-09-30T00:22:47.575342+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,many developers told me to go full 3d
+2012-09-30T00:23:04.534013+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,I mean if that is your ultimate goal (full 3d)
+2012-09-30T00:23:23.595590+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"but I want to go this way, it's more interesting and I think it's doable and will look great"
+2012-09-30T00:24:50.975075+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"you know I take this as a personal project and hobby. So far I'm the only one programming this so well, I'll do whet I think it's the best for simutrans, but ofc I'm open to all ideas. Or maybe I'll find for myself only full 3D is feasible"
+2012-09-30T00:25:05.884747+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"yes, it will probably be easier on you and maybe a bit more fun that way... just it may mean you never get around to doing full 3d though"
+2012-09-30T00:25:41.961189+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,some days I feel like only full 3D will work
+2012-09-30T00:25:44.047944+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,you might do some searches to look for people who have done the mix of 3d and 2d like sim city 4 did
+2012-09-30T00:25:52.961086+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,some days I feel the other way
+2012-09-30T00:25:57.502212+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,then learn from them some of the details about how it doene
+2012-09-30T00:25:57.898933+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,we'll see
+2012-09-30T00:26:24.887167+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,maybe even ask on the irrlicht and ogre 3d forums if they know anybody that's done that kind of thing or knows more about it
+2012-09-30T00:26:39.411761+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"Actually I tried to find similar experiences and coudn't find much, if you have some poointers I'0ll happily read them :)"
+2012-09-30T00:27:03.273204+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,asked in ogre3d forums and didn't get much help
+2012-09-30T00:27:12.040957+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"hmm, I don't know....  asking on those forums and other 3d places might help (and is worth a try)"
+2012-09-30T00:27:33.381537+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,:)
+2012-09-30T00:28:09.726040+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,maybe you should separate the grid system from the actual 3d model of the terrain and rail part.... not sure how to explain what I mean or if it even would help
+2012-09-30T00:29:15.750496+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,mm... yea that's a good idea I considered also
+2012-09-30T00:29:21.548161+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"ok, so the real problem was storing all those vertices in memory for the whol map right?"
+2012-09-30T00:29:55.141862+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"so far I'll elaborate a bit more the OpenGL version I have already running, that brings no performance improvement so far, runs at the same speed"
+2012-09-30T00:30:20.924225+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,with some ideas I got and some code one of the guys in forums made also
+2012-09-30T00:30:23.220052+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,I mean back to the memory problem you talked about when trying to make 3d terrain
+2012-09-30T00:30:31.539886+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,and see how it works and get ideas from there
+2012-09-30T00:31:11.500671+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"mmm... in that implementation taht was a problem, yes"
+2012-09-30T00:31:28.806639+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,are you actually required to store the entire mesh (all the 3d vertices) from the entire map in memory at same time to render it on the graphics card?
+2012-09-30T00:31:52.258074+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,on that specific problem I ended thinking about generating the grid of the terrain and save it to a file
+2012-09-30T00:32:06.231188+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,and just swap the map from/to memory when needed
+2012-09-30T00:32:38.058352+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"since I don't know enough about rendering on the graphics card, is the following possible:"
+2012-09-30T00:32:46.504364+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"no, it's not needed, in fact the library splits the terrain into chunks and loads them just when necessary"
+2012-09-30T00:33:03.479534+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,1. keeping the storage of the map like it currently is
+2012-09-30T00:33:41.486731+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,2. checking the viewport area (the tiles you are looking at) and converting the simutrans data only for that area into vertices
+2012-09-30T00:34:17.957628+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,I'm guessing this is way too much work for realtime?  or you can't send that much data over the pci bus?
+2012-09-30T00:34:30.939394+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,option 2 is actually a good idea too
+2012-09-30T00:34:50.499969+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"it's not actually 2 different options, but both together :)"
+2012-09-30T00:35:12.042784+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"should be ok, because that info it's not transmitted on PCI every fram, just when the camera moves"
+2012-09-30T00:35:57.790046+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"that was one of the last ideas I had, but had to stop programming for some time since I had personal work to do"
+2012-09-30T00:36:09.343734+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,I hope to be back to retake it soon
+2012-09-30T00:36:52.417388+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"has some promlemns through, one of the main problems is the Ogre3D is thought into reading height data from images"
+2012-09-30T00:37:17.483368+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"ok, this might sound silly, but I wonder if you could build it on top of the manic digger game :)"
+2012-09-30T00:37:23.098074+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"and to imput new map or a section of map, it's programatically hard to guess what that engine will like the data to be feel like"
+2012-09-30T00:38:06.616882+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,minecraft?
+2012-09-30T00:38:17.969291+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,it's an open source minecraft style game
+2012-09-30T00:38:17.986311+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"thought about it too, actually"
+2012-09-30T00:38:57.850895+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,it's got the grid system down... but has no sloped tiles
+2012-09-30T00:39:35.559256+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"yea, can't find it now but that engine (I had a link somewere)"
+2012-09-30T00:39:39.530556+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"you could lock your camera to the current simutrans view angle (with the ability to face any direction - n, s, e, w) etc...."
+2012-09-30T00:39:52.046451+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,manicdigger.sourceforget.net
+2012-09-30T00:39:58.152883+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"was pretty similar to what I wanted to do, but missed quite a lot of things"
+2012-09-30T00:40:07.500242+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"and yea, I need slopes"
+2012-09-30T00:40:18.019543+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,manicdigger.sourceforge.net
+2012-09-30T00:40:24.302270+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,actually the slopes is the problem specifically
+2012-09-30T00:40:54.310302+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"and specially the corners, not the slopes, that require more vertexes"
+2012-09-30T00:41:02.816422+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,but they can be added in easy with a hack... or maybe more difficult the right way
+2012-09-30T00:41:11.564636+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,let me explain
+2012-09-30T00:41:20.552570+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"yea, I understand what you say"
+2012-09-30T00:41:36.813248+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,the game is block system that would be perfect for simutrans terrain style....  however for those slopes
+2012-09-30T00:41:53.496923+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,the game allows custom objects in it already and works fine (for example torches)
+2012-09-30T00:42:12.062134+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"the thing is there are so many options and things to design and try out, that for just one person is a bit overwhelming"
+2012-09-30T00:42:13.179758+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,a cheap hack would be to make those slope tiles out of similar custom 3d objects
+2012-09-30T00:42:49.434533+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,not that map is just one minor detail of what has to be implemented
+2012-09-30T00:42:58.729785+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"ok, so that solves the map part..."
+2012-09-30T00:43:30.533086+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"now, roads on flat terrain and slopes are easy, it aleady has that in the form a rail.... just minor mods to do that"
+2012-09-30T00:43:39.784856+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"vehicles, making this GUI working in a 3D enviroment, the map, vegetation, level of detail, camera management, viewports..."
+2012-09-30T00:43:45.084500+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,bridges would be custom work though
+2012-09-30T00:43:52.066993+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"lots of work, fascinating, but lots of work"
+2012-09-30T00:44:30.766756+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"yes, it's almost like making a new game... but they already did a lot of work"
+2012-09-30T00:44:57.382470+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,I'll have it a look and think about your idea
+2012-09-30T00:45:36.220882+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"for the slope tiles... just imagine one of the cubes was not square, but a slope.... that's basically how you could do slopes really easy"
+2012-09-30T00:46:06.064915+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"damn shit can't find the link I wanted, but was very similar to what you menction"
+2012-09-30T00:46:24.298665+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,http://manicdigger.sourceforge.net
+2012-09-30T00:46:26.847689+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,anyway you have to mind that can maybe not have a good performance
+2012-09-30T00:46:47.233288+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,because simutrans maps have actually a lot of things going on
+2012-09-30T00:47:08.365835+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,it could handle the terain part of simutrans
+2012-09-30T00:47:30.739311+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"but when you add buildings, that needs custom work to use the 2d images you mentioned or 3d models if you decide"
+2012-09-30T00:48:19.361723+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"in that case, might as well go 3d... so I guess that's more of an option if you wanted to ahead and go full 3d.... instead of the sim city approach"
+2012-09-30T00:49:42.448480+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"don't really know, yet"
+2012-09-30T00:50:04.336887+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"soon, maybe in 1-2 months I'll be actively programming that"
+2012-09-30T00:50:09.454863+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"yeah, I guess that's more like remaking large parts of the game.... so probably better to go with your other plan of just adding some 3d into some areas"
+2012-09-30T00:50:37.979583+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,I have soime screenshots posted in the forum about all that
+2012-09-30T00:50:48.493493+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,about what?
+2012-09-30T00:50:52.758185+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,and my tests and failed ties
+2012-09-30T00:51:04.604524+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,where?
+2012-09-30T00:51:10.272717+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"if youw ant, have it a look to the thread in the forum"
+2012-09-30T00:51:23.975497+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,what section?
+2012-09-30T00:51:26.642956+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,simutrans in 3D
+2012-09-30T00:51:33.441403+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,search that in google
+2012-09-30T00:51:39.375716+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,will take you to the thread
+2012-09-30T00:52:29.501734+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,which pages has the images?
+2012-09-30T00:52:55.052724+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,found a .7z file... can't open
+2012-09-30T00:53:23.288412+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,let me check...
+2012-09-30T00:53:49.807002+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"well, I guess you could take 2 routes (or 3)  ...."
+2012-09-30T00:54:01.961052+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,on that thread
+2012-09-30T00:54:14.705157+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,page 7
+2012-09-30T00:54:24.382401+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,try to do the partial 3d like sim city 4.... and that might be fun and not as steep a curve to climb
+2012-09-30T00:54:27.651136+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,thare I started posting some images
+2012-09-30T00:55:33.532422+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,try to turn manic digger into a simutrans like game.... should be fun too as you get immediate feedback to try out.... but sooo much work long term
+2012-09-30T00:55:59.895208+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,because you would almost be making a new game for full 3d
+2012-09-30T00:56:06.874305+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,yea
+2012-09-30T00:56:10.388306+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"ok, you just posted?"
+2012-09-30T00:56:19.445548+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,nope
+2012-09-30T00:56:31.215412+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,http://forum.simutrans.com/index.php?topic=4151.150
+2012-09-30T00:57:30.244837+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"so, basically you did the 3d mesh for the *entire* map, right?"
+2012-09-30T00:57:40.146879+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"yea on those tests, yes"
+2012-09-30T00:57:51.091146+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,it looked good
+2012-09-30T00:58:00.939316+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"yeah, so if you just read the current viewport and generated the mesh only for that area, maybe you could get it to work?"
+2012-09-30T00:58:08.482468+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"problem was, those maps were 515x512 iirc"
+2012-09-30T00:58:22.532643+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,only generate the mesh for the area the person is looking at at the time ?
+2012-09-30T00:58:31.300339+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,is that possible?
+2012-09-30T00:58:38.951804+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,mmm....
+2012-09-30T00:58:52.030241+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"*might* work, yes"
+2012-09-30T01:00:07.054349+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,so you.... like keep simutrans current internal storage for tiles and buildings and stuff.... but change the graphics portion so it generates the vertices only of the ares you are looking at
+2012-09-30T01:00:35.217014+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,yes that's an option
+2012-09-30T01:01:02.262935+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,in page 14 you can see some screenshots I got showing the game rendered in 3d
+2012-09-30T01:01:10.934764+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,had some problems too
+2012-09-30T01:01:24.849939+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,only 12 pages here...
+2012-09-30T01:02:05.804213+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,what post #?
+2012-09-30T01:02:42.821647+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,#342
+2012-09-30T01:03:15.991056+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs," #333 too"
+2012-09-30T01:04:06.327710+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"btw, are you gonna make rail, busses, ships real 3d models?  I think it makes sense not to try to use 2d images like for buildings?"
+2012-09-30T01:05:12.006993+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,didn't decided yet but I feel they will only be 3d
+2012-09-30T01:05:54.173959+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"it would improve things, I think.... right now, the models are not very smooth.... that would add a very nice touch to the game .... but it's also a lot of time to work on that"
+2012-09-30T01:06:43.435127+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"that doesn't worry me much, because if I can manage to get out a system where artists can work smootly"
+2012-09-30T01:06:57.820306+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,I'm sure pak creators will make lots of models easily
+2012-09-30T01:08:02.804394+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,what I mean is using 2d for trains and boats and stuff currently produces bad looking animations... but 3d would allow for something pretty nice stuff
+2012-09-30T01:08:30.204280+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,yea makes sense
+2012-09-30T01:08:39.267934+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"all that moves, 3d"
+2012-09-30T01:08:45.726965+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,yea
+2012-09-30T01:09:36.636566+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"considier when a train/bus/boat turns, goes up a hill ... with 3d those animations could be done correctly"
+2012-09-30T01:09:59.955109+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"which is what you think sim city 4 did, right?"
+2012-09-30T01:10:07.244680+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,for trains and vehicles
+2012-09-30T01:10:39.853407+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,those seemed to be actual 3d objects/models and not 2d
+2012-09-30T01:11:19.246338+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,that correct
+2012-09-30T01:11:34.354872+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,and makes sense
+2012-09-30T01:11:46.067912+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"all that moved, has to tilt, rotate..."
+2012-09-30T01:12:00.533646+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"has to be 3D, static things like buildings, can be 2D"
+2012-09-30T01:12:15.780797+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,people could still be 2d
+2012-09-30T01:14:40.002177+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,maybe I shouldn't ask.... but do you think you will try only generating the vertices for the area you are viewing to see if that solves it?
+2012-09-30T01:14:59.513561+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,yes
+2012-09-30T01:15:32.784821+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,yes because it can work
+2012-09-30T01:16:02.297624+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"btw, maybe you already know this, but do make sure you got the latest video card drivers -- especially since you are working on this :)"
+2012-09-30T01:16:21.716894+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,only reason I mentioned that is because the graphics problems you had earlier with trees
+2012-09-30T01:17:17.418325+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,haha yea :)
+2012-09-30T01:17:36.194268+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"what kind of card do you have, btw?  is it like a built in intel or something?"
+2012-09-30T01:20:06.197936+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,wrong question to ask?
+2012-09-30T01:20:18.979189+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,nono
+2012-09-30T01:21:03.835110+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,it's a nvidia geforce 9800 GTX+
+2012-09-30T01:21:30.114255+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"oh, ok, then"
+2012-09-30T01:25:26.289699+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"if you click on the factories near birmingham, you'll notice some workers live in birmingham"
+2012-09-30T01:25:43.327078+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,they might be something worth connecting to passenger & mail
+2012-09-30T01:26:51.319769+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"mm... I don't use to supply passengers to industries. Uses to not be worth connecting,"
+2012-09-30T01:27:08.381851+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,at least in my experiencies
+2012-09-30T01:27:13.084460+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"some are worth connecting, especiall the big factories that have a lot of passenger"
+2012-09-30T01:27:33.280178+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,just 13 passenger level
+2012-09-30T01:27:38.006806+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"you also gotta remmber passenger & mail has a SPECIFIC destination. if you don't connect the factories, then..."
+2012-09-30T01:27:48.821419+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,some passewnger & mail will be unable to travel
+2012-09-30T01:28:00.421009+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"yea, but paying the mainenance to the roads there"
+2012-09-30T01:28:11.263672+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,can be too expensive
+2012-09-30T01:28:12.030284+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,is road toll on?
+2012-09-30T01:28:36.340191+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,"never used that, what's for?"
+2012-09-30T01:28:50.406317+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,it means if you drive over roads not yours you pay a toll
+2012-09-30T01:29:07.360681+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"maybe not in city limites though, not sure"
+2012-09-30T01:29:19.766125+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"on pak128a the current map, tolls are on"
+2012-09-30T01:30:41.260755+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"look at (202,66)"
+2012-09-30T01:31:10.158304+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,tha's just a sign no?
+2012-09-30T01:31:28.739733+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"yes, but it's the password on the yellow account....  I'm not sure if I""ll play later so...."
+2012-09-30T01:31:49.699438+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"if you need to get into the yellow account to use it or build or whatever, that's the password"
+2012-09-30T01:32:27.905796+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,got the pass written down?  I'll delete it then
+2012-09-30T01:32:42.502823+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,got it
+2012-09-30T01:33:31.130618+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"oh, do you know about net wealth, you can go into red as long as net wealth is above 0"
+2012-09-30T01:34:14.736389+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,yea :)
+2012-09-30T01:34:34.172699+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,was it alwasy net wealth or did they used to use the cash long time ago to decide if you went bankrupt?
+2012-09-30T01:35:49.301414+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,I think it's allways been net whealth
+2012-09-30T01:37:09.803190+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,"gtg, bye markohs"
+2012-09-30T01:37:23.875073+00:00,sim128b[7499]:,chat,2,80.174.191.201,Markohs,2,Markohs,cya :)
+2012-09-30T01:37:37.926991+00:00,sim128b[7499]:,chat,3,98.251.79.180,Client#5,3,Trikky Transport,I'm atrain on pak128a .... bye
+2012-09-30T01:37:40.392733+00:00,sim128b[7499]:,disconnect,3,98.251.79.180,Client#5
+2012-09-30T01:39:06.585307+00:00,sim128b[7499]:,connect,3,186.64.130.205,Client#3
+2012-09-30T01:42:27.475105+00:00,sim128b[7499]:,disconnect,3,186.64.130.205,Client#3
+2012-09-30T01:55:12.510010+00:00,sim128b[7499]:,connect,3,186.64.130.205,TechnoH
+2012-09-30T01:58:42.519513+00:00,sim128b[7499]:,disconnect,3,186.64.130.205,TechnoH
+2012-09-30T02:08:47.902088+00:00,sim128b[7499]:,connect,3,186.64.130.205,TechnoH
+2012-09-30T02:11:16.590941+00:00,sim128b[7499]:,disconnect,3,186.64.130.205,TechnoH
+2012-09-30T02:45:42.033030+00:00,sim128b[7499]:,disconnect,2,80.174.191.201,Markohs
+2012-09-30T04:20:35.858571+00:00,sim128b[7499]:,connect,2,83.208.33.17,Client#2
+2012-09-30T04:30:36.739929+00:00,sim128b[7499]:,connect,3,83.208.33.17,Pajik
+2012-09-30T06:01:37.739711+00:00,sim128b[7499]:,disconnect,2,83.208.33.17,Client#2
+2012-09-30T06:01:37.739770+00:00,sim128b[7499]:,disconnect,3,83.208.33.17,Pajik
+2012-09-30T06:01:45.836466+00:00,sim128b[7499]:,connect,4,27.50.29.16,REZA12
+2012-09-30T08:54:11.415305+00:00,sim128b[7499]:,connect,2,85.216.239.28,Client#2
+2012-09-30T09:00:21.782010+00:00,sim128b[7499]:,disconnect,2,85.216.239.28,Client#2
+2012-09-30T09:00:21.782271+00:00,sim128b[7499]:,disconnect,4,27.50.29.16,REZA12
+2012-09-30T09:00:26.779768+00:00,sim128b[7499]:,connect,3,85.216.239.28,Client#2
+2012-09-30T09:20:24.548790+00:00,sim128b[7499]:,disconnect,3,85.216.239.28,Client#2
+2012-09-30T11:37:25.261345+00:00,sim128b[7499]:,connect,2,84.102.17.179,seb
+2012-09-30T11:54:18.122774+00:00,sim128b[7499]:,disconnect,2,84.102.17.179,seb
+2012-09-30T11:54:24.285908+00:00,sim128b[7499]:,connect,3,188.120.227.220,Client#7
+2012-09-30T12:04:21.208166+00:00,sim128b[7499]:,connect,2,27.50.29.16,MoziePartl
+2012-09-30T12:09:37.382390+00:00,sim128b[7499]:,disconnect,3,188.120.227.220,Client#7
+2012-09-30T14:36:12.060704+00:00,sim128b[7499]:,disconnect,2,27.50.29.16,MoziePartl
+2012-09-30T14:36:15.877291+00:00,sim128b[7499]:,connect,3,80.174.191.201,Markohs
+2012-09-30T14:44:00.688192+00:00,sim128b[7499]:,disconnect,3,80.174.191.201,Markohs
+2012-09-30T16:48:32.985012+00:00,sim128b[7499]:,connect,2,92.157.249.214,Fr-N
+2012-09-30T17:20:43.126648+00:00,sim128b[7499]:,connect,3,88.24.232.170,Emilio
+2012-09-30T17:22:32.081485+00:00,sim128b[7499]:,connect,4,88.165.36.112,Client#7
+2012-09-30T17:22:32.136662+00:00,sim128b[7499]:,disconnect,2,92.157.249.214,Fr-N
+2012-09-30T17:29:12.292046+00:00,sim128b[7499]:,disconnect,4,88.165.36.112,Client#7
+2012-09-30T17:29:34.860463+00:00,sim128b[7499]:,connect,2,88.165.36.112,Client#7
+2012-09-30T17:32:42.352053+00:00,sim128b[7499]:,disconnect,3,88.24.232.170,Emilio
+2012-09-30T17:33:03.111573+00:00,sim128b[7499]:,connect,3,88.165.36.112,Client#7
+2012-09-30T17:33:24.468421+00:00,sim128b[7499]:,connect,4,88.24.232.170,Emilio
+2012-09-30T17:33:24.644944+00:00,sim128b[7499]:,disconnect,2,88.165.36.112,Client#7
+2012-09-30T17:37:43.999078+00:00,sim128b[7499]:,disconnect,4,88.24.232.170,Emilio
+2012-09-30T17:38:02.844460+00:00,sim128b[7499]:,connect,2,88.24.232.170,Emilio
+2012-09-30T17:41:34.734092+00:00,sim128b[7499]:,disconnect,3,88.165.36.112,Client#7
+2012-09-30T17:41:55.452347+00:00,sim128b[7499]:,connect,3,88.165.36.112,Client#7
+2012-09-30T17:45:42.182979+00:00,sim128b[7499]:,disconnect,2,88.24.232.170,Emilio
+2012-09-30T17:46:35.805935+00:00,sim128b[7499]:,connect,2,88.24.232.170,Emilio
+2012-09-30T17:57:20.302685+00:00,sim128b[7499]:,disconnect,3,88.165.36.112,Client#7
+2012-09-30T19:13:19.535122+00:00,sim128b[7499]:,disconnect,2,88.24.232.170,Emilio
+2012-09-30T19:13:23.608141+00:00,sim128b[7499]:,connect,3,98.251.79.180,Client#5
+2012-09-30T20:06:23.405527+00:00,sim128b[7499]:,disconnect,3,98.251.79.180,Client#5
+2012-09-30T20:06:27.449911+00:00,sim128b[7499]:,connect,2,98.251.79.180,Client#5
+2012-09-30T20:13:27.592463+00:00,sim128b[7499]:,connect,3,88.165.36.112,Client#7
+2012-09-30T20:13:40.151720+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,"hey helloworld, let's see if this one has same problem?"
+2012-09-30T20:13:59.534367+00:00,sim128b[7499]:,chat,3,88.165.36.112,Client#7,8,Player 7,earlier it had
+2012-09-30T20:14:10.127605+00:00,sim128b[7499]:,chat,3,88.165.36.112,Client#7,8,Player 7,to a smaller extend
+2012-09-30T20:14:17.942894+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,this map was just as bad too?  ouch
+2012-09-30T20:14:39.577582+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,"and you are right, removing graphics sounds like it should be an excellent patch"
+2012-09-30T20:14:58.079722+00:00,sim128b[7499]:,chat,3,88.165.36.112,Client#7,11,playtosor SA,not as bad but not very good
+2012-09-30T20:15:22.852444+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,I was more referring to stuff like when you want ot keep large parts in memory because it's faster than swapping to disk a lot
+2012-09-30T20:15:34.617389+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,so you think maybe that patch had some bug?
+2012-09-30T20:16:06.951357+00:00,sim128b[7499]:,chat,3,88.165.36.112,Client#7,11,playtosor SA,it wouldn't surprise me
+2012-09-30T20:16:19.527121+00:00,sim128b[7499]:,chat,3,88.165.36.112,Client#7,11,playtosor SA,but perhaps I'm just mistaken :)
+2012-09-30T20:16:41.578787+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,"so far, this map is working....  maybe I'll check the other map offline tomorrow to see if it's slow"
+2012-09-30T20:18:51.722598+00:00,sim128b[7499]:,disconnect,3,88.165.36.112,Client#7
+2012-09-30T20:19:13.912862+00:00,sim128b[7499]:,connect,3,88.165.36.112,Client#7
+2012-09-30T20:19:33.890329+00:00,sim128b[7499]:,chat,3,88.165.36.112,Client#7,15,,got desynch ... not you ?
+2012-09-30T20:19:55.367531+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,"nope, so far this map has been doing ok....  if it happens again, maybe it is server"
+2012-09-30T20:20:26.845035+00:00,sim128b[7499]:,chat,3,88.165.36.112,Client#7,11,playtosor SA,so it's my connection after all
+2012-09-30T20:20:43.299580+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,well the other server was giving me aweful problems too
+2012-09-30T20:22:17.648600+00:00,sim128b[7499]:,chat,3,88.165.36.112,Client#7,11,playtosor SA,but the other server is overdevelopped
+2012-09-30T20:22:49.398498+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,"yeah, except, yesterday (only a few game months earlier) I had no problems on other server"
+2012-09-30T20:24:05.753465+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,an you said he added the patch since then right?
+2012-09-30T20:25:00.598427+00:00,sim128b[7499]:,chat,3,88.165.36.112,Client#7,11,playtosor SA,« Reply #16 on: Yesterday at 08:54:36 PM »
+2012-09-30T20:25:15.307137+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,what timezone is that
+2012-09-30T20:25:15.709058+00:00,sim128b[7499]:,chat,3,88.165.36.112,Client#7,11,playtosor SA,when he posted saying he did so
+2012-09-30T20:25:33.111328+00:00,sim128b[7499]:,chat,3,88.165.36.112,Client#7,11,playtosor SA,germany probably
+2012-09-30T20:26:39.392268+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,"ok, so he added the patch after I played the map last, so it sounds like that might be it"
+2012-09-30T20:26:55.511131+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,were you still gonna post about it?
+2012-09-30T20:27:21.440662+00:00,sim128b[7499]:,chat,3,88.165.36.112,Client#7,11,playtosor SA,already posted
+2012-09-30T20:29:24.035204+00:00,sim128b[7499]:,chat,3,88.165.36.112,Client#7,11,playtosor SA,well see you later
+2012-09-30T20:29:29.443687+00:00,sim128b[7499]:,disconnect,3,88.165.36.112,Client#7
+2012-09-30T20:29:30.023947+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,bye
+2012-09-30T20:48:35.902230+00:00,sim128b[7499]:,connect,3,91.16.97.219,Jaridan
+2012-09-30T20:48:41.198868+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,hi
+2012-09-30T20:49:05.369679+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,I keep geting disconnected on ohter server :(
+2012-09-30T20:49:39.055815+00:00,sim128b[7499]:,chat,3,91.16.97.219,Jaridan,15,,same here :P cya
+2012-09-30T20:49:42.231039+00:00,sim128b[7499]:,disconnect,3,91.16.97.219,Jaridan
+2012-09-30T20:51:08.098638+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,"well, there are plenty of trees :)"
+2012-09-30T20:54:26.572431+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,did you pick an account?
+2012-09-30T21:05:38.985297+00:00,sim128b[7499]:,connect,3,201.248.237.93,Client#3
+2012-09-30T21:05:39.234741+00:00,sim128b[7499]:,disconnect,2,98.251.79.180,Client#5
+2012-09-30T21:06:11.031494+00:00,sim128b[7499]:,disconnect,3,201.248.237.93,Client#3
+2012-09-30T21:15:55.147963+00:00,sim128b[7499]:,connect,2,98.251.79.180,Client#5
+2012-09-30T21:31:33.036738+00:00,sim128b[7499]:,connect,3,79.122.70.5,Edonay11
+2012-09-30T21:31:33.767051+00:00,sim128b[7499]:,disconnect,2,98.251.79.180,Client#5
+2012-09-30T21:31:43.742684+00:00,sim128b[7499]:,connect,2,98.251.79.180,Client#5
+2012-09-30T21:33:14.005258+00:00,sim128b[7499]:,chat,2,98.251.79.180,Client#5,3,Trikky Transport,hi
+2012-09-30T21:41:37.872036+00:00,sim128b[7499]:,disconnect,2,98.251.79.180,Client#5
+2012-09-30T21:41:53.967166+00:00,sim128b[7499]:,connect,2,98.251.79.180,Client#5
+2012-09-30T21:45:19.178878+00:00,sim128b[7499]:,disconnect,3,79.122.70.5,Edonay11
+2012-09-30T22:17:42.988242+00:00,sim128b[7499]:,disconnect,2,98.251.79.180,Client#5
+2012-09-30T22:17:47.775987+00:00,sim128b[7499]:,connect,3,98.251.79.180,Client#5
+2012-09-30T22:24:57.733890+00:00,sim128b[7499]:,connect,2,98.251.79.180,Client#5
+2012-09-30T22:34:03.905175+00:00,sim128b[7499]:,connect,4,98.251.79.180,Client#5
+2012-09-30T22:36:36.933004+00:00,sim128b[7499]:,connect,5,88.165.36.112,Client#7
+2012-09-30T22:36:37.107690+00:00,sim128b[7499]:,disconnect,2,98.251.79.180,Client#5
+2012-09-30T22:36:37.107724+00:00,sim128b[7499]:,disconnect,3,98.251.79.180,Client#5
+2012-09-30T22:36:48.965598+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,15,,hi
+2012-09-30T23:35:54.074192+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,"looks like I'll have to switch accounts, this one not doing too well"
+2012-09-30T23:37:01.028111+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,hmmm
+2012-09-30T23:37:34.434022+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,should have done more industry first
+2012-09-30T23:37:38.925018+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,"and I don't undersand what you're doing at (297,499)"
+2012-09-30T23:37:57.325794+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,I don't want the vehicle to run (and lose money)
+2012-09-30T23:38:31.601887+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,can't you simply retire it ?
+2012-09-30T23:38:33.082074+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,"it wasn't really meant to transport anything, just provide a connect to boost my real passenger lines"
+2012-09-30T23:38:55.488892+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,so I can't remove it or the boost it gives will stop
+2012-09-30T23:39:25.378424+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,well this si only adding an asymetry in your lines and those of Markohs
+2012-09-30T23:39:46.969249+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,helloword?
+2012-09-30T23:39:53.648260+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,not sure if it's a gain
+2012-09-30T23:40:06.853297+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,same account
+2012-09-30T23:40:11.841379+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,are you helloworld?
+2012-09-30T23:40:56.791074+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,yes if you want to call me like this :)
+2012-09-30T23:41:34.981305+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,I'd better play on the other server but I gave up to disconnects
+2012-09-30T23:41:43.773314+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,the line doesn't affect anything... except unimportant stations storing passenger that can later be transported by ship
+2012-09-30T23:42:20.714611+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,are disconnects still going on?
+2012-09-30T23:42:29.632084+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,on the other server yes
+2012-09-30T23:42:42.999229+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,here I had none for a long time
+2012-09-30T23:43:10.235458+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,the game crashes if you make a public station (connect it to existing one)
+2012-09-30T23:43:35.236545+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,the game also seems to crash if you mess with an account and it goes bankrupt (not sure of exact steps)
+2012-09-30T23:43:49.840863+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,crashes the client that is
+2012-09-30T23:44:47.007903+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,hmmm
+2012-09-30T23:45:13.749411+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,speaking of bankruptcy do you know how far I can go to the red safly ?
+2012-09-30T23:45:37.610014+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,as long as net wealth is not below zero at end of month
+2012-09-30T23:46:13.807250+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,what matters is end of month.... even if you go below beginning of month and it says bankrupt and you pulll out by end of month your ok
+2012-09-30T23:46:16.914822+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,oh I see
+2012-09-30T23:46:32.256744+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,so I guess I stil have a margin
+2012-09-30T23:46:38.806687+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,although that's very risky to let it get that low (at beginning of month)
+2012-09-30T23:47:27.224981+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,"I accidentally built a large canal path on this account, and lost a lot of money :)"
+2012-09-30T23:47:32.639385+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,I mean :(
+2012-09-30T23:47:53.173805+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,"hah, you're the one who built the canals ?"
+2012-09-30T23:48:21.444120+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,"yeah, I was just gonna make one for what I needed, but thought might as well make more and other peopel can use 'em too"
+2012-09-30T23:50:39.488375+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,can you check something?  how much does it cost you to make 1 road tile public?
+2012-09-30T23:51:04.726965+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,"it's not really 108,000 like the game says, right? :)"
+2012-09-30T23:52:07.729867+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,uh oh I would have been bankrupt if it was
+2012-09-30T23:52:18.129405+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,"yeah, I Know, which is why I wonder how much it really is"
+2012-09-30T23:52:30.672985+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,I dare not try it and go bankrupt :)
+2012-09-30T23:53:08.324930+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,divide by 1000 I think
+2012-09-30T23:53:29.248112+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,"as in it costs 108 or it costs 1,000?"
+2012-09-30T23:54:30.929101+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,108
+2012-09-30T23:54:56.778200+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,thanks
+2012-09-30T23:57:02.132455+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,"on server a, did you play 2 games back?"
+2012-09-30T23:57:48.640452+00:00,sim128b[7499]:,chat,4,98.251.79.180,Client#5,3,Trikky Transport,"there was a brown account that didn't have a name, just a ""."" period"
+2012-09-30T23:58:20.627216+00:00,sim128b[7499]:,chat,5,88.165.36.112,Client#7,11,playtosor SA,I first started playing 128 in september

@@ -1,0 +1,152 @@
+2012-12-14T03:13:12.886311+00:00,sim128b[1432]:,connect,5,71.200.128.99,benjad
+2012-12-14T03:19:07.607228+00:00,sim128b[1432]:,disconnect,2,91.16.83.224,Jaridan
+2012-12-14T03:19:07.607475+00:00,sim128b[1432]:,disconnect,3,69.138.176.94,Fifty
+2012-12-14T03:19:07.607692+00:00,sim128b[1432]:,disconnect,4,91.16.83.224,Jaridan
+2012-12-14T03:19:07.607904+00:00,sim128b[1432]:,disconnect,5,71.200.128.99,benjad
+2012-12-14T03:19:15.274693+00:00,sim128b[1432]:,connect,6,71.200.128.99,benjad
+2012-12-14T03:40:06.569978+00:00,sim128b[1432]:,connect,2,69.138.176.94,Fifty
+2012-12-14T03:55:21.898591+00:00,sim128b[1432]:,disconnect,2,69.138.176.94,Fifty
+2012-12-14T07:30:37.225117+00:00,sim128b[1432]:,connect,2,88.165.36.112,Client#3
+2012-12-14T08:30:19.763956+00:00,sim128b[1432]:,connect,3,175.128.159.152,Client#3
+2012-12-14T09:10:59.390162+00:00,sim128b[1432]:,connect,4,91.16.44.25,Jaridan
+2012-12-14T11:36:43.158208+00:00,sim128b[1432]:,connect,5,175.128.159.152,Client#3
+2012-12-14T13:34:36.614512+00:00,sim128b[1432]:,connect,7,141.76.104.100,Client#1
+2012-12-14T14:46:43.996832+00:00,sim128b[1432]:,connect,8,88.165.36.112,Client#3
+2012-12-14T14:53:10.258480+00:00,sim128b[1432]:,chat,8,88.165.36.112,Client#3,14,playtosor,just saying hello Jaridan and Fifty
+2012-12-14T14:53:40.313599+00:00,sim128b[1432]:,chat,8,88.165.36.112,Client#3,14,playtosor,"btw, if I started some PAX where should I exchange it ?"
+2012-12-14T16:58:19.997734+00:00,sim128b[1432]:,disconnect,2,88.165.36.112,Client#3
+2012-12-14T16:58:19.997764+00:00,sim128b[1432]:,disconnect,3,175.128.159.152,Client#3
+2012-12-14T16:58:19.997793+00:00,sim128b[1432]:,disconnect,4,91.16.44.25,Jaridan
+2012-12-14T16:58:19.997815+00:00,sim128b[1432]:,disconnect,5,175.128.159.152,Client#3
+2012-12-14T16:58:19.997840+00:00,sim128b[1432]:,disconnect,6,71.200.128.99,benjad
+2012-12-14T16:58:19.997864+00:00,sim128b[1432]:,disconnect,7,141.76.104.100,Client#1
+2012-12-14T16:58:19.997969+00:00,sim128b[1432]:,disconnect,8,88.165.36.112,Client#3
+2012-12-14T16:58:27.453677+00:00,sim128b[1432]:,connect,9,134.3.161.174,Jaridan
+2012-12-14T16:59:20.374317+00:00,sim128b[1432]:,chat,9,134.3.161.174,Jaridan,15,,hi and welcome :)
+2012-12-14T17:01:07.491614+00:00,sim128b[1432]:,chat,9,134.3.161.174,Jaridan,7,German Drunken Train Transport,"as you may have seen already, i'm running the biggest paxline, with 2 public exchanges: 1 @ purcellville (252,82) and one @ Ann Arbor (372,405)"
+2012-12-14T17:03:30.510702+00:00,sim128b[1432]:,chat,9,134.3.161.174,Jaridan,7,German Drunken Train Transport,"if you want you can connect on either one or both, just leave me a message or sign @ start (in case we miss each otheer) because those stations are ""protected"" by private stations, to prevent expansion without previous knowledge (tl;dr: anti grieving prot"
+2012-12-14T17:10:35.883321+00:00,sim128b[1432]:,chat,9,134.3.161.174,Jaridan,7,German Drunken Train Transport,previous knowledge (tl;dr: anti grieving )
+2012-12-14T18:13:13.079464+00:00,sim128b[1432]:,disconnect,9,134.3.161.174,Jaridan
+2012-12-14T18:13:21.975466+00:00,sim128b[1432]:,connect,2,134.3.161.174,Jaridan
+2012-12-14T18:58:59.536710+00:00,sim128b[1432]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-14T18:59:08.145659+00:00,sim128b[1432]:,connect,3,134.3.161.174,Jaridan
+2012-12-14T19:03:14.850605+00:00,sim128b[1432]:,connect,2,134.3.161.174,Jaridan
+2012-12-14T19:27:35.740782+00:00,sim128b[1432]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-14T19:27:35.740945+00:00,sim128b[1432]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-14T19:36:57.071500+00:00,sim128b[1432]:,connect,2,134.3.161.174,Jaridan
+2012-12-14T20:02:33.040789+00:00,sim128b[1432]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-14T20:02:49.732308+00:00,sim128b[1432]:,connect,2,134.3.161.174,Jaridan
+2012-12-14T20:38:18.507173+00:00,sim128b[1432]:,connect,3,134.3.161.174,Jaridan
+2012-12-14T20:44:41.228197+00:00,sim128b[1432]:,connect,4,69.138.176.94,Fifty
+2012-12-14T20:44:41.402381+00:00,sim128b[1432]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-14T20:44:54.328213+00:00,sim128b[1432]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,le legendary fiftäy
+2012-12-14T20:44:56.702600+00:00,sim128b[1432]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,yo
+2012-12-14T20:45:17.199599+00:00,sim128b[1432]:,chat,4,69.138.176.94,Fifty,15,,oy I'm a legend now :)
+2012-12-14T20:45:26.181335+00:00,sim128b[1432]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,^^
+2012-12-14T20:45:44.266714+00:00,sim128b[1432]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,we should build a monument in your honour :D
+2012-12-14T20:46:16.950181+00:00,sim128b[1432]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,and? weekend? finally some time 2 relax from your busy week?
+2012-12-14T20:46:33.728399+00:00,sim128b[1432]:,chat,4,69.138.176.94,Fifty,4,RF&P,"yes, somewhat."
+2012-12-14T20:47:36.049635+00:00,sim128b[1432]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,industry i so crazy if a city is fully paxed lol D: + 500/year in a 10k city (Paola for example)
+2012-12-14T20:48:25.169136+00:00,sim128b[1432]:,chat,4,69.138.176.94,Fifty,4,RF&P,yep
+2012-12-14T20:49:50.854108+00:00,sim128b[1432]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"i was thinking earlier to ask on the forums for a patch, but i dont know if i should or if something like this would be even wanted."
+2012-12-14T20:50:48.227793+00:00,sim128b[1432]:,chat,4,69.138.176.94,Fifty,4,RF&P,what?
+2012-12-14T20:51:03.538995+00:00,sim128b[1432]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"basically, i was thinking , that for city growth, there should be an option, next to the one to ""not allow a city to grow"" a button like ""Prevent expansion"", so that the city does still ""grow"" but not expand anymore"
+2012-12-14T20:51:50.393773+00:00,sim128b[1432]:,chat,4,69.138.176.94,Fifty,4,RF&P,"Interesting, but in theory, cities will naturally grow when they have a bigger population"
+2012-12-14T20:52:15.293347+00:00,sim128b[1432]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,not necessarily
+2012-12-14T20:52:31.555133+00:00,sim128b[1432]:,chat,4,69.138.176.94,Fifty,4,RF&P,how so?
+2012-12-14T20:52:36.058781+00:00,sim128b[1432]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"i mean, think about a 80 city, occupying a huge area"
+2012-12-14T20:52:58.722503+00:00,sim128b[1432]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,where most is just urban stuff with 1/1 or 1/2 (pax/mail)
+2012-12-14T20:53:26.810814+00:00,sim128b[1432]:,chat,4,69.138.176.94,Fifty,4,RF&P,what do you mean 1/1 and 1/2?
+2012-12-14T20:54:46.451447+00:00,sim128b[1432]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"wouldnt it be more ""natural"" that houses get better"
+2012-12-14T20:55:05.089962+00:00,sim128b[1432]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,i mean the houses that display 1 for pax and 1 for mail generation
+2012-12-14T20:56:26.832719+00:00,sim128b[1432]:,chat,4,69.138.176.94,Fifty,4,RF&P,"well, that does occur at the center of cities, right? Take Monett for example: it has a nice urban core and suburban areas"
+2012-12-14T20:56:58.955223+00:00,sim128b[1432]:,chat,4,69.138.176.94,Fifty,4,RF&P,And irl it's more profitable because it's more dense to serve the city center
+2012-12-14T20:57:20.729735+00:00,sim128b[1432]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,"i think it's more of a problem for online play than it is for offline, because you can expand offline maps, but online, ++ the high spawnrate of industry, cities should stop expanding at some point, or, atleast leave players an option to restrict town exp"
+2012-12-14T20:57:30.867086+00:00,sim128b[1432]:,chat,3,134.3.161.174,Jaridan,7,German Drunken Train Transport,least restrict town/city expansion
+2012-12-14T20:57:50.196853+00:00,sim128b[1432]:,disconnect,3,134.3.161.174,Jaridan
+2012-12-14T20:58:04.741987+00:00,sim128b[1432]:,connect,2,134.3.161.174,Jaridan
+2012-12-14T20:58:12.720102+00:00,sim128b[1432]:,connect,3,69.138.176.94,Fifty
+2012-12-14T20:58:12.777294+00:00,sim128b[1432]:,disconnect,4,69.138.176.94,Fifty
+2012-12-14T20:58:32.655815+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"yes thats true, and i dont have a problem with that or want that changed BUT"
+2012-12-14T20:59:27.668029+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"look at the map right now most ""bigger"" cities shouldnt expand that much more, because we still need space for our trains etc (especially right now where we cant build underground stations)"
+2012-12-14T21:00:20.392696+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"it's just, if you wanna pax a big city, you wanna set up a pax system (atleast imo) and then optimize it "
+2012-12-14T21:00:40.824516+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"but if a city keeps on expanding, you lose quite a lot of pax as time goes on"
+2012-12-14T21:00:57.370539+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"well, industry and town growth can be manipulated on a pakset and in an individual map"
+2012-12-14T21:01:28.719228+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,As well as town density: it might be useful to change the renovation_percentage setting
+2012-12-14T21:01:43.042617+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,which will increase the overall density
+2012-12-14T21:01:48.025896+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"as i stated earlier, th problem lies more in netgaming, where we are pretty restricted ni terms of space"
+2012-12-14T21:02:46.987172+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"as you may saw, i restrict town expansion via powerlines around the cities... and i dont think it looks pretty"
+2012-12-14T21:02:49.178557+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,The biggest issue is that you can't change the map settings during play without taking the map offline
+2012-12-14T21:02:55.338670+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,y
+2012-12-14T21:04:17.850070+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"I mean feel free to request the patch, might be interesting, but likely runs in the grey area between city sim and transport sim"
+2012-12-14T21:05:26.693608+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"wouldnt really sa city sim, since its affecting paxing a lot dont you think?"
+2012-12-14T21:06:26.482478+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"hmm, oh well i'll just try later on on the forums, can't get more than a no (or no one willing to :P)"
+2012-12-14T21:06:37.924520+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,True.
+2012-12-14T21:06:54.821995+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,as i said (multiple times) only important for online play (imo)
+2012-12-14T21:07:58.077568+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"lets change the subject: i made some room @ purcellville, just in case you ever wanna make longer trains or something"
+2012-12-14T21:08:21.455323+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,I think one other question will be who can use that? I mean does pax player really dictate city growth? Even allow city growth is only avaliable to public player
+2012-12-14T21:09:11.372624+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"Thanks, 6 tiles is  as large as I will go, I think, unless I decide to create a high-speed line"
+2012-12-14T21:09:26.679544+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"hmm, ah right, allow/disallow city growth is only changeable by public player?"
+2012-12-14T21:09:54.492993+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"and from the new guy: you should take a look @ (413,25)"
+2012-12-14T21:10:24.639209+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"That's not me, it's benjad."
+2012-12-14T21:10:36.450096+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,oh right lol xD sry
+2012-12-14T21:10:52.859238+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"wtf, how could i miss that xD? sry"
+2012-12-14T21:11:08.926883+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"Oh, btw, playtosor has been around, he's even more competitive on goods than I am."
+2012-12-14T21:11:25.720525+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"oh,^^"
+2012-12-14T21:12:12.237411+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"He did, however, break my all-time netgaming profit record, I think with 470 Million per year (I had 469 Million)"
+2012-12-14T21:12:19.438372+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"i'm just glad there are active, talkative and nice ppl on this B server, seeing as A is more or less dead and C looks like no one ever talks :P"
+2012-12-14T21:13:06.095224+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"B server is always the best, 128 or 64, almost always, it seems"
+2012-12-14T21:13:46.596821+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"wow, 470/year? thats.... 39mio/month"
+2012-12-14T21:14:10.341281+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"depends, did you ""abuse"" the distance to create income?"
+2012-12-14T21:14:56.661467+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"In my network with 469, not much. In his network there was a multiplayer oil exchange, so yes to an extent"
+2012-12-14T21:15:31.504729+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,lol what did you do? did you own the whole map? was it 64 or 128?
+2012-12-14T21:16:16.809296+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"pak 64, so higher goods revenues and huge oil and steel hubs"
+2012-12-14T21:16:45.678497+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"Also mail, moblet did this part, so it was not all mine, actually"
+2012-12-14T21:17:19.664419+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,^^
+2012-12-14T21:17:38.070698+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"y, 64 is just crazy in terms of profit generation from goods/fright"
+2012-12-14T21:18:08.538192+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"not that i could talk, cause its the same with pax here, maybe even more, due to the huge speedbonus one could abuse"
+2012-12-14T21:18:45.357598+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"Yea, in 128 freight's a little harder and pax is much easier"
+2012-12-14T21:21:54.898249+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"man i still need to add 5 cities via tram -.- and i so dont want to, but i kinda have to, then my pax system is ""complete"""
+2012-12-14T21:22:31.221477+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"yeah, even trolleybusses don't make anything"
+2012-12-14T21:22:49.499659+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,well depends!
+2012-12-14T21:23:09.630497+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,last game atrain (and i..kind of) made an experiment
+2012-12-14T21:23:45.368448+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"he dug all city roads down by 1 level and placed elevated roads over them, to preserve the city look"
+2012-12-14T21:24:07.479400+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"dug is wrong choice of words, all city roads were lowered 1 level"
+2012-12-14T21:24:24.255342+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"Ah, yes, that would work, but I don't have the patience for that"
+2012-12-14T21:24:42.164164+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,this way he was able to use high speed busses and highspeed mail
+2012-12-14T21:25:01.442506+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,that 110kmp mail truck/vehicle made decent profit within that town
+2012-12-14T21:25:25.576676+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,if you look at pelham (cause i cant build underground) i just stack trams
+2012-12-14T21:26:15.705733+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"all levels above the city, if i use 90kmp or higher elevated roads, enable my mail cars to make a profit, because they can make full use of your their speed"
+2012-12-14T21:26:46.123080+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"yes. why don't you get rid of the peak @64,404?"
+2012-12-14T21:27:00.660053+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"dunno, 2 lazy"
+2012-12-14T21:27:18.789042+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"its not really hindering anything, so"
+2012-12-14T21:28:53.636909+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,"btw, what exactly i simutrans experimental? will that be a new pakset in the distant future?  or will stuff from there be implemented in the standard paksets?"
+2012-12-14T21:29:33.888984+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"No, a new executable really that tries to make things more realistic, seperate from simutrans standard"
+2012-12-14T21:29:53.412550+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,I think it's kinda fiddly for pax and doesn't work well with freight
+2012-12-14T21:30:13.397594+00:00,sim128b[1432]:,chat,2,134.3.161.174,Jaridan,7,German Drunken Train Transport,looked pretty good from what i saw so far
+2012-12-14T21:33:03.069388+00:00,sim128b[1432]:,disconnect,2,134.3.161.174,Jaridan
+2012-12-14T21:33:12.390800+00:00,sim128b[1432]:,connect,2,69.138.176.94,Fifty
+2012-12-14T21:33:25.378695+00:00,sim128b[1432]:,connect,4,134.3.161.174,Jaridan
+2012-12-14T21:33:25.431510+00:00,sim128b[1432]:,disconnect,3,69.138.176.94,Fifty
+2012-12-14T21:33:53.749617+00:00,sim128b[1432]:,disconnect,4,134.3.161.174,Jaridan
+2012-12-14T21:35:36.082071+00:00,sim128b[1432]:,connect,3,69.138.176.94,Fifty
+2012-12-14T21:36:24.286531+00:00,sim128b[1432]:,connect,4,134.3.161.174,Jaridan
+2012-12-14T21:36:24.460188+00:00,sim128b[1432]:,disconnect,2,69.138.176.94,Fifty
+2012-12-14T21:40:21.423099+00:00,sim128b[1432]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"ifty, could you remove the tunnel entrance for a sec here? (144,242)"
+2012-12-14T21:41:18.691679+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,why don't I just extend the tunnel by one tile?
+2012-12-14T21:41:28.496654+00:00,sim128b[1432]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,nah
+2012-12-14T21:42:11.042821+00:00,sim128b[1432]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"done "
+2012-12-14T22:44:48.309780+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"Jaridan, can you remove powerline fences @81,438, 81, 439, 83, 439, and 83, 438? "
+2012-12-14T22:46:39.964864+00:00,sim128b[1432]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,like this?
+2012-12-14T22:47:40.819595+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,"yes, thank you. Can you also relocate your road along the 438 row @111, 438 two tiles to the south?"
+2012-12-14T22:51:41.522768+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,thank you very much!
+2012-12-14T22:52:13.084948+00:00,sim128b[1432]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,np
+2012-12-14T22:55:29.539329+00:00,sim128b[1432]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,afk for a few min
+2012-12-14T23:12:51.068712+00:00,sim128b[1432]:,chat,4,134.3.161.174,Jaridan,7,German Drunken Train Transport,"maybe ill be on later or tomorrow , cya"
+2012-12-14T23:13:01.370363+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,cya
+2012-12-14T23:13:04.136687+00:00,sim128b[1432]:,disconnect,4,134.3.161.174,Jaridan
+2012-12-14T23:39:39.994325+00:00,sim128b[1432]:,connect,2,88.165.36.112,Client#3
+2012-12-14T23:45:15.210970+00:00,sim128b[1432]:,chat,2,88.165.36.112,Client#3,14,playtosor,hello there
+2012-12-14T23:46:54.965731+00:00,sim128b[1432]:,chat,3,69.138.176.94,Fifty,4,RF&P,hi didn't see chat
+2012-12-14T23:48:58.085284+00:00,sim128b[1432]:,disconnect,3,69.138.176.94,Fifty
+2012-12-14T23:53:10.082303+00:00,sim128b[1432]:,disconnect,2,88.165.36.112,Client#3
